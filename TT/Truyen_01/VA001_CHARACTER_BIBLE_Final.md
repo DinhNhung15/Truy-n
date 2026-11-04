@@ -319,3 +319,48 @@ Sau mỗi chương, cập nhật những thay đổi về kiến thức, giả t
 - C01 dần nhận ra chìa khóa của C02 đã xuất hiện ở nhà C03. Cậu vẫn tìm lời giải thích vô tội và không thể kết luận C03 là hung thủ chỉ từ manh mối này.
 - Càng tìm hiểu, C01 càng gặp những manh mối khác hướng về C03. Xung đột chính: cậu cố cứu bạn mình nhưng mỗi bước tìm hiểu lại khiến bạn mình đáng nghi hơn.
 - C01 không được dùng quyền truy cập nghiệp vụ để tự tra cứu hồ sơ, camera, dữ liệu cư dân hoặc thông tin mật sau khi có xung đột lợi ích/rút khỏi phần việc liên quan. Nguồn cá nhân hợp lệ gồm ký ức, trò chuyện, thông tin công khai và hình ảnh/tài liệu được người khác tự nguyện chia sẻ.
+
+---
+
+## ADDENDUM CHANGE-013 — CHỐT HỒ SƠ NHÂN VẬT (04/11/2026)
+
+### C01 — Phạm Bảo Nguyên
+- Nam, 23 tuổi. Cán bộ Công an nhân dân công tác tại Phòng Cảnh sát hình sự Công an cấp tỉnh, làm công tác tổng hợp và hỗ trợ hồ sơ nghiệp vụ. Cách gọi ngắn trong thoại: “cán bộ tổng hợp hồ sơ”. Đây là mô tả công việc trong truyện, không phải tên chức danh pháp lý.
+- Không phải điều tra viên; không tự lấy lời khai, khám nghiệm hiện trường hoặc tiến hành hoạt động điều tra. Công việc thường ngày gồm tiếp nhận tài liệu được giao, phân loại/sắp xếp, lập danh mục, đối chiếu lời khai và biên bản, tổng hợp điểm chưa thống nhất, ghi nhận tài liệu còn thiếu và báo người phụ trách.
+- Tính cách: trầm, nhút nhát, giao tiếp xã hội vụng; quan sát tốt và chú ý chi tiết nhưng không phải thiên tài suy luận. Có thể hiểu sai và cần kiểm tra lại.
+- Ban đầu tin Long vô tội, chủ động tìm giả thuyết khác để minh oan. Không nghi ngờ Long ngay từ đầu.
+- Nguyên chỉ biết mình đã làm rơi đồ, nhặt chìa khóa dưới ghế và đặt lên bàn; không chứng kiến Long làm rơi chìa, nghe cuộc gọi hoặc giấu điện thoại Bình.
+- Khi phát hiện quan hệ cá nhân với người liên quan, Nguyên khai báo và tuân thủ việc rút khỏi phần công việc có xung đột. Không dùng quyền nghiệp vụ để tra cứu hồ sơ, camera, dữ liệu cư dân hoặc tiết lộ thông tin mật. Nguồn cá nhân hợp lệ: ký ức, trò chuyện, thông tin công khai và tài liệu/hình ảnh tự nguyện được chia sẻ.
+
+### C03 — Trần Vũ Long
+- Nam, 23 tuổi; bạn học cấp ba của Nguyên; hung thủ thực sự.
+- Động cơ nền: che giấu sai phạm tài chính. Long không có kế hoạch giết Bình trước cuộc gặp.
+- Trong lúc xô xát, Long đẩy Bình; Bình ngã va đầu vào cạnh cứng của đồ nội thất. Long nhận ra Bình có thể đang nguy hiểm/còn sống nhưng không gọi cấp cứu; tìm tài liệu, lấy điện thoại Bình và chìa khóa chính căn hộ, khóa cửa từ bên ngoài rồi rời đi.
+- Long có vẻ ngoài dễ gần, nói chuyện trôi chảy, biết làm người khác cảm thấy được chú ý. Từng là người nổi bật và nói giỏi ở lớp; điểm đối xứng chủ đề với Nguyên là Long thất bại vì không chịu nghe, còn Nguyên vụng nói nhưng biết lắng nghe.
+- Trình tự về nhà và làm rơi chìa khóa phải theo CHANGE-012; không cho Nguyên chứng kiến phần continuity ngoài điểm nhìn.
+
+### C02 — Đặng Quốc Bình
+- Nam; kế toán thanh toán tại một công ty xây dựng.
+- Bị Long đổ lỗi sai về biển thủ; Bình không phải người gian lận hay đồng phạm.
+- Vợ và con đã về nhà ông bà ngoại; Bình đang trong quá trình ly hôn.
+- Tuổi chính xác chưa khóa.
+
+### C04 — Vợ của Bình
+- Tên Lương Thị Thảo hiện là tên dự kiến, chưa tự động xem là tên đã khóa.
+- Cung cấp thông tin về số lượng/đặc điểm chìa khóa chính và ảnh chiếc chìa có móc khóa hình tòa nhà cách điệu.
+
+### C05 — Vũ Thị Hạnh
+- Nữ, khoảng 55 tuổi; hàng xóm sát vách căn hộ Bình.
+- Có lời khai không trung thực về việc mình có ở nhà hay không vào khoảng thời gian liên quan. Camera cho thấy bà trở về trước mốc Z; tại mốc Z có tin nhắn bà gửi cho người bà muốn giấu, nhắc đến âm thanh từ căn hộ bên cạnh.
+- Bà chỉ nghe âm thanh mơ hồ, không biết nguồn phát và không chứng kiến cú đẩy hay tình trạng chính xác của Bình.
+- Không phải đồng phạm. Lý do nói dối là chuyện riêng, chưa khóa; không tự bịa ra lý do hoặc biến bà thành người chứng kiến hành vi phạm tội.
+
+### Phương, Vinh và đồng nghiệp
+- Phương: nữ, bạn học cấp ba; nhanh nhảu, hay trêu và thường “phiên dịch” những câu Nguyên khó nói.
+- Vinh: nam, bạn học cấp ba; hiền, ít nói; bị công ty cắt giảm nhưng chưa kể với nhóm. Kể riêng với Nguyên trong thang máy khi buổi gặp kết thúc.
+- Anh Sơn: đồng nghiệp giao việc nhanh, gọn.
+- Chị Nhàn: đồng nghiệp có một cử chỉ quan tâm nhỏ; chưa phát triển thành tuyến quan hệ riêng.
+
+### Quy tắc điểm nhìn
+Phân biệt bốn lớp: sự thật khách quan; điều tra viên đã xác minh; điều Nguyên trực tiếp biết; điều Nguyên suy đoán. Không chuyển sự thật khách quan thành ký ức của Nguyên nếu cậu không chứng kiến.
+
