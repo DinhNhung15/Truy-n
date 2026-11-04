@@ -107,7 +107,7 @@ Không tự bổ sung các thông tin này vào bản canon khi chưa có quyế
 | Động cơ | Che giấu sai phạm tài chính | Đã chốt |
 | Hành vi gây tử vong | Đẩy C02 trong lúc giằng co; C02 ngã, va đầu vào cạnh cứng của đồ nội thất và tử vong | Đã chốt |
 | Hành vi sau sự việc | Nhận thấy C02 có thể đang nguy hiểm nhưng rời đi mà không gọi trợ giúp | Đã chốt |
-| Cơ chế khóa cửa | Khóa cửa từ hành lang bằng chìa khóa dự phòng | Đã chốt |
+| Cơ chế khóa cửa | Long khóa cửa từ hành lang bằng chìa khóa CHÍNH căn hộ C02; chi tiết loại khóa/cơ chế thao tác chưa khóa | Đã chốt một phần |
 | Quan hệ với C01 | Là mối quen biết khiến C01 biết đến vụ án | Đã chốt ở mức chức năng; mức độ quan hệ chưa khóa |
 
 ### **3.2. Động cơ**
@@ -128,7 +128,7 @@ Khi phát triển động cơ, cần trả lời:
 
 Sự thật nền xác định C03 đẩy C02 trong lúc giằng co. Cú đẩy dẫn đến cú ngã và chấn thương gây tử vong.
 
-Sau đó, C03 nhận thấy C02 có thể đang nguy hiểm nhưng vẫn rời đi mà không gọi trợ giúp, rồi khóa cửa từ hành lang bằng chìa dự phòng.
+Sau đó, C03 nhận thấy C02 có thể đang nguy hiểm nhưng vẫn rời đi mà không gọi trợ giúp, rồi khóa cửa từ hành lang bằng chìa khóa CHÍNH căn hộ C02.
 
 Khi xây dựng cảnh này, cần giữ rõ sự khác biệt giữa:
 
