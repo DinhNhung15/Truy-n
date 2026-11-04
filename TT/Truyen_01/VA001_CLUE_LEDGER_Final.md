@@ -47,7 +47,7 @@ Không chuyển một lời khai thành sự thật đã xác nhận chỉ vì l
 * Sau cú ngã, C03 nhận ra C02 đang trong tình trạng nguy hiểm và biết nạn nhân vẫn còn sống khi hắn rời đi.  
 * C03 không gọi cấp cứu.  
 * C03 tìm giấy tờ vì sợ C02 nắm được bằng chứng liên quan đến sai phạm tài chính.  
-* C03 rời căn hộ và khóa cửa từ bên ngoài bằng chìa khóa dự phòng được C02 giao trước đó.  
+* C03 rời căn hộ và khóa cửa từ bên ngoài bằng chìa khóa CHÍNH căn hộ C02.  
 * C02 thực chất không có bằng chứng giấy tờ mới như đã tuyên bố. C02 dùng thông tin đó để gây sức ép với C03.  
 * C05 nói dối về vị trí hoặc thời gian nhằm che giấu hành vi riêng không liên quan đến vụ án. C05 nghe thấy âm thanh mơ hồ nhưng không xác định được nguồn phát hoặc tình trạng của C02.  
 * C05 không phải đồng phạm.  
@@ -275,11 +275,13 @@ Không chấm giả thuyết theo mức độ đáng ghét của nhân vật ho�
 
 ---
 
-## **III-B. BỔ SUNG CHỨNG CỨ v1.4 — ĐỀ XUẤT MỚI, CHỜ DUYỆT**
+## **III-B. BỔ SUNG CHỨNG CỨ v1.4 — HỒ SƠ LỊCH SỬ, TRẠNG THÁI ĐƯỢC CẬP NHẬT BỞI CHANGE-009/012/013**
 
 ### **0\. Mục tiêu và nguyên tắc của phần bổ sung**
 
-Phần này lấp các lỗ hổng L-01 → L-05 trong báo cáo kiểm định logic v1, theo **ba tầng chứng minh**:
+**Lưu ý trạng thái hiện hành:** Mục III-B được giữ lại để bảo toàn lịch sử thiết kế. Không áp dụng máy móc nhãn “đề xuất/chờ duyệt” cũ. E8-A → E8-D đã được chốt tại CHANGE-009; E1-B về chìa dự phòng bị CHANGE-012 thay thế; E11 cũ (điện thoại tại hiện trường), E13 (ảnh chứng từ chỉnh sửa) và E14 (vết máu trên ngăn kéo) đã bị loại theo CHANGE-009. Chuỗi chìa khóa chính E15–E17 và các cập nhật E18–E22 ở phần addendum cuối tài liệu là canon hiện hành. E12 và các đề xuất khác chỉ được dùng nếu có quyết định duyệt riêng.
+
+Phần này ban đầu được thiết kế để lấp các lỗ hổng L-01 → L-05 trong báo cáo kiểm định logic v1, theo **ba tầng chứng minh**:
 
 | Tầng | Câu hỏi | Chứng cứ đề xuất |
 | ----- | ----- | ----- |
@@ -297,38 +299,11 @@ Phần này lấp các lỗ hổng L-01 → L-05 trong báo cáo kiểm định 
 
 ---
 
-### **1\. E1-B — Loại khóa, chìa khóa và người giữ chìa**
+### **1. E1-B — BẢN ĐỀ XUẤT CŨ ĐÃ BỊ THAY THẾ
 
-**Liên kết:** E1, OPEN-004, báo cáo L-09, L-10.
+Phương án cũ về chìa dự phòng do C02 giao C03, vị trí chìa trong căn hộ và một người giữ chìa thứ hai không còn hiệu lực. CHANGE-012 xác nhận vật chứng là chìa khóa CHÍNH căn hộ C02; Long mang nó khỏi căn hộ sau khi khóa cửa từ bên ngoài. Xem E15–E17 và CHANGE-012/013 ở addendum cuối tài liệu. Không dùng giả thuyết “C03 giữ chìa dự phòng từ trước”.
 
-**Nội dung đề xuất:**
 
-* Cửa căn hộ có tay nắm và **khóa chốt** (khóa bằng chìa từ phía hành lang, khóa bằng núm vặn từ bên trong). Loại khóa này phổ biến, không có cơ chế đặc biệt.  
-* Chìa của C02 được tìm thấy bên trong căn hộ, ở vị trí để đồ thường ngày gần cửa. Vị trí cụ thể: **\[QĐ-1\]**.  
-* C02 đưa chìa dự phòng cho C03 từ thời hai người còn thân thiết, **trước khi** phát sinh mâu thuẫn tài chính, và chưa đòi lại. Hoàn cảnh cụ thể: **\[QĐ-2\]**.  
-* **Tùy chọn \[QĐ-3\]:** Có thêm một người giữ chìa thứ hai, ví dụ người ở số liên hệ khẩn cấp trong tờ khai cư dân (đã xuất hiện ở Chương 1). Người này có thể trở thành C04.
-
-**Nguồn và cách thu thập:** Công an ghi nhận tình trạng cửa và vị trí chìa của C02 khi khám nghiệm. Danh sách người giữ chìa có được từ lời khai người thân, BQL và chính C03.
-
-**Chương xuất hiện:** Ch.1 (đã có: cửa khóa; câu hỏi "ngoài chủ hộ còn ai có chìa"). Ch.2 (vị trí chìa của C02). Ch.3 (C03 được xác định là người giữ chìa dự phòng).
-
-**Giá trị chứng minh:**
-
-* Giải thích được việc khóa cửa từ hành lang là khả thi mà không cần thủ thuật.  
-* Thu hẹp danh sách người có thể khóa cửa từ bên ngoài.
-
-**Không chứng minh được:**
-
-* Trạng thái khóa **không phân biệt** được cửa bị khóa từ trong (C02 tự vặn núm) hay từ ngoài (bằng chìa). Đây là tính mơ hồ có chủ đích, phù hợp chủ đề "cửa khóa không nói lên điều gì".  
-* Việc giữ chìa không chứng minh C03 đã đến.
-
-**Cách giải thích vô tội:** C02 tự khóa từ bên trong rồi ngã. Đây là lý do E1-B chỉ được xếp loại **gây nhiễu hợp lý / hỗ trợ**.
-
-**Giả thuyết:** Không phân biệt H1, H2, H5, H6. Nếu dùng phương án C04, C04 bị loại bằng E2-B.
-
-**Trạng thái:** ĐỀ XUẤT MỚI.
-
----
 
 ### **2\. E2-B — Camera thang máy và camera sảnh thang máy tầng**
 
@@ -367,76 +342,17 @@ Phần này lấp các lỗ hổng L-01 → L-05 trong báo cáo kiểm định 
 
 ---
 
-### **3\. E11 — Điện thoại của C02 và dữ liệu liên lạc C02–C03**
+### **3. E11 — BẢN CHỨNG CỨ CŨ ĐÃ BỊ LOẠI
 
-**Liên kết:** E3, E7, Chương 1 (điện thoại đổ chuông khi BQL gọi), báo cáo L-04, L-08, L-12.
+Phiên bản E11 cũ dựa trên việc điện thoại C02 còn nằm tại hiện trường và vị trí điện thoại được dùng làm chi tiết kiểm chứng lời thú nhận đã bị CHANGE-009 loại bỏ. Canon hiện hành: Long lấy điện thoại Bình khỏi căn hộ, mang về nhà, tắt/giấu trước buổi tụ tập; sau buổi tụ tập mới bật lại, xóa bản ghi trên thiết bị, đập điện thoại và vứt xuống sông. Bản ghi âm trọn vẹn vẫn tồn tại trên iCloud theo CHANGE-009; không đồng nhất dữ kiện iCloud với E11 cũ.
 
-**Nội dung đề xuất:**
 
-* Điện thoại của C02 được tìm thấy trong căn hộ, ở vị trí **ngoài tầm với** của C02: dưới gầm sofa hoặc kệ ti vi, cách chỗ C02 nằm một khoảng. Vị trí cụ thể: **\[QĐ-6\]**. Đây cũng là lý do điện thoại đổ chuông ở Chương 1 mà không ai nghe máy.  
-* Có liên lạc giữa C02 và C03 trước cuộc gặp ngày T0, cho thấy hai người đã hẹn gặp. Ai chủ động hẹn: **\[QĐ-7\]**.  
-* Trong điện thoại có ảnh chứng từ mà C02 đã gửi cho C03 trước đó (xem E13).  
-* Không có cuộc gọi đi hay tin nhắn gửi đi từ máy C02 sau thời điểm Z (xem E6-B).  
-* C03 **không** lấy điện thoại của C02 khi rời đi. Lý do: hoảng loạn, chỉ tập trung tìm giấy tờ, không để ý chiếc máy dưới gầm đồ đạc. Phù hợp với việc C03 không có kế hoạch từ trước.
 
-**Nguồn và cách thu thập:**
+### **4. E13 — BẢN CHỨNG CỨ ĐÃ BỊ LOẠI
 
-* Thu giữ điện thoại tại hiện trường khi khám nghiệm.  
-* Lịch sử cuộc gọi, tin nhắn từ nhà mạng: cơ quan điều tra yêu cầu theo thủ tục.  
-* Nội dung tin nhắn trong ứng dụng chỉ dùng được nếu truy cập được thiết bị. **CẦN XÁC MINH** khả năng và thủ tục trích xuất dữ liệu điện thoại trong thực tế.
+Không sử dụng phương án ảnh chứng từ bị chỉnh sửa như một vật chứng độc lập. Động cơ tài chính, khoản 250 triệu, việc C02 mới chỉ đối chiếu nghi vấn trong sổ tay và bản ghi âm cuộc gọi phải theo CHANGE-009; không tự thêm ảnh chứng từ chỉnh sửa hoặc tuyên bố nó tồn tại trong điện thoại.
 
-**Chương xuất hiện:** Ch.2 (điện thoại được ghi nhận trong biên bản hiện trường; người kể không nhấn mạnh vị trí). Ch.5–6 (nội dung liên lạc).
 
-**Giá trị chứng minh:**
-
-* Xác lập C02 và C03 có hẹn gặp. Kết hợp E2-B, việc C03 đến tầng đó là để gặp C02. **Loại lời giải thích "đến gặp người khác".**  
-* Việc điện thoại nằm ngoài tầm với và không có cuộc gọi đi giải thích vì sao C02 không tự kêu cứu được.  
-* Vị trí điện thoại là chi tiết **chưa công bố**, dùng để kiểm chứng lời thú nhận (E8-D).
-
-**Không chứng minh được:**
-
-* Diễn biến bên trong căn hộ.  
-* Nội dung cuộc gặp, nếu hai bên trao đổi trực tiếp.  
-* Việc không có cuộc gọi đi không chứng minh C02 bất tỉnh ngay từ đầu.
-
-**Cách giải thích vô tội:** Điện thoại rơi khi C02 tự ngã (tương thích H2, H5). Vì vậy riêng vị trí điện thoại không phân biệt giả thuyết; giá trị của nó nằm ở việc đối chiếu với lời khai.
-
-**Giả thuyết:** Củng cố việc loại H6. Hỗ trợ việc kiểm chứng ở tầng 3.
-
-**Trạng thái:** ĐỀ XUẤT MỚI.
-
----
-
-### **4\. E13 — Ảnh chứng từ đã bị chỉnh sửa**
-
-**Liên kết:** CONTINUITY\_LOG 2.2, E3, báo cáo L-08, P6.
-
-**Nội dung đề xuất:**
-
-* C02 từng gửi cho C03 một ảnh chụp màn hình chứng từ giao dịch, kèm tuyên bố đã tìm ra đầu mối mới và có bản sao dự phòng ở nơi khác.  
-* Khi đối chiếu với chứng từ gốc trong hệ thống của doanh nghiệp, ảnh **không khớp** ở một số trường thông tin. Ảnh đã bị chỉnh sửa.  
-* Không tìm thấy bản sao dự phòng nào ở nơi khác.  
-* **\[QĐ-8\]:** Xác nhận đây là canon, và xác nhận C02 là **người bị đổ lỗi** cho sai phạm chứ không phải đồng phạm. Hành vi chỉnh ảnh là cách gây sức ép của một người bị dồn ép, không phải hành vi gian lận tài chính.
-
-**Nguồn và cách thu thập:** Ảnh có trong điện thoại C02 (E11), có thể cả trong máy C03. Doanh nghiệp cung cấp chứng từ gốc để đối chiếu theo yêu cầu của cơ quan điều tra. Chỉ cần đối chiếu nội dung với bản gốc, không cần giám định kỹ thuật hình ảnh.
-
-**Chương xuất hiện:** Ch.5 (bất thường tài chính), Ch.6 ("Bằng chứng không tồn tại": phát hiện ảnh bị chỉnh sửa).
-
-**Giá trị chứng minh:**
-
-* Xác nhận C02 đã gây sức ép bằng một bằng chứng không có thật. Khớp với sự thật nền ở Mục II.  
-* Giải thích vì sao C03 tin rằng có giấy tờ nguy hiểm và lục tìm giấy tờ (E4).  
-* Làm rõ động cơ của C03.
-
-**Không chứng minh được:** Hành vi đẩy. Đây là chứng cứ động cơ.
-
-**Cách giải thích vô tội:** C03 nhận ảnh nhưng không coi là mối đe dọa. Có thể kiểm tra qua phản hồi của C03 trong các trao đổi.
-
-**Giả thuyết:** Không phân biệt H1/H2. Hỗ trợ việc giải thích hành vi lục giấy tờ.
-
-**Trạng thái:** ĐỀ XUẤT MỚI — phụ thuộc \[QĐ-8\].
-
----
 
 ### **5\. E6-B — Tiếng động C05 nghe được, dùng làm mốc thời gian**
 
@@ -519,41 +435,11 @@ Phần này lấp các lỗ hổng L-01 → L-05 trong báo cáo kiểm định 
 
 ---
 
-### **7\. E14 — Vết máu chuyển trên tay nắm ngăn kéo (TÙY CHỌN)**
+### **7. E14 — BẢN CHỨNG CỨ ĐÃ BỊ LOẠI
 
-**Liên kết:** E4, Chương 1 (vệt sẫm màu nghi là máu), báo cáo L-15.
+Không sử dụng vết máu chuyển trên tay nắm ngăn kéo. CHANGE-009 loại E14; không thêm hành vi C03 cúi xuống chạm vào Bình hoặc kết luận có máu của Bình trên ngăn kéo chỉ để củng cố chuỗi chứng cứ.
 
-**Nội dung đề xuất:**
 
-* Chốt vệt sẫm màu ở Chương 1 là **máu** của C02, từ vết rách da đầu khi va vào cạnh bàn. Phù hợp E5: chấn thương đầu do va vật cứng.  
-* Tay nắm ngăn kéo tủ giấy tờ có một **vết máu chuyển nhỏ**: máu của C02 dính lên qua tay người khác chạm vào.  
-* Đòi hỏi bổ sung một chi tiết vào diễn biến: sau cú ngã, C03 có cúi xuống chạm vào C02 (lay gọi, kiểm tra) rồi mới lục ngăn kéo. Đây là điểm TIMELINE B4 đang để "chưa xác định" **\[QĐ-14\]**.  
-* Vết máu **không đủ** đặc điểm vân tay để nhận dạng. Đề xuất giữ mức này để tránh chứng cứ quá thuận tiện.
-
-**Nguồn và cách thu thập:** Khám nghiệm hiện trường; giám định xác định đó là máu của C02. **CẦN XÁC MINH** khả năng giám định và mức kết luận thực tế.
-
-**Chương xuất hiện:** Ch.2 (ghi nhận ngăn kéo hơi xáo trộn và một vết bẩn nhỏ; chưa diễn giải). Ch.7–8 (kết quả giám định).
-
-**Giá trị chứng minh:**
-
-* Có người lục ngăn kéo **sau khi** C02 chảy máu. Kết hợp E2-B, E6-B, E11: người đó gần như chỉ có thể là C03.  
-* Hỗ trợ sự thật nền đã khóa "C03 tìm giấy tờ sau cú ngã" bằng một dữ kiện vật chất.  
-* Cho thấy C03 đã ở cạnh C02 lúc C02 bị thương và vẫn chọn lục giấy tờ thay vì gọi cấp cứu. Đây là trọng tâm đạo đức của Ch.9.
-
-**Không chứng minh được:**
-
-* Danh tính người chạm, nếu không có vân tay.  
-* Cú đẩy.
-
-**Cách giải thích vô tội:** C02 tự đứng dậy, chạm vào vết thương rồi mở ngăn kéo. Có thể kiểm tra bằng mức độ chấn thương (E5) và dấu vết di chuyển trên sàn. **CẦN XÁC MINH.**
-
-**Giả thuyết:** Làm suy yếu H5. Không phân biệt H1/H2.
-
-**Khuyến nghị:** Dùng **E12 làm chứng cứ chính ở tầng 2** vì gắn với C01. E14 chỉ là chứng cứ phụ củng cố, hoặc bỏ nếu thấy lời giải đã đủ vững. Không nên để cả hai cùng mạnh tới mức tầng 2 trở nên hiển nhiên quá sớm.
-
-**Trạng thái:** ĐỀ XUẤT MỚI — TÙY CHỌN.
-
----
 
 ### **8\. E8-A → E8-D — Hệ thống phân biệt H1 (bị đẩy) với H2 (tự ngã)**
 
@@ -799,14 +685,14 @@ Cần kiểm tra: dữ liệu camera (E2-B) và liên lạc hẹn gặp (E11).
 Chỉ khóa phiên bản cuối sau khi:
 
 * E1–E7 có nguồn gốc và giới hạn rõ ràng.  
-* E8 được thiết kế cụ thể hoặc được ghi nhận rõ là khoảng trống không thể khắc phục bằng chứng cứ hiện có. **(v1.4: đã có thiết kế đề xuất E8-A → E8-D, chờ duyệt.)**  
+* E8-A → E8-D đã được chốt theo CHANGE-009; chỉ còn xác minh mức kết luận pháp y và cách trình bày giới hạn chứng minh.  
 * E9 đánh giá đầy đủ H1, H2, H5 và H6.  
 * Các chứng cứ đề xuất ở Mục III-B được duyệt, sửa hoặc loại; không chứng cứ nào được dùng khi chưa duyệt.  
 * E10 phù hợp với tính cách C03, không biến lời thú nhận thành lối tắt.  
 * Mỗi manh mối xuất hiện đúng thời điểm và được nhân vật tiếp cận hợp lý.  
 * Không có mâu thuẫn giữa CLUE\_LEDGER, CASE\_FILE, TIMELINE và CHARACTER\_BIBLE.
 
-**Trạng thái hiện tại:** v1.4 là bản đề xuất cập nhật. Sự thật nền đã khóa vẫn giữ nguyên. Mục III-B bổ sung hệ thống chứng cứ đề xuất theo ba tầng (có mặt → có mặt lúc bị thương → bị đẩy), bao gồm thiết kế E8. Toàn bộ phần bổ sung đang ở trạng thái **ĐỀ XUẤT MỚI**, chưa phải canon cho tới khi tác giả duyệt.
+**Trạng thái hiện tại:** v1.4 là bản ghi thiết kế lịch sử, không còn phản ánh đầy đủ trạng thái duyệt hiện hành. Áp dụng CHANGE-009 đối với E8, CHANGE-012 đối với chìa khóa chính và CHANGE-013 đối với chuỗi E15–E22. Các mục E11 cũ, E13 và E14 đã bị loại; E12 và các đề xuất chưa có quyết định duyệt vẫn không được tự động đưa vào canon.
 
 ### **Lịch sử phiên bản**
 
