@@ -146,6 +146,13 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 - **Giới hạn góc nhìn:** Chỉ kể việc Nguyên làm rơi đồ, nhặt chìa và đặt lên bàn, cùng việc thu dọn mà cậu có thể nhìn thấy. Không kể/miêu tả Long trở về nhà, ngồi ôm trán, nghe điện thoại, làm rơi chìa hoặc tắt/giấu điện thoại Bình; Nguyên không có mặt lúc đó. Không để Nguyên hồi tưởng những việc cậu không chứng kiến.
 - **Cách thể hiện:** chi tiết chìa khóa phải chìm trong hoạt động đời thường, không dừng lời kể để nhấn mạnh, không dùng câu báo trước kiểu "cậu không biết rằng…".
 
+### Ghi chú continuity ngoài điểm nhìn Nguyên — KHÔNG KỂ THÀNH CẢNH TRONG CHƯƠNG 1
+- Trước khi Nguyên đến, Long đã trở về nhà sau khi rời căn hộ Bình. Điện thoại Bình và chìa khóa chính căn hộ Bình đều ở trong túi Long.
+- Long ngồi gần cửa ra vào, cúi đầu ôm trán. Điện thoại của Long đổ chuông; người gọi là một người bạn trong nhóm, hỏi Long đã chuẩn bị gì, còn thiếu gì không, trao đổi việc phân chia phần chuẩn bị và báo mọi người sắp đến.
+- Khi lấy điện thoại của mình ra nghe, chìa khóa chính rơi khỏi túi Long, trượt xuống dưới ghế. Long không nhận ra vì đang căng thẳng và tập trung vào cuộc gọi.
+- Sau cuộc gọi, Long mới nhớ đến điện thoại của Bình, lấy nó ra, tắt nguồn và giấu đi để đón nhóm bạn.
+- Những hành động trên chỉ là sự thật nền để người viết giữ continuity. **Nguyên không chứng kiến và không được hồi tưởng, kể lại hoặc suy đoán các hành động này trong Chương 1.**
+
 ### Cảnh 2.5 — Người bạn không vui
 - Nguyên để ý Vinh cười chậm hơn mọi người, liếc điện thoại nhiều lần, gắp ít.
 - Cậu muốn hỏi, nghĩ ra mấy cách mở lời trong đầu, cách nào nghe cũng vô duyên, rồi không dùng cách nào.
@@ -259,7 +266,7 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 ## 10. CẦN XÁC MINH (KHÔNG CHẶN VIỆC VIẾT)
 
 - Thẩm quyền và cách tài liệu vụ tử vong chưa rõ nguyên nhân được chuyển tới Phòng Cảnh sát hình sự: viết mơ hồ vừa đủ.
-- Cần giữ nhất quán vị trí ghế nơi chìa khóa trượt xuống dưới; không tự đổi sang khe tủ/khe tường. Chìa được Nguyên nhặt lên và sau đó cất vào ngăn kéo bàn khi mọi người thu dọn.
+
 
 
 
