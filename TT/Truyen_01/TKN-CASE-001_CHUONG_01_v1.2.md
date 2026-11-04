@@ -82,7 +82,7 @@ Cậu đến sớm mười lăm phút. Lên trước một mình thì phải ng�
 
 - Ơ, Nguyên! Đứng đấy làm gì thế?
 
-Phương bước qua cửa kính, túi trái cây đung đưa trên tay. Vinh đi sau, xách một thùng bia. Năm năm không gặp, Phương vẫn nói nhanh như bắn súng.
+Phương bước qua cửa kính, túi trái cây đung đưa trên tay. Vinh đi sau, xách một thùng bia. Duy và Hào cũng vừa tới, một người cầm túi nước ngọt, người kia xách thêm đồ ăn. Năm năm không gặp, Phương vẫn nói nhanh như bắn súng.
 
 - Ờ, đứng chờ tí.
 
@@ -98,19 +98,17 @@ Phương nhìn cậu một giây rồi bật cười. Vinh cũng cười. Cậu 
 
 Long mở cửa.
 
-Nhà gọn, sạch đến mức trông như vừa được dọn để đón khách. Long vẫn thế: cười trước khi nói, nhớ tên từng đứa, nhớ cả chuyện con mèo nhà Phương mà Phương kể trên mạng từ năm ngoái. Đứng cạnh Long, người ta tự nhiên thấy mình được để ý.
+Nhà gọn, sạch đến mức trông như vừa được dọn để đón khách. Long tránh sang một bên nhường lối. Cậu không nói nhiều, chỉ khẽ gật đầu khi từng người bước vào.
 
-Chỉ có sắc mặt Long không được tốt lắm.
+Sắc mặt Long không được tốt lắm.
 
 - Sao mặt ông phờ phạc thế? - Phương hỏi ngay.
 
-- Tối qua thức xem bóng. - Long cười, đỡ lấy túi trái cây. - Vào đi, vào đi.
+- Tối qua thức xem bóng. - Long đáp, rồi lặng lẽ nhận túi trái cây.
 
 - Hồi đấy cả lớp cứ đinh ninh ông sẽ là đứa thành đạt nhất đấy. Thế mà giờ thức đêm xem bóng.
 
-- Thì giờ không thành đạt à? - Long dang tay chỉ quanh căn hộ, giọng tự giễu. - Có nhà mời cả hội ăn lẩu đây này.
-
-Cả bọn cười. Nguyên cười chậm hơn một nhịp, vì đầu cậu đang ở chỗ khác.
+Long không đáp. Phương đã quay sang hỏi Duy chuyện công việc, cả bàn nhanh chóng chuyển sang câu chuyện khác. Nguyên cười chậm hơn một nhịp, vì đầu cậu đang ở chỗ khác.
 
 Năm lớp mười một, buổi thuyết trình nhóm. Đến phần của cậu, Nguyên đứng trước bốn mươi đôi mắt và đầu óc trắng xóa. Không một chữ nào chịu ra. Cả lớp bắt đầu xì xào. Long đứng cạnh, nhẹ nhàng bảo với cô: "Cô cho Nguyên nói nốt đi ạ, phần này bạn ấy tìm hiểu kỹ nhất." Rồi Long đứng đó, chờ.
 
@@ -126,7 +124,7 @@ Nguyên nuốt miếng rau.
 
 - Tổng hợp hồ sơ.
 
-- Hồ sơ gì?
+- Hồ sơ gì? - Duy hỏi.
 
 - Thì hồ sơ.
 
@@ -136,33 +134,25 @@ Phương thở dài, quay sang cả bàn như phiên dịch viên:
 
 - Ơ, thế là thám tử à? - Vinh nhướn mày.
 
-- Không, không phải. - Nguyên vội nói. - Tôi là cán bộ làm công tác tổng hợp, hỗ trợ hồ sơ nghiệp vụ ở Phòng Cảnh sát hình sự. Chủ yếu là sắp xếp tài liệu, đối chiếu thông tin, tổng hợp biên bản theo phần việc được giao. Tôi không phải điều tra viên.
+- Không, không phải. - Nguyên vội nói.
 
-Câu ấy cứ thế chết giữa chừng. Trong đầu cậu, câu trả lời hoàn chỉnh hơn nhiều: rằng phần lớn công việc là đọc, đối chiếu, tìm chỗ hai tờ giấy nói khác nhau; rằng việc ấy chán hơn phim rất nhiều nhưng cậu lại thấy dễ chịu. Nhưng cái miệng chỉ chịu đưa ra đến chữ "thì".
-
-- Thế ông có được xem mấy vụ án không? - Long hỏi, tay vẫn gắp thịt thả vào nồi.
+- Thế ông có được xem mấy vụ án không? - Hào hỏi.
 
 - Phần nào được giao thì xem.
 
-- Ghê nhỉ. - Long gật gù, rồi quay sang Vinh. - Còn ông, dạo này công ty thế nào?
+- Ghê nhỉ. - Vinh xuýt xoa.
 
-Vinh cười, bảo cũng thế thôi, rồi hỏi ngược lại Long. Long kể qua loa: làm giấy tờ cho một công ty xây dựng, chứng từ, hóa đơn, ngày nào cũng giấy.
-
-- Ông khiêm tốn thế. - Phương trêu.
-
-- Có gì đâu mà khoe.
+Duy kể công ty mình vừa đổi quản lý, Hào thì than tháng này phải chạy tiến độ. Câu chuyện nhanh chóng chuyển sang công việc của từng người. Long ngồi nghe, thỉnh thoảng gắp thêm thức ăn, không chen vào.
 
 ---
 
-Trong lúc mọi người chuyển bát đũa và đồ ăn ra bàn thấp cạnh ghế, Nguyên vô ý va khuỷu tay vào mép bàn. Vài món đồ lặt vặt trượt xuống sàn, rơi ở khoảng trống sát chân ghế.
+Trong lúc mọi người chuyển bát đũa và đồ ăn ra bàn thấp cạnh ghế, Nguyên vô ý va khuỷu tay vào mép bàn. Vài món đồ lặt vặt trượt xuống sàn, lăn vào khoảng trống sát chân ghế.
 
 - Để tôi nhặt. - Cậu nói, rồi cúi xuống.
 
-Nguyên gom từng món vừa rơi. Khi với tay vào khoảng dưới ghế, cậu chạm phải một chiếc chìa khóa. Cậu tưởng nó cũng vừa rơi khỏi bàn cùng những thứ kia nên nhặt lên luôn. Móc khóa in hình một tòa nhà cách điệu, nhưng cậu chỉ liếc qua rồi đặt tất cả lên mặt bàn.
+Nguyên gom những món nằm dưới sàn, cả mấy thứ lọt vào gầm ghế. Nhặt xong, cậu đặt tất cả lên mặt bàn rồi đứng dậy theo tiếng Phương gọi mang khay ra. Câu chuyện trên bàn nhanh chóng chuyển sang chuyện khác.
 
-Phương đang gọi cậu mang khay ra. Nguyên đứng dậy, cầm khay đi tiếp, câu chuyện trên bàn cũng nhanh chóng chuyển sang chuyện khác.
-
-Đến lúc mọi người thu dọn sau bữa ăn, những món đồ lặt vặt còn trên bàn được gom lại, bỏ vào ngăn kéo bàn. Chiếc chìa khóa nằm lẫn trong số đó.
+Đến lúc mọi người thu dọn sau bữa ăn, những món đồ lặt vặt còn trên bàn được gom lại, bỏ vào ngăn kéo bàn.
 
 ---
 
@@ -186,7 +176,7 @@ Phương sặc nước.
 
 - Bà còn viết sai chính tả nữa.
 
-Cả bàn cười nghiêng ngả. Long đập tay xuống bàn. Phương ném vỏ tôm sang, Nguyên né được, và lần đầu tiên trong buổi trưa cậu thấy mình không cần nghĩ trước câu tiếp theo.
+Cả bàn cười nghiêng ngả. Phương ném vỏ tôm sang, Nguyên né được, và lần đầu tiên trong buổi trưa cậu thấy mình không cần nghĩ trước câu tiếp theo.
 
 ---
 
@@ -246,11 +236,7 @@ Lên lại nhà, nồi lẩu đã nguội. Không ai còn muốn ăn.
 
 - Thôi, giải tán nhé. - Phương nói. - Hôm khác lại tụ.
 
-Long không giữ. Ở cửa, Long vỗ vai Nguyên.
-
-- Hôm nào rảnh qua chơi tiếp nhé.
-
-- Ừ.
+Long không giữ, chỉ đứng ở cửa tiễn mọi người ra về. Phương hẹn hôm khác lại tụ tập. Nguyên gật đầu.
 
 Trong thang máy chỉ còn Nguyên và Vinh. Con số tầng trên bảng điện tử nhảy xuống từng nấc.
 
