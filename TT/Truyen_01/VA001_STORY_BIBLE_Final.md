@@ -66,7 +66,7 @@ Những nội dung sau là canon của TKN-CASE-001:
 3. Trong lúc giằng co với C02, C03 đẩy C02.  
 4. C02 ngã, va đầu vào cạnh cứng của đồ nội thất và chịu chấn thương dẫn đến tử vong.  
 5. C03 nhận thấy C02 có thể đang trong tình trạng nguy hiểm nhưng rời đi mà không gọi trợ giúp.  
-6. Sau đó, C03 khóa cửa từ hành lang bằng chìa khóa dự phòng.  
+6. Sau đó, C03 khóa cửa từ hành lang bằng chìa khóa CHÍNH căn hộ C02.  
 7. C05 nói dối vì chuyện riêng, không phải đồng phạm và không được mặc nhiên coi là hung thủ chỉ vì lời nói dối.  
 8. C04 chỉ được giữ làm giả thuyết cạnh tranh nếu có căn cứ hợp lý từ chứng cứ.  
 9. Lời giải cuối cùng phải dựa trên chuỗi chứng cứ kết hợp, không dựa duy nhất vào một lời khai, một biểu hiện tâm lý hoặc một chi tiết có vẻ quyết định.  
@@ -454,7 +454,7 @@ Chỉ khóa dàn ý chương khi những mâu thuẫn quan trọng đã được
 * Động cơ là che giấu sai phạm tài chính.  
 * C03 đẩy C02 trong lúc giằng co; C02 ngã va đầu vào cạnh cứng của đồ nội thất và tử vong do chấn thương.  
 * C03 rời đi mà không gọi trợ giúp dù nhận thấy C02 có thể đang nguy hiểm.  
-* C03 khóa cửa từ hành lang bằng chìa khóa dự phòng.  
+* C03 khóa cửa từ hành lang bằng chìa khóa CHÍNH căn hộ C02.  
 * C05 nói dối vì chuyện riêng, không phải đồng phạm.  
 * C04 chỉ được giữ làm giả thuyết cạnh tranh khi có căn cứ.  
 * C01 là nam, 23 tuổi, quan sát tốt, giao tiếp còn vụng về; định hướng nghề nghiệp là nhân viên giấy tờ hoặc hỗ trợ hồ sơ trong một đơn vị nghiệp vụ.  
