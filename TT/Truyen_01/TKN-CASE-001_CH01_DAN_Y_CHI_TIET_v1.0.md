@@ -52,9 +52,9 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 | Mã | Chi tiết | Ở đâu | Giá trị về sau |
 | --- | --- | --- | --- |
 | G1 | Cô Hạnh: trước nhà có vợ có con, mấy tháng nay chỉ còn mình anh ấy; "ở sát vách thì cô phải biết". **Không nhắc gì tới tiếng động.** | Cảnh 1.2 | Manh mối phủ định cho lời nói dối của cô Hạnh |
-| G2 | Gọi chủ hộ: **"thuê bao không liên lạc được"**. Số liên hệ khẩn cấp trong tờ khai cư dân gọi không ai nghe. | Cảnh 1.3 | Điện thoại đã bị tắt từ tối thứ Sáu; số khẩn cấp là của vợ nạn nhân |
+| G2 | Gọi chủ hộ: **"thuê bao không liên lạc được"**. Số liên hệ khẩn cấp trong tờ khai cư dân gọi không ai nghe. | Cảnh 1.3 | Điện thoại đã bị tắt sau khi C03 lấy khỏi căn hộ C02 vào sáng thứ Bảy; số khẩn cấp là của vợ nạn nhân |
 | G3 | Cửa khóa. | Cảnh 1.4 | Manh mối chìa khóa |
-| G4 | Long trông thiếu ngủ, giải thích: "tối qua thức xem bóng". | Cảnh 2.2 | Lời nói dối về tối thứ Sáu; gợi chuyện cờ bạc |
+| G4 | Long trông thiếu ngủ, giải thích: "tối qua thức xem bóng". | Cảnh 2.2 | Lời giải thích bề ngoài cho vẻ mệt mỏi; không phải chứng cứ xác định T0 hay hành vi gây án |
 | G5 | Nhóm bạn vẫn coi Long là "người thành công nhất lớp". | Cảnh 2.2 | Đối xứng chủ đề Long – Nguyên |
 | G6 | Nguyên làm "bên hình sự", được nhắc **trước** khi tin dữ tới; Long hỏi thêm một câu bình thường. | Cảnh 2.3 | Lý do Long giấu quan hệ đồng nghiệp; nền cho việc Long dò tin Nguyên về sau |
 | G7 | **Chiếc chìa lẻ** có móc khóa in logo một công ty xây dựng, trên bờ tủ. Nguyên vô tình gạt phải, nghe tiếng lách cách, không để ý. | Cảnh 2.4 | Chiếc chìa khóa cửa nhà nạn nhân, rơi vào khe, mang vân tay Long và Nguyên |
@@ -124,7 +124,7 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 
 ### Cảnh 2.2 — Chủ nhà
 - Long mở cửa. Nhà gọn, có vẻ chăm chút. Long vẫn là kiểu người nói chuyện dễ, nhớ tên, nhớ chuyện của từng người.
-- **G4:** Long mắt thâm, trông mệt. Phương trêu; Long cười: "Tối qua thức xem bóng."
+- **G4:** Long sắc mặt không tốt, trông mệt. Phương trêu; Long cười: "Tối qua thức xem bóng." Giữ đây là lời giải thích đời thường, không gán nó thành lời nói dối về T0.
 - **G5:** Phương nhắc ngày xưa cả lớp đoán Long sẽ thành công nhất. Long cười, gạt đi bằng một câu tự giễu.
 - **G10 — kỷ niệm cấp ba:** nội tâm Nguyên nhớ lại năm lớp 11, buổi thuyết trình nhóm. Nguyên đứng trước lớp, đầu óc trắng xóa, không nói được câu nào. Long, đứng cạnh, không nói thay cậu mà chỉ bảo: "Để Nguyên nói nốt đi, phần này nó tìm hiểu kỹ nhất." Rồi đứng chờ. Nguyên nói được hết. Đó là lần hiếm hoi cậu thấy có người đợi mình.
   - Chỉ vài câu nội tâm, không biến thành hồi tưởng dài.
