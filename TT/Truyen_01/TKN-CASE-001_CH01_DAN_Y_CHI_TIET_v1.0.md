@@ -1,8 +1,8 @@
 # DÀN Ý CHI TIẾT CHƯƠNG 1 — NGƯỜI NẰM SAU CỬA SỔ
 
 **Mã vụ án:** TKN-CASE-001
-**Phiên bản:** v1.2 — ĐỒNG BỘ CHANGE-013 (04/11/2026)
-**Lịch sử:** v1.0 được duyệt ngày 03/11/2026; v1.1 đồng bộ CHANGE-012; v1.2 đồng bộ nghề nghiệp C01, quy trình phát hiện, dữ kiện C05 và các giới hạn continuity theo CHANGE-013.
+**Phiên bản:** v1.3 — RÀ SOÁT MỐC THỜI GIAN VÀ ĐỒNG BỘ CHANGE-014 (04/11/2026)
+**Lịch sử:** v1.0 được duyệt ngày 03/11/2026; v1.1 đồng bộ CHANGE-012; v1.2 đồng bộ CHANGE-013; v1.3 rà soát mốc giờ buổi gặp, Cảnh 2.4, báo công an phường và vai trò C01.
 **Căn cứ:** Định hướng dàn ý Chương 1 của người dùng; VA001_QUYET_DINH_DA_CHOT_P2.md, CHANGE-010 → CHANGE-013.
 **Thay thế:** Chương 1 v0.1 (đã bỏ) và Dàn ý chi tiết v0.1.
 **Góc nhìn:** Phần 1 theo Toàn; Phần 2–4 theo Nguyên. Ngôi thứ ba giới hạn. Lời kể gọi Nguyên là "cậu".
@@ -80,7 +80,7 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 
 ## 4. PHẦN 1 — NGƯỜI NẰM SAU CỬA SỔ
 
-**Góc nhìn:** Toàn. **Dung lượng:** khoảng 12%. **Thời gian:** đầu giờ chiều thứ Bảy.
+**Góc nhìn:** Toàn. **Dung lượng:** khoảng 12%. **Thời gian:** khoảng 13 giờ 40 thứ Bảy.
 
 ### Cảnh 1.1 — Giếng trời
 - Toàn đang sửa dàn nóng ở căn cô Hạnh. Phải trèo qua cửa sổ, đứng trên giá sắt trong giếng trời, móc dây an toàn.
@@ -97,7 +97,7 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 ### Cảnh 1.3 — Gọi người
 - Hạnh báo ban quản lý. Bảo vệ Khoa lên kiểm tra, bấm chuông và gõ cửa.
 - Ban quản lý gọi chủ hộ nhưng nhận được thông báo **thuê bao không liên lạc được** (G2). Không đưa số liên hệ khẩn cấp của vợ Bình vào Chương 1.
-- Vì bên trong có người nằm bất động, bảo vệ gọi cấp cứu và báo công an phường. Ban quản lý không tự quyết việc mở cửa.
+- Vì bên trong có người nằm bất động, Khoa gọi cấp cứu và báo công an phường. Ban quản lý không tự quyết việc mở cửa.
 - **Nén mạnh:** hai ba câu, không kể từng cuộc gọi.
 
 ### Cảnh 1.4 — Cửa khóa
@@ -114,12 +114,12 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 
 ## 5. PHẦN 2 — BUỔI GẶP CỦA NHÓM BẠN CŨ
 
-**Góc nhìn:** Nguyên. **Dung lượng:** khoảng 38%. **Thời gian:** từ khoảng 11 giờ trưa thứ Bảy, tức **trước** cảnh ở Phần 1, rồi chạy song song.
+**Góc nhìn:** Nguyên. **Dung lượng:** khoảng 38%. **Thời gian:** Nguyên đến khoảng 11 giờ 45, sớm 15 phút so với giờ hẹn dự kiến 12 giờ trưa; buổi gặp kéo dài sang đầu giờ chiều và đang diễn ra khi Toàn phát hiện C02 khoảng 13 giờ 40. Phần này được kể sau Phần 1 nhưng xảy ra trước đó; hai tuyến thời gian chạy song song.
 
 **Câu mở phần phải có mốc thời gian và địa điểm rõ**, để người nghe audio biết đã lùi thời gian và đổi người kể. Ví dụ ý: hai tiếng trước đó, ở tòa nhà bên kia của cùng khu chung cư.
 
 ### Cảnh 2.1 — Đến nơi
-- Nguyên đến sớm hơn giờ hẹn. Đứng dưới sảnh tòa nhà của Long mấy phút vì ngại lên một mình trước, giả vờ xem điện thoại. Trong đầu soạn vài câu chào rồi bỏ.
+- Nguyên đến khoảng 11 giờ 45, sớm 15 phút so với giờ hẹn dự kiến 12 giờ. Cậu đứng dưới sảnh tòa nhà của Long mấy phút vì ngại lên một mình trước, giả vờ xem điện thoại. Trong đầu soạn vài câu chào rồi bỏ.
 - Phương đến, nhận ra cậu, kéo lên luôn, vừa đi vừa hỏi dồn. Nguyên trả lời chậm một nhịp, ngắn hơn điều cậu nghĩ.
 - **Mục đích:** người nghe gặp Nguyên lần đầu qua một tình huống, có tiếng cười nhẹ, không thương hại.
 
@@ -133,7 +133,7 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 
 ### Cảnh 2.3 — Bữa trưa, chuyện công việc
 - Cả nhóm nấu, ăn. Chuyện cũ, chuyện người vắng mặt, chuyện lương thưởng, chuyện ai đã có người yêu.
-- **G6:** Có người hỏi Nguyên giờ làm gì. Nguyên đáp quá ngắn, kiểu "làm… hồ sơ". Phương "phiên dịch": nó làm ở Phòng Cảnh sát hình sự đấy. Cả nhóm trêu gọi "thám tử". Nguyên lúng túng giải thích mình chỉ làm giấy tờ, giải thích không ra; câu cậu định nói trong đầu thì hay hơn nhiều.
+- **G6:** Có người hỏi Nguyên giờ làm gì. Nguyên đáp quá ngắn, kiểu "làm… hồ sơ". Phương "phiên dịch": nó làm ở Phòng Cảnh sát hình sự đấy. Cả nhóm trêu gọi "thám tử". Nguyên lúng túng giải thích mình là cán bộ làm công tác tổng hợp, hỗ trợ hồ sơ nghiệp vụ; chủ yếu sắp xếp tài liệu, đối chiếu thông tin và tổng hợp biên bản theo phân công, không phải điều tra viên. Câu cậu định nói trong đầu thì hay hơn nhiều.
 - Long hỏi thêm một câu bình thường, ví dụ "Thế ông có được xem mấy vụ án không?", rồi tự chuyển chủ đề. Một nhịp, không nhấn.
 - Khi tới lượt Long: chỉ nói chung chung "làm giấy tờ cho một công ty xây dựng", **không nêu tên công ty**. Phương trêu Long khiêm tốn.
 - Vinh nói về công việc rất ít, lái sang chuyện khác.
@@ -141,10 +141,10 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 ### Cảnh 2.4 — Những món đồ rơi xuống sàn (G7)
 
 **Chi tiết móc khóa:** chìa khóa có móc khóa in hình một tòa nhà cách điệu, không đọc được tên công ty. Nguyên không nhận diện nó là chìa khóa căn hộ Bình; nếu có thoáng nhìn, cậu chỉ nghĩ đó có thể là món quà/quà lưu niệm liên quan công ty của Long, không dừng lại kiểm tra.
-- Trong lúc mọi người trò chuyện/sinh hoạt, Nguyên vô tình làm rơi một vài món đồ từ bàn xuống sàn. Vị trí các món đồ rơi ở khu vực gần dưới ghế.
-- Cậu cúi xuống nhặt. Trong lúc gom những món vừa rơi, cậu nhặt luôn một chiếc chìa khóa đã nằm dưới ghế, tưởng đó là một món rơi khỏi bàn cùng những thứ khác.
-- Nguyên không nhận ra chiếc chìa có liên quan đến căn hộ nào, không kiểm tra kỹ, không hỏi Long và không có suy nghĩ nghi ngờ. Cậu đặt tất cả những thứ vừa nhặt lên mặt bàn rồi tiếp tục câu chuyện đang dang dở.
-- Khi buổi gặp kết thúc và mọi người thu dọn, các món đồ lặt vặt trên bàn được gom vào ngăn kéo bàn. Chiếc chìa khóa nằm trong ngăn kéo cùng chúng.
+- Trong lúc mọi người trò chuyện/sinh hoạt, Nguyên vô tình va vào mép bàn, làm rơi vài món đồ lặt vặt xuống sàn ở khu vực gần dưới ghế.
+- Cậu cúi xuống nhặt những món vừa rơi. Khi với tay dưới ghế, cậu nhặt luôn chiếc chìa khóa đã nằm ở đó, tưởng nó cũng vừa rơi khỏi bàn.
+- Nguyên không nhận ra chiếc chìa có liên quan đến căn hộ nào, không kiểm tra kỹ, không hỏi Long và không có suy nghĩ nghi ngờ. Cậu đặt tất cả những thứ vừa nhặt lên mặt bàn rồi tiếp tục câu chuyện.
+- Khi nhóm thu dọn sau bữa ăn, các món đồ lặt vặt trên bàn được gom vào ngăn kéo bàn. Chiếc chìa khóa nằm lẫn trong đó.
 - **Giới hạn góc nhìn:** Chỉ kể việc Nguyên làm rơi đồ, nhặt chìa và đặt lên bàn, cùng việc thu dọn mà cậu có thể nhìn thấy. Không kể/miêu tả Long trở về nhà, ngồi ôm trán, nghe điện thoại, làm rơi chìa hoặc tắt/giấu điện thoại Bình; Nguyên không có mặt lúc đó. Không để Nguyên hồi tưởng những việc cậu không chứng kiến.
 - **Cách thể hiện:** chi tiết chìa khóa phải chìm trong hoạt động đời thường, không dừng lời kể để nhấn mạnh, không dùng câu báo trước kiểu "cậu không biết rằng…".
 
@@ -319,3 +319,18 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 - Sửa trình tự cảnh phát hiện: Hạnh tự vặn/giật tay nắm; loại chi tiết số liên hệ khẩn cấp khỏi Chương 1; không để công an là người đầu tiên chạm tay nắm.
 - Bổ sung mốc địa điểm Thanh Lộ, tòa T2, căn 1207 và giờ phát hiện khoảng 13:40 thứ Bảy.
 - Bổ sung giới hạn điểm nhìn Toàn và cách xử lý ban đầu; không cho người dân kết luận nguyên nhân tử vong.
+
+
+## 9. RÀ SOÁT MỐC THỜI GIAN — BẢN LÀM VIỆC v1.3
+
+| Mốc | Thời gian dùng khi viết | Căn cứ/giới hạn |
+| --- | --- | --- |
+| Long về nhà sau khi rời căn hộ Bình | Khoảng 11 giờ 30 | Ước lượng từ ràng buộc Long về trước giờ hẹn khoảng 30 phút; chưa phải giờ điều tra xác minh. |
+| Cuộc gọi của bạn trong nhóm; chìa khóa rơi dưới ghế; Long tắt và giấu điện thoại Bình | Khoảng 11 giờ 30–11 giờ 45 | Xảy ra trước khi Nguyên đến; Nguyên không chứng kiến. Không khóa phút chính xác. |
+| Nguyên đến nhà Long | Khoảng 11 giờ 45 | Sớm 15 phút so với giờ hẹn dự kiến 12 giờ. |
+| Buổi gặp nhóm | Khoảng 12 giờ đến sau 13 giờ 40 | Đã hẹn trước; vẫn đang diễn ra khi C02 được phát hiện. Không phải ngoại phạm cho Long. |
+| Toàn phát hiện C02 | Khoảng 13 giờ 40 | Mốc đã chốt trong CHANGE-013. |
+| Nhóm rời nhà Long; Long xử lý điện thoại và sổ tay | Sau khi buổi gặp kết thúc | Phải sau thời điểm nhóm rời đi; chưa khóa giờ cụ thể. |
+| Nguyên nhận việc tổng hợp hồ sơ | Sáng thứ Hai | Sau ngày phát hiện; chỉ làm phần tổng hợp/hỗ trợ hồ sơ được giao. |
+
+**Nguyên tắc:** 11 giờ 30, 11 giờ 45 và 12 giờ là các mốc vận hành để giữ continuity cho bản thảo, không phải dữ liệu pháp y/camera đã được xác minh. Mốc chắc chắn hiện tại là C02 được phát hiện khoảng 13 giờ 40 thứ Bảy. Cách kể mở phần Nguyên nên dùng “Gần hai tiếng trước đó” hoặc ghi 11 giờ 45, không viết “hai tiếng trước” nếu muốn giữ độ chính xác tương đối.
