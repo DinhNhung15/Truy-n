@@ -35,10 +35,10 @@
 
 1. Điều tra viên cho C03 nghe **bản ghi âm trọn vẹn** mà cậu ta tưởng đã hủy cùng điện thoại.
 2. Giọng C02 không chửi bới. C02 khuyên: "Long, em đi đầu thú đi."
-3. **Đêm thứ Sáu, C03 chỉ nghe thấy điều mình sợ.** Đang bị sỉ nhục, C02 nóng giận nói ra "250 triệu" và "anh ghi âm rồi". C03 chỉ nghe hai câu đó và lao sang.
+3. **Sáng thứ Bảy, C03 chỉ nghe thấy điều mình sợ.** Đang bị sỉ nhục, C02 nóng giận nói ra "250 triệu" và "anh ghi âm rồi". C03 chỉ nghe hai câu đó và lao sang.
 4. **Đầu cuộc gọi có một đoạn C03 bỏ qua.** Lúc còn bình tĩnh, C02 nói đại ý: anh chưa có gì chắc chắn, mấy con số mới chỉ đối chiếu trong sổ của anh, anh gọi trước vì muốn em tự đi nói ra.
 5. Nghe lại trọn vẹn và tỉnh táo, C03 mới nghe thấy đoạn đó lần đầu.
-6. **C03 nhận ra mình đã giết người vì một bằng chứng không có thật.** Thứ cậu ta chạy sang để cướp không chứng minh được gì. Thứ đang buộc tội cậu ta là chính những việc cậu ta làm đêm đó: lấy điện thoại, cầm chìa, khóa cửa, bỏ đi. Và cậu ta đã giết người duy nhất từng cho mình cơ hội.
+6. **C03 nhận ra mình đã giết người vì một bằng chứng không có thật.** Thứ cậu ta chạy sang để cướp không chứng minh được gì. Thứ đang buộc tội cậu ta là chính những việc cậu ta làm sáng hôm đó: lấy điện thoại, cầm chìa, khóa cửa, bỏ đi. Và cậu ta đã giết người duy nhất từng cho mình cơ hội.
 7. Lời thú nhận đến sau nhận thức đó. E8-D (khung ảnh) dùng để kiểm chứng.
 
 **Ràng buộc:**
@@ -129,3 +129,36 @@ CLUE_LEDGER (E8-A → E8-D, loại E11 cũ, E13, E14), CASE_FILE (§4.4), CHARAC
 STORY_BIBLE (tên khu, tòa, căn hộ), CHARACTER_BIBLE (C01 là cán bộ CAND; C05 kể chuyện vợ chồng C02 cãi nhau), TIMELINE (giờ phát hiện 13h40), CLUE_LEDGER (E1: dấu vết trên tay nắm có của cô Hạnh), CHAPTER_OUTLINE (Ch.2: khám nghiệm tay nắm; số liên hệ khẩn cấp dời sang chương sau).
 
 **Trạng thái:** ĐÃ CHỐT.
+
+
+---
+
+## CHANGE-011 — Chuyển T0 sang sáng thứ Bảy — ĐÃ CHỐT
+
+**Căn cứ:** Người dùng yêu cầu ngày 04/11/2026 chuyển mốc gây án từ tối thứ Sáu sang sáng thứ Bảy, để Long chỉ có vài tiếng trước khi C02 được phát hiện, chưa kịp phi tang chứng cứ và tăng áp lực cho vụ án.
+
+### 11.1. Mốc thời gian mới
+
+- **T0: sáng thứ Bảy.** C02 gọi cho C03; cuộc gọi, lời khuyên đầu thú, lời sỉ nhục, con số 250 triệu và việc C02 nói đã ghi âm giữ nguyên theo CHANGE-007/008.
+- Sau cuộc gọi, C03 vội đến căn hộ C02. Hai người tranh cãi, giằng co; C03 đẩy C02. C02 ngã, va đầu vào cạnh cứng của đồ nội thất và bị thương nghiêm trọng.
+- C03 nhận ra C02 có thể đang nguy hiểm nhưng không gọi cấp cứu. C03 lục tìm giấy tờ, lấy điện thoại và sổ tay, tìm thấy chìa dự phòng, khóa cửa từ hành lang rồi rời đi.
+- C03 trở về căn hộ của mình trong buổi sáng thứ Bảy. Điện thoại, sổ tay và chìa dự phòng vẫn ở nhà C03; **chưa bị đập, vứt bỏ hoặc phi tang**.
+- Buổi gặp nhóm bạn vẫn diễn ra vào trưa–chiều thứ Bảy như lịch hẹn từ trước. Nguyên vô tình làm rơi chìa dự phòng vào khe giữa tủ và tường trong buổi gặp.
+- C02 được phát hiện khoảng **13 giờ 40 thứ Bảy** (CHANGE-010). Từ T0 đến lúc phát hiện chỉ cách nhau vài tiếng.
+- Sau khi buổi gặp kết thúc và mọi người ra về, C03 mới đập điện thoại, xử lý sổ tay và mang chúng đi ném xuống sông theo CHANGE-008/009. Việc phi tang diễn ra **sau khi C02 đã được phát hiện**, không phải trước khi cảnh sát tiếp cận hiện trường.
+
+### 11.2. Hệ quả bắt buộc khi viết
+
+1. CHANGE-011 thay thế mọi mốc T0 tối/đêm thứ Sáu trong CHANGE-007/008 và các tài liệu cũ.
+2. Không viết Long đã tắt điện thoại C02 từ tối thứ Sáu; cậu ta lấy và tắt điện thoại sau khi gây án vào sáng thứ Bảy.
+3. Không viết Long đã phi tang điện thoại hoặc sổ tay trước buổi gặp. Hai vật này vẫn ở căn hộ Long trong lúc nhóm bạn có mặt.
+4. Chiếc chìa dự phòng vẫn ở nhà Long trong buổi gặp; Nguyên làm rơi chìa vào khe như CHANGE-008.
+5. Long tham gia buổi gặp khi vừa gây án, chưa có thời gian xử lý hậu quả. Áp lực tâm lý và nguy cơ sơ hở tăng lên, nhưng không tự động biến biểu hiện tâm lý thành chứng cứ.
+6. Giữ nguyên mốc phát hiện khoảng 13 giờ 40 thứ Bảy, buổi gặp trưa–chiều thứ Bảy, cấu trúc lời khai E8, bản ghi âm iCloud, vị trí Tìm và giới hạn chứng minh đã chốt.
+7. Giờ chính xác của cuộc gọi, thời điểm Long đến/rời căn hộ và thời điểm C02 tử vong vẫn **CHƯA KHÓA**. Không tự gán giờ cụ thể.
+
+### 11.3. Hồ sơ phải đồng bộ
+
+TIMELINE; STORY_BIBLE; CLUE_LEDGER (thời điểm tồn tại/biến mất của điện thoại, sổ tay, chìa và dữ liệu Tìm); CHAPTER_OUTLINE; Chương 1 (các câu nhắc điện thoại bị tắt từ tối thứ Sáu); CONTINUITY_LOG.
+
+**Ưu tiên:** CHANGE-011 là quyết định mới nhất và được ưu tiên hơn mọi mốc T0 tối/đêm thứ Sáu ghi trong CHANGE-007, CHANGE-008 hoặc tài liệu cũ.
