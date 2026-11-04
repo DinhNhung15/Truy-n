@@ -816,3 +816,27 @@ Chỉ khóa phiên bản cuối sau khi:
 | v1.3 | Cập nhật nguyên tắc, E1–E10, H1–H4 | Đề xuất |
 | v1.4 | Bổ sung Mục III-B (E1-B, E2-B, E6-B, E8-A → E8-D, E11–E14); thêm H5, H6; cập nhật Mục VII, VIII | Đề xuất, chờ duyệt |
 
+
+
+---
+
+## ADDENDUM CHANGE-012 — CHUỖI MANH MỐI CHÌA KHÓA (ĐÃ CHỐT VỀ TRÌNH TỰ, CÒN GIỚI HẠN XÁC MINH)
+
+### E15 — Chìa khóa chính của C02 xuất hiện tại nhà C03
+- **Vật:** chìa khóa CHÍNH căn hộ C02, có móc khóa in hình tòa nhà cách điệu/logo đặc trưng.
+- **Phát hiện thiếu:** cơ quan điều tra xác định chìa khóa chính không có tại căn hộ C02; hỏi vợ C02 về số lượng/đặc điểm chìa khóa; cô cung cấp ảnh nhận dạng.
+- **Phát hiện nơi khác:** trong quá trình khám xét nhà C03 theo thủ tục, tìm thấy chìa khóa tương ứng trong ngăn kéo bàn. Việc thu giữ phải được lập biên bản, ghi nhận vị trí, chụp ảnh tại chỗ và niêm phong theo quy định.
+- **Kiểm tra:** đối chiếu ảnh/móc khóa và thử khả năng mở ổ khóa căn hộ C02. Ảnh đơn lẻ không đủ thay thế kiểm tra tương thích.
+- **Giới hạn:** chứng minh chìa khóa của C02 ở nhà C03 tại thời điểm thu giữ; chưa tự chứng minh ai mang nó đến, C03 dùng nó khóa cửa hay C03 gây ra cái chết.
+
+### E16 — Dấu vân tay C01 trên chìa khóa
+- Giám định phát hiện dấu vân tay của C01 trên chìa khóa. Điều tra viên hỏi C01 về nguồn tiếp xúc.
+- C01 khai cậu đã nhặt chiếc chìa dưới ghế trong buổi tụ tập ở nhà C03, tưởng là đồ vừa rơi cùng các món trên bàn; cậu đặt tất cả lên bàn. Sau đó nhóm thu dọn và cất đồ vào ngăn kéo.
+- **Giới hạn:** dấu vân tay chỉ chứng minh tiếp xúc, không xác định thời điểm hoặc địa điểm tiếp xúc. Lời giải thích của C01 phải được đối chiếu với dữ liệu khác; dấu vân tay không chứng minh C01 liên quan đến cái chết.
+
+### E17 — Ảnh/video nhóm xác nhận chìa khóa ở nhà C03
+- Sau khi biết dấu vân tay mình có trên vật chứng và nhớ lại buổi tụ tập, C01 chủ động kiểm tra ảnh/video cũ trong nhóm chat.
+- Hình ảnh có thể cho thấy chiếc chìa với móc khóa đặc trưng nằm trên bàn/khu vực sinh hoạt trong nhà C03 hôm đó. C01 đối chiếu với ảnh do vợ C02 cung cấp.
+- **Giới hạn:** hình ảnh xác nhận sự hiện diện của chìa khóa trong nhà C03 ở thời điểm buổi tụ tập; không ghi nhận nguồn gốc chiếc chìa, không chứng minh C03 là người mang nó về hoặc dùng nó khóa cửa. Cần kiểm tra tính nguyên gốc, thời điểm và ngữ cảnh của ảnh/video; không tạo hình ảnh ghi lại hành vi phạm tội nếu chưa duyệt.
+
+**Trình tự bắt buộc:** chìa khóa chính được xác định thiếu ở căn hộ C02 → hỏi vợ C02 và nhận ảnh/đặc điểm → tìm thấy chìa tương ứng trong ngăn kéo nhà C03 → phát hiện dấu vân tay C01 → C01 nhớ việc nhặt chìa → C01 kiểm tra ảnh/video nhóm và đối chiếu. Không đảo trình tự.

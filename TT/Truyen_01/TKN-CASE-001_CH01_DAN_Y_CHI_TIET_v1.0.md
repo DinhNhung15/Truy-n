@@ -255,3 +255,17 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 
 - Thẩm quyền và cách tài liệu vụ tử vong chưa rõ nguyên nhân được chuyển tới Phòng Cảnh sát hình sự: viết mơ hồ vừa đủ.
 - Vị trí cụ thể của khe nơi chiếc chìa rơi (khe giữa tủ gắn tường và tường): phải đủ khó với tới để về sau Long tìm không thấy.
+
+
+---
+
+## CHANGE-012 — SỬA CHI TIẾT CHÌA KHÓA VÀ GÓC NHÌN NGUYÊN
+
+Mục này thay thế chi tiết G7 và mọi ghi chú trong outline cũ về chiếc chìa dự phòng rơi vào khe tủ/khe tường.
+
+- Chìa khóa là **chìa khóa chính căn hộ C02**, không phải chìa dự phòng.
+- Nguyên không gạt chìa khỏi bờ tủ, không nhìn thấy chìa rơi và không thấy Long làm rơi chìa. Cậu đến sau cuộc gọi của Long.
+- Trình tự trước khi Nguyên đến: Long về nhà với điện thoại Bình và chìa khóa trong túi; ngồi gần cửa ôm trán; bạn gọi vào điện thoại Long hỏi chuẩn bị/phân chia việc; Long lấy điện thoại mình ra nghe, chìa khóa rơi khỏi túi và trượt dưới ghế; sau cuộc gọi Long lấy điện thoại Bình, tắt và giấu.
+- Nguyên đến, vô tình làm rơi một số món đồ từ bàn xuống sàn gần khu vực dưới ghế. Khi nhặt đồ của mình, cậu nhặt luôn chìa khóa dưới ghế, tưởng là một món vừa rơi, rồi đặt tất cả lên bàn. Mọi người thu dọn và cất các món đồ lặt vặt vào ngăn kéo bàn.
+- Trong chương đầu, Nguyên vẫn không nghi ngờ Long. Tuyến “cố tìm cách minh oan cho bạn nhưng manh mối dần hướng về bạn” chỉ bắt đầu sau khi vụ án tiến triển; không gieo suy luận sớm vào phần buổi tụ tập.
+- Không đưa vào nội tâm Nguyên các cảnh trước khi cậu đến nhà Long.

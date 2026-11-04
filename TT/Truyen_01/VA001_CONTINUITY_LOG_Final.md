@@ -464,3 +464,19 @@ Chỉ chuyển sang giai đoạn lập dàn ý chương khi những lỗ hổng 
 
 * 
 
+
+
+---
+
+## CHANGE-012 — Đồng bộ chìa khóa chính và tuyến nhận thức Nguyên
+
+**Đã chốt ngày 04/11/2026.**
+
+1. Thay “chìa dự phòng” bằng **chìa khóa chính căn hộ C02**; Long mang nó về sau khi khóa cửa căn hộ Bình từ bên ngoài.
+2. Tại nhà Long, thứ tự bắt buộc: Long về nhà với điện thoại Bình và chìa khóa trong túi → ngồi gần cửa ôm trán → bạn gọi vào điện thoại Long hỏi việc chuẩn bị/phân chia việc → Long lấy điện thoại mình ra nghe, chìa khóa rơi xuống dưới ghế mà Long không biết → sau cuộc gọi Long lấy điện thoại Bình, tắt và giấu → Nguyên đến, làm rơi đồ → Nguyên nhặt đồ và nhặt cả chìa khóa → đặt tất cả lên bàn → mọi người thu dọn, cất đồ vào ngăn kéo bàn.
+3. Nguyên không chứng kiến các sự việc trước lúc cậu đến. Không viết cậu hồi tưởng hành động Long.
+4. Cơ quan điều tra phát hiện chìa khóa chính thiếu tại căn hộ Bình trước, hỏi vợ Bình để nhận dạng, rồi mới tìm thấy chìa khóa tương ứng trong ngăn kéo nhà Long.
+5. Dấu vân tay Nguyên trên chìa khóa được thông báo sau khi vật chứng được xác định. Nguyên nhớ việc nhặt chìa và sau đó kiểm tra ảnh/video cũ trong nhóm chat; hình ảnh xác nhận chìa khóa của Bình đã xuất hiện tại nhà Long.
+6. Nguyên ban đầu tin Long vô tội, chủ động tìm cách minh oan. Manh mối xuất hiện từng bước; chìa khóa, dấu vân tay và ảnh nhóm làm Nguyên lung lay nhưng không tự chứng minh Long là hung thủ. Các manh mối độc lập khác tiếp tục hướng về Long.
+7. Không dùng quyền nghiệp vụ của Nguyên để truy cập trái phép hồ sơ, camera hoặc dữ liệu. Tôn trọng việc rút khỏi phần việc có xung đột lợi ích.
+8. CHANGE-012 thay thế các chi tiết cũ trái ngược trong CHANGE-008/011 và outline: chìa dự phòng, chìa rơi vào khe tủ, Nguyên gạt chìa khỏi bờ tủ. Không thay đổi sự thật nền về cú đẩy, việc bỏ mặc C02, động cơ tài chính, bản ghi âm iCloud và cấu trúc E8.

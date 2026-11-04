@@ -489,3 +489,14 @@ Chỉ sau khi chuỗi chứng cứ, dòng thời gian và các giả thuyết c�
 
 **Trạng thái cuối tài liệu: ĐỀ XUẤT CẬP NHẬT — CHỜ NGƯỜI DÙNG XÁC NHẬN.**
 
+
+
+---
+
+## ADDENDUM CHANGE-012 — CANON CHÌA KHÓA VÀ TRỤC TÂM LÝ C01
+
+CHANGE-012 xác nhận chìa khóa vật chứng là chìa khóa chính căn hộ C02, Long mang về sau khi khóa cửa từ bên ngoài. Tại nhà Long, chìa rơi khỏi túi khi Long lấy điện thoại của mình nghe cuộc gọi; Nguyên đến sau, vô tình nhặt nó cùng các món đồ mình làm rơi, đặt lên bàn; mọi người thu dọn và cất vào ngăn kéo bàn.
+
+C01 ban đầu tin C03 vô tội và thực sự cố tìm hướng giải thích khác để minh oan. Chìa khóa được xác định thiếu ở căn hộ C02 trước; vợ C02 cung cấp ảnh; chìa tương ứng được tìm thấy trong ngăn kéo nhà C03; sau đó C01 biết dấu vân tay mình có trên vật chứng, nhớ việc nhặt chìa và kiểm tra ảnh/video cũ trong nhóm chat. Hình ảnh củng cố rằng chìa khóa đã xuất hiện ở nhà C03, nhưng không chứng minh ai mang nó đến hoặc ai gây án. Các manh mối độc lập khác mới tiếp tục làm C01 lung lay.
+
+Không cho C01 hồi tưởng những gì cậu không chứng kiến; không cho C01 tự ý dùng quyền nghiệp vụ để tra cứu dữ liệu sau khi rút khỏi phần việc liên quan.

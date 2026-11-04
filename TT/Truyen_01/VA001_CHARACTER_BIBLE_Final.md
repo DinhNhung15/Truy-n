@@ -307,3 +307,15 @@ Sau mỗi chương, cập nhật những thay đổi về kiến thức, giả t
 
 **Kết luận:** Đây là bản cập nhật đề xuất. Chỉ chuyển thành phiên bản chính thức sau khi người dùng rà soát và xác nhận.
 
+
+
+---
+
+## ADDENDUM CHANGE-012 — TUYẾN NHẬN THỨC CỦA C01 (ĐÃ CHỐT)
+
+- C01 ban đầu tin C03 vô tội. Cậu chủ động tìm hiểu và tìm giả thuyết khác để giúp bạn được minh oan; không phải ngay từ đầu đã âm thầm điều tra Long.
+- C01 chỉ biết những gì cậu trực tiếp trải qua: đến nhà Long sau cuộc gọi; vô tình nhặt chiếc chìa khóa dưới ghế cùng các món đồ mình làm rơi; đặt lên bàn; sau đó mọi người thu dọn và cất đồ vào ngăn kéo. Cậu không chứng kiến Long làm rơi chìa khóa, nghe cuộc gọi hoặc giấu điện thoại Bình.
+- Khi biết dấu vân tay mình có trên chiếc chìa khóa vật chứng, C01 mới nhớ lại sự việc và kiểm tra ảnh/video cũ trong nhóm chat. Cậu đối chiếu chiếc chìa trong ảnh với đặc điểm móc khóa do vợ C02 cung cấp.
+- C01 dần nhận ra chìa khóa của C02 đã xuất hiện ở nhà C03. Cậu vẫn tìm lời giải thích vô tội và không thể kết luận C03 là hung thủ chỉ từ manh mối này.
+- Càng tìm hiểu, C01 càng gặp những manh mối khác hướng về C03. Xung đột chính: cậu cố cứu bạn mình nhưng mỗi bước tìm hiểu lại khiến bạn mình đáng nghi hơn.
+- C01 không được dùng quyền truy cập nghiệp vụ để tự tra cứu hồ sơ, camera, dữ liệu cư dân hoặc thông tin mật sau khi có xung đột lợi ích/rút khỏi phần việc liên quan. Nguồn cá nhân hợp lệ gồm ký ức, trò chuyện, thông tin công khai và hình ảnh/tài liệu được người khác tự nguyện chia sẻ.

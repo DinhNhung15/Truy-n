@@ -649,3 +649,28 @@ TIMELINE chỉ được khóa chính thức khi:
 - Không thay đổi sự thật nền về cú đẩy, nguyên nhân chấn thương, việc bỏ mặc C02, khóa cửa, động cơ tài chính hoặc giới hạn chứng minh của từng manh mối.
 - Giờ cụ thể của cuộc gọi, thời điểm Long đến/rời căn hộ và thời điểm C02 tử vong vẫn **CHƯA KHÓA**. Không tự gán giờ chính xác.
 
+
+
+---
+
+## ADDENDUM CHANGE-012 — OVERRIDE TIMELINE CHÌA KHÓA VÀ NHẬN THỨC NGUYÊN
+
+**Ưu tiên:** Addendum này thay thế các dòng trái ngược trong timeline cũ, đặc biệt chi tiết chìa dự phòng và việc Nguyên làm rơi chìa vào khe tủ.
+
+### A. Sự kiện thực tế tại nhà Long
+- Long về nhà sau khi rời căn hộ Bình, mang theo điện thoại Bình và chìa khóa CHÍNH căn hộ Bình.
+- Long ngồi gần cửa ra vào, ôm trán. Điện thoại của Long gọi đến; người gọi là bạn trong nhóm, hỏi việc chuẩn bị, phần còn thiếu, phân chia việc và báo sắp đến.
+- Khi lấy điện thoại của mình ra nghe, chìa khóa chính rơi khỏi túi, trượt xuống dưới ghế. Long không nhận ra.
+- Sau cuộc gọi, Long nhớ đến điện thoại Bình, lấy ra, tắt nguồn và giấu đi.
+- Nguyên đến sau. Cậu vô tình làm rơi một số món đồ từ bàn xuống sàn gần khu vực dưới ghế; khi nhặt đồ của mình, cậu nhặt cả chìa khóa, tưởng nó vừa rơi cùng các món kia, rồi đặt tất cả lên bàn.
+- Mọi người thu dọn và bỏ các món đồ lặt vặt vào ngăn kéo bàn. Chìa khóa được cất vào ngăn kéo.
+
+### B. Dòng thời gian nhận thức
+- Nguyên không chứng kiến bất kỳ hành động nào của Long trước khi cậu đến. Cậu chỉ biết mình đã nhặt chiếc chìa khóa dưới ghế, đặt lên bàn và sau đó mọi người thu dọn.
+- Nguyên ban đầu tin Long vô tội và chủ động tìm hướng giải thích khác.
+- Chìa khóa chính bị phát hiện thiếu tại nhà Bình; vợ Bình cung cấp ảnh/đặc điểm nhận dạng; sau đó cơ quan điều tra tìm thấy chìa khóa tương ứng trong ngăn kéo bàn nhà Long.
+- Khi được thông báo dấu vân tay của mình có trên vật chứng, Nguyên nhớ lại buổi tụ tập. Sau đó cậu kiểm tra ảnh/video cũ trong nhóm chat và đối chiếu móc khóa với ảnh của vợ Bình.
+- Việc đối chiếu xác nhận chiếc chìa khóa của Bình xuất hiện tại nhà Long trong buổi tụ tập. Nó chưa chứng minh ai mang chìa khóa đến nhà Long hoặc ai gây án.
+- Nguyên tiếp tục tìm hiểu với mong muốn minh oan cho Long; các manh mối độc lập xuất hiện dần và ngày càng hướng về Long. Chỉ sau chuỗi tích lũy đó, niềm tin của Nguyên mới thực sự lung lay.
+
+**Mốc giờ chính xác** của cuộc gọi, lúc chìa rơi, lúc nhóm đến và lúc thu dọn chưa được khóa; không tự gán giờ.
