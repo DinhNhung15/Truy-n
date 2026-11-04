@@ -53,7 +53,7 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 | Mã | Chi tiết | Ở đâu | Giá trị về sau |
 | --- | --- | --- | --- |
 | G1 | Cô Hạnh: trước nhà có vợ có con, mấy tháng nay chỉ còn mình anh ấy; "ở sát vách thì cô phải biết". **Không nhắc gì tới tiếng động.** | Cảnh 1.2 | Manh mối phủ định cho lời nói dối của cô Hạnh |
-| G2 | Gọi chủ hộ: **"thuê bao không liên lạc được"**. Số liên hệ khẩn cấp trong tờ khai cư dân gọi không ai nghe. | Cảnh 1.3 | Điện thoại đã bị tắt sau khi C03 lấy khỏi căn hộ C02 vào sáng thứ Bảy; số khẩn cấp là của vợ nạn nhân |
+| G2 | Ban quản lý gọi chủ hộ: **"thuê bao không liên lạc được"**. | Cảnh 1.3 | Điện thoại của Bình đã bị Long lấy và tắt sau khi rời căn hộ vào sáng thứ Bảy; không đưa số liên hệ khẩn cấp của vợ nạn nhân vào Chương 1. |
 | G3 | Cửa khóa. | Cảnh 1.4 | Manh mối chìa khóa |
 | G4 | Long trông thiếu ngủ, giải thích: "tối qua thức xem bóng". | Cảnh 2.2 | Lời giải thích bề ngoài cho vẻ mệt mỏi; không phải chứng cứ xác định T0 hay hành vi gây án |
 | G5 | Nhóm bạn vẫn coi Long là "người thành công nhất lớp". | Cảnh 2.2 | Đối xứng chủ đề Long – Nguyên |
