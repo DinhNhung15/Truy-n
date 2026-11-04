@@ -16,7 +16,7 @@
 | Bước | C03 khai | Bị bác bỏ bởi |
 | --- | --- | --- |
 | 1 | "Tôi không đến." | Camera tòa C02 (X, Y); nhật ký cuộc gọi tối thứ Sáu |
-| 2 | "Tôi đến, cãi nhau rồi về. Lúc đó anh ấy vẫn bình thường." | Chìa dự phòng nằm ở nhà C03; vị trí điện thoại (Tìm) ở tòa C03. Người còn khỏe không để khách cầm điện thoại của mình đi rồi khóa mình trong nhà |
+| 2 | "Tôi đến, cãi nhau rồi về. Lúc đó anh ấy vẫn bình thường." | Chìa khóa CHÍNH căn hộ C02 được tìm thấy tại nhà C03; dữ liệu vị trí điện thoại cần được đối chiếu riêng theo nguồn và thời điểm. Người còn khỏe không để khách cầm điện thoại của mình đi rồi khóa mình trong nhà |
 | 3 | "Anh ấy lao vào tôi, rồi vấp ngã." | Bản ghi âm iCloud: C02 khuyên đầu thú, C03 là bên sỉ nhục và vội chạy sang. E8-A: chấn thương vùng sau đầu, ngã ngửa, không phải ngã chúi về trước |
 | 4 | "Anh ấy tự lùi lại rồi trượt chân." | E8-A: vết bầm mới đối xứng ở mặt trước hai vai, phù hợp tác động lực từ phía trước. E8-B: sàn khô, không vật cản. **Chỉ làm yếu, không bác bỏ hẳn.** C03 bám lâu ở bậc này |
 | 5 | Thú nhận đã đẩy | Kiểm chứng bằng E8-D mới |
@@ -67,7 +67,7 @@ Theo TT/Truyen_01/TKN-CASE-001_CH01_DAN_Y_CHI_TIET_v1.0.md (đã điều chỉnh
 | Đặc điểm nhận dạng chiếc chìa | **Móc khóa in hình một tòa nhà cách điệu**, không đọc được tên công ty. Nguyên nghĩ là quà công ty của Long |
 | Nguồn tin dữ | **Vinh xuống mua đá**, nghe trong thang máy và dưới sảnh |
 | Đồng nghiệp ở Phần 4 | **Anh Sơn** giao việc nhanh; **chị Nhàn** chỉ một cử chỉ nhỏ |
-| Tủ đặt chiếc chìa | Tủ gỗ cao kê sát tường cạnh bếp; chìa rơi vào khe giữa tủ và tường |
+| Vị trí chìa khóa sau buổi tụ tập | Ngăn kéo bàn tại nhà Long; chìa khóa chính được Nguyên vô tình nhặt dưới ghế, đặt lên bàn rồi nhóm thu dọn vào ngăn kéo (CHANGE-012) |
 
 **Âm đầu tên mới:** Phương (Ph), Vinh (V). Không trùng dàn nhân vật hiện có.
 
