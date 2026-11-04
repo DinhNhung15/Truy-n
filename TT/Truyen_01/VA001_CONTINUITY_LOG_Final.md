@@ -57,7 +57,7 @@ Khi một quyết định thay đổi, hồ sơ chuyên trách phải được c
 | CANON-004 | Trong lúc giằng co, C03 cố ý đẩy C02. | ĐÃ KHÓA |
 | CANON-005 | C02 ngã, va đầu vào cạnh cứng của đồ nội thất và bị thương chí mạng. | ĐÃ KHÓA |
 | CANON-006 | Sau cú ngã, C03 nhận thấy C02 có thể đang gặp nguy hiểm nhưng rời đi mà không gọi cấp cứu. | ĐÃ KHÓA |
-| CANON-007 | C03 khóa cửa từ phía hành lang bằng chìa khóa dự phòng mà C02 từng đưa cho mình. | ĐÃ KHÓA |
+| CANON-007 | C03 khóa cửa từ phía hành lang bằng chìa khóa CHÍNH căn hộ C02. | ĐÃ KHÓA |
 | CANON-008 | C05 nói dối về một việc riêng không liên quan trực tiếp đến hành vi gây án. | ĐÃ KHÓA Ở MỨC KHÁI QUÁT |
 | CANON-009 | C04 có thể được xem xét như một giả thuyết cạnh tranh nếu chứng cứ thực tế hỗ trợ. | ĐÃ KHÓA VỀ NGUYÊN TẮC |
 
@@ -214,16 +214,16 @@ Chưa có manh mối độc lập được phê duyệt để phân biệt chắ
 
 Có một chuỗi chứng cứ đủ chặt để phân biệt các giả thuyết cạnh tranh, hoặc câu chuyện phải thể hiện trung thực giới hạn chứng minh nếu không thể phân biệt chúng. Phương án cụ thể vẫn là **ĐỀ XUẤT**, chưa được khóa.
 
-### **OPEN-004 — Chìa khóa dự phòng và cơ chế cửa**
+### **OPEN-004 — Cơ chế cửa và chi tiết khóa (đã đóng phần nhận dạng chìa khóa)**
 
 **Đã khóa:**
 
-C03 rời căn hộ rồi khóa cửa từ phía hành lang bằng chìa khóa dự phòng mà C02 từng đưa cho mình. Không có lối thoát bí mật hoặc cơ chế khóa từ xa được xác lập.
+C03 rời căn hộ và khóa cửa từ phía hành lang bằng chìa khóa CHÍNH căn hộ C02. Việc nhận dạng chìa khóa và đường đi của nó đã được khóa theo CHANGE-012; loại khóa và thao tác khóa cụ thể vẫn cần xác minh. Không có lối thoát bí mật hoặc cơ chế khóa từ xa được xác lập.
 
 **Chưa xác định:**
 
 * Loại khóa cụ thể.  
-* Thời điểm và lý do C02 đưa chìa khóa dự phòng cho C03.  
+* Loại khóa, cơ chế khóa từ hành lang và việc kiểm tra tương thích chìa khóa chính với ổ khóa.  
 * Những ai khác có quyền tiếp cận chìa khóa.  
 * Cơ chế khóa có thể được kiểm tra như thế nào.  
 * Những dữ liệu hoặc dấu vết nào thực tế có thể giúp xác minh việc khóa cửa.
