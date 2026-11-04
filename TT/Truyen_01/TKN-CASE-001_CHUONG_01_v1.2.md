@@ -218,7 +218,7 @@ Một lúc, Long tắt vòi nước, lau tay.
 
 ---
 
-Phương và Vinh xuống xem. Long bảo ở lại dọn dẹp.
+Phương và Vinh xuống xem. Long ở lại dọn dẹp.
 
 Nguyên ngồi thêm một lúc, nghe tiếng ồn dưới sân dâng lên qua cửa ban công. Rồi cậu cũng xuống.
 
