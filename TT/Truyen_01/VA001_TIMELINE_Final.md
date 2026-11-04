@@ -626,3 +626,26 @@ TIMELINE chỉ được khóa chính thức khi:
 
 1. 
 
+
+
+---
+
+## PHỤ LỤC ĐIỀU CHỈNH — CHANGE-011: T0 chuyển sang sáng thứ Bảy
+
+**Trạng thái:** ĐÃ CHỐT theo quyết định mới nhất của tác giả. Phụ lục này thay thế mọi mốc ghi T0 vào tối/đêm thứ Sáu trong các phiên bản trước.
+
+1. **T0 xảy ra vào sáng thứ Bảy.** C02 gọi cho C03; cuộc gọi, lời khuyên đầu thú, lời sỉ nhục, con số 250 triệu và việc C02 nói đã ghi âm vẫn giữ nguyên theo CHANGE-007/008.
+2. Sau cuộc gọi, C03 vội đến căn hộ C02. Hai người tranh cãi, giằng co; C03 đẩy C02. C02 ngã, va đầu vào cạnh cứng của đồ nội thất và bị thương nghiêm trọng.
+3. C03 nhận ra C02 có thể đang nguy hiểm nhưng không gọi cấp cứu. C03 lục tìm giấy tờ, lấy điện thoại và sổ tay, tìm thấy chìa dự phòng, khóa cửa từ hành lang rồi rời đi.
+4. C03 trở về căn hộ của mình trong buổi sáng thứ Bảy. Cậu ta vẫn giữ điện thoại, sổ tay và chìa khóa; **chưa kịp tiêu hủy, vứt bỏ hoặc phi tang** các vật này.
+5. Buổi gặp nhóm bạn tại nhà C03 vẫn diễn ra vào trưa–chiều thứ Bảy như lịch hẹn từ trước. Nguyên vô tình làm rơi chìa khóa vào khe giữa tủ và tường trong buổi gặp.
+6. C02 được phát hiện khoảng **13 giờ 40 thứ Bảy**. Như vậy, từ T0 đến lúc phát hiện chỉ là một khoảng thời gian tính bằng vài tiếng, không phải qua đêm.
+7. Sau khi buổi gặp kết thúc và mọi người ra về, C03 mới đập điện thoại, xử lý sổ tay và mang chúng đi ném xuống sông theo CHANGE-008/CHANGE-009. Việc này xảy ra **sau thời điểm phát hiện C02**, không phải trước khi cảnh sát tiếp cận hiện trường.
+
+**Hệ quả về nhịp truyện và chứng cứ:**
+- Long phải tham gia buổi gặp trong trạng thái vừa gây án, chưa có đủ thời gian bình tĩnh xử lý các vật đã lấy. Áp lực tâm lý và nguy cơ để lộ sơ hở tăng lên.
+- Điện thoại, sổ tay và chìa khóa chưa bị phi tang tại thời điểm C02 được phát hiện. Không viết rằng Long đã ném điện thoại hoặc sổ tay xuống sông trước buổi gặp.
+- Chiếc chìa vẫn nằm tại nhà Long trong buổi gặp; Nguyên làm rơi nó vào khe như CHANGE-008.
+- Không thay đổi sự thật nền về cú đẩy, nguyên nhân chấn thương, việc bỏ mặc C02, khóa cửa, động cơ tài chính hoặc giới hạn chứng minh của từng manh mối.
+- Giờ cụ thể của cuộc gọi, thời điểm Long đến/rời căn hộ và thời điểm C02 tử vong vẫn **CHƯA KHÓA**. Không tự gán giờ chính xác.
+
