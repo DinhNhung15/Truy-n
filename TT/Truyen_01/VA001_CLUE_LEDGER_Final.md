@@ -840,3 +840,55 @@ Chỉ khóa phiên bản cuối sau khi:
 - **Giới hạn:** hình ảnh xác nhận sự hiện diện của chìa khóa trong nhà C03 ở thời điểm buổi tụ tập; không ghi nhận nguồn gốc chiếc chìa, không chứng minh C03 là người mang nó về hoặc dùng nó khóa cửa. Cần kiểm tra tính nguyên gốc, thời điểm và ngữ cảnh của ảnh/video; không tạo hình ảnh ghi lại hành vi phạm tội nếu chưa duyệt.
 
 **Trình tự bắt buộc:** chìa khóa chính được xác định thiếu ở căn hộ C02 → hỏi vợ C02 và nhận ảnh/đặc điểm → tìm thấy chìa tương ứng trong ngăn kéo nhà C03 → phát hiện dấu vân tay C01 → C01 nhớ việc nhặt chìa → C01 kiểm tra ảnh/video nhóm và đối chiếu. Không đảo trình tự.
+
+---
+
+## ADDENDUM CHANGE-013 — CHUỖI CHỨNG CỨ, NGUỒN GỐC VÀ GIỚI HẠN
+
+### E15 — Chìa khóa CHÍNH căn hộ C02 (đã chốt trình tự)
+- **Nguồn gốc:** Long mang chìa khóa chính của Bình khỏi căn hộ sau khi dùng nó khóa cửa từ bên ngoài.
+- **Vị trí tiếp theo:** Long mang chìa về nhà; chìa rơi dưới ghế khi Long lấy điện thoại của mình nghe cuộc gọi. Nguyên đến sau, vô tình nhặt chìa cùng các món đồ mình làm rơi; đặt lên bàn. Nhóm thu dọn và cất các món đồ vào ngăn kéo bàn.
+- **Phát hiện:** Cơ quan điều tra xác định chìa khóa chính thiếu tại căn hộ Bình → hỏi vợ Bình và nhận ảnh/đặc điểm nhận dạng → sau đó tìm thấy chìa khóa tương ứng trong ngăn kéo bàn nhà Long trong quá trình khám xét/kiểm tra hợp pháp.
+- **Kiểm chứng:** ghi nhận vị trí, chụp ảnh tại chỗ, lập biên bản, niêm phong; đối chiếu móc khóa hình tòa nhà cách điệu và kiểm tra chìa có mở ổ khóa căn hộ Bình hay không.
+- **Giới hạn:** không suy ra Long là hung thủ chỉ vì chìa khóa ở nhà Long; ảnh không thay thế kiểm tra tương thích; phải giữ đúng trình tự phát hiện.
+
+### E16 — Dấu vân tay C01 trên chìa khóa
+- Dấu vân tay của Nguyên được phát hiện trên chìa khóa.
+- Nguyên giải thích đã nhặt chìa dưới ghế trong buổi tụ tập, tưởng là đồ vừa rơi cùng các món trên bàn.
+- Dấu vân tay chứng minh tiếp xúc, không tự xác định thời gian, địa điểm hoặc mục đích tiếp xúc; không chứng minh Nguyên liên quan đến cái chết.
+
+### E17 — Ảnh/video buổi tụ tập
+- Sau khi biết dấu vân tay mình có trên vật chứng và nhớ lại việc nhặt chìa, Nguyên kiểm tra ảnh/video cá nhân hoặc trong nhóm chat.
+- Hình ảnh có thể cho thấy chìa khóa với móc khóa đặc trưng xuất hiện tại nhà Long trong buổi tụ tập; Nguyên đối chiếu với ảnh do vợ Bình cung cấp.
+- **Giới hạn:** xác nhận sự hiện diện tại nhà Long nếu hình ảnh nguyên gốc, đúng thời điểm và ngữ cảnh; không chứng minh Long mang chìa về, dùng chìa khóa hay đẩy Bình. Không tạo hình ảnh ghi lại hành vi phạm tội.
+
+### E18 — Hóa đơn và camera siêu thị
+- Hóa đơn và hình ảnh Long tại siêu thị là thật.
+- Chỉ chứng minh Long có mặt tại siêu thị ở thời điểm được ghi nhận; không chứng minh ngoại phạm trong toàn bộ khoảng thời gian có thể xảy ra vụ án.
+- Không gọi đây là hóa đơn giả hoặc bằng chứng ngoại phạm tuyệt đối.
+
+### E19 — Lời khai và dấu hiệu liên quan đến C05
+- C05 khai không có nhà trong khoảng thời gian liên quan; dữ liệu camera cho thấy bà trở về trước mốc Z; tin nhắn gửi tại mốc Z nhắc đến âm thanh từ căn hộ bên cạnh.
+- **Giới hạn:** mâu thuẫn này chứng minh C05 đã che giấu một phần hoạt động/lời khai, không chứng minh bà nghe thấy cú đẩy, biết tình trạng Bình hoặc đồng phạm. Lý do riêng chưa khóa.
+- C05 chỉ nghe âm thanh mơ hồ, không xác định được nguồn.
+
+### E20 — Dữ liệu camera tòa nhà
+- Vị trí camera: sảnh tầng trệt/khu gửi xe; lối vào cầu thang bộ tầng trệt và tầng hầm; thang máy và sảnh thang máy mỗi tầng. Không có camera dọc cầu thang bộ giữa các tầng.
+- Có thể dùng để kiểm tra lượt ra/vào tòa T2 của Long dù Long cư trú ở tòa khác trong cùng khu.
+- Phải ghi rõ góc chết, thời lượng lưu, đồng bộ thời gian và khả năng di chuyển bằng cầu thang bộ; phạm vi camera cổng/khu ngoài trời chưa xác minh.
+
+### E21 — Dấu vết tay nắm cửa khi phát hiện
+- Theo CHANGE-010, Hạnh tự vặn/giật tay nắm khi không ai trả lời. Dấu vết của bà có thể xuất hiện trên tay nắm trước khi công an tiếp nhận hiện trường.
+- Không được dùng dấu vết này để suy ra bà đã vào căn hộ hoặc gây án. Cần ghi nhận lời khai và trình tự tiếp xúc trước khi diễn giải kết quả giám định.
+
+### E22 — E8: hệ thống phân biệt cú đẩy và cú ngã (ĐÃ CHỐT THEO CHANGE-009)
+- E8-A: chấn thương vùng sau đầu, hướng ngã ngửa; chỉ sử dụng đúng mức kết luận pháp y đã xác minh.
+- E8-B: sàn khô, không có vật cản tại vị trí liên quan; chỉ làm yếu một số giả thuyết tự ngã, không tự bác bỏ hoàn toàn.
+- E8-C: các bậc lời khai của Long; mỗi phiên bản bị đối chiếu bằng chứng cứ tương ứng. Không biến một dấu hiệu đơn lẻ thành chứng cứ trực tiếp của cú đẩy.
+- E8-D: khung ảnh gia đình có ảnh vợ con bị đổ khi Bình ngã, kính nứt. Chi tiết được giữ kín; khi thú nhận Long tự kể đúng chi tiết này, qua đó kiểm chứng Long có mặt đúng khoảnh khắc Bình ngã.
+- E8 không phải “chứng cứ thần kỳ”: kết luận cuối phải phân biệt chứng cứ độc lập về sự hiện diện/tình trạng Bình/hành vi sau cú ngã với lời thú nhận đã được kiểm chứng về động tác đẩy.
+- Các mục E11 cũ (điện thoại tại hiện trường), E13 (ảnh chứng từ chỉnh sửa) và E14 (vết máu trên ngăn kéo) không được tái sử dụng theo CHANGE-009. Việc điện thoại Bình có bản ghi âm iCloud vẫn là một dữ kiện riêng đã khóa, không đồng nhất với E11 cũ đã loại.
+
+### Nguyên tắc bảo toàn
+Không tạo thêm dữ liệu điện thoại, tin nhắn, sinh học, camera, dấu vết hoặc kết luận pháp y nếu chưa xác định nguồn, điều kiện thu thập, cách xác minh và giới hạn chứng minh.
+
