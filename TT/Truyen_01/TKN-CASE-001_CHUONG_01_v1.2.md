@@ -1,6 +1,6 @@
 # CĂN PHÒNG KHÔNG CÓ TIẾNG ĐỘNG
 
-**Bản thảo:** v1.3 — rà soát Cảnh 2.4, quy trình báo tin và mốc thời gian (04/11/2026)
+**Bản thảo:** v1.4 — chỉnh cảnh tụ họp, lời thoại và cách cài manh mối chìa khóa (05/11/2026)
 
 ## Chương 1: Người nằm sau cửa sổ
 
