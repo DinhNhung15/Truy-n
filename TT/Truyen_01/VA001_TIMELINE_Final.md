@@ -57,7 +57,7 @@ Thời điểm C02 tử vong phải được xác định trong phạm vi mà d�
 6. C03 nhận ra C02 đang trong tình trạng nguy hiểm và biết nạn nhân vẫn còn sống khi hắn rời đi.  
 7. C03 không gọi cấp cứu.  
 8. C03 tìm giấy tờ sau cú ngã vì lo sợ chúng có thể chứa bằng chứng liên quan đến sai phạm tài chính.  
-9. C03 rời căn hộ và khóa cửa từ bên ngoài bằng chìa khóa dự phòng C02 từng giao cho hắn.  
+9. C03 rời căn hộ và khóa cửa từ bên ngoài bằng chìa khóa CHÍNH căn hộ C02.  
 10. C05 nói dối về vị trí hoặc thời gian để che giấu hành vi riêng không liên quan đến cái chết. C05 nghe thấy một âm thanh mơ hồ nhưng không xác định được nguồn phát hoặc tình trạng của C02.  
 11. Một nhân viên sửa cục nóng điều hòa tại căn hộ bên cạnh tình cờ nhìn thấy một người nằm trên sàn phòng khách C02 qua cửa sổ.  
 12. Người thợ báo cho chủ căn hộ bên cạnh. Chủ căn hộ sang gõ cửa C02 nhưng không nhận được phản hồi, sau đó báo ban quản lý.  
@@ -128,7 +128,7 @@ Không tự ý xác định C02 biết toàn bộ sai phạm ngay từ đầu.
 
 * C03 đến căn hộ của C02.  
 * Hai người gặp nhau trong bối cảnh căng thẳng liên quan đến sai phạm tài chính và tuyên bố về bằng chứng.  
-* C03 có chìa khóa dự phòng do C02 từng giao trước đó.
+* C03 mang theo chìa khóa CHÍNH căn hộ C02 sau khi dùng nó khóa cửa từ bên ngoài.
 
 **Chưa xác định:**
 
@@ -210,7 +210,7 @@ Không được dùng tình trạng xáo trộn làm bằng chứng chắc chắ
 #### **B6. C03 rời căn hộ**
 
 * C03 rời căn hộ.  
-* C03 khóa cửa từ bên ngoài bằng chìa khóa dự phòng.  
+* C03 khóa cửa từ bên ngoài bằng chìa khóa CHÍNH căn hộ C02.  
 * C03 không gọi cấp cứu trước khi rời đi.
 
 **Đã khóa:** C03 rời đi và khóa cửa từ bên ngoài.
@@ -517,7 +517,7 @@ Nếu không thiết kế được manh mối đạt yêu cầu, phải giữ ng
 
 **Nguyên tắc vai trò:**
 
-* C01 là nhân viên hỗ trợ nghiệp vụ giấy tờ, không phải điều tra viên có thẩm quyền.  
+* C01 là cán bộ CAND làm công tác tổng hợp, hỗ trợ hồ sơ nghiệp vụ; không phải điều tra viên có thẩm quyền.  
 * C01 chỉ được phân tích, so sánh những thông tin hợp lệ mà công việc hoặc người có thẩm quyền cung cấp.  
 * C01 có thể phát hiện điểm bất nhất trong cách sắp xếp thông tin, lời khai hoặc hồ sơ được giao xử lý.  
 * C01 không tự ý vào hiện trường, lấy vật chứng, truy cập hồ sơ hạn chế hoặc chính thức thẩm vấn nghi phạm.  
@@ -632,7 +632,7 @@ TIMELINE chỉ được khóa chính thức khi:
 
 ## PHỤ LỤC ĐIỀU CHỈNH — CHANGE-011: T0 chuyển sang sáng thứ Bảy
 
-**Trạng thái:** ĐÃ CHỐT theo quyết định mới nhất của tác giả. Phụ lục này thay thế mọi mốc ghi T0 vào tối/đêm thứ Sáu trong các phiên bản trước.
+**Trạng thái:** Bản ghi lịch sử của CHANGE-011. Mốc T0 sáng thứ Bảy vẫn có hiệu lực; các chi tiết về chìa khóa dự phòng và việc Nguyên làm rơi chìa vào khe tủ trong phụ lục này đã bị CHANGE-012 thay thế, không được dùng làm canon hiện hành. Phụ lục này thay thế mọi mốc ghi T0 vào tối/đêm thứ Sáu trong các phiên bản trước.
 
 1. **T0 xảy ra vào sáng thứ Bảy.** C02 gọi cho C03; cuộc gọi, lời khuyên đầu thú, lời sỉ nhục, con số 250 triệu và việc C02 nói đã ghi âm vẫn giữ nguyên theo CHANGE-007/008.
 2. Sau cuộc gọi, C03 vội đến căn hộ C02. Hai người tranh cãi, giằng co; C03 đẩy C02. C02 ngã, va đầu vào cạnh cứng của đồ nội thất và bị thương nghiêm trọng.
