@@ -135,6 +135,8 @@ STORY_BIBLE (tên khu, tòa, căn hộ), CHARACTER_BIBLE (C01 là cán bộ CAND
 
 ## CHANGE-011 — Chuyển T0 sang sáng thứ Bảy — ĐÃ CHỐT
 
+**Ghi chú hiệu lực:** CHANGE-011 vẫn có hiệu lực về T0 sáng thứ Bảy và việc phi tang sau buổi tụ tập. Mọi chi tiết về chìa dự phòng, chìa rơi vào khe tủ và cách Nguyên nhặt chìa trong phần lịch sử này đã bị CHANGE-012 thay thế; canon hiện hành là chìa khóa CHÍNH căn hộ C02 và chuỗi nhặt chìa dưới ghế.
+
 **Căn cứ:** Người dùng yêu cầu ngày 04/11/2026 chuyển mốc gây án từ tối thứ Sáu sang sáng thứ Bảy, để Long chỉ có vài tiếng trước khi C02 được phát hiện, chưa kịp phi tang chứng cứ và tăng áp lực cho vụ án.
 
 ### 11.1. Mốc thời gian mới
