@@ -56,11 +56,9 @@ Cô gọi ban quản lý, giọng cao dần lên. Cúp máy, cô đứng nhìn c
 
 Bảo vệ tòa nhà lên, bấm chuông, gõ cửa. Ban quản lý gọi cho chủ hộ, đầu dây bên kia chỉ có một giọng nữ đều đều báo thuê bao không liên lạc được.
 
-Cậu bảo vệ nhìn cánh cửa, rồi nhìn Toàn, rồi bấm số cấp cứu.
+Cậu bảo vệ nhìn cánh cửa, rồi lấy điện thoại gọi cấp cứu và báo công an phường. Ban quản lý cũng báo lại việc chủ hộ không liên lạc được.
 
-Công an phường đến trước. Người cán bộ lớn tuổi trong hai người đeo găng tay vào, thử tay nắm. Tay nắm không xoay.
-
-- Cửa khóa. - Ông nói, giọng bình thường, như đọc một con số trên đồng hồ điện.
+Công an phường đến. Người cán bộ lớn tuổi quan sát cánh cửa, hỏi ai đã thử mở. Cô Hạnh nói mình vừa vặn và giật tay nắm nhưng cửa không nhúc nhích. Ông yêu cầu mọi người không chạm thêm vào cửa, rồi hướng dẫn họ lùi ra sảnh thang máy.
 
 Mọi người được đưa lùi ra sảnh thang máy. Toàn không thấy họ mở cửa bằng cách nào. Khi anh ngoảnh lại, cánh cửa đã hé, có người đứng chắn ngay lối vào.
 
@@ -76,7 +74,7 @@ Toàn nhìn xuống đôi tay mình, vẫn còn dính dầu máy, rồi giơ m�
 
 ---
 
-Hai tiếng trước đó, ở tòa nhà bên kia của cùng khu chung cư, Nguyên đứng dưới sảnh, giả vờ xem điện thoại.
+Gần hai tiếng trước đó, vào khoảng 11 giờ 45, ở tòa nhà bên kia của cùng khu chung cư, Nguyên đứng dưới sảnh, giả vờ xem điện thoại. Cuộc hẹn của nhóm được tính vào khoảng 12 giờ trưa.
 
 Cậu đến sớm mười lăm phút. Lên trước một mình thì phải ngồi nói chuyện với Long trong lúc chờ những người khác, mà mười lăm phút là đủ để cậu hết sạch chuyện để nói. Nên cậu đứng đây, soạn trong đầu một câu chào. "Lâu lắm rồi nhỉ." Nghe như ông chú. "Nhà đẹp thế." Chưa thấy nhà đã khen. Cậu xóa cả hai.
 
@@ -136,7 +134,7 @@ Phương thở dài, quay sang cả bàn như phiên dịch viên:
 
 - Ơ, thế là thám tử à? - Vinh nhướn mày.
 
-- Không, không phải. - Nguyên vội nói. - Tôi làm bên tổng hợp hồ sơ ở Phòng Cảnh sát hình sự thôi. Người ta đưa gì thì...
+- Không, không phải. - Nguyên vội nói. - Tôi là cán bộ làm công tác tổng hợp, hỗ trợ hồ sơ nghiệp vụ ở Phòng Cảnh sát hình sự. Chủ yếu là sắp xếp tài liệu, đối chiếu thông tin, tổng hợp biên bản theo phần việc được giao. Tôi không phải điều tra viên.
 
 Câu ấy cứ thế chết giữa chừng. Trong đầu cậu, câu trả lời hoàn chỉnh hơn nhiều: rằng phần lớn công việc là đọc, đối chiếu, tìm chỗ hai tờ giấy nói khác nhau; rằng việc ấy chán hơn phim rất nhiều nhưng cậu lại thấy dễ chịu. Nhưng cái miệng chỉ chịu đưa ra đến chữ "thì".
 
@@ -154,17 +152,15 @@ Vinh cười, bảo cũng thế thôi, rồi hỏi ngược lại Long. Long k�
 
 ---
 
-Hết bia lạnh. Long bảo cái mở nắp chai để trên tủ cạnh bếp.
+Trong lúc mọi người chuyển bát đũa và đồ ăn ra bàn thấp cạnh ghế, Nguyên vô ý va khuỷu tay vào mép bàn. Vài món đồ lặt vặt trượt xuống sàn, rơi ở khoảng trống sát chân ghế.
 
-Nguyên đứng dậy. Cái tủ gỗ cao, kê sát tường. Trên bờ tủ có ít đồ linh tinh: vỏ hộp tăm, mấy tờ hóa đơn gấp đôi, một chiếc chìa khóa lẻ có móc khóa in hình một tòa nhà cách điệu. Nguyên nghĩ thoáng qua: quà công ty Long. Cậu với tay lấy cái mở nắp chai nằm phía trong, mu bàn tay gạt phải mấy thứ ở mép.
+- Để tôi nhặt. - Cậu nói, rồi cúi xuống.
 
-Có một tiếng lách cách rất khẽ.
+Nguyên gom từng món vừa rơi. Khi với tay vào khoảng dưới ghế, cậu chạm phải một chiếc chìa khóa. Cậu tưởng nó cũng vừa rơi khỏi bàn cùng những thứ kia nên nhặt lên luôn. Móc khóa in hình một tòa nhà cách điệu, nhưng cậu chỉ liếc qua rồi đặt tất cả lên mặt bàn.
 
-Cậu khựng lại, nhìn xuống sàn. Không có gì.
+Phương đang gọi cậu mang khay ra. Nguyên đứng dậy, cầm khay đi tiếp, câu chuyện trên bàn cũng nhanh chóng chuyển sang chuyện khác.
 
-- Nguyên ơi, mang cả cái khay ra đây! - Phương gọi.
-
-Cậu mang cả cái khay ra.
+Đến lúc mọi người thu dọn sau bữa ăn, những món đồ lặt vặt còn trên bàn được gom lại, bỏ vào ngăn kéo bàn. Chiếc chìa khóa nằm lẫn trong số đó.
 
 ---
 
@@ -272,11 +268,11 @@ Trên đường về, Nguyên nghĩ đến người nằm trong căn hộ khóa 
 
 Sáng thứ Hai, Phòng Cảnh sát hình sự vẫn ồn như mọi sáng thứ Hai.
 
-Bàn của Nguyên ở góc trong, cạnh tủ hồ sơ, chồng giấy cao hơn màn hình máy tính. Người ta tìm đến bàn này khi cần một bản tổng hợp, một bảng đối chiếu, một tập tài liệu được sắp đúng thứ tự. Ít ai tìm đến để hỏi ý kiến.
+Nguyên là cán bộ làm công tác tổng hợp, hỗ trợ hồ sơ nghiệp vụ tại Phòng Cảnh sát hình sự Công an cấp tỉnh. Bàn của cậu ở góc trong, cạnh tủ hồ sơ, chồng giấy cao hơn màn hình máy tính. Người ta tìm đến bàn này khi cần sắp xếp tài liệu, đối chiếu thông tin giữa các biên bản, lập bảng tổng hợp theo yêu cầu của cán bộ phụ trách. Cậu không trực tiếp chỉ huy xác minh hay tiến hành điều tra.
 
 Anh Sơn đặt một tập tài liệu xuống bàn cậu.
 
-- Vụ tử vong ở chung cư Thanh Lộ, tòa T2, căn 1207. Phát hiện khoảng một giờ bốn mươi chiều thứ Bảy, cửa khóa, nạn nhân nam, sống một mình. Em tổng hợp biên bản ban đầu với lời trình báo của mấy người phát hiện, sắp theo thời gian. Chiều anh cần.
+- Vụ tử vong ở chung cư Thanh Lộ, tòa T2, căn 1207. Phát hiện khoảng một giờ bốn mươi chiều thứ Bảy, cửa khóa, nạn nhân nam, sống một mình. Em tổng hợp các biên bản ban đầu và lời trình báo, đối chiếu những mốc thời gian, ghi rõ chỗ nào trùng khớp, chỗ nào còn khác nhau. Phần xác minh để cán bộ phụ trách xử lý. Chiều anh cần.
 
 Nguyên ngẩng phắt lên.
 
