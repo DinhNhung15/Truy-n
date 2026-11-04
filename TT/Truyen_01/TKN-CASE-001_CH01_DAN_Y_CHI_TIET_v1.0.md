@@ -1,8 +1,9 @@
 # DÀN Ý CHI TIẾT CHƯƠNG 1 — NGƯỜI NẰM SAU CỬA SỔ
 
 **Mã vụ án:** TKN-CASE-001
-**Phiên bản:** v1.0 — ĐÃ DUYỆT (03/11/2026)
-**Căn cứ:** Định hướng dàn ý Chương 1 của người dùng; Sổ quyết định VA001_QUYET_DINH_DA_CHOT (CHANGE-004 → CHANGE-009).
+**Phiên bản:** v1.1 — CẬP NHẬT THEO CHANGE-012 (04/11/2026)
+**Lịch sử:** v1.0 được duyệt ngày 03/11/2026; v1.1 thay thế các chi tiết G7 và các ghi chú liên quan đến chìa khóa theo CHANGE-012.
+**Căn cứ:** Định hướng dàn ý Chương 1 của người dùng; `VA001_QUYET_DINH_DA_CHOT_P2.md`, đặc biệt CHANGE-010 → CHANGE-012.
 **Thay thế:** Chương 1 v0.1 (đã bỏ) và Dàn ý chi tiết v0.1.
 **Góc nhìn:** Phần 1 theo Toàn; Phần 2–4 theo Nguyên. Ngôi thứ ba giới hạn. Lời kể gọi Nguyên là "cậu".
 **Độ dài gợi ý:** tương đương một chương audio 6–9 phút.
@@ -57,7 +58,7 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 | G4 | Long trông thiếu ngủ, giải thích: "tối qua thức xem bóng". | Cảnh 2.2 | Lời giải thích bề ngoài cho vẻ mệt mỏi; không phải chứng cứ xác định T0 hay hành vi gây án |
 | G5 | Nhóm bạn vẫn coi Long là "người thành công nhất lớp". | Cảnh 2.2 | Đối xứng chủ đề Long – Nguyên |
 | G6 | Nguyên làm "bên hình sự", được nhắc **trước** khi tin dữ tới; Long hỏi thêm một câu bình thường. | Cảnh 2.3 | Lý do Long giấu quan hệ đồng nghiệp; nền cho việc Long dò tin Nguyên về sau |
-| G7 | **Chiếc chìa lẻ** có móc khóa in logo một công ty xây dựng, trên bờ tủ. Nguyên vô tình gạt phải, nghe tiếng lách cách, không để ý. | Cảnh 2.4 | Chiếc chìa khóa cửa nhà nạn nhân, rơi vào khe, mang vân tay Long và Nguyên |
+| G7 | Trong lúc sinh hoạt, Nguyên vô tình làm rơi vài món đồ từ bàn xuống sàn. Khi cúi xuống nhặt, cậu nhặt cả một chiếc chìa khóa đang nằm dưới ghế, tưởng nó vừa rơi cùng các món đồ của mình; cậu đặt tất cả lên bàn. Sau đó nhóm thu dọn, cất các món đồ lặt vặt vào ngăn kéo bàn. | Cảnh 2.4 | Chiếc chìa khóa CHÍNH căn hộ C02 đã được Long mang về; về sau được tìm thấy trong ngăn kéo nhà Long. Nguyên có dấu vân tay do vô tình nhặt nó. |
 | G8 | Long sững người khi nghe tin, có độ trễ; lấy cớ "nghe ghê quá" hoặc mệt; **không** nói nạn nhân là đồng nghiệp. | Cảnh 3.3 | Lời nói dối bằng im lặng |
 | G9 | Thông tin về vụ việc đến rời rạc, qua lời người khác, có chỗ sai. | Cảnh 3.2 | Giữ góc nhìn giới hạn |
 | G10 | Kỷ niệm cấp ba: Long từng giải vây cho Nguyên. | Cảnh 2.2 | Lý do Nguyên quý Long và về sau muốn chứng minh bạn vô tội |
@@ -137,11 +138,13 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 - Khi tới lượt Long: chỉ nói chung chung "làm giấy tờ cho một công ty xây dựng", **không nêu tên công ty**. Phương trêu Long khiêm tốn.
 - Vinh nói về công việc rất ít, lái sang chuyện khác.
 
-### Cảnh 2.4 — Chiếc chìa (G7)
-- Một tình huống vụn vặt đưa Nguyên đứng cạnh chiếc tủ sát tường: đi tìm cái mở nắp chai theo lời Long chỉ.
-- Tay cậu gạt phải mấy thứ để trên bờ tủ, trong đó có một chiếc chìa lẻ, móc khóa in một logo hình tòa nhà cách điệu. Cậu nghĩ thoáng qua: chắc quà của công ty Long.
-- Một tiếng lách cách rất nhỏ. Nguyên khựng nửa giây, nhìn quanh, không thấy gì rơi trên sàn. Phương gọi cậu mang đồ ra. Cậu quên luôn.
-- **Chỉ hai ba câu**, chìm giữa các hoạt động khác. Lời kể không dừng lại ở chiếc chìa, không có câu kiểu "cậu không biết rằng…".
+### Cảnh 2.4 — Những món đồ rơi xuống sàn (G7)
+- Trong lúc mọi người trò chuyện/sinh hoạt, Nguyên vô tình làm rơi một vài món đồ từ bàn xuống sàn. Vị trí các món đồ rơi ở khu vực gần dưới ghế.
+- Cậu cúi xuống nhặt. Trong lúc gom những món vừa rơi, cậu nhặt luôn một chiếc chìa khóa đã nằm dưới ghế, tưởng đó là một món rơi khỏi bàn cùng những thứ khác.
+- Nguyên không nhận ra chiếc chìa có liên quan đến căn hộ nào, không kiểm tra kỹ, không hỏi Long và không có suy nghĩ nghi ngờ. Cậu đặt tất cả những thứ vừa nhặt lên mặt bàn rồi tiếp tục câu chuyện đang dang dở.
+- Khi buổi gặp kết thúc và mọi người thu dọn, các món đồ lặt vặt trên bàn được gom vào ngăn kéo bàn. Chiếc chìa khóa nằm trong ngăn kéo cùng chúng.
+- **Giới hạn góc nhìn:** Chỉ kể việc Nguyên làm rơi đồ, nhặt chìa và đặt lên bàn, cùng việc thu dọn mà cậu có thể nhìn thấy. Không kể/miêu tả Long trở về nhà, ngồi ôm trán, nghe điện thoại, làm rơi chìa hoặc tắt/giấu điện thoại Bình; Nguyên không có mặt lúc đó. Không để Nguyên hồi tưởng những việc cậu không chứng kiến.
+- **Cách thể hiện:** chi tiết chìa khóa phải chìm trong hoạt động đời thường, không dừng lời kể để nhấn mạnh, không dùng câu báo trước kiểu "cậu không biết rằng…".
 
 ### Cảnh 2.5 — Người bạn không vui
 - Nguyên để ý Vinh cười chậm hơn mọi người, liếc điện thoại nhiều lần, gắp ít.
@@ -229,7 +232,7 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 - **Phần 2:** nhịp chậm, ấm, có tiếng cười; thoại chiếm nhiều.
 - **Phần 3:** nhịp chuyển từ vui sang lặng; câu ngắn dần.
 - **Phần 4:** nhịp đều, khô hơn, đúng không khí văn phòng.
-- G4 và G7 mỗi chi tiết chỉ một hai câu.
+- G4 chỉ một hai câu. G7 có thể dài hơn một chút để hành động nhặt đồ diễn ra tự nhiên, nhưng không được nhấn chiếc chìa như một phát hiện hoặc gợi Nguyên nghi ngờ.
 - Hạn chế dấu ba chấm, câu hỏi tu từ.
 - Hài hước đến từ tình huống và nội tâm Nguyên, không từ việc chế giễu cậu.
 
@@ -238,7 +241,9 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 ## 9. KIỂM TRA SAU KHI VIẾT
 
 - [ ] Phần 1 ngắn, đủ tò mò, không sa đà quy trình.
-- [ ] G1–G10 đều xuất hiện, đều vô hại khi nghe lần đầu.
+- [ ] G1–G10 đều xuất hiện; G7 là hành động vô tình nhặt chìa dưới ghế, không phải chìa trên bờ tủ/khe tủ.
+- [ ] Chìa khóa là chìa CHÍNH căn hộ C02; sau khi Nguyên đặt lên bàn, mọi người thu dọn và cất các món đồ lặt vặt vào ngăn kéo bàn.
+- [ ] Không có cảnh Nguyên chứng kiến Long nghe điện thoại, làm rơi chìa hoặc giấu điện thoại Bình.
 - [ ] Không có chi tiết nào về chiếc điện thoại thứ hai.
 - [ ] Nguyên được giới thiệu qua hành động: có lúc vụng, có lúc đùa được, có lúc quan tâm bằng hành động.
 - [ ] Phương, Vinh có cá tính riêng, không chỉ làm nền.
@@ -254,18 +259,18 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 ## 10. CẦN XÁC MINH (KHÔNG CHẶN VIỆC VIẾT)
 
 - Thẩm quyền và cách tài liệu vụ tử vong chưa rõ nguyên nhân được chuyển tới Phòng Cảnh sát hình sự: viết mơ hồ vừa đủ.
-- Vị trí cụ thể của khe nơi chiếc chìa rơi (khe giữa tủ gắn tường và tường): phải đủ khó với tới để về sau Long tìm không thấy.
+- Cần giữ nhất quán vị trí ghế nơi chìa khóa trượt xuống dưới; không tự đổi sang khe tủ/khe tường. Chìa được Nguyên nhặt lên và sau đó cất vào ngăn kéo bàn khi mọi người thu dọn.
+
 
 
 ---
 
-## CHANGE-012 — SỬA CHI TIẾT CHÌA KHÓA VÀ GÓC NHÌN NGUYÊN
+## LỊCH SỬ CẬP NHẬT
 
-Mục này thay thế chi tiết G7 và mọi ghi chú trong outline cũ về chiếc chìa dự phòng rơi vào khe tủ/khe tường.
+### v1.1 — 04/11/2026 — Đồng bộ CHANGE-012
 
-- Chìa khóa là **chìa khóa chính căn hộ C02**, không phải chìa dự phòng.
-- Nguyên không gạt chìa khỏi bờ tủ, không nhìn thấy chìa rơi và không thấy Long làm rơi chìa. Cậu đến sau cuộc gọi của Long.
-- Trình tự trước khi Nguyên đến: Long về nhà với điện thoại Bình và chìa khóa trong túi; ngồi gần cửa ôm trán; bạn gọi vào điện thoại Long hỏi chuẩn bị/phân chia việc; Long lấy điện thoại mình ra nghe, chìa khóa rơi khỏi túi và trượt dưới ghế; sau cuộc gọi Long lấy điện thoại Bình, tắt và giấu.
-- Nguyên đến, vô tình làm rơi một số món đồ từ bàn xuống sàn gần khu vực dưới ghế. Khi nhặt đồ của mình, cậu nhặt luôn chìa khóa dưới ghế, tưởng là một món vừa rơi, rồi đặt tất cả lên bàn. Mọi người thu dọn và cất các món đồ lặt vặt vào ngăn kéo bàn.
-- Trong chương đầu, Nguyên vẫn không nghi ngờ Long. Tuyến “cố tìm cách minh oan cho bạn nhưng manh mối dần hướng về bạn” chỉ bắt đầu sau khi vụ án tiến triển; không gieo suy luận sớm vào phần buổi tụ tập.
-- Không đưa vào nội tâm Nguyên các cảnh trước khi cậu đến nhà Long.
+- Thay toàn bộ chi tiết chìa khóa lẻ trên bờ tủ/rơi vào khe bằng chìa khóa chính căn hộ C02 rơi xuống dưới ghế.
+- Sửa hành động của Nguyên: cậu vô tình làm rơi đồ từ bàn, nhặt đồ và nhặt luôn chìa khóa dưới ghế, đặt lên bàn; khi thu dọn, nhóm cất các món đồ lặt vặt vào ngăn kéo bàn.
+- Bổ sung continuity ngoài điểm nhìn: Long mang chìa khóa chính và điện thoại Bình về; chìa rơi khi Long lấy điện thoại của mình nghe cuộc gọi; sau cuộc gọi Long tắt và giấu điện thoại Bình. Nguyên không chứng kiến các việc này.
+- Giữ nguyên cấu trúc Chương 1 và nguyên tắc Nguyên không nghi ngờ Long trong chương đầu. Tuyến tìm cách minh oan cho Long và các manh mối dần hướng về Long phát triển ở các chương sau.
+- CHANGE-012 thay thế mọi chi tiết cũ trái ngược trong G7, Cảnh 2.4, mục 10 và ghi chú CHANGE-011/012 trước đây.
