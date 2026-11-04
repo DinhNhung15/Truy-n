@@ -500,3 +500,36 @@ CHANGE-012 xác nhận chìa khóa vật chứng là chìa khóa chính căn h�
 C01 ban đầu tin C03 vô tội và thực sự cố tìm hướng giải thích khác để minh oan. Chìa khóa được xác định thiếu ở căn hộ C02 trước; vợ C02 cung cấp ảnh; chìa tương ứng được tìm thấy trong ngăn kéo nhà C03; sau đó C01 biết dấu vân tay mình có trên vật chứng, nhớ việc nhặt chìa và kiểm tra ảnh/video cũ trong nhóm chat. Hình ảnh củng cố rằng chìa khóa đã xuất hiện ở nhà C03, nhưng không chứng minh ai mang nó đến hoặc ai gây án. Các manh mối độc lập khác mới tiếp tục làm C01 lung lay.
 
 Không cho C01 hồi tưởng những gì cậu không chứng kiến; không cho C01 tự ý dùng quyền nghiệp vụ để tra cứu dữ liệu sau khi rút khỏi phần việc liên quan.
+
+---
+
+## ADDENDUM CHANGE-013 — CANON CỐT TRUYỆN VÀ GIỚI HẠN SUY LUẬN (ĐÃ CHỐT)
+
+Addendum này là lớp canon ưu tiên cho các mục cũ còn ghi “chìa dự phòng”, mô tả nghề C01 là nhân viên hỗ trợ, hoặc ghi các điểm đã được CHANGE-012/013 thay thế.
+
+### Sự thật nền
+- T0 diễn ra sáng thứ Bảy. Long đi siêu thị trước, sau đó nhận cuộc gọi từ Bình và đến căn hộ Bình.
+- Long đẩy Bình trong lúc xô xát; Bình ngã, đầu va vào cạnh cứng của đồ nội thất và bị thương chí mạng. Long không lên kế hoạch giết Bình.
+- Long nhận ra Bình có thể đang nguy hiểm hoặc còn sống nhưng không gọi cấp cứu; tìm tài liệu, lấy điện thoại Bình và chìa khóa CHÍNH căn hộ Bình, khóa cửa từ bên ngoài rồi rời đi.
+- Long đã đi siêu thị thật; hóa đơn/camera chỉ chứng minh sự hiện diện ở thời điểm ghi nhận, không phải ngoại phạm liên tục.
+- Long về nhà với điện thoại Bình và chìa khóa chính. Chìa rơi dưới ghế khi Long lấy điện thoại của mình nghe cuộc gọi bạn trong nhóm. Sau đó Long mới tắt và giấu điện thoại Bình. Nguyên đến sau, vô tình nhặt chìa cùng đồ vừa làm rơi; nhóm cất các món đồ vào ngăn kéo bàn.
+- Buổi tụ tập trưa–chiều thứ Bảy đã hẹn từ trước; C02 được phát hiện khoảng 13:40. Long chỉ phi tang điện thoại và sổ tay sau khi nhóm bạn rời đi.
+
+### Bí ẩn và cấu trúc cốt truyện
+- Vụ án bắt đầu như một cái chết trong căn hộ khóa kín; lời đồn của cư dân không phải sự thật đã xác minh.
+- Các lời nói dối, thiếu sót và hành vi bất thường phải được phân loại theo nguồn gốc. C05 nói dối vì lý do riêng, không phải đồng phạm; lời nói dối không tự chứng minh liên quan đến cái chết.
+- Trục điều tra phải phân biệt: Long có mặt ở căn hộ Bình; Bình bị thương khi Long còn ở đó; và Long trực tiếp đẩy Bình. Đây là các mức chứng minh khác nhau.
+- E8 đã được chốt ở CHANGE-009. Không được coi E8 là đề xuất đang chờ duyệt: E8-A (chấn thương vùng sau đầu/ngã ngửa trong giới hạn kết luận pháp y), E8-B (sàn khô, không vật cản), E8-C (các bậc lời khai thay đổi của Long), E8-D (khung ảnh gia đình bị đổ, kính nứt; chi tiết được giữ kín và Long tự kể đúng khi thú nhận).
+- Long thú nhận sau khi được nghe bản ghi âm trọn vẹn. C02 nói “Long, em đi đầu thú đi”; đầu cuộc gọi C02 nói chưa có gì chắc chắn, các con số mới chỉ được đối chiếu trong sổ của anh. Long nhận ra mình đã gây ra cái chết vì một bằng chứng không có thật. Cuốn sổ tay bị vứt cùng điện thoại và không thu hồi được; khoản 250 triệu được xác minh lại qua hồ sơ công ty sau đó.
+- Không dùng lời thú nhận thay thế chứng cứ độc lập. Kết luận về cú đẩy cần trình bày đúng giới hạn: chứng cứ độc lập xác lập Long có mặt, Bình bị thương khi Long còn ở đó, Long lục tìm đồ/khóa cửa/bỏ đi không gọi cấp cứu; động tác đẩy được xác lập bằng lời thú nhận đã kiểm chứng qua E8-D.
+
+### Nhân vật và điểm nhìn
+- C01 là cán bộ CAND làm tổng hợp, hỗ trợ hồ sơ nghiệp vụ tại Phòng Cảnh sát hình sự Công an cấp tỉnh; không phải điều tra viên và không có quyền tự tiến hành điều tra.
+- C01 ban đầu tin Long vô tội, thực sự muốn minh oan cho bạn. Khi các manh mối tích lũy, cậu chuyển từ tìm cách chứng minh Long vô tội sang cố hiểu chính xác chuyện gì đã xảy ra.
+- C01 không chứng kiến Long về nhà, ngồi ôm trán, nghe điện thoại, làm rơi chìa khóa hoặc tắt/giấu điện thoại Bình. Những việc này chỉ là continuity khách quan, không được kể như ký ức của C01.
+- C05/Vũ Thị Hạnh là hàng xóm khoảng 55 tuổi; nghe âm thanh mơ hồ nhưng không chứng kiến cú đẩy. Lý do nói dối chưa khóa.
+- C02 là kế toán thanh toán công ty xây dựng; không phải người biển thủ hoặc đồng phạm. Vợ và con đã về nhà ông bà ngoại; đang trong quá trình ly hôn.
+
+### Các thông tin chưa được tự ý khóa
+Thời điểm tử vong chính xác; giờ Long đến/rời căn hộ; cơ chế khóa cửa chi tiết; đồ nội thất cụ thể; kết luận pháp y vượt quá E8-A; lý do Hạnh nói dối; phạm vi camera ngoài trời; chi tiết tài chính chưa có nguồn; danh tính/tên chính thức chưa xác nhận.
+
