@@ -1,0 +1,131 @@
+# SỔ QUYẾT ĐỊNH ĐÃ CHỐT — TKN-CASE-001 (PHẦN 2)
+
+**Tiếp nối:** TT/Truyen_01/VA001_QUYET_DINH_DA_CHOT.md (CHANGE-001 → CHANGE-008). Hai file cùng là nguồn có hiệu lực; mục có số CHANGE lớn hơn được ưu tiên khi mâu thuẫn.
+**Căn cứ:** Người dùng chốt ngày 03/11/2026: "còn các ý khác chốt" (toàn bộ đề xuất E8 và 6 điểm dàn ý Chương 1); bổ sung cảnh C03 phát hiện mình giết người vì bằng chứng không có thật; số phận cuốn sổ tay. Ngày 04/11/2026: 15 điểm sửa Chương 1 (CHANGE-010).
+
+---
+
+## CHANGE-009 — Hệ thống E8, lời thú nhận, cuốn sổ tay, chi tiết Chương 1
+
+### 9.1. E8 — Phân biệt cú đẩy với việc C02 tự ngã — ĐÃ CHỐT
+
+**Nguyên tắc (giữ từ CLUE_LEDGER v1.4):** không có chứng cứ thần kỳ. E8 vận hành bằng cách bác dần từng phiên bản lời khai của C03, rồi kiểm chứng lời thú nhận bằng một chi tiết chưa công bố.
+
+**Bậc thang lời khai của C03:**
+
+| Bước | C03 khai | Bị bác bỏ bởi |
+| --- | --- | --- |
+| 1 | "Tôi không đến." | Camera tòa C02 (X, Y); nhật ký cuộc gọi tối thứ Sáu |
+| 2 | "Tôi đến, cãi nhau rồi về. Lúc đó anh ấy vẫn bình thường." | Chìa dự phòng nằm ở nhà C03; vị trí điện thoại (Tìm) ở tòa C03. Người còn khỏe không để khách cầm điện thoại của mình đi rồi khóa mình trong nhà |
+| 3 | "Anh ấy lao vào tôi, rồi vấp ngã." | Bản ghi âm iCloud: C02 khuyên đầu thú, C03 là bên sỉ nhục và vội chạy sang. E8-A: chấn thương vùng sau đầu, ngã ngửa, không phải ngã chúi về trước |
+| 4 | "Anh ấy tự lùi lại rồi trượt chân." | E8-A: vết bầm mới đối xứng ở mặt trước hai vai, phù hợp tác động lực từ phía trước. E8-B: sàn khô, không vật cản. **Chỉ làm yếu, không bác bỏ hẳn.** C03 bám lâu ở bậc này |
+| 5 | Thú nhận đã đẩy | Kiểm chứng bằng E8-D mới |
+
+**E8-D mới (thay E8-D cũ dựa vào điện thoại tại hiện trường):** khi ngã, tay C02 quơ trúng và kéo đổ **khung ảnh gia đình có ảnh vợ con** trên kệ. Khung ảnh úp xuống sàn, kính nứt. Biên bản hiện trường ghi nhận; điều tra viên giữ kín. Khi thú nhận, C03 tự kể đúng chi tiết đó. Chứng minh C03 có mặt **đúng khoảnh khắc ngã**.
+
+**Bỏ:** E14 (vết máu trên ngăn kéo khi C03 lục đồ). E11 cũ (điện thoại tại hiện trường) và E13 (ảnh chứng từ chỉnh sửa) đã bị loại từ trước.
+
+**Cần xác minh:** mức kết luận pháp y về vết bầm đối xứng ở hai vai ("phù hợp với tác động từ phía trước"). Chỉ dùng trong giới hạn đó.
+
+**Kết luận Ch.10 phải thể hiện hai mức:**
+- Chứng minh bằng chứng cứ độc lập: C03 có mặt; C02 bị thương khi C03 còn ở đó; C03 lục nhà, lấy đồ, khóa cửa, bỏ đi không gọi cấp cứu.
+- Xác lập bằng lời thú nhận đã được kiểm chứng: động tác đẩy.
+
+### 9.2. Điều khiến C03 thú nhận (Ch.9) — ĐÃ CHỐT
+
+1. Điều tra viên cho C03 nghe **bản ghi âm trọn vẹn** mà cậu ta tưởng đã hủy cùng điện thoại.
+2. Giọng C02 không chửi bới. C02 khuyên: "Long, em đi đầu thú đi."
+3. **Đêm thứ Sáu, C03 chỉ nghe thấy điều mình sợ.** Đang bị sỉ nhục, C02 nóng giận nói ra "250 triệu" và "anh ghi âm rồi". C03 chỉ nghe hai câu đó và lao sang.
+4. **Đầu cuộc gọi có một đoạn C03 bỏ qua.** Lúc còn bình tĩnh, C02 nói đại ý: anh chưa có gì chắc chắn, mấy con số mới chỉ đối chiếu trong sổ của anh, anh gọi trước vì muốn em tự đi nói ra.
+5. Nghe lại trọn vẹn và tỉnh táo, C03 mới nghe thấy đoạn đó lần đầu.
+6. **C03 nhận ra mình đã giết người vì một bằng chứng không có thật.** Thứ cậu ta chạy sang để cướp không chứng minh được gì. Thứ đang buộc tội cậu ta là chính những việc cậu ta làm đêm đó: lấy điện thoại, cầm chìa, khóa cửa, bỏ đi. Và cậu ta đã giết người duy nhất từng cho mình cơ hội.
+7. Lời thú nhận đến sau nhận thức đó. E8-D (khung ảnh) dùng để kiểm chứng.
+
+**Ràng buộc:**
+- Điều tra viên không lừa C03; chỉ cho nghe đúng bản ghi thật.
+- Người nghe không được biết nội dung đầy đủ cuộc gọi trước Ch.9. Khi bản ghi lộ ở Ch.7–8, chỉ nêu những phần chứng minh động cơ.
+- Gieo trước ở Ch.5 hoặc Ch.6 rằng C02 **chưa có gì trong tay** (ví dụ qua lời luật sư).
+- Khớp canon 7.3: manh mối trong sổ tay "chưa đủ để tự kết luận".
+
+**Đối xứng chủ đề:** C03 từng là người nói giỏi nhất lớp nhưng thất bại vì không chịu nghe. Nguyên vụng nói nhưng biết lắng nghe.
+
+### 9.3. Số phận cuốn sổ tay — ĐÃ CHỐT
+
+- C03 **vứt cuốn sổ tay chung với điện thoại** (đập điện thoại trong nhà, rồi mang cả hai ra ném xuống sông).
+- C03 chưa từng đọc kỹ cuốn sổ, nên không tự phát hiện ra sổ chỉ chứa nghi vấn.
+- Cuốn sổ không thu hồi được. Khoản 250 triệu được xác minh lại sau đó qua hồ sơ của công ty, khi cơ quan điều tra đã biết phải tìm ở đâu.
+
+### 9.4. Chi tiết Chương 1 — ĐÃ CHỐT
+
+Theo TT/Truyen_01/TKN-CASE-001_CH01_DAN_Y_CHI_TIET_v1.0.md (đã điều chỉnh một số điểm ở CHANGE-010):
+
+| Điểm | Quyết định |
+| --- | --- |
+| Bạn học có tên trong buổi gặp | **Phương** (nữ, nhanh nhảu, hay trêu, "phiên dịch" cho Nguyên) và **Vinh** (nam, hiền, ít nói) |
+| Chuyện buồn của Vinh | **Bị công ty cắt giảm**, chưa dám nói với ai; kể với Nguyên trong thang máy lúc về |
+| Kỷ niệm cấp ba khiến Nguyên quý Long | Năm lớp 11, buổi thuyết trình nhóm, Nguyên đứng im không nói được. Long nhẹ nhàng xin cô cho Nguyên nói nốt vì bạn ấy tìm hiểu kỹ nhất, rồi đứng chờ |
+| Đặc điểm nhận dạng chiếc chìa | **Móc khóa in hình một tòa nhà cách điệu**, không đọc được tên công ty. Nguyên nghĩ là quà công ty của Long |
+| Nguồn tin dữ | **Vinh xuống mua đá**, nghe trong thang máy và dưới sảnh |
+| Đồng nghiệp ở Phần 4 | **Anh Sơn** giao việc nhanh; **chị Nhàn** chỉ một cử chỉ nhỏ |
+| Tủ đặt chiếc chìa | Tủ gỗ cao kê sát tường cạnh bếp; chìa rơi vào khe giữa tủ và tường |
+
+**Âm đầu tên mới:** Phương (Ph), Vinh (V). Không trùng dàn nhân vật hiện có.
+
+### 9.5. Hồ sơ bị ảnh hưởng
+
+CLUE_LEDGER (E8-A → E8-D, loại E11 cũ, E13, E14), CASE_FILE (§4.4), CHARACTER_BIBLE (Phương, Vinh; C03: không biết nghe), CHAPTER_OUTLINE (Ch.5–6 gieo "C02 chưa có gì trong tay"; Ch.7–10), TIMELINE (số phận sổ tay).
+
+**Trạng thái:** ĐÃ CHỐT.
+
+---
+
+## CHANGE-010 — Điều chỉnh từ bản biên tập Chương 1 v1.2
+
+**Căn cứ:** Người dùng sửa 15 điểm trên Chương 1 ngày 04/11/2026. Bản chuẩn hiện tại: TT/Truyen_01/TKN-CASE-001_CHUONG_01_v1.2.md.
+
+### 10.1. Địa điểm và thời gian — ĐÃ CHỐT
+
+| Nội dung | Quyết định |
+| --- | --- |
+| Tên khu chung cư | **Chung cư Thanh Lộ** (tên hư cấu) |
+| Tòa của C02 | **Tòa T2** |
+| Căn hộ C02 | **Căn 1207** (tầng 12) |
+| Căn hộ cô Hạnh | Căn sát vách 1207, cùng tầng 12; số căn **chưa khóa** |
+| Tòa của C03 | Tòa khác trong khu Thanh Lộ; tên tòa **chưa khóa** (gợi ý T3) |
+| Giờ phát hiện | **Khoảng 13 giờ 40, thứ Bảy** |
+
+### 10.2. Cách gọi nghề của Nguyên — ĐÃ CHỐT
+
+- Nguyên là **cán bộ Công an nhân dân**, công tác tại **Phòng Cảnh sát hình sự, Công an cấp tỉnh**, làm công tác **tổng hợp, hỗ trợ hồ sơ nghiệp vụ**. Trong truyện gọi ngắn là "cán bộ tổng hợp hồ sơ".
+- Đây là cách gọi để xây dựng nhân vật, không phải tên chức danh pháp lý.
+- Công việc hằng ngày: tiếp nhận hồ sơ được giao; phân loại, sắp xếp, lập danh mục; đối chiếu lời khai, biên bản; lập bảng tổng hợp điểm chưa thống nhất; ghi nhận tài liệu còn thiếu, báo người phụ trách; chuẩn bị tài liệu cho điều tra viên.
+- Nguyên **không** trực tiếp lấy lời khai, khám nghiệm hiện trường hay tự tiến hành hoạt động điều tra.
+- Khi bạn bè hỏi: "Tôi làm bên tổng hợp hồ sơ ở Phòng Cảnh sát hình sự thôi."
+- **Thay đổi so với CHANGE-005:** trước đây ghi "nhân viên hỗ trợ tổng hợp". Nay là cán bộ trong biên chế. Các ràng buộc về thẩm quyền ở CHANGE-005 mục 5.4 giữ nguyên.
+
+### 10.3. Phần 1 (Toàn) — ĐÃ CHỐT
+
+- **Cô Hạnh tự vặn và giật tay nắm cửa** khi không ai trả lời (người Việt ưu tiên cứu người, có chút tọc mạch). Cửa không mở. Hệ quả: **tay nắm cửa có dấu vết của cô Hạnh**; trước đó chỉ có công an chạm vào. Cần lưu ý khi viết phần khám nghiệm (Ch.2).
+- Toàn hỏi cô có **số anh ấy hay số người nhà** không. Cô không có. Cô kể **mấy tháng trước thấy hai vợ chồng cãi nhau to, vợ ôm con đi**, từ đó chỉ thấy mỗi mình anh ấy. Câu "ở sát vách thì cô phải biết" được giữ. Cô **không** nhắc tiếng động tối thứ Sáu.
+- **Bỏ chi tiết số liên hệ khẩn cấp** trong Chương 1. Việc số khẩn cấp là của vợ C02 (CHANGE-007, 7.7) vẫn là canon nhưng chưa xuất hiện trong truyện; nếu cần, đưa vào chương sau.
+- Lời cán bộ: "Người trong nhà mất rồi. Mọi người đứng ngoài này. Giữ nguyên hiện trường. Ai là người phát hiện đầu tiên?" Toàn giơ tay.
+
+### 10.4. Phần 2–3 (buổi gặp) — ĐÃ CHỐT
+
+- **Phương và Vinh** gặp Nguyên dưới sảnh, ba người cùng lên. Bỏ chi tiết Vinh đến muộn.
+- Long **sắc mặt không được tốt**, thay cho "mắt thâm" (T0 mới tối hôm trước). Lời giải thích "tối qua thức xem bóng" giữ nguyên.
+- Nguyên trả lời nghề như mục 10.2.
+- Tin dữ từ Vinh rút gọn: cửa khóa, phải gọi công an lên mở; có bà bảo nằm mấy hôm rồi, hình như đột quỵ. Phương hỏi "ở một mình à", Vinh: "chắc thế rồi".
+- **Phản ứng của Long được làm kín hơn:** bỏ chi tiết tay dừng lại, tay run. Phương hỏi vọng qua lúc Long đang rửa bát; Long trả lời chậm, vẫn không quay lại: "Không. Khu này mấy nghìn người, biết ai với ai." Rồi tắt nước, lau tay, bảo mọi người ăn tiếp. Long vẫn **không** nói nạn nhân là đồng nghiệp.
+
+### 10.5. Phần 4 (văn phòng) — ĐÃ CHỐT
+
+- Anh Sơn giao việc nêu rõ: chung cư Thanh Lộ, tòa T2, căn 1207, phát hiện khoảng 13 giờ 40 thứ Bảy, cửa khóa, nạn nhân nam, sống một mình.
+- Nguyên nhận ra tên khu ngay khi nghe anh Sơn nói.
+- Phần tài liệu Nguyên nhận vẫn **không** có nơi làm việc của nạn nhân.
+
+### 10.6. Hồ sơ bị ảnh hưởng
+
+STORY_BIBLE (tên khu, tòa, căn hộ), CHARACTER_BIBLE (C01 là cán bộ CAND; C05 kể chuyện vợ chồng C02 cãi nhau), TIMELINE (giờ phát hiện 13h40), CLUE_LEDGER (E1: dấu vết trên tay nắm có của cô Hạnh), CHAPTER_OUTLINE (Ch.2: khám nghiệm tay nắm; số liên hệ khẩn cấp dời sang chương sau).
+
+**Trạng thái:** ĐÃ CHỐT.
