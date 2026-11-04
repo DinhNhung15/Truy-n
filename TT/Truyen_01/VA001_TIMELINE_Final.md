@@ -713,3 +713,22 @@ TIMELINE chỉ được khóa chính thức khi:
 - Khi được thông báo dấu vân tay trên chìa, Nguyên nhớ lại việc nhặt chìa; sau đó tự kiểm tra ảnh/video cũ trong nhóm chat và đối chiếu móc khóa với ảnh vợ Bình cung cấp.
 - Chuỗi chìa khóa không tự chứng minh Long gây án. Các chứng cứ E8 và các dữ kiện độc lập khác vẫn giữ nguyên theo CHANGE-009.
 
+
+
+## RÀ SOÁT MỐC THỜI GIAN CHƯƠNG 1 — BẢN LÀM VIỆC v1.3
+
+Phần dưới đây chuẩn hóa nhịp kể giữa cảnh Toàn phát hiện và buổi gặp tại nhà Long. Đây là mốc vận hành để viết Chương 1, không biến các giờ ước lượng thành dữ liệu điều tra đã xác minh.
+
+| Sự kiện | Mốc dùng trong bản thảo | Trạng thái |
+| --- | --- | --- |
+| Long về nhà sau khi rời căn hộ Bình | Khoảng 11:30 | Ước lượng theo ràng buộc Long về trước giờ hẹn khoảng 30 phút. |
+| Long ngồi gần cửa, nhận cuộc gọi của bạn; chìa khóa chính rơi dưới ghế; sau cuộc gọi tắt/giấu điện thoại Bình | Khoảng 11:30–11:45 | Trước khi Nguyên đến; Nguyên không chứng kiến. |
+| Nguyên đến nhà Long | Khoảng 11:45 | Sớm 15 phút so với giờ hẹn dự kiến 12:00. |
+| Buổi gặp bạn cũ | Khoảng 12:00 đến sau 13:40 | Đang diễn ra vào thời điểm C02 được phát hiện; không tạo ngoại phạm. |
+| Toàn phát hiện C02 | Khoảng 13:40 thứ Bảy | Mốc đã chốt. |
+| Nhóm rời nhà Long; Long xử lý điện thoại và sổ tay | Sau khi buổi gặp kết thúc | Không gán giờ cụ thể; phải sau khi khách rời đi. |
+| Nguyên nhận việc tổng hợp hồ sơ | Sáng thứ Hai | Chỉ tổng hợp/đối chiếu tài liệu theo phân công, không tự tiến hành điều tra. |
+
+**Chỉnh câu chuyển thời gian trong bản thảo:** dùng “Gần hai tiếng trước đó, vào khoảng 11 giờ 45...” thay cho “Hai tiếng trước đó” để tránh sai số 5 phút so với mốc phát hiện 13:40. Nếu không muốn nêu giờ cụ thể trong lời kể, chỉ cần giữ “Gần hai tiếng trước đó”.
+
+**Phạm vi bất biến:** mốc 13:40 là khoảng thời gian phát hiện đã chốt; các mốc 11:30, 11:45 và 12:00 là giờ ước lượng/điều phối cảnh viết, chưa phải dữ kiện được điều tra xác minh. Không dùng chúng như chứng cứ ngoại phạm hoặc thời điểm pháp y.
