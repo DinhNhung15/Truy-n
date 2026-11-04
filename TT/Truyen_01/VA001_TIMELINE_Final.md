@@ -137,7 +137,7 @@ Không tự ý xác định C02 biết toàn bộ sai phạm ngay từ đầu.
 * C02 mở cửa hay C03 tự mở cửa.  
 * Cuộc gặp đã được hẹn trước hay phát sinh đột xuất.
 
-Các mốc khoảng 19 giờ 30 phút từng được nêu chỉ là mốc tham khảo, chưa phải giờ chính thức.
+Mốc khoảng 19 giờ 30 phút từng được nêu thuộc phương án T0 tối thứ Sáu cũ; đã bị CHANGE-011 thay thế, không còn được sử dụng.
 
 #### **B2. Cuộc tranh cãi leo thang**
 
