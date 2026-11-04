@@ -674,3 +674,42 @@ TIMELINE chỉ được khóa chính thức khi:
 - Nguyên tiếp tục tìm hiểu với mong muốn minh oan cho Long; các manh mối độc lập xuất hiện dần và ngày càng hướng về Long. Chỉ sau chuỗi tích lũy đó, niềm tin của Nguyên mới thực sự lung lay.
 
 **Mốc giờ chính xác** của cuộc gọi, lúc chìa rơi, lúc nhóm đến và lúc thu dọn chưa được khóa; không tự gán giờ.
+
+---
+
+## ADDENDUM CHANGE-013 — TIMELINE CHUẨN HÓA SAU CHANGE-012
+
+**Ưu tiên:** Addendum này ghi lại thứ tự sự kiện đã chốt và thay thế mọi dòng cũ còn gọi chìa khóa là chìa dự phòng hoặc đặt nó ở khe tủ.
+
+### A. Sự kiện trước khi phát hiện
+1. Sáng thứ Bảy, Long đi siêu thị; hóa đơn/camera là thật nhưng chỉ xác nhận sự hiện diện tại thời điểm ghi nhận.
+2. Long nhận cuộc gọi của Bình, đến căn hộ Bình. Hai người tranh cãi và giằng co.
+3. Long đẩy Bình; Bình ngã, đầu va vào cạnh cứng của đồ nội thất và bị thương chí mạng. Thời điểm tử vong chính xác chưa khóa.
+4. Long nhận ra Bình có thể đang nguy hiểm hoặc còn sống nhưng không gọi cấp cứu; tìm tài liệu, lấy điện thoại Bình và chìa khóa CHÍNH căn hộ Bình, khóa cửa từ bên ngoài.
+5. Long rời đi, mang cả điện thoại Bình và chìa khóa chính về nhà.
+6. Long ngồi gần cửa ra vào, ôm trán. Bạn trong nhóm gọi vào điện thoại Long hỏi việc chuẩn bị, phần còn thiếu, phân chia công việc và báo sắp đến.
+7. Khi Long lấy điện thoại của mình ra nghe, chìa khóa chính rơi khỏi túi, trượt dưới ghế; Long không nhận ra.
+8. Sau cuộc gọi, Long nhớ đến điện thoại Bình, lấy ra, tắt nguồn và giấu đi.
+9. Nguyên đến sau; vô tình làm rơi vài món đồ từ bàn xuống sàn gần khu vực ghế; khi nhặt đồ của mình, cậu nhặt luôn chìa khóa dưới ghế, tưởng nó vừa rơi cùng các món đồ. Cậu đặt tất cả lên bàn.
+10. Khi nhóm thu dọn, các món đồ lặt vặt trên bàn được gom vào ngăn kéo; chìa khóa nằm trong ngăn kéo.
+11. Buổi tụ tập đã được hẹn từ trước, diễn ra trưa–chiều thứ Bảy; không tạo ngoại phạm cho Long.
+12. C02 được phát hiện khoảng 13:40 thứ Bảy. Sau khi nhóm bạn rời đi, Long mới bật lại điện thoại Bình, xóa bản ghi trên thiết bị, đập điện thoại và mang điện thoại cùng sổ tay đi ném xuống sông. Cuốn sổ không thu hồi được.
+
+### B. Phát hiện và xử lý ban đầu
+- Toàn đang sửa điều hòa tại căn hộ Hạnh, nhìn qua cửa sổ/giếng trời và thấy người nằm trên sàn căn hộ Bình. Toàn không nhìn rõ mặt, không xác định tình trạng sống/chết và không suy đoán nguyên nhân.
+- Toàn báo Hạnh. Hạnh tự vặn/giật tay nắm cửa khi không ai trả lời; cần ghi nhận khả năng dấu vết trên tay nắm có dấu của Hạnh. Không viết Toàn là người chạm tay nắm đầu tiên.
+- Hạnh báo ban quản lý; bảo vệ Khoa kiểm tra, bấm chuông/gõ cửa. Ban quản lý gọi chủ hộ nhưng thuê bao không liên lạc được. Không đưa số liên hệ khẩn cấp của vợ Bình vào Chương 1.
+- Bảo vệ gọi cấp cứu và báo công an phường. Công an phường và cấp cứu đến; cửa được mở ngoài tầm nhìn Toàn. Nhân viên y tế xác định người trong nhà đã tử vong. Công an bảo vệ hiện trường, yêu cầu giữ nguyên hiện trạng, ghi nhận người phát hiện và lời kể ban đầu, báo cáo đơn vị có thẩm quyền.
+- Không ghi thời điểm chính xác hoặc cách mở cửa khi chưa có quyết định; không để người dân tự xác định nguyên nhân chết.
+
+### C. Camera tòa nhà
+- Camera ở sảnh tầng trệt/khu vực gửi xe; lối vào cầu thang bộ tại tầng trệt và tầng hầm; thang máy và sảnh thang máy mỗi tầng.
+- Không có camera dọc các tầng cầu thang bộ. Người đi cầu thang giữa các tầng có thể không bị ghi hình trên hành trình đó.
+- Long sống ở tòa khác trong cùng khu Thanh Lộ, không phải cư dân tòa T2 của Bình; cần kiểm tra camera ra/vào tòa T2. Camera cổng khu và khu vực ngoài trời chưa xác minh phạm vi.
+
+### D. Dòng thời gian nhận thức của C01
+- Nguyên chỉ nhớ hành động của mình: làm rơi đồ, nhặt chìa dưới ghế, đặt lên bàn; sau đó nhóm cất đồ vào ngăn kéo.
+- Nguyên không chứng kiến Long về nhà, ngồi ôm trán, nghe cuộc gọi, làm rơi chìa hoặc tắt/giấu điện thoại Bình.
+- Khi được thông báo dấu vân tay trên chìa, Nguyên nhớ lại việc nhặt chìa; sau đó tự kiểm tra ảnh/video cũ trong nhóm chat và đối chiếu móc khóa với ảnh vợ Bình cung cấp.
+- Chuỗi chìa khóa không tự chứng minh Long gây án. Các chứng cứ E8 và các dữ kiện độc lập khác vẫn giữ nguyên theo CHANGE-009.
+
