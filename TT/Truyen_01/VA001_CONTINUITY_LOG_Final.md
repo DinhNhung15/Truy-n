@@ -480,3 +480,40 @@ Chỉ chuyển sang giai đoạn lập dàn ý chương khi những lỗ hổng 
 6. Nguyên ban đầu tin Long vô tội, chủ động tìm cách minh oan. Manh mối xuất hiện từng bước; chìa khóa, dấu vân tay và ảnh nhóm làm Nguyên lung lay nhưng không tự chứng minh Long là hung thủ. Các manh mối độc lập khác tiếp tục hướng về Long.
 7. Không dùng quyền nghiệp vụ của Nguyên để truy cập trái phép hồ sơ, camera hoặc dữ liệu. Tôn trọng việc rút khỏi phần việc có xung đột lợi ích.
 8. CHANGE-012 thay thế các chi tiết cũ trái ngược trong CHANGE-008/011 và outline: chìa dự phòng, chìa rơi vào khe tủ, Nguyên gạt chìa khỏi bờ tủ. Không thay đổi sự thật nền về cú đẩy, việc bỏ mặc C02, động cơ tài chính, bản ghi âm iCloud và cấu trúc E8.
+
+---
+
+## CHANGE-013 — BẢNG CANON ĐỒNG BỘ VÀ CÁC ĐIỂM CẤM
+
+### Canon đã khóa
+- T0 sáng thứ Bảy; Long đi siêu thị thật, sau đó nhận cuộc gọi từ Bình và đến căn hộ Bình.
+- Long đẩy Bình trong lúc xô xát; Bình ngã va đầu vào cạnh cứng của đồ nội thất và bị thương chí mạng. Long không chủ đích giết người.
+- Long bỏ mặc Bình dù nhận ra nạn nhân có thể đang nguy hiểm/còn sống; lấy điện thoại Bình và chìa khóa chính, khóa cửa từ bên ngoài rồi rời đi.
+- Long mang điện thoại Bình và chìa khóa chính về nhà. Chìa rơi dưới ghế khi Long lấy điện thoại của mình nghe cuộc gọi bạn; Nguyên đến sau, vô tình nhặt chìa cùng đồ vừa làm rơi; nhóm cất đồ vào ngăn kéo.
+- C02 được phát hiện khoảng 13:40 thứ Bảy. Buổi tụ tập đã lên lịch từ trước và không phải ngoại phạm. Long chỉ phi tang điện thoại/sổ tay sau khi nhóm rời đi.
+- C01 là cán bộ CAND làm tổng hợp/hỗ trợ hồ sơ nghiệp vụ tại Phòng Cảnh sát hình sự cấp tỉnh; không có quyền điều tra độc lập.
+- C03 là Trần Vũ Long; C02 là Đặng Quốc Bình; C05 là Vũ Thị Hạnh. C04 tên Lương Thị Thảo hiện vẫn là tên dự kiến.
+- E15–E17 là chuỗi chìa khóa, dấu vân tay và ảnh/video theo CHANGE-012; giới hạn chứng minh phải được giữ.
+- E8-A đến E8-D đã được chốt theo CHANGE-009. Lời thú nhận và bản ghi âm trọn vẹn, chi tiết khung ảnh gia đình, số phận cuốn sổ tay phải giữ đúng CHANGE-009.
+- Toàn phát hiện người nằm trên sàn qua cửa sổ khi sửa điều hòa; Hạnh tự vặn/giật tay nắm; bảo vệ gọi cấp cứu và báo công an phường; không ai ngoài cơ quan chức năng được kết luận nguyên nhân tử vong.
+- Camera không phủ kín cầu thang bộ giữa các tầng; không khẳng định camera ghi lại toàn bộ hành trình của bất kỳ ai.
+
+### Các điểm cấm khi viết
+1. Không gọi chìa khóa vật chứng là chìa dự phòng.
+2. Không viết Nguyên làm rơi chìa vào khe giữa tủ và tường hoặc cố ý kiểm tra chìa.
+3. Không viết Nguyên chứng kiến Long về nhà, ôm trán, nghe điện thoại, làm rơi chìa, tắt/giấu điện thoại Bình.
+4. Không cho Nguyên sử dụng quyền nghiệp vụ để tra hồ sơ/camera/dữ liệu cư dân sau khi rút khỏi phần việc có xung đột.
+5. Không biến Hạnh thành đồng phạm hoặc người chứng kiến cú đẩy.
+6. Không coi hóa đơn siêu thị là ngoại phạm liên tục.
+7. Không coi dấu vân tay, ảnh/video nhóm hoặc chìa khóa là bằng chứng độc lập đủ kết luận Long giết Bình.
+8. Không biến lời thú nhận thành lối tắt; phải giữ E8-D và bản ghi âm theo CHANGE-009.
+9. Không tự gán mốc giờ chính xác, thời điểm tử vong, cơ chế khóa cửa hoặc kết luận pháp y chưa khóa.
+10. Không để lời đồn cư dân ở Chương 1 trở thành dữ kiện điều tra đã xác minh.
+
+### Điểm còn mở
+- Lý do Hạnh nói dối; tuổi chính xác của Bình; tên chính thức C04 nếu chưa xác nhận.
+- Mốc giờ chi tiết, thời điểm tử vong, cơ chế khóa cửa và vật nội thất cụ thể.
+- Phạm vi camera cổng/khu ngoài trời; khả năng xác minh thời gian lưu và đồng bộ camera.
+- Chi tiết tài chính chưa được xác nhận ngoài các điểm đã khóa ở CHANGE-009.
+- Cần đối chiếu mọi chương mới với CHANGE-009, CHANGE-010, CHANGE-011, CHANGE-012 và CHANGE-013; CHANGE mới hơn chỉ thay thế phần được nêu rõ.
+
