@@ -224,3 +224,70 @@ Giữ nguyên thứ tự **1 → 4 → 2 → 3 → 5 → 6 → 7**:
 - Phân biệt rõ: sự thật khách quan của vụ án; điều tra viên đã xác minh; điều Nguyên biết; điều Nguyên suy đoán.
 - Các manh mối phải xuất hiện theo tiến trình điều tra, không dồn hết vào một lần kể.
 
+---
+
+## CHANGE-013 — ĐỒNG BỘ HỒ SƠ CỐT LÕI, QUY TRÌNH PHÁT HIỆN VÀ CANON NHÂN VẬT — ĐÃ CHỐT
+
+**Ngày cập nhật:** 04/11/2026  
+**Trạng thái:** Đồng bộ theo bản tổng hợp đã xác nhận trong cuộc trao đổi ngày 04/11/2026.  
+**Phạm vi:** Làm rõ và đồng bộ sự thật nền, nhân vật, chuỗi chứng cứ chìa khóa, quy trình phát hiện C02, camera, giới hạn quyền hạn của C01 và dàn ý Chương 1. CHANGE-013 không xóa các quyết định CHANGE-009, CHANGE-010 hoặc CHANGE-012; khi có nội dung cũ trái ngược, áp dụng CHANGE-013 đối với các điểm được ghi rõ dưới đây, sau đó CHANGE-012, CHANGE-011 và các CHANGE trước.
+
+### 13.1. Sự thật nền và dòng thời gian
+- T0 là sáng thứ Bảy. C03/Trần Vũ Long đi siêu thị trước, sau đó nhận cuộc gọi từ C02/Đặng Quốc Bình và đến căn hộ Bình.
+- Long đẩy Bình trong lúc xô xát; Bình ngã, đầu va vào cạnh cứng của đồ nội thất và bị thương chí mạng. Long không có kế hoạch giết Bình từ trước.
+- Long nhận ra Bình có thể đang nguy hiểm hoặc còn sống nhưng không gọi cấp cứu; tìm tài liệu, lấy điện thoại Bình và chìa khóa CHÍNH căn hộ Bình, khóa cửa từ bên ngoài rồi rời đi.
+- Hóa đơn và camera siêu thị là thật; chỉ xác nhận Long có mặt tại siêu thị ở một thời điểm, không chứng minh ngoại phạm liên tục.
+- Long về nhà với điện thoại Bình và chìa khóa chính trong túi. Trình tự tại nhà Long phải giữ đúng CHANGE-012: ngồi gần cửa ôm trán → điện thoại của Long có cuộc gọi bạn trong nhóm về chuẩn bị/phân công → Long lấy điện thoại mình ra nghe, chìa khóa chính rơi khỏi túi và trượt dưới ghế mà Long không biết → sau cuộc gọi Long lấy điện thoại Bình, tắt và giấu → Nguyên đến, làm rơi đồ, nhặt đồ và chìa khóa, đặt lên bàn → nhóm thu dọn, cất đồ vào ngăn kéo bàn.
+- Buổi tụ tập đã hẹn từ trước, diễn ra trưa–chiều thứ Bảy; không phải ngoại phạm. C02 được phát hiện khoảng 13:40 thứ Bảy. Long chỉ xử lý/phi tang điện thoại và sổ tay sau khi buổi tụ tập kết thúc.
+- Mọi mốc giờ chính xác ngoài khoảng 13:40 phát hiện vẫn chưa khóa nếu chưa có nguồn xác minh.
+
+### 13.2. Canon nhân vật
+- C01/Phạm Bảo Nguyên: nam, 23 tuổi; cán bộ Công an nhân dân công tác tại Phòng Cảnh sát hình sự Công an cấp tỉnh, làm tổng hợp và hỗ trợ hồ sơ nghiệp vụ. Không phải điều tra viên, không tự lấy lời khai, khám nghiệm hiện trường hoặc tự tiến hành điều tra.
+- C03/Trần Vũ Long: nam, 23 tuổi; bạn học cấp ba của Nguyên; hung thủ thực sự. Động cơ nền là che giấu sai phạm tài chính. Long không chủ đích giết Bình nhưng phải chịu trách nhiệm vì cú đẩy và việc bỏ mặc nạn nhân.
+- C02/Đặng Quốc Bình: kế toán thanh toán tại công ty xây dựng; bị Long đổ lỗi sai về biển thủ; không phải người gian lận hay đồng phạm. Vợ và con đã về nhà ông bà ngoại; Bình đang trong quá trình ly hôn.
+- C04: vợ Bình; tên Lương Thị Thảo hiện là tên dự kiến, chỉ nâng thành tên khóa khi được xác nhận riêng. Cô cung cấp ảnh/đặc điểm nhận dạng chìa khóa.
+- C05/Vũ Thị Hạnh: hàng xóm sát vách, khoảng 55 tuổi; có lời khai không trung thực vì lý do riêng, không phải đồng phạm và không chứng kiến cú đẩy. Bà chỉ nghe âm thanh mơ hồ, không biết nguồn và tình trạng của Bình. Lý do nói dối chưa khóa.
+- Phương (nữ) và Vinh (nam) là bạn học cũ xuất hiện ở buổi tụ tập; Vinh bị công ty cắt giảm nhưng chưa nói với nhóm, kể riêng với Nguyên trong thang máy lúc về. Anh Sơn và chị Nhàn là đồng nghiệp của Nguyên ở Phòng Cảnh sát hình sự.
+
+### 13.3. Chuỗi chìa khóa — thứ tự bắt buộc
+1. Cơ quan điều tra phát hiện chìa khóa CHÍNH của căn hộ Bình không có tại căn hộ.
+2. Hỏi vợ Bình về số lượng và đặc điểm chìa khóa; nhận ảnh móc khóa hình một tòa nhà cách điệu/logo đặc trưng.
+3. Sau đó mới tìm thấy chìa khóa tương ứng trong ngăn kéo bàn tại nhà Long, trong quá trình khám xét/kiểm tra hợp pháp; ghi nhận vị trí, chụp ảnh tại chỗ, lập biên bản và niêm phong.
+4. Đối chiếu đặc điểm, kiểm tra chìa có mở được ổ khóa căn hộ Bình hay không.
+5. Giám định phát hiện dấu vân tay Nguyên; điều tra viên hỏi Nguyên.
+6. Nguyên nhớ việc vô tình nhặt chìa dưới ghế trong buổi tụ tập.
+7. Nguyên tự kiểm tra ảnh/video cá nhân hoặc trong nhóm chat và đối chiếu móc khóa với ảnh của vợ Bình.
+- Dấu vân tay chỉ chứng minh tiếp xúc, không tự xác định thời gian, địa điểm hoặc mục đích.
+- Ảnh/video chỉ chứng minh chìa khóa xuất hiện tại nhà Long trong buổi tụ tập nếu xác thực được; không chứng minh Long mang chìa về, dùng chìa khóa hay gây án.
+- Không đảo thứ tự phát hiện chìa khóa, hỏi vợ Bình, tìm thấy ở nhà Long, giám định dấu vân tay và kiểm tra ảnh/video.
+
+### 13.4. Quy trình phát hiện C02 và hiện trường
+- Toàn là thợ sửa điều hòa tại căn hộ Hạnh. Anh nhìn qua cửa sổ/giếng trời và thấy một người nằm trên sàn căn hộ Bình; không thấy rõ mặt, không xác định còn sống hay đã chết, không kết luận nguyên nhân.
+- Toàn báo Hạnh. Theo quyết định CHANGE-010, Hạnh là người tự vặn/giật tay nắm cửa khi không ai trả lời; Toàn không phải người tạo dấu vết đó. Hạnh kể đã thấy vợ con Bình rời đi từ vài tháng trước, không có số liên hệ; không nhắc tiếng động ở Chương 1.
+- Hạnh báo ban quản lý; bảo vệ Khoa lên kiểm tra, gọi/nhấn chuông. Ban quản lý gọi chủ hộ nhưng thuê bao không liên lạc được. Không đưa số liên hệ khẩn cấp của vợ Bình vào Chương 1.
+- Bảo vệ gọi cấp cứu và báo công an phường. Công an phường và cấp cứu đến; cửa được mở ngoài tầm nhìn của Toàn. Nhân viên y tế xác định người trong nhà đã tử vong; công an bảo vệ hiện trường, yêu cầu người liên quan giữ nguyên hiện trạng, ghi nhận người phát hiện và lời kể ban đầu, báo cáo đơn vị có thẩm quyền để tổ chức hoạt động tiếp theo.
+- Không kể chi tiết cơ chế mở cửa từ điểm nhìn Toàn; không để Toàn, Hạnh hoặc bảo vệ tự xác định nguyên nhân chết/hung thủ.
+
+### 13.5. Camera và giới hạn quan sát
+- Camera có ở sảnh tầng trệt/khu vực gửi xe, lối vào cầu thang bộ tại tầng trệt và tầng hầm, trong thang máy và sảnh thang máy mỗi tầng.
+- Không có camera ghi liên tục dọc các tầng cầu thang bộ; cư dân có thể di chuyển giữa các tầng bằng cầu thang mà không bị ghi hình trên từng tầng.
+- Long không cư trú tại tòa của Bình nhưng sống ở tòa khác trong cùng khu Thanh Lộ; cần kiểm tra camera ghi nhận Long đi vào/ra tòa T2. Phạm vi camera cổng khu và khu vực ngoài trời còn phải xác minh.
+- Không tự khẳng định camera ghi được toàn bộ hành trình hoặc loại trừ khả năng đi cầu thang bộ.
+
+### 13.6. Tiến trình nhận thức và giới hạn C01
+- Nguyên ban đầu tin Long vô tội và chủ động tìm cách minh oan. Chìa khóa, dấu vân tay và ảnh/video chỉ làm niềm tin lung lay; không đủ kết luận Long là hung thủ.
+- Khi biết Long có liên quan trực tiếp tới Bình và C03 xuất hiện trong hồ sơ, Nguyên phải khai báo quan hệ bạn bè với Long và việc mình có mặt tại nhà Long trong ngày phát hiện. Nguyên được rút khỏi phần công việc có xung đột lợi ích.
+- Sau khi rút khỏi phần việc liên quan, Nguyên không được dùng quyền truy cập nghiệp vụ để tra hồ sơ, camera, dữ liệu cư dân hoặc tiết lộ thông tin mật. Nguồn cá nhân hợp lệ: ký ức, trò chuyện, thông tin công khai, ảnh/tài liệu người khác tự nguyện chia sẻ. Phát hiện có giá trị phải chuyển cho người có thẩm quyền.
+- Không để Nguyên chứng kiến hoặc hồi tưởng những việc Long làm trước khi cậu đến nhà Long.
+
+### 13.7. Các dữ kiện vẫn để mở
+- Lý do riêng khiến Hạnh nói dối; tuổi chính xác của Bình; tên chính thức của vợ Bình nếu chưa xác nhận.
+- Mốc giờ chính xác của cuộc gọi, lúc Long đến/rời căn hộ, lúc chìa khóa rơi và thời điểm tử vong.
+- Cơ chế khóa cửa chi tiết; vật nội thất cụ thể; mức kết luận pháp y và thời gian tử vong.
+- Phạm vi camera cổng/khu ngoài trời; các dữ liệu kỹ thuật thực tế có thể thu thập.
+- Các chi tiết tài chính cụ thể ngoài khoản 250 triệu và diễn biến đã khóa ở CHANGE-009.
+- Không thay đổi E8 đã chốt tại CHANGE-009: E8-A, E8-B, các bậc lời khai E8-C và E8-D là khung ảnh gia đình có ảnh vợ con bị đổ khi C02 ngã; C03 tự kể đúng chi tiết chưa công bố khi thú nhận. Lời thú nhận chỉ đến sau khi C03 nghe bản ghi âm trọn vẹn và nhận ra C02 chưa có bằng chứng chắc chắn; cuốn sổ tay bị vứt cùng điện thoại, không thu hồi được.
+
+### 13.8. Hồ sơ cần đồng bộ
+VA001_STORY_BIBLE_Final.md, VA001_CHARACTER_BIBLE_Final.md, VA001_TIMELINE_Final.md, VA001_CLUE_LEDGER_Final.md, VA001_CONTINUITY_LOG_Final.md và TKN-CASE-001_CH01_DAN_Y_CHI_TIET_v1.0.md. Bản thảo Chương 1 không tự động thay đổi trong lần cập nhật này.
+
