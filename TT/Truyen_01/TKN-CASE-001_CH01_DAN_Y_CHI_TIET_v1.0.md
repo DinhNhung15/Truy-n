@@ -1,9 +1,9 @@
 # DÀN Ý CHI TIẾT CHƯƠNG 1 — NGƯỜI NẰM SAU CỬA SỔ
 
 **Mã vụ án:** TKN-CASE-001
-**Phiên bản:** v1.1 — CẬP NHẬT THEO CHANGE-012 (04/11/2026)
-**Lịch sử:** v1.0 được duyệt ngày 03/11/2026; v1.1 thay thế các chi tiết G7 và các ghi chú liên quan đến chìa khóa theo CHANGE-012.
-**Căn cứ:** Định hướng dàn ý Chương 1 của người dùng; `VA001_QUYET_DINH_DA_CHOT_P2.md`, đặc biệt CHANGE-010 → CHANGE-012.
+**Phiên bản:** v1.2 — ĐỒNG BỘ CHANGE-013 (04/11/2026)
+**Lịch sử:** v1.0 được duyệt ngày 03/11/2026; v1.1 đồng bộ CHANGE-012; v1.2 đồng bộ nghề nghiệp C01, quy trình phát hiện, dữ kiện C05 và các giới hạn continuity theo CHANGE-013.
+**Căn cứ:** Định hướng dàn ý Chương 1 của người dùng; VA001_QUYET_DINH_DA_CHOT_P2.md, CHANGE-010 → CHANGE-013.
 **Thay thế:** Chương 1 v0.1 (đã bỏ) và Dàn ý chi tiết v0.1.
 **Góc nhìn:** Phần 1 theo Toàn; Phần 2–4 theo Nguyên. Ngôi thứ ba giới hạn. Lời kể gọi Nguyên là "cậu".
 **Độ dài gợi ý:** tương đương một chương audio 6–9 phút.
@@ -27,9 +27,9 @@
 | Nhân vật | Vai trò trong chương | Ghi chú |
 | --- | --- | --- |
 | **Toàn** | Thợ sửa điều hòa; góc nhìn Phần 1 | Chỉ xuất hiện ở Phần 1. |
-| **Cô Hạnh** (C05) | Thuê Toàn sửa điều hòa; hàng xóm sát vách nạn nhân | Gieo G1. |
+| **Vũ Thị Hạnh** (C05) | Thuê Toàn sửa điều hòa; hàng xóm sát vách căn hộ Bình, khoảng 55 tuổi | Gieo G1; lời nói dối riêng chưa được giải thích ở Chương 1. |
 | Bảo vệ, trưởng ban quản lý, cán bộ công an phường | Xử lý ban đầu | Không gọi tên trong Phần 1 để giảm tải tên riêng cho người nghe. |
-| **Nguyên** (C01) | Góc nhìn Phần 2–4 | 23 tuổi, nhân viên hỗ trợ tổng hợp, rà soát hồ sơ tại Phòng Cảnh sát hình sự. |
+| **Phạm Bảo Nguyên** (C01) | Góc nhìn Phần 2–4 | Nam, 23 tuổi; cán bộ CAND làm công tác tổng hợp, hỗ trợ hồ sơ nghiệp vụ tại Phòng Cảnh sát hình sự Công an cấp tỉnh; không phải điều tra viên. |
 | **Long** (C03) | Chủ nhà buổi gặp | Bạn cùng lớp cấp ba; ngày xưa nổi bật nhất lớp. |
 | **Phương** | Bạn cùng lớp, nữ | Nhanh nhảu, hay trêu, kéo cả nhóm nói chuyện. Hay "phiên dịch" ý Nguyên cho người khác. |
 | **Vinh** | Bạn cùng lớp, nam | Hiền, ít nói hơn Phương. **Vừa bị cắt giảm việc làm** mà giấu cả nhóm. |
@@ -91,20 +91,20 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 
 ### Cảnh 1.2 — Báo cô Hạnh, gõ cửa
 - Toàn trèo vào, báo cô Hạnh. Cô sang gõ cửa, gọi, không ai thưa.
-- Toàn định vặn tay nắm cửa; cô Hạnh gạt tay anh lại: nhà người ta, không được tự tiện.
-- **G1:** Cô Hạnh nói đại ý: trước nhà có vợ có con, mấy tháng nay chỉ thấy mình anh ấy; ở sát vách thì cô phải biết. Cô không có số điện thoại, chỉ gật đầu chào trong thang máy. **Không nhắc tiếng động.**
+- Khi không ai trả lời, **Hạnh tự vặn và giật tay nắm cửa**; cửa không mở. Toàn không chạm vào tay nắm trước bà.
+- **G1:** Hạnh nói đại ý: trước nhà có vợ có con, mấy tháng nay chỉ thấy mình anh ấy; ở sát vách thì cô phải biết. Cô không có số điện thoại, chỉ gật đầu chào trong thang máy. **Không nhắc tiếng động.**
 
 ### Cảnh 1.3 — Gọi người
-- Cô Hạnh báo ban quản lý. Bảo vệ lên, bấm chuông, gõ cửa.
-- Ban quản lý gọi chủ hộ: **thuê bao không liên lạc được** (G2). Số liên hệ khẩn cấp trong tờ khai cư dân: đổ chuông, không ai nghe.
-- Vì người bên trong có dấu hiệu bất động, bảo vệ gọi cấp cứu rồi báo công an phường. Ban quản lý không tự quyết việc mở cửa.
+- Hạnh báo ban quản lý. Bảo vệ Khoa lên kiểm tra, bấm chuông và gõ cửa.
+- Ban quản lý gọi chủ hộ nhưng nhận được thông báo **thuê bao không liên lạc được** (G2). Không đưa số liên hệ khẩn cấp của vợ Bình vào Chương 1.
+- Vì bên trong có người nằm bất động, bảo vệ gọi cấp cứu và báo công an phường. Ban quản lý không tự quyết việc mở cửa.
 - **Nén mạnh:** hai ba câu, không kể từng cuộc gọi.
 
 ### Cảnh 1.4 — Cửa khóa
-- Công an phường đến trước. Cán bộ lớn tuổi đeo găng thử tay nắm: **cửa khóa** (G3).
-- Mọi người lùi ra sảnh thang máy. Cửa được mở ngoài tầm nhìn của Toàn.
-- Đội cấp cứu đi vào rất nhanh. Lúc đi ra, họ không còn nhanh như thế nữa.
-- Người trong nhà đã mất. Khu vực bị phong tỏa. Cán bộ dặn: thấy gì nói nấy, đừng đoán thêm.
+- Công an phường đến trước, xác nhận cửa đang khóa và yêu cầu mọi người đứng ngoài khu vực. **G3:** cửa khóa; ghi nhớ Hạnh đã vặn/giật tay nắm trước khi công an tiếp nhận, vì vậy dấu vết trên tay nắm có thể có dấu của Hạnh.
+- Mọi người lùi ra sảnh thang máy. Cửa được mở ngoài tầm nhìn của Toàn; không kể cách mở cửa từ điểm nhìn của anh.
+- Đội cấp cứu đi vào. Khi trở ra, nhân viên y tế thông báo người trong nhà đã tử vong; không kết luận nguyên nhân tại đây.
+- Công an giữ nguyên hiện trường, yêu cầu những người có mặt đứng ngoài, ghi nhận ai là người phát hiện đầu tiên và dặn mọi người chỉ kể điều mình trực tiếp thấy/nghe.
 
 **Kết phần:** một hình ảnh ngắn của Toàn, ví dụ nhìn đôi tay còn dính dầu máy, nghĩ tới lúc mình gọi sang bên kia hai lần mà không ai trả lời. Chuyển cảnh.
 
@@ -139,6 +139,8 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 - Vinh nói về công việc rất ít, lái sang chuyện khác.
 
 ### Cảnh 2.4 — Những món đồ rơi xuống sàn (G7)
+
+**Chi tiết móc khóa:** chìa khóa có móc khóa in hình một tòa nhà cách điệu, không đọc được tên công ty. Nguyên không nhận diện nó là chìa khóa căn hộ Bình; nếu có thoáng nhìn, cậu chỉ nghĩ đó có thể là món quà/quà lưu niệm liên quan công ty của Long, không dừng lại kiểm tra.
 - Trong lúc mọi người trò chuyện/sinh hoạt, Nguyên vô tình làm rơi một vài món đồ từ bàn xuống sàn. Vị trí các món đồ rơi ở khu vực gần dưới ghế.
 - Cậu cúi xuống nhặt. Trong lúc gom những món vừa rơi, cậu nhặt luôn một chiếc chìa khóa đã nằm dưới ghế, tưởng đó là một món rơi khỏi bàn cùng những thứ khác.
 - Nguyên không nhận ra chiếc chìa có liên quan đến căn hộ nào, không kiểm tra kỹ, không hỏi Long và không có suy nghĩ nghi ngờ. Cậu đặt tất cả những thứ vừa nhặt lên mặt bàn rồi tiếp tục câu chuyện đang dang dở.
@@ -281,3 +283,39 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 - Bổ sung continuity ngoài điểm nhìn: Long mang chìa khóa chính và điện thoại Bình về; chìa rơi khi Long lấy điện thoại của mình nghe cuộc gọi; sau cuộc gọi Long tắt và giấu điện thoại Bình. Nguyên không chứng kiến các việc này.
 - Giữ nguyên cấu trúc Chương 1 và nguyên tắc Nguyên không nghi ngờ Long trong chương đầu. Tuyến tìm cách minh oan cho Long và các manh mối dần hướng về Long phát triển ở các chương sau.
 - CHANGE-012 thay thế mọi chi tiết cũ trái ngược trong G7, Cảnh 2.4, mục 10 và ghi chú CHANGE-011/012 trước đây.
+
+
+---
+
+## 11. ĐỒNG BỘ CHANGE-013 — QUY TRÌNH PHÁT HIỆN VÀ CANON CHƯƠNG 1
+
+### 11.1. Địa điểm và mốc thời gian đã khóa
+- Khu chung cư hư cấu: **Thanh Lộ**.
+- Căn hộ C02: **Tòa T2, căn 1207, tầng 12**.
+- Hạnh ở căn hộ sát vách 1207, cùng tầng; số căn của Hạnh chưa khóa.
+- Long sống ở một tòa khác trong cùng khu Thanh Lộ; tên tòa chưa khóa.
+- C02 được phát hiện khoảng **13 giờ 40 thứ Bảy**.
+
+### 11.2. Chuỗi phát hiện — phải giữ đúng người thực hiện
+1. Toàn đang sửa điều hòa tại căn hộ Hạnh, nhìn qua cửa sổ/giếng trời và thấy một người nằm trên sàn căn hộ Bình. Anh không thấy rõ mặt, không biết người đó còn sống hay không và không xác định nguyên nhân.
+2. Toàn báo Hạnh. Hạnh tự vặn/giật tay nắm khi không ai trả lời; Toàn không chạm tay nắm trước Hạnh.
+3. Hạnh báo ban quản lý; bảo vệ Khoa lên kiểm tra. Ban quản lý gọi chủ hộ nhưng thuê bao không liên lạc được.
+4. Bảo vệ gọi cấp cứu và báo công an phường. Không đưa số liên hệ khẩn cấp của vợ Bình vào Chương 1.
+5. Công an phường và cấp cứu đến; cửa được mở ngoài tầm nhìn Toàn. Nhân viên y tế thông báo người trong nhà đã tử vong.
+6. Công an bảo vệ hiện trường, yêu cầu giữ nguyên hiện trạng, ghi nhận người phát hiện và lời trình bày ban đầu. Không kể cách mở cửa hoặc kết luận nguyên nhân tử vong.
+
+### 11.3. Những chi tiết phải được bảo toàn
+- Hạnh đã tiếp xúc tay nắm cửa trước khi công an tiếp nhận; khi xử lý dấu vết tay nắm ở chương sau, phải tính đến khả năng có dấu vết của Hạnh.
+- Hạnh kể vợ và con Bình đã rời đi từ vài tháng trước; không nhắc âm thanh tối hôm xảy ra vụ án ở Chương 1.
+- C01 là cán bộ CAND làm tổng hợp/hỗ trợ hồ sơ nghiệp vụ, không phải “nhân viên hỗ trợ” và không có quyền điều tra độc lập.
+- Phần tài liệu Nguyên nhận ở Phần 4 không có nơi làm việc của nạn nhân.
+- Long không nói nạn nhân là đồng nghiệp; không nêu tên công ty Long làm việc.
+- Nguyên không chứng kiến Long trở về, ngồi ôm trán, nghe điện thoại, làm rơi chìa khóa hoặc giấu điện thoại Bình.
+- Chiếc chìa là chìa khóa CHÍNH căn hộ C02; móc khóa hình tòa nhà cách điệu, không đọc được tên công ty. Nguyên nhặt nó vô tình dưới ghế và nhóm cất vào ngăn kéo bàn.
+
+### 11.4. Lịch sử cập nhật
+**v1.2 — 04/11/2026 — Đồng bộ CHANGE-013**
+- Chuẩn hóa nghề nghiệp C01 theo CHANGE-010: cán bộ CAND làm tổng hợp, hỗ trợ hồ sơ nghiệp vụ.
+- Sửa trình tự cảnh phát hiện: Hạnh tự vặn/giật tay nắm; loại chi tiết số liên hệ khẩn cấp khỏi Chương 1; không để công an là người đầu tiên chạm tay nắm.
+- Bổ sung mốc địa điểm Thanh Lộ, tòa T2, căn 1207 và giờ phát hiện khoảng 13:40 thứ Bảy.
+- Bổ sung giới hạn điểm nhìn Toàn và cách xử lý ban đầu; không cho người dân kết luận nguyên nhân tử vong.
