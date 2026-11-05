@@ -54,7 +54,7 @@ Cô gọi ban quản lý, giọng cao dần lên. Cúp máy, cô đứng nhìn c
 
 - Cô có số anh ấy, hay số người nhà anh ấy không ạ? - Toàn hỏi.
 
-“Không có.” Cô lắc đầu. “Thời này có như ngày xưa đâu, hàng xóm sát vách chứ cô cũng có biết số điện thoại nhà người ta đâu. Mấy tháng trước cô còn thấy hai vợ chồng cãi nhau to lắm, rồi vợ ôm con đi luôn. Từ đấy chỉ thấy mỗi mình anh ta đi ra đi vào.”
+“Không có.” Cô lắc đầu. “Thời này có như ngày xưa đâu, hàng xóm sát vách chứ cô cũng có biết số điện thoại nhà người ta đâu.”
 
 Bảo vệ tòa nhà lên, bấm chuông, gõ cửa. Ban quản lý gọi cho chủ hộ, đầu dây bên kia chỉ có một giọng nữ đều đều báo thuê bao không liên lạc được.
 
@@ -106,7 +106,7 @@ Sắc mặt Long trông không được tốt lắm.
 
 “Thức xem bóng.” Long nhận túi trái cây từ tay cậu, giọng uể oải.
 
-Phương bật cười: “Vẫn nghiện thế cơ à. Trước ông còn trong đội bóng của trường nhỉ? Bao cô mê mệt.”
+Phương bật cười: “Vẫn nghiện thế cơ à. Hồi xưa ông trong đội bóng bao người mê mệt”
 
 Long nhếch môi: “Ừ, cũng chẳng còn gì giữ được như ngày xưa, may ra còn mỗi cái sở thích này.”
 
@@ -148,10 +148,6 @@ Phương thở dài, quay sang cả bàn như phiên dịch viên:
 
 - Ghê nhỉ. - Vinh xuýt xoa.
 
-Duy kể công ty mình vừa đổi quản lý, Hào thì than tháng này phải chạy tiến độ. Câu chuyện nhanh chóng chuyển sang công việc của từng người. Long ngồi nghe, thỉnh thoảng gắp thêm thức ăn, không chen vào.
-
----
-
 ---
 
 Vinh ăn ít. Nguyên để ý từ lúc nồi lẩu sôi lần thứ hai. Vinh cười chậm hơn mọi người nửa nhịp, liếc cái điện thoại úp trên bàn ba lần, mà lần nào cũng chẳng có tin nhắn gì.
@@ -174,15 +170,13 @@ Phương sặc nước.
 
 - Bà còn viết sai chính tả nữa.
 
-Cả bàn cười nghiêng ngả. Phương tiện tay ném vỏ tôm sang phía Nguyên. Cậu nghiêng người né, khuỷu tay vô tình quệt vào mép bàn thấp. Mấy món đồ lặt vặt trên đó rơi xuống sàn, có món còn lăn tọt vào gầm ghế.
+Cả bàn cười nghiêng ngả. Phương tiện tay ném vỏ tôm sang phía Nguyên. Cậu nghiêng người né, khuỷu tay quệt vào mép bàn. Mấy món đồ lặt vặt trên đó rơi xuống sàn, có món còn lăn tọt vào gầm ghế.
 
-“Để tôi nhặt.” Nguyên nói, rồi cúi xuống gom từng món.
+“Để tôi nhặt.” Nguyên cúi xuống nhặt mấy món đồ rơi dưới sàn, tiện tay đặt lại lên bàn.
 
-Cậu nhặt cả những thứ nằm khuất dưới gầm ghế, đặt lại lên mặt bàn. Phương gọi cậu mang khay ra, Nguyên đứng dậy làm theo. Câu chuyện nhanh chóng chuyển sang chuyện khác.
+Đến khi mọi người bắt đầu dọn dẹp sau bữa ăn, cậu cũng phụ một tay lau dọn bàn, cất đồ linh tinh vào ngăn kéo bàn. Bàn ăn chẳng mấy chốc đã được dọn sạch.
 
-Đến lúc mọi người thu dọn sau bữa ăn, những món đồ lặt vặt còn trên bàn được gom lại, bỏ vào ngăn kéo bàn.
-
-Lần đầu tiên trong buổi trưa, Nguyên thấy mình không cần nghĩ trước câu tiếp theo.
+Lần đầu tiên trong buổi trưa, Nguyên không còn phải bận tâm xem tiếp theo mình nên nói gì.
 
 ---
 
