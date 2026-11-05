@@ -174,10 +174,6 @@ Cả bàn cười nghiêng ngả. Phương tiện tay ném vỏ tôm sang phía 
 
 “Để tôi nhặt.” Nguyên cúi xuống nhặt mấy món đồ rơi dưới sàn, tiện tay đặt lại lên bàn.
 
-Đến khi mọi người bắt đầu dọn dẹp sau bữa ăn, cậu cũng phụ một tay lau dọn bàn, cất đồ linh tinh vào ngăn kéo bàn. Bàn ăn chẳng mấy chốc đã được dọn sạch.
-
-Lần đầu tiên trong buổi trưa, Nguyên không còn phải bận tâm xem tiếp theo mình nên nói gì.
-
 ---
 
 Tiếng còi vọng lên từ dưới sân chung khi nồi lẩu đã cạn một nửa.
@@ -218,7 +214,9 @@ Một lúc, Long tắt vòi nước, lau tay.
 
 ---
 
-Phương và Vinh xuống xem. Long ở lại dọn dẹp.
+Phương và Vinh xuống xem. Long ở lại dọn dẹp, cậu cũng phụ một tay lau dọn bàn, cất đồ linh tinh vào ngăn kéo bàn. Bàn ăn chẳng mấy chốc đã được dọn sạch.
+
+Lần đầu tiên trong buổi trưa, Nguyên không còn phải bận tâm xem tiếp theo mình nên nói gì.
 
 Nguyên ngồi thêm một lúc, nghe tiếng ồn dưới sân dâng lên qua cửa ban công. Rồi cậu cũng xuống.
 
@@ -232,13 +230,13 @@ Cậu tự nhắc mình: đây không phải việc của mày. Rồi cậu quay
 
 ---
 
-Lên lại nhà, nồi lẩu đã nguội. Không ai còn muốn ăn.
+Lên lại nhà, mọi người bàn tán về việc mình hóng được, một lúc sau
 
 - Thôi, giải tán nhé. - Phương nói. - Hôm khác lại tụ.
 
 Long không giữ, chỉ đứng ở cửa tiễn mọi người ra về. Phương hẹn hôm khác lại tụ tập. Nguyên gật đầu.
 
-Trong thang máy chỉ còn Nguyên và Vinh. Con số tầng trên bảng điện tử nhảy xuống từng nấc.
+Ở hầm gửi xe từng người tách ra lấy xe chỉ con Nguyên và Vinh. 
 
 - Tháng trước công ty tôi cắt giảm. - Vinh nói, mắt nhìn lên con số. - Tôi nằm trong danh sách. Chưa dám nói với ai.
 
