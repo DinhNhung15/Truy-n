@@ -517,3 +517,33 @@ Chỉ chuyển sang giai đoạn lập dàn ý chương khi những lỗ hổng 
 - Chi tiết tài chính chưa được xác nhận ngoài các điểm đã khóa ở CHANGE-009.
 - Cần đối chiếu mọi chương mới với CHANGE-009, CHANGE-010, CHANGE-011, CHANGE-012 và CHANGE-013; CHANGE mới hơn chỉ thay thế phần được nêu rõ.
 
+
+
+---
+
+## CONTINUITY ADDENDUM — CHANGE-015 (05/11/2026)
+
+### Canon đã chốt: chìa khóa chính tại nhà Long
+
+- Long mang chìa khóa chính căn hộ Bình về nhà sau khi gây án.
+- Khi lấy điện thoại của mình ra nghe cuộc gọi của bạn, chìa khóa trong túi Long rơi xuống khu vực ghế và trượt xuống dưới ghế. Long không nhận ra.
+- Nguyên đến sau, vô tình làm rơi đồ trên bàn, cúi xuống nhặt và nhặt luôn chìa khóa dưới ghế. Nguyên tưởng đó là một món đồ vừa rơi, không biết đó là chìa khóa của Bình.
+- Nguyên đặt tất cả đồ nhặt được lên bàn. Khi nhóm cùng dọn bàn, các món đồ lặt vặt trên bàn được cất vào ngăn kéo, bao gồm chìa khóa.
+- Long không chủ động cất chìa khóa, không biết Nguyên nhặt được và không nhận ra mình đã làm rơi chìa.
+
+### Bảng kiến thức nhân vật tại thời điểm buổi tụ tập
+
+| Nhân vật | Biết | Không biết |
+|---|---|---|
+| Long | Biết mình mang chìa khóa chính của Bình về nhà; biết cuộc gọi của bạn và việc mình lấy điện thoại Long ra nghe. | Không nhận ra chìa khóa rơi; không biết Nguyên nhặt được; không biết chìa khóa đã được đặt lên bàn và cất vào ngăn kéo. |
+| Nguyên | Biết mình làm rơi đồ, nhặt đồ dưới sàn, nhặt được chìa khóa dưới ghế và đặt lên bàn. | Không biết chìa khóa thuộc về Bình; không chứng kiến Long làm rơi chìa; không biết các việc Long làm trước khi cậu đến. |
+| Nhóm bạn | Tham gia buổi gặp và dọn bàn bình thường. | Không nhận diện hay chú ý riêng đến chìa khóa; không biết nguồn gốc của nó. |
+
+### Cấm continuity
+
+- Không để Long chủ động gom hoặc cất riêng chìa khóa vào ngăn kéo.
+- Không để Nguyên làm rơi chìa khóa.
+- Không để Nguyên biết hoặc hồi tưởng cuộc gọi, việc Long làm rơi chìa khóa, hay việc Long lấy/giấu điện thoại Bình.
+- Không biến việc dọn bàn thành hành động có chủ đích nhằm che giấu vật chứng.
+
+CHANGE-015 thay thế CHANGE-014 §14.2 đối với tình huống rơi/nhặt/cất chìa khóa.
