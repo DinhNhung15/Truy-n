@@ -297,7 +297,9 @@ VA001_STORY_BIBLE_Final.md, VA001_CHARACTER_BIBLE_Final.md, VA001_TIMELINE_Final
 
 ---
 
-## CHANGE-014 — Làm rõ phần đã chốt và phần chưa chốt trong manh mối chìa khóa — ƯU TIÊN MỚI NHẤT
+## CHANGE-014 — Làm rõ phần đã chốt và phần chưa chốt trong manh mối chìa khóa — ĐÃ BỊ CHANGE-015 THAY THẾ MỘT PHẦN
+
+> **LƯU Ý HIỆU LỰC:** Riêng toàn bộ nội dung §14.2 về việc tình huống Nguyên nhặt chìa khóa chưa được phê duyệt đã bị CHANGE-015 thay thế. Không sử dụng §14.2 như canon hiện hành. Các phần khác của CHANGE-014 vẫn có hiệu lực nếu không mâu thuẫn với CHANGE-015.
 
 **Căn cứ:** Người dùng yêu cầu tổng hợp và đưa mạch manh mối chìa khóa vào tài liệu core; đồng thời nói rõ chưa chốt tình tiết quai túi và muốn để ngỏ việc tìm một tình huống tự nhiên, hợp lý hơn. CHANGE-014 làm rõ phạm vi phê duyệt, không thay đổi mục tiêu của mạch chứng cứ.
 
