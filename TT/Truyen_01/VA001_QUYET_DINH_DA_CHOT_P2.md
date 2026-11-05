@@ -293,3 +293,44 @@ Giữ nguyên thứ tự **1 → 4 → 2 → 3 → 5 → 6 → 7**:
 ### 13.8. Hồ sơ cần đồng bộ
 VA001_STORY_BIBLE_Final.md, VA001_CHARACTER_BIBLE_Final.md, VA001_TIMELINE_Final.md, VA001_CLUE_LEDGER_Final.md, VA001_CONTINUITY_LOG_Final.md và TKN-CASE-001_CH01_DAN_Y_CHI_TIET_v1.0.md. Bản thảo Chương 1 không tự động thay đổi trong lần cập nhật này.
 
+
+
+---
+
+## CHANGE-014 — Làm rõ phần đã chốt và phần chưa chốt trong manh mối chìa khóa — ƯU TIÊN MỚI NHẤT
+
+**Căn cứ:** Người dùng yêu cầu tổng hợp và đưa mạch manh mối chìa khóa vào tài liệu core; đồng thời nói rõ chưa chốt tình tiết quai túi và muốn để ngỏ việc tìm một tình huống tự nhiên, hợp lý hơn. CHANGE-014 làm rõ phạm vi phê duyệt, không thay đổi mục tiêu của mạch chứng cứ.
+
+### 14.1. Những điểm giữ nguyên
+
+1. Vật chứng bị mất là **chìa khóa chính căn hộ C02**, không phải chìa dự phòng.
+2. Long đã dùng chìa khóa chính để khóa cửa căn hộ Bình từ bên ngoài, sau đó mang chìa khóa về nhà.
+3. Chìa khóa biến mất khỏi tầm kiểm soát của Long trong khoảng thời gian Long ở nhà và có buổi tụ tập với nhóm bạn. Về sau, cơ quan điều tra tìm thấy chiếc chìa khóa tại nhà Long theo thủ tục phù hợp.
+4. Cơ quan điều tra phát hiện dấu vân tay của C01 trên chìa khóa. Dấu vân tay chứng minh việc tiếp xúc, không tự xác định thời điểm, địa điểm hoặc hoàn cảnh tiếp xúc.
+5. Khi được hỏi về dấu vân tay, Nguyên nhớ mình đã đến nhà Long trong buổi tụ tập hôm đó. Cậu sau đó chủ động kiểm tra ảnh/video cá nhân hoặc ảnh/video trong nhóm chat và nhận ra chiếc chìa khóa xuất hiện tại nhà Long trong buổi tụ tập.
+6. Ảnh/video phải có nguồn gốc tự nhiên từ buổi tụ tập, có thể xác minh thời điểm và có đặc điểm đủ để đối chiếu đúng chiếc chìa khóa. Không tạo một bức ảnh chỉ để tiện kể chuyện.
+7. Chuỗi dấu vân tay → ký ức về buổi tụ tập → kiểm tra ảnh/video → nhận ra chìa khóa từng xuất hiện tại nhà Long là bước ngoặt khiến Nguyên bắt đầu nghi ngờ Long có liên quan. Nó không tự chứng minh Long là người mang chìa khóa đến, đã dùng chìa khóa khóa cửa hoặc gây ra cái chết của Bình.
+
+### 14.2. Những chi tiết chưa được phê duyệt — KHÔNG COI LÀ CANON
+
+- Tình tiết quai túi vướng chìa khóa: **chưa chốt, không sử dụng như sự thật nền**.
+- Tình tiết Nguyên làm rơi đồ từ bàn, nhặt cả chìa khóa dưới ghế, đặt lên bàn và nhóm thu dọn chìa khóa vào ngăn kéo: **chưa được người dùng xác nhận là phương án cuối cùng**. Chỉ được xem là một phương án đang cân nhắc; không tự động coi là canon dù từng xuất hiện trong bản ghi CHANGE-012/013.
+- Vị trí chính xác chìa khóa rơi, nằm lại và được tìm thấy tại nhà Long: **chưa khóa**. Không mặc định khe tủ, dưới ghế hay ngăn kéo là vị trí cuối cùng.
+- Hành động sinh hoạt cụ thể khiến Nguyên tiếp xúc với chìa khóa: **chưa khóa**. Không ép nhân vật nhặt hoặc cầm một vật không có lý do tự nhiên.
+- Cơ chế khiến Long không nhận ra chìa khóa đã mất, tìm không thấy sau buổi tụ tập và không phát hiện nó trong thời gian dài: **chưa khóa**.
+- Người chụp, thời điểm, góc chụp và đặc điểm nhận dạng trong ảnh/video: **chưa khóa**.
+
+### 14.3. Tiêu chí bắt buộc cho tình huống cuối cùng
+
+Tình huống được chọn phải giải quyết đồng thời, không dựa vào trùng hợp gượng ép:
+
+1. Long đã dùng chìa khóa chính khóa cửa căn hộ Bình và mang nó về nhà.
+2. Chìa khóa rời khỏi sự kiểm soát của Long theo cách Long không nhận ra ngay, trong trạng thái và trình tự đã khóa.
+3. Một hoạt động sinh hoạt bình thường trong buổi tụ tập khiến C01 có lý do hợp lý để tiếp xúc với chìa khóa; hành động của C01 không được dựng chỉ nhằm tạo dấu vân tay.
+4. Chìa khóa được đặt/lưu lại ở một nơi khiến Long không dễ nhận ra hoặc tìm thấy sau đó, và có thể được phát hiện về sau mà không cần một sự trùng hợp phi lý.
+5. Ảnh/video buổi tụ tập có thể ghi nhận chiếc chìa khóa một cách tự nhiên, đủ dữ kiện để đối chiếu nhưng không cần ghi lại một hành vi phạm tội.
+6. Mạch chứng cứ phải phân biệt rõ giá trị của dấu vân tay, ảnh/video, lời khai và các chứng cứ độc lập khác.
+
+**Nguyên tắc cập nhật:** CHANGE-014 ưu tiên hơn mọi mô tả cụ thể trong CHANGE-012/013 về hành động Nguyên nhặt chìa khóa, vị trí dưới ghế, mặt bàn hoặc ngăn kéo. Các phần khác của CHANGE-012/013 vẫn giữ hiệu lực nếu không mâu thuẫn với CHANGE-014, đặc biệt: vật chứng là chìa khóa chính; trình tự phát hiện/đối chiếu; giới hạn chứng minh; tuyến nhận thức của Nguyên; T0 sáng thứ Bảy; mốc phát hiện khoảng 13:40; và giới hạn quyền hạn của C01.
+
+**Trạng thái:** MẠCH CHỨNG CỨ VÀ TUYẾN NHẬN THỨC ĐÃ CHỐT; TÌNH HUỐNG TIẾP XÚC/RƠI/CẤT GIỮ VÀ CÁCH ẢNH GHI NHẬN CÒN MỞ.
