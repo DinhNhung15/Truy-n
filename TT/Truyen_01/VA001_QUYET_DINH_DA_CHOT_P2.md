@@ -334,3 +334,37 @@ Tình huống được chọn phải giải quyết đồng thời, không dựa
 **Nguyên tắc cập nhật:** CHANGE-014 ưu tiên hơn mọi mô tả cụ thể trong CHANGE-012/013 về hành động Nguyên nhặt chìa khóa, vị trí dưới ghế, mặt bàn hoặc ngăn kéo. Các phần khác của CHANGE-012/013 vẫn giữ hiệu lực nếu không mâu thuẫn với CHANGE-014, đặc biệt: vật chứng là chìa khóa chính; trình tự phát hiện/đối chiếu; giới hạn chứng minh; tuyến nhận thức của Nguyên; T0 sáng thứ Bảy; mốc phát hiện khoảng 13:40; và giới hạn quyền hạn của C01.
 
 **Trạng thái:** MẠCH CHỨNG CỨ VÀ TUYẾN NHẬN THỨC ĐÃ CHỐT; TÌNH HUỐNG TIẾP XÚC/RƠI/CẤT GIỮ VÀ CÁCH ẢNH GHI NHẬN CÒN MỞ.
+
+
+---
+
+## CHANGE-015 — CHỐT TÌNH HUỐNG CHÌA KHÓA TẠI NHÀ LONG — ĐÃ CHỐT
+
+**Ngày chốt:** 05/11/2026  
+**Trạng thái:** ĐÃ CHỐT theo xác nhận trực tiếp của người dùng.  
+**Ưu tiên:** CHANGE-015 thay thế toàn bộ phần CHANGE-014 §14.2 và các câu trong CHANGE-014 cho rằng tình huống Nguyên nhặt chìa khóa dưới ghế/đặt lên bàn/cất vào ngăn kéo chưa được phê duyệt. Các nội dung khác của CHANGE-014 vẫn có hiệu lực nếu không mâu thuẫn với CHANGE-015.
+
+### 15.1. Trình tự sự kiện bắt buộc
+
+1. Long rời căn hộ Bình sau khi gây án, mang theo điện thoại của Bình và chìa khóa CHÍNH căn hộ Bình.
+2. Long về nhà, ngồi gần khu vực ghế. Điện thoại của Long đổ chuông; một người bạn gọi để trao đổi việc chuẩn bị buổi tụ tập.
+3. Khi lấy điện thoại của mình ra nghe, chìa khóa chính trong túi Long rơi xuống khu vực ghế, trượt xuống dưới ghế. Long không nhận ra vì đang căng thẳng và tập trung vào cuộc gọi.
+4. Sau cuộc gọi, Long mới lấy điện thoại của Bình ra, tắt nguồn và giấu đi.
+5. Nguyên đến sau. Trong sinh hoạt bình thường, Nguyên vô tình làm rơi một số đồ trên bàn xuống đất.
+6. Nguyên cúi xuống nhặt đồ của mình và tình cờ nhặt luôn chiếc chìa khóa đã nằm dưới ghế. Cậu tưởng đó là một món đồ vừa rơi, không biết chìa khóa thuộc về Bình và không biết Long đã làm rơi nó.
+7. Nguyên đặt tất cả đồ nhặt được, bao gồm chìa khóa, lên bàn.
+8. Sau đó, khi mọi người cùng dọn bàn, những món đồ lặt vặt đã nằm trên bàn được cất vào ngăn kéo, bao gồm cả chiếc chìa khóa.
+
+### 15.2. Giới hạn nhận thức và hành động
+
+- **Long:** là người làm rơi chìa khóa nhưng không nhận ra; không biết Nguyên nhặt được; không chủ động nhặt, gom hoặc cất riêng chìa khóa vào ngăn kéo.
+- **Nguyên:** chỉ trực tiếp biết mình làm rơi đồ, cúi xuống nhặt, nhặt được chìa khóa dưới ghế và đặt tất cả lên bàn; không chứng kiến Long làm rơi chìa khóa, không nghe cuộc gọi trước khi mình đến, không biết nguồn gốc chìa khóa.
+- **Nhóm bạn:** việc cất đồ vào ngăn kéo là một phần của hoạt động dọn bàn bình thường; không ai chú ý riêng hoặc nhận diện chiếc chìa khóa.
+- Không viết Nguyên hồi tưởng hoặc kể lại bất kỳ hành động nào của Long xảy ra trước khi Nguyên đến.
+- Không viết Long chủ động cất chìa khóa, phát hiện chìa khóa trong lúc dọn dẹp, hoặc biết chìa khóa đã được Nguyên nhặt.
+
+### 15.3. Giá trị của tình tiết trong mạch vụ án
+
+Tình tiết này giải thích hợp lý vì sao dấu vân tay của Nguyên có trên chìa khóa và vì sao chìa khóa chính của Bình xuất hiện tại nhà Long. Nó không tự chứng minh Long là hung thủ. Khi được hỏi về dấu vân tay, Nguyên mới nhớ lại phần việc mình trực tiếp trải qua; sau đó cậu có thể kiểm tra ảnh/video cũ được chia sẻ hợp lệ để đối chiếu chiếc chìa khóa.
+
+**Trạng thái cuối:** TÌNH HUỐNG LONG LÀM RƠI — NGUYÊN NHẶT — ĐẶT LÊN BÀN — NHÓM DỌN VÀ CẤT VÀO NGĂN KÉO ĐÃ ĐƯỢC CHỐT. CHANGE-014 §14.2 không còn hiệu lực đối với các chi tiết này.
