@@ -334,3 +334,18 @@ Mọi chi tiết dưới đây phải **vô hại khi nghe lần đầu**, chỉ
 | Nguyên nhận việc tổng hợp hồ sơ | Sáng thứ Hai | Sau ngày phát hiện; chỉ làm phần tổng hợp/hỗ trợ hồ sơ được giao. |
 
 **Nguyên tắc:** 11 giờ 30, 11 giờ 45 và 12 giờ là các mốc vận hành để giữ continuity cho bản thảo, không phải dữ liệu pháp y/camera đã được xác minh. Mốc chắc chắn hiện tại là C02 được phát hiện khoảng 13 giờ 40 thứ Bảy. Cách kể mở phần Nguyên nên dùng “Gần hai tiếng trước đó” hoặc ghi 11 giờ 45, không viết “hai tiếng trước” nếu muốn giữ độ chính xác tương đối.
+
+
+---
+
+## ADDENDUM CANON CHANGE-015 — CẢNH CHÌA KHÓA TẠI NHÀ LONG (05/11/2026)
+
+Khi triển khai cảnh buổi tụ tập, bắt buộc giữ đúng chuỗi sau:
+
+1. Trước khi Nguyên đến, Long lấy điện thoại của mình ra nghe cuộc gọi. Chìa khóa chính căn hộ Bình trong túi Long rơi xuống gần ghế, trượt xuống dưới ghế. Long không nhận ra.
+2. Nguyên đến sau. Trong sinh hoạt bình thường, cậu vô tình làm rơi một số đồ trên bàn xuống đất.
+3. Nguyên cúi xuống nhặt đồ và tình cờ nhặt luôn chiếc chìa khóa dưới ghế, tưởng đó là một món đồ vừa rơi. Cậu không biết chìa khóa thuộc về Bình và không chứng kiến Long làm rơi.
+4. Nguyên đặt tất cả đồ nhặt được lên bàn.
+5. Khi mọi người cùng dọn bàn, các món đồ lặt vặt trên bàn được cất vào ngăn kéo, bao gồm chiếc chìa khóa. Không ai chú ý riêng đến chìa khóa.
+
+Long không nhận ra chìa khóa đã rơi, không biết Nguyên nhặt được và không chủ động cất chìa khóa. Không viết cảnh này từ góc nhìn hiểu biết của Nguyên về những việc xảy ra trước khi cậu đến. Addendum này ưu tiên hơn mọi dòng trong dàn ý có diễn biến trái ngược.
