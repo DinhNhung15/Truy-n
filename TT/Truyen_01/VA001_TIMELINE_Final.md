@@ -732,3 +732,23 @@ Phần dưới đây chuẩn hóa nhịp kể giữa cảnh Toàn phát hiện v
 **Chỉnh câu chuyển thời gian trong bản thảo:** dùng “Gần hai tiếng trước đó, vào khoảng 11 giờ 45...” thay cho “Hai tiếng trước đó” để tránh sai số 5 phút so với mốc phát hiện 13:40. Nếu không muốn nêu giờ cụ thể trong lời kể, chỉ cần giữ “Gần hai tiếng trước đó”.
 
 **Phạm vi bất biến:** mốc 13:40 là khoảng thời gian phát hiện đã chốt; các mốc 11:30, 11:45 và 12:00 là giờ ước lượng/điều phối cảnh viết, chưa phải dữ kiện được điều tra xác minh. Không dùng chúng như chứng cứ ngoại phạm hoặc thời điểm pháp y.
+
+
+---
+
+## ADDENDUM CHANGE-015 — CHUỖI CHÌA KHÓA TẠI NHÀ LONG (05/11/2026)
+
+Đây là trình tự đã được người dùng chốt; ưu tiên hơn mọi mô tả trái ngược, đặc biệt CHANGE-014 §14.2:
+
+| Thứ tự | Sự kiện | Người biết trực tiếp | Giới hạn |
+|---|---|---|---|
+| 1 | Long về nhà sau khi rời căn hộ Bình, mang theo điện thoại Bình và chìa khóa chính căn hộ Bình. | Sự thật khách quan; Nguyên không chứng kiến. | Không đưa vào ký ức của Nguyên. |
+| 2 | Long ngồi gần ghế; điện thoại Long đổ chuông. | Long và người gọi. | Nguyên chưa đến. |
+| 3 | Long lấy điện thoại của mình ra nghe; chìa khóa chính trong túi rơi xuống khu vực ghế, trượt xuống dưới ghế. Long không nhận ra. | Sự thật khách quan; Long không nhận thức được việc chìa rơi. | Không viết Long chủ động đặt hoặc cất chìa. |
+| 4 | Sau cuộc gọi, Long lấy điện thoại Bình, tắt nguồn và giấu đi. | Long. | Nguyên không chứng kiến. |
+| 5 | Nguyên đến, vô tình làm rơi một số đồ trên bàn xuống đất. | Nguyên và nhóm có mặt. | Hoạt động sinh hoạt bình thường. |
+| 6 | Nguyên cúi xuống nhặt đồ và tình cờ nhặt cả chìa khóa dưới ghế, tưởng là đồ vừa rơi. | Nguyên. | Không biết nguồn gốc chìa khóa. |
+| 7 | Nguyên đặt tất cả đồ nhặt được, gồm chìa khóa, lên bàn. | Nguyên và người có mặt. | Không ai chú ý riêng đến chìa khóa. |
+| 8 | Khi mọi người dọn bàn, các món đồ lặt vặt trên bàn được cất vào ngăn kéo, gồm cả chìa khóa. | Nhóm có mặt. | Không phải hành động cất riêng có chủ đích của Long. |
+
+**Điểm continuity:** Long làm rơi chìa khóa; Nguyên nhặt chìa khóa; nhóm dọn bàn cất chìa khóa vào ngăn kéo. Long không nhận ra chìa khóa rơi và không biết Nguyên đã nhặt được. Nguyên không biết bất kỳ sự kiện nào xảy ra trước khi cậu đến nhà Long.
