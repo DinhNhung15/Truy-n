@@ -1,8 +1,8 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.1  
-**Trạng thái:** Tài liệu nền tảng – đang hoàn thiện; các bảng cấp bậc và phần thưởng đã được tác giả xác nhận  
+**Phiên bản:** 1.2  
+**Trạng thái:** Tài liệu nền tảng – đang hoàn thiện; các bảng cấp bậc, phần thưởng và quy tắc tạo/làm lại nhiệm vụ đã được tác giả xác nhận  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, tài nguyên, phần thưởng và quy tắc trở về.
 
 ---
@@ -146,32 +146,51 @@ Mong cầu của một người đạt ngưỡng 100%.
 **Bước 2: Tiếp xúc**  
 Hệ thống chuyên trách tìm đến người có mong cầu.
 
-**Bước 3: Ký khế ước**  
-Người ước nguyện cần ký khế ước.
+**Bước 3: Làm rõ và cụ thể hóa nguyện vọng**  
+Người ủy thác trình bày mong muốn. Tổng bộ phân tích, đề xuất mục tiêu và điều kiện hoàn thành cụ thể để người ủy thác xem xét.
 
-**Bước 4: Chuyển hóa**  
+**Bước 4: Xử lý nguyện vọng bất khả thi (nếu có)**  
+Nếu nguyện vọng ban đầu không thể thực hiện, Tổng bộ đưa ra một hoặc nhiều phương án khả thi gần với mong muốn ban đầu. Người ủy thác có quyền chọn một phương án hoặc từ chối tất cả. Nếu từ chối, quy trình dừng lại, không phát sinh khế ước, nhiệm vụ hay năng lượng.
+
+**Bước 5: Xác nhận điều kiện và ký khế ước**  
+Người ủy thác xác nhận phương án, mục tiêu và điều kiện hoàn thành. Sau đó hai bên ký khế ước. Từ thời điểm này, nguyện vọng và điều kiện đã xác nhận không thể thay đổi.
+
+**Bước 6: Chuyển hóa**  
 Ngay sau khi khế ước hoàn tất:
-- Người ước nguyện chuyển hóa thành năng lượng.
+- Người ủy thác chuyển hóa thành năng lượng.
 - Năng lượng được đưa vào nguồn vận hành chung.
 - Nguyện vọng được ghi nhận chính thức.
 
-**Bước 5: Tạo nhiệm vụ**  
-Cục Thu Nguyện tổng hợp nội dung khế ước thành một nhiệm vụ.
+**Bước 7: Tạo nhiệm vụ**  
+Cục Thu Nguyện tổng hợp nội dung khế ước thành một nhiệm vụ với mục tiêu và điều kiện hoàn thành đã xác nhận.
 
-**Bước 6: Đưa vào kho**  
+**Bước 8: Đưa vào kho**  
 Nhiệm vụ được ghi nhận vào kho nhiệm vụ của Tổng bộ. Tổng số nhiệm vụ tăng thêm 1.
 
-**Bước 7: Chờ tiếp nhận**  
+**Bước 9: Chờ tiếp nhận**  
 Nhiệm vụ chờ hệ thống con tiếp nhận và thực hiện.
 
 ## 3.3. Nguyên tắc về khế ước
 
-- Người ước nguyện phải ký khế ước thì nhiệm vụ mới được tạo.
+- Người ước nguyện phải xác nhận mục tiêu và điều kiện hoàn thành trước khi ký khế ước.
+- Nếu nguyện vọng bất khả thi, người ủy thác có quyền chọn phương án thay thế hoặc từ chối ký.
 - Không được tính nhiệm vụ mới nếu khế ước chưa hoàn tất.
 - Mỗi khế ước hoàn tất tạo thêm một nhiệm vụ.
+- Sau khi ký khế ước, nguyện vọng và điều kiện hoàn thành không thể thay đổi.
 - Người ước nguyện đã chuyển hóa thành năng lượng không phụ thuộc vào kết quả nhiệm vụ.
 
-Các chi tiết về điều khoản khế ước, khả năng sửa đổi nguyện vọng và cách xác minh nội dung khế ước chưa được chốt.
+### Quy tắc cụ thể hóa và xác nhận nguyện vọng
+
+- Người ủy thác trình bày nguyện vọng ban đầu với Cục Thu Nguyện.
+- Tổng bộ phân tích nguyện vọng và đề xuất mục tiêu cùng điều kiện hoàn thành cụ thể.
+- Người ủy thác có quyền trao đổi, xác nhận hoặc không chấp nhận phương án được đề xuất.
+- Nếu nguyện vọng ban đầu không thể thực hiện, Tổng bộ đưa ra một hoặc nhiều phương án khả thi gần với mong muốn ban đầu để người ủy thác lựa chọn.
+- Người ủy thác có quyền từ chối tất cả phương án. Nếu không chấp nhận phương án nào và không ký khế ước, nhiệm vụ không được tạo, người đó không chuyển hóa thành năng lượng.
+- Chỉ sau khi người ủy thác xác nhận phương án và điều kiện hoàn thành, hai bên mới ký khế ước.
+- Sau khi khế ước được ký, nguyện vọng và điều kiện hoàn thành đã xác nhận không thể thay đổi.
+- Điều kiện hoàn thành phải được xác định trước khi ký chủ bắt đầu thực hiện nhiệm vụ; Tổng bộ không được tùy tiện thay đổi hoặc diễn giải lại điều kiện trong quá trình thực hiện.
+
+Các chi tiết khác về điều khoản khế ước và cách xác minh kết quả nhiệm vụ sẽ được quy định riêng.
 
 ---
 
@@ -367,10 +386,17 @@ Khi đã lựa chọn nhưng thất bại:
 
 Kết quả tài khoản của ký chủ và hệ thống con được quyết toán độc lập.
 
-Nếu ký chủ hoàn thành một hoặc nhiều nhiệm vụ phụ nhưng nhiệm vụ chính thất bại:
-- Ký chủ vẫn giữ toàn bộ điểm thưởng và EXP của những nhiệm vụ phụ đã hoàn thành.
-- Ký chủ vẫn chịu hình phạt 100% điểm thưởng của nhiệm vụ chính.
-- Hệ thống con không nhận năng lượng thưởng của nhiệm vụ chính.
+Nếu ký chủ hoàn thành một hoặc nhiều nhiệm vụ phụ nhưng nhiệm vụ chính thất bại, việc hạch toán được thực hiện theo thứ tự:
+
+1. Cộng toàn bộ điểm thưởng và EXP của những nhiệm vụ phụ đã hoàn thành vào tài khoản ký chủ.
+2. Sau khi cộng thưởng nhiệm vụ phụ, mới kiểm tra khả năng thanh toán hình phạt 100% điểm thưởng của nhiệm vụ chính.
+3. Nếu số điểm sau khi cộng thưởng đủ để chịu phạt, hệ thống trừ toàn bộ mức phạt; ký chủ tiếp tục sống và giữ phần điểm còn lại.
+4. Nếu số điểm sau khi cộng thưởng vẫn không đủ chịu phạt, ký chủ tử vong ngay ở hiện thực. Không phát sinh điểm âm hoặc nợ điểm.
+
+Ký chủ vẫn giữ EXP của những nhiệm vụ phụ đã hoàn thành, kể cả khi nhiệm vụ chính thất bại và ký chủ không đủ điểm chịu phạt.
+
+Đối với hệ thống con:
+- Không nhận năng lượng thưởng của nhiệm vụ chính.
 - Năng lượng thưởng từ các nhiệm vụ phụ đang chờ quyết toán bị hủy.
 
 Việc hủy năng lượng thưởng của hệ thống con không làm mất điểm hoặc EXP nhiệm vụ phụ đã ghi nhận cho ký chủ.
@@ -391,6 +417,32 @@ Vật phẩm giữ mạng có thể:
 - Giao dịch qua chợ người chơi nếu có nguồn cung phù hợp.
 
 Điều kiện, số lần sử dụng và hiệu quả của từng vật phẩm phụ thuộc mô tả riêng của vật phẩm.
+
+## 6.5. Nhiệm vụ thất bại và cơ chế làm lại
+
+### Nhiệm vụ được tiếp tục phân phối
+
+- Khi một ký chủ thực hiện nhiệm vụ nhưng thất bại, nhiệm vụ không bị xóa hoặc hủy.
+- Tổng bộ đưa nhiệm vụ trở lại kho để tiếp tục phân phối cho ký chủ khác.
+- Nhiệm vụ có thể được giao cho những ký chủ khác nhau cho đến khi có người hoàn thành.
+- Một nhiệm vụ chỉ có một ký chủ thực hiện tại một thời điểm; không phân phối đồng thời cùng một nhiệm vụ cho nhiều ký chủ.
+
+### Quyền xin làm lại của ký chủ từng thất bại
+
+- Ký chủ đã thất bại có thể xin tiếp nhận lại chính nhiệm vụ đó.
+- Phí làm lại bằng 50% điểm thưởng cơ bản của nhiệm vụ, tính theo cấp bậc nhiệm vụ.
+- Phí được trừ ngay khi yêu cầu làm lại được Tổng bộ chấp thuận và không được hoàn lại nếu lần làm lại tiếp tục thất bại.
+- Mỗi ký chủ chỉ có tối đa 3 lượt thực hiện một nhiệm vụ, tính cả lần đầu tiên. Như vậy, một ký chủ chỉ có tối đa 2 lần xin làm lại sau lượt đầu.
+- Giới hạn 3 lượt áp dụng riêng cho từng ký chủ đối với từng nhiệm vụ; những ký chủ khác vẫn có thể tiếp nhận nhiệm vụ đó theo quy định.
+- Mỗi lần làm lại phải thực hiện lại từ đầu, không kế thừa tiến độ của lần trước, trừ khi chính điều kiện nhiệm vụ cho phép.
+- Nếu làm lại thành công, ký chủ nhận đủ 100% điểm và EXP thưởng như một lần hoàn thành bình thường. Phí làm lại không bị khấu trừ vào phần thưởng.
+- Các quy tắc hình phạt khi thất bại vẫn áp dụng cho lượt làm lại.
+
+### Nhiệm vụ đã hoàn thành
+
+- Khi nhiệm vụ đã được một ký chủ hoàn thành và Tổng bộ xác nhận đóng nhiệm vụ, nhiệm vụ đó đóng vĩnh viễn.
+- Không ký chủ nào được xin làm lại hoặc tiếp nhận lại nhiệm vụ đã hoàn thành.
+- Ngoại lệ duy nhất là quay lại thông qua vé thưởng. Cơ chế, điều kiện và cách sử dụng loại vé thưởng này chưa được xác định tại đây.
 
 ---
 
@@ -630,6 +682,14 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 25. Quyền hạn hệ thống không được bảo lưu khi trở về.
 26. Người quay lại làm nhiệm vụ có điểm tích lũy reset về 0.
 27. Hệ thống của trẻ nhỏ không được phép tự ý sửa nhiệm vụ hoặc giảm độ khó, nhưng có thể hỗ trợ và dùng năng lượng của mình để can thiệp khi bé gặp nguy hiểm.
+28. Nguyện vọng và điều kiện hoàn thành không thể thay đổi sau khi khế ước được ký.
+29. Điều kiện hoàn thành phải được người ủy thác và Tổng bộ thống nhất, xác nhận trước khi ký khế ước.
+30. Nếu nguyện vọng bất khả thi, người ủy thác có quyền chọn phương án thay thế hoặc từ chối ký; từ chối ký thì không tạo nhiệm vụ và không chuyển hóa thành năng lượng.
+31. Khi nhiệm vụ chính thất bại, điểm và EXP nhiệm vụ phụ đã hoàn thành được cộng vào tài khoản ký chủ trước khi kiểm tra và trừ hình phạt nhiệm vụ chính.
+32. Nhiệm vụ thất bại được đưa trở lại kho để tiếp tục phân phối cho ký chủ khác cho đến khi hoàn thành.
+33. Phí làm lại nhiệm vụ bằng 50% điểm thưởng cơ bản của nhiệm vụ, bị trừ khi yêu cầu được chấp thuận và không hoàn lại nếu thất bại.
+34. Mỗi ký chủ có tối đa 3 lượt thực hiện một nhiệm vụ, tính cả lần đầu; không giới hạn số ký chủ khác nhau có thể tiếp nhận nhiệm vụ đó.
+35. Làm lại thành công vẫn nhận đủ 100% điểm và EXP thưởng; nhiệm vụ đã hoàn thành đóng vĩnh viễn và chỉ có thể quay lại thông qua vé thưởng.
 
 ---
 
@@ -650,6 +710,7 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 | SYS-012 | Cơ chế xử lý nhiệm vụ tự chọn không gắn với nhiệm vụ bắt buộc |
 | SYS-013 | Cơ chế vận hành khi hệ thống con mất ký chủ hoặc bị hủy |
 | SYS-014 | Cơ chế quản lý và phân phối năng lượng trong Tổng bộ |
+| SYS-015 | Cơ chế, điều kiện và cách sử dụng vé thưởng để quay lại nhiệm vụ đã hoàn thành |
 
 ---
 
@@ -669,4 +730,4 @@ Khi viết truyện:
 
 Mọi thay đổi canon phải được cập nhật vào tài liệu này và ghi nhận trong CONTINUITY_LOG.md.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.1**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.2**
