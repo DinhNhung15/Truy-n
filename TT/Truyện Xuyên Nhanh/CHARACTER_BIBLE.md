@@ -1,7 +1,7 @@
 # CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT CHÍNH – GIA ĐÌNH XUYÊN THẾ GIỚI
 
-**Phiên bản:** 1.0  
+**Phiên bản:** 1.1  
 **Trạng thái:** Tổng hợp các đặc điểm nhân vật đã được xác nhận  
 **Phạm vi:** Ba thành viên gia đình và định hướng xây dựng tính cách  
 **Nguyên tắc:** Không tự đặt tên, tuổi, nghề nghiệp, ngoại hình, kỹ năng hoặc tiểu sử khi tác giả chưa xác nhận.
@@ -98,18 +98,77 @@ Hành trình phát triển phù hợp với các điểm yếu đã xác nhận:
 
 ### 3.1. Nét tính cách cốt lõi
 
-- Hoạt bát, hòa đồng và có xu hướng chủ động giao tiếp.
-- Hay đùa, thích trêu chọc và tạo không khí thoải mái.
-- Tình cảm, quan tâm đến gia đình.
-- Có sức chịu đựng và khả năng thích nghi tốt.
-- Biết suy nghĩ trước khi hành động; không đồng nhất sự vui vẻ với bốc đồng hoặc thiếu nghiêm túc.
+- Thông minh, nhạy bén, có khả năng nắm bắt tình huống và phản ứng nhanh.
+- Giỏi giao tiếp, hòa đồng, biết cách tạo thiện cảm và điều chỉnh cách nói chuyện theo đối tượng.
+- Hoạt bát, hay đùa, thích trêu chọc và tạo không khí thoải mái.
+- Thận trọng, thực tế, thường cân nhắc rủi ro và những hệ quả có thể xảy ra trước khi hành động.
+- Hay lo xa, dễ nghĩ đến những tình huống xấu hoặc những vấn đề chưa thực sự phát sinh.
+- Ngoại giao khéo léo, biết giữ hòa khí và tìm cách xử lý quan hệ giữa người với người.
+- Thiếu kiên định trong một số tình huống; có thể dao động khi đứng trước ý kiến trái chiều hoặc áp lực từ người khác.
+- Nội tâm khép kín, không dễ chia sẻ suy nghĩ sâu kín hay bộc lộ những bất an của bản thân.
+- Thích sự an toàn, ổn định và những lựa chọn có thể dự đoán được.
+- Tình cảm, quan tâm đến gia đình và có sức chịu đựng, khả năng thích nghi tốt.
 
-### 3.2. Trong quan hệ với vợ
+### 3.2. Thông minh, nhạy bén và giỏi giao tiếp
 
-- Có thể trêu chọc và tạo những màn đối đáp tự nhiên với vợ.
+Anh có khả năng tiếp nhận thông tin nhanh, nhận ra điểm bất thường và hiểu được tình thế đang diễn ra. Trong giao tiếp, anh biết quan sát phản ứng của đối phương để lựa chọn cách nói phù hợp.
+
+Sự khéo léo không nhất thiết đến từ việc nói nhiều. Anh có thể biết lúc nào nên chủ động, lúc nào nên nhường lời, lúc nào cần nói thẳng và lúc nào nên lựa lời để tránh khiến tình hình căng thẳng hơn.
+
+Không biến sự nhạy bén thành khả năng nhìn thấu mọi chuyện. Anh vẫn có thể thiếu thông tin, đánh giá sai hoặc bị cảm xúc và định kiến ảnh hưởng.
+
+### 3.3. Thận trọng, thực tế và hay lo xa
+
+Anh thường nhìn vấn đề theo hướng thực tế, chú ý đến điều kiện hiện có, rủi ro và hậu quả của từng lựa chọn.
+
+Trước một quyết định, anh có xu hướng:
+- Cân nhắc phương án dự phòng.
+- Nghĩ đến những tình huống bất lợi có thể xảy ra.
+- Ưu tiên cách làm có cơ sở và ít rủi ro hơn.
+- Không dễ đặt cược vào một phương án chỉ vì hy vọng mọi chuyện sẽ thuận lợi.
+
+Mặt trái là anh có thể lo trước những chuyện chưa xảy ra, tự mở rộng các khả năng xấu và khiến bản thân khó thư giãn. Sự thận trọng đôi khi làm anh chậm quyết định hoặc bỏ lỡ cơ hội.
+
+### 3.4. Ngoại giao khéo léo nhưng thiếu kiên định
+
+Anh biết cách duy trì quan hệ, tránh xung đột không cần thiết và tìm tiếng nói chung giữa những người có quan điểm khác nhau.
+
+Tuy nhiên, mong muốn giữ hòa khí có thể khiến anh:
+- Dễ nhượng bộ để kết thúc tranh luận.
+- Khó duy trì lập trường khi bị nhiều người gây áp lực.
+- Cân nhắc quá lâu giữa việc bảo vệ ý kiến của mình và làm vừa lòng người khác.
+- Có lúc biết phương án nào hợp lý hơn nhưng vẫn dao động trước phản ứng của những người xung quanh.
+
+Thiếu kiên định không có nghĩa là anh không có suy nghĩ riêng hoặc luôn ba phải. Anh vẫn có thể đưa ra nhận định rõ ràng; điểm yếu nằm ở việc giữ vững lựa chọn khi phải đối diện với áp lực và xung đột.
+
+### 3.5. Nội tâm khép kín và thích an toàn
+
+Bề ngoài anh có thể cởi mở, dễ nói chuyện và hòa đồng, nhưng điều đó không đồng nghĩa với việc anh dễ chia sẻ nội tâm.
+
+Anh có xu hướng tự xử lý những lo lắng của mình, cân nhắc trước khi kể chuyện riêng và không muốn để người khác nhìn thấy những phần bất an hoặc yếu đuối. Có những điều anh giữ trong lòng không phải vì không tin ai, mà vì đã quen tự mình suy nghĩ và giải quyết.
+
+Anh thiên về sự ổn định, thích những tình huống nằm trong khả năng kiểm soát. Khi phải đối diện với thay đổi lớn hoặc rủi ro khó dự đoán, anh có thể dè chừng và tìm cách giữ lại phương án an toàn.
+
+Không đồng nhất thích an toàn với hèn nhát. Khi đã xác định điều gì thực sự quan trọng, anh vẫn có thể chấp nhận rủi ro; sự khác biệt nằm ở việc anh cần cân nhắc và có lý do đủ mạnh để bước khỏi vùng an toàn.
+
+### 3.6. Khi ở bên vợ
+
+- Có thể trêu chọc, tạo những màn đối đáp tự nhiên và làm không khí nhẹ nhàng hơn.
 - Tình cảm và có sự gắn bó sâu sắc với gia đình.
 - Sự quan tâm nên thể hiện qua hành động, lựa chọn và cách anh đồng hành, không chỉ bằng lời nói.
+- Có thể thoải mái hơn với vợ nhưng không nhất thiết lập tức kể ra mọi suy nghĩ hoặc nỗi lo trong lòng.
 - Không biến anh thành người chỉ biết chiều theo hoặc giải quyết mọi vấn đề thay vợ.
+
+### 3.7. Hướng phát triển nhân vật
+
+Các điểm có thể tạo thành hành trình phát triển:
+- Học cách phân biệt thận trọng với né tránh rủi ro.
+- Biết chấp nhận rằng không phải mọi tình huống đều có phương án an toàn tuyệt đối.
+- Học cách giữ lập trường khi cần thiết, thay vì luôn ưu tiên hòa khí.
+- Cởi mở hơn trong việc chia sẻ suy nghĩ và những bất an của bản thân.
+- Dám đưa ra lựa chọn và chịu trách nhiệm với lựa chọn đó.
+
+Đây là hướng phát triển có thể khai thác, không phải yêu cầu anh phải trở thành người liều lĩnh, bộc trực hoặc hoàn toàn cởi mở.
 
 ---
 
@@ -138,10 +197,12 @@ Ba thành viên có những nét tính cách khác nhau:
 | Nhân vật | Nét nổi bật |
 |---|---|
 | Người vợ | Nhạy cảm, tinh tế, giàu lòng trắc ẩn, cầu toàn và có sức mạnh âm thầm |
-| Người chồng | Hoạt bát, hòa đồng, hay trêu chọc, tình cảm và biết suy nghĩ |
+| Người chồng | Thông minh, nhạy bén, giỏi giao tiếp, thận trọng, khéo léo nhưng đôi khi thiếu kiên định; nội tâm khép kín và thích an toàn |
 | Con trai | Nhạy cảm, ấm áp, tích cực và tương đối độc lập |
 
-Sự khác biệt này tạo chất liệu cho tương tác gia đình, nhưng không nên biến thành công thức cố định. Mỗi người có thể phản ứng khác nhau tùy hoàn cảnh, mức độ nguy hiểm và trạng thái cảm xúc.
+Một điểm tương phản đáng chú ý ở người chồng là **bề ngoài cởi mở, giao tiếp tốt nhưng nội tâm khép kín**. Anh có thể dễ dàng trò chuyện, tạo thiện cảm với người khác nhưng không dễ để người khác hiểu được những lo lắng và suy nghĩ sâu kín của mình.
+
+Sự khác biệt giữa hai vợ chồng có thể tạo ra tương tác tự nhiên: người vợ nhạy cảm và dễ bị tổn thương nhưng có lúc dám đứng lên vì người khác; người chồng nhạy bén, khéo léo và thực tế nhưng lại hay lo xa, thích an toàn và có thể dao động khi phải đối diện với xung đột. Không biến những nét này thành công thức phản ứng cố định trong mọi tình huống.
 
 ---
 
@@ -153,10 +214,14 @@ Sự khác biệt này tạo chất liệu cho tương tác gia đình, nhưng k
 4. Không biến sự mạnh mẽ ngầm thành năng lực dũng cảm vô điều kiện.
 5. Không để nữ chính luôn nhận ra chính xác cảm xúc hoặc suy nghĩ của người khác.
 6. Không biến nam chính thành nhân vật chỉ biết đùa; anh vẫn phải có khả năng suy xét và chịu trách nhiệm.
-7. Không viết con trai như một người trưởng thành thu nhỏ.
-8. Lời thoại và phản ứng phải phù hợp với tính cách, trạng thái cảm xúc và quan hệ giữa các nhân vật ở từng thời điểm.
-9. Ưu tiên thể hiện tính cách qua lựa chọn, hành động, phản ứng và tương tác; hạn chế giải thích trực tiếp hoặc lặp lại cùng một cảm xúc.
-10. Không tự bổ sung tên, tuổi chi tiết, nghề nghiệp, ngoại hình, năng lực, quá khứ hoặc các mốc quan hệ chưa được tác giả xác nhận.
+7. Không đánh đồng giỏi giao tiếp với cởi mở về nội tâm.
+8. Không biến sự thận trọng, thích an toàn thành hèn nhát hoặc không dám hành động trong mọi hoàn cảnh.
+9. Không biến sự khéo léo ngoại giao thành khả năng thao túng người khác.
+10. Không đánh đồng thiếu kiên định với không có quan điểm riêng.
+11. Không viết con trai như một người trưởng thành thu nhỏ.
+12. Lời thoại và phản ứng phải phù hợp với tính cách, trạng thái cảm xúc và quan hệ giữa các nhân vật ở từng thời điểm.
+13. Ưu tiên thể hiện tính cách qua lựa chọn, hành động, phản ứng và tương tác; hạn chế giải thích trực tiếp hoặc lặp lại cùng một cảm xúc.
+14. Không tự bổ sung tên, tuổi chi tiết, nghề nghiệp, ngoại hình, năng lực, quá khứ hoặc các mốc quan hệ chưa được tác giả xác nhận.
 
 ---
 
@@ -174,4 +239,4 @@ Các nội dung sau chưa được xác nhận và không được tự ý coi l
 
 ---
 
-**Kết thúc CHARACTER_BIBLE.md – Phiên bản 1.0**
+**Kết thúc CHARACTER_BIBLE.md – Phiên bản 1.1**
