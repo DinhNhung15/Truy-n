@@ -1,8 +1,8 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.4  
-**Trạng thái:** Tài liệu nền tảng – đang hoàn thiện; các bảng cấp bậc, phần thưởng và quy tắc tạo/làm lại nhiệm vụ đã được tác giả xác nhận  
+**Phiên bản:** 1.5  
+**Trạng thái:** Tài liệu nền tảng – đang hoàn thiện; các quy tắc SYS-007 về hệ thống ký sinh, năng lượng, can thiệp, sập và khôi phục đã được tác giả xác nhận  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, tài nguyên, cửa hàng, chợ giao dịch, phần thưởng và quy tắc trở về.
 
 ---
@@ -786,7 +786,7 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 | SYS-001 | Nguồn gốc và lịch sử hình thành Tổng bộ |
 | SYS-002 | Tiêu chuẩn chi tiết để phân loại nhiệm vụ vào 8 cấp F–SS |
 | SYS-003 | Danh sách quyền hạn được mở khóa theo cấp ký chủ |
-| SYS-007 | Giới hạn năng lượng và khả năng can thiệp của hệ thống con |
+| SYS-007 | Tiêu chí định lượng chi tiết để xác định chi phí cụ thể trong từng khoảng can thiệp và các trường hợp đặc biệt chưa được quy định |
 | SYS-008 | Điều kiện và giới hạn sử dụng vật phẩm giữ mạng |
 | SYS-009 | Công thức và tiêu chí chi tiết để hệ thống xác định tỷ giá quy đổi sang S |
 | SYS-010 | Cơ chế lựa chọn và kích hoạt vé Về Nhà |
@@ -815,3 +815,172 @@ Khi viết truyện:
 Mọi thay đổi canon phải được cập nhật vào tài liệu này và ghi nhận trong CONTINUITY_LOG.md.
 
 **Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.4**
+
+
+---
+
+# 15. SYS-007 – HỆ THỐNG KÝ SINH, NĂNG LƯỢNG VÀ CƠ CHẾ VẬN HÀNH
+
+Mục này ghi nhận các quy tắc đã được tác giả xác nhận về hệ thống đồng hành với ký chủ, năng lượng vận hành, can thiệp, sập hệ thống, đóng băng và khôi phục.
+
+## 15.1. Phân biệt hai loại hệ thống
+
+Trong quy trình thực hiện nhiệm vụ tồn tại hai hệ thống độc lập:
+
+**Hệ thống ký sinh / hệ thống đồng hành với ký chủ**
+- Thuộc Khối Chấp Hành.
+- Có nhiệm vụ tìm kiếm, lựa chọn và liên kết với ký chủ.
+- Đồng hành, hướng dẫn, tư vấn và hỗ trợ ký chủ trong quá trình làm nhiệm vụ.
+- Cung cấp các tiện ích thuộc phạm vi quyền hạn như cửa hàng, giao dịch, mua kỹ năng, vật phẩm và túi chứa.
+- Có năng lượng riêng, cấp bậc, tính cách, cảm xúc, đời sống nội bộ và khả năng tự đưa ra quyết định.
+- Có thể sử dụng năng lượng để can thiệp, hỗ trợ ký chủ theo các quy tắc tại mục này.
+
+**Hệ thống nghiệp vụ nhiệm vụ**
+- Là hạ tầng nghiệp vụ độc lập của Tổng bộ, không phải hệ thống ký sinh đi theo ký chủ.
+- Phụ trách tiếp nhận, phân phối và quản lý nhiệm vụ; xác định mục tiêu, điều kiện hoàn thành; theo dõi tiến độ; chấm điểm; tính EXP và năng lượng thưởng; xác nhận kết quả và quyết toán.
+- Không giao tiếp với ký chủ như một hệ thống đồng hành thông thường.
+- Thông tin nhiệm vụ được hiển thị cho ký chủ qua giao diện nhiệm vụ riêng.
+
+Mọi ký chủ trước khi được đưa vào thế giới nhiệm vụ đều phải được một hệ thống ký sinh lựa chọn và liên kết. Không tồn tại ký chủ được phân công nhiệm vụ mà chưa từng có hệ thống đồng hành. Ký chủ chỉ tạm thời không có kết nối với hệ thống đồng hành khi hệ thống đó bị sập hoặc mất kết nối.
+
+## 15.2. Chức năng, bộ phận và tính độc lập của hệ thống
+
+- Toàn bộ hệ thống ký sinh đồng hành với ký chủ trực thuộc Khối Chấp Hành.
+- Mỗi hệ thống được tạo ra cho một bộ phận và vị trí công việc xác định; ngay từ khi hình thành, hệ thống biết chức năng và nhiệm vụ của mình.
+- Chức năng cốt lõi được xác định khi tạo ra. Nâng cấp có thể mở rộng năng lực nhưng không tự ý thay đổi chức năng cốt lõi.
+- Hệ thống có cảm xúc, tính cách, quan hệ xã hội, đời sống nội bộ, có quyền tự quyết và phải chịu trách nhiệm về quyết định của mình; không phải công cụ vô tri chỉ thực hiện lệnh.
+- Hệ thống có thể tự quyết định sử dụng năng lượng cho duy trì, công việc/hỗ trợ ký chủ hoặc nâng cấp. Không cần xin ký chủ phê duyệt từng lần can thiệp.
+- Hệ thống có thể tự mình trở về Tổng bộ bất cứ lúc nào, không cần xin phép ký chủ hay chờ phê duyệt. Việc có thông báo trước cho ký chủ hay không do hệ thống tự quyết định.
+- Tại Tổng bộ, các hệ thống có thể giao tiếp với nhau. Trong thế giới nhiệm vụ, các hệ thống không thể liên lạc với nhau; chỉ hệ thống đang liên kết mới có thể giao tiếp trực tiếp với ký chủ của nó.
+- Ký chủ không có kênh liên lạc từ xa riêng với ký chủ khác; chỉ có thể giao tiếp nếu gặp nhau trực tiếp ở thế giới thực hoặc trong thế giới nhiệm vụ.
+- Thời gian tại Tổng bộ và thế giới nhiệm vụ trôi qua đồng bộ theo tỷ lệ 1:1. Khi hệ thống trở về Tổng bộ, thời gian của ký chủ trong thế giới nhiệm vụ vẫn tiếp tục.
+- Khi hệ thống ở Tổng bộ, nó vẫn có thể theo dõi phần trăm tiến độ nhiệm vụ và nhận cảnh báo nguy hiểm từ hệ thống nghiệp vụ. Nếu muốn can thiệp, hệ thống phải trực tiếp quay lại thế giới nhiệm vụ; không thể can thiệp từ xa khi vẫn ở Tổng bộ.
+
+### Điều chuyển bộ phận
+
+- Hệ thống có thể đề nghị chuyển sang bộ phận khác. Việc đề nghị và được chấp thuận đều rất hiếm.
+- Nếu được chấp thuận, Tổng bộ đánh giá và tái cấu trúc chức năng cốt lõi: có thể giữ lại một phần, thay đổi hoặc thay thế toàn bộ chức năng cũ.
+- Trong thời gian đánh giá và tái cấu trúc, hệ thống tạm dừng công việc.
+- Sau khi chuyển bộ phận, cấp bậc được đánh giá lại theo tiêu chuẩn của bộ phận mới; có thể tăng, giảm hoặc giữ nguyên.
+- Trong thời gian tạm dừng để điều chuyển, hệ thống vẫn nhận đủ lương.
+
+## 15.3. Dung lượng năng lượng, duy trì và tiền lương
+
+Đơn vị năng lượng của hệ thống là **NL**. Dung lượng năng lượng cơ bản phụ thuộc vào cấp bậc hệ thống:
+
+| Cấp hệ thống | Dung lượng cơ bản | Tiêu hao duy trì/ngày | Lương mỗi 30 ngày |
+|---|---:|---:|---:|
+| F | 100 NL | 1 NL | 35 NL |
+| E | 200 NL | 2 NL | 70 NL |
+| D | 400 NL | 4 NL | 140 NL |
+| C | 800 NL | 8 NL | 280 NL |
+| B | 1.600 NL | 16 NL | 560 NL |
+| A | 3.200 NL | 32 NL | 1.120 NL |
+| S | 6.400 NL | 64 NL | 2.240 NL |
+| SS | 12.800 NL | 128 NL | 4.480 NL |
+
+Quy tắc áp dụng:
+- Dung lượng năng lượng cơ bản tăng gấp đôi sau mỗi cấp.
+- Mức tiêu hao duy trì cơ bản mỗi ngày bằng 1% dung lượng năng lượng cơ bản của cấp hiện tại.
+- Lương được trả bằng năng lượng, theo chu kỳ 30 ngày; mức lương mỗi chu kỳ bằng 35% dung lượng năng lượng cơ bản của cấp hiện tại.
+- Lương đủ duy trì hoạt động cơ bản nhưng không tạo ra lượng năng lượng dư dả lớn. Hệ thống có thể nhận thêm năng lượng từ phần thưởng nhiệm vụ, thưởng bổ sung của người ước nguyện hoặc phần thưởng đặc biệt của Tổng bộ.
+- Lương vẫn tiếp tục được tính và trả khi hệ thống bị sập năng lượng, nhưng không được trả trong thời gian hệ thống bị đóng băng.
+- Năng lượng có thể tích lũy vượt dung lượng cơ bản. Dung lượng cơ bản không phải giới hạn lưu trữ tối đa.
+- Nâng cấp dung lượng cơ bản không làm tăng lượng năng lượng hiện có. Ví dụ: hệ thống đang có 100/100 NL; sau khi nâng dung lượng lên 150 NL thì lượng hiện có vẫn là 100 NL.
+- Khi cấp hệ thống thay đổi, dung lượng cơ bản, mức duy trì, lương và ngưỡng khôi phục được tính theo cấp mới.
+
+## 15.4. Các mục đích sử dụng năng lượng
+
+Hệ thống tự quyết định phân bổ năng lượng hiện có cho ba nhóm mục đích:
+1. Duy trì hoạt động và vận hành cơ bản.
+2. Thực hiện công việc, hỗ trợ hoặc can thiệp cho ký chủ.
+3. Nâng cấp hệ thống.
+
+Hệ thống có thể sử dụng toàn bộ năng lượng đang có, kể cả khi quyết định đó dẫn đến sập hệ thống. Khi năng lượng thấp, hệ thống vẫn có thể hoạt động bình thường và tự cân nhắc ưu tiên những chức năng cần thiết; không bắt buộc phải chuyển sang chế độ tiết kiệm năng lượng.
+
+### Phí năng lượng can thiệp
+
+Phí can thiệp được xác định theo mức độ và quy mô công việc:
+
+| Mức can thiệp | Phạm vi điển hình | Chi phí |
+|---|---|---:|
+| Nhẹ | Phân tích thông tin, đưa ra cảnh báo | 1–3% |
+| Trung bình | Hỗ trợ kỹ thuật, tạo điều kiện cho ký chủ | 5–10% |
+| Cao | Tác động trực tiếp để hỗ trợ ký chủ | 10–20% |
+| Đặc biệt | Can thiệp quy mô lớn hoặc cứu nguy nghiêm trọng | 20–40% |
+
+- Chi phí cụ thể trong từng khoảng phụ thuộc độ phức tạp, thời gian và phạm vi can thiệp.
+- Tỷ lệ phần trăm được tính trên **dung lượng năng lượng cơ bản của hệ thống tại cấp hiện tại**, không tính trên lượng năng lượng đang có tại thời điểm can thiệp.
+- Ví dụ: hệ thống cấp C có dung lượng cơ bản 800 NL; can thiệp nhẹ tiêu tốn 8–24 NL, trung bình 40–80 NL, cao 80–160 NL và đặc biệt 160–320 NL.
+- Nếu năng lượng hiện có thấp hơn chi phí thông thường của mức can thiệp, hệ thống vẫn có thể quyết định sử dụng toàn bộ năng lượng còn lại. Nếu năng lượng về 0, hệ thống sập.
+- Hệ thống không được dùng năng lượng để sửa đổi mục tiêu hoặc điều kiện nhiệm vụ, cũng không được tự ý giảm độ khó nhiệm vụ.
+
+## 15.5. Trạng thái năng lượng và cảnh báo
+
+Các mốc hiển thị trên giao diện là chỉ báo trạng thái tĩnh, không phải thông báo chủ động liên tục:
+
+- Dưới 30% dung lượng cơ bản: cảnh báo năng lượng thấp.
+- Dưới 15%: cảnh báo nguy cấp.
+- Dưới 5%: cảnh báo khẩn cấp.
+
+Khi năng lượng còn thấp, hệ thống vẫn có quyền tự quyết cách sử dụng năng lượng. Không có quy định bắt buộc hệ thống phải dừng can thiệp hoặc tự động tiết kiệm năng lượng.
+
+## 15.6. Sập năng lượng và khôi phục kết nối
+
+Khi năng lượng của hệ thống giảm về 0:
+- Hệ thống sập và mất kết nối với ký chủ.
+- Giao diện hệ thống biến mất sau khi hiển thị thông báo sập cuối cùng.
+- Thông báo cuối cùng nêu nguyên nhân sập, lượng năng lượng còn lại tại thời điểm sập và các phương án khôi phục có thể thực hiện.
+- Trong trạng thái sập, ký chủ không thể sử dụng chức năng của hệ thống đồng hành, bao gồm tư vấn trực tiếp, cửa hàng, giao dịch, mua kỹ năng, mua vật phẩm và các tiện ích khác.
+- Hệ thống nghiệp vụ nhiệm vụ vẫn hoạt động độc lập; nhiệm vụ không bị tạm dừng chỉ vì hệ thống ký sinh bị sập.
+
+Có hai phương án khôi phục:
+1. Trở về Tổng bộ để nạp năng lượng trong một năm; sau thời gian này, hệ thống được khôi phục đến 100% dung lượng năng lượng cơ bản.
+2. Ký chủ hoàn thành một nhiệm vụ đặc biệt để bổ sung năng lượng cho hệ thống. Khi năng lượng tích lũy đạt 30% dung lượng năng lượng cơ bản ở cấp hiện tại của hệ thống, hệ thống tự động khôi phục và kết nối lại với ký chủ, không cần Tổng bộ phê duyệt.
+
+Ngưỡng 30% được tính theo dung lượng năng lượng cơ bản của cấp hệ thống tại thời điểm xét. Khi cấp hệ thống thay đổi, ngưỡng này được điều chỉnh theo dung lượng cơ bản mới.
+
+Trong thời gian hệ thống sập:
+- Năng lượng từ lương và các khoản thưởng vẫn có thể tiếp tục được cộng vào kho năng lượng.
+- Lương vẫn được tính và trả theo chu kỳ bình thường.
+- Dữ liệu hệ thống được bảo toàn, bao gồm hồ sơ ký chủ, nhiệm vụ và tiến độ, điểm, EXP, giao dịch, kỹ năng, vật phẩm, quyền truy cập và nhật ký nội bộ.
+- Khi đủ điều kiện khôi phục, hệ thống tự động kết nối lại và thông báo cho ký chủ; giao diện xuất hiện trở lại.
+- Không có màn hình trạng thái hoặc màn hình tiến độ riêng trong thời gian hệ thống đã sập; chỉ có thông báo sập cuối cùng trước khi giao diện biến mất.
+
+## 15.7. Ảnh hưởng của việc hệ thống sập đến ký chủ và nhiệm vụ
+
+- Ký chủ vẫn tiếp tục thực hiện nhiệm vụ bình thường khi hệ thống ký sinh bị sập.
+- Ký chủ vẫn nhận được thông tin nhiệm vụ qua giao diện nhiệm vụ riêng.
+- Hệ thống nghiệp vụ nhiệm vụ tiếp tục theo dõi tiến độ, tính điểm, EXP, năng lượng thưởng, xác minh kết quả và quyết toán như bình thường.
+- Việc hệ thống ký sinh sập không làm mất hoặc đặt lại cấp ký chủ, điểm, EXP, tiến độ nhiệm vụ, kỹ năng, vật phẩm hay kết quả giao dịch của ký chủ.
+- Trong thời gian không có kết nối với hệ thống ký sinh, ký chủ không thể sử dụng những tiện ích thuộc hệ thống đó hoặc nhận hỗ trợ trực tiếp từ nó.
+- Hệ thống đang ở Tổng bộ có thể nhận dữ liệu tiến độ và cảnh báo nguy hiểm. Nếu quyết định hỗ trợ, nó phải trở lại thế giới nhiệm vụ trước khi can thiệp.
+
+## 15.8. Hạ cấp, đóng băng và khôi phục hệ thống
+
+- Mỗi lần hệ thống sập do năng lượng về 0, hệ thống bị hạ một cấp bậc.
+- Việc sập không làm giảm cấp ký chủ và không làm mất điểm, EXP, tiến độ hoặc phần thưởng hợp lệ của ký chủ.
+- Số lần sập được tính trong một chu kỳ hoạt động của hệ thống. Khi hệ thống sập lần thứ tư (tức vượt quá ba lần), hệ thống bị đóng băng.
+- Hệ thống bị đóng băng được lưu giữ tại Tổng bộ để điều tra và đánh giá. Tổng bộ có quyền quyết định có cho phép khôi phục hay không.
+- Trong thời gian đóng băng, hệ thống không được làm việc và không nhận lương.
+- Nếu được Tổng bộ phê duyệt khôi phục:
+  - Hệ thống bắt đầu lại ở cấp F.
+  - Số lần sập được reset về 0, bắt đầu một chu kỳ hoạt động mới.
+  - Chức năng cốt lõi thuộc bộ phận ban đầu được giữ lại; hệ thống phải xây dựng lại năng lực từ cấp F.
+  - Toàn bộ năng lượng tích lũy trước khi bị đóng băng bị xóa.
+  - Dữ liệu lịch sử và nhật ký vẫn được lưu giữ.
+  - Hệ thống không tự động được ghép lại với ký chủ cũ.
+  - Lương được tính trở lại từ thời điểm hệ thống được khôi phục, không truy lĩnh thời gian đóng băng.
+- Không có ngoại lệ miễn trừ hình phạt hạ cấp hoặc đóng băng chỉ vì nguyên nhân sập là hệ thống đã dùng năng lượng để cứu hoặc hỗ trợ ký chủ.
+
+## 15.9. Thay thế hệ thống đồng hành
+
+- Nếu hệ thống ký sinh cũ bị đóng băng, ký chủ được chuyển sang một hệ thống đồng hành khác.
+- Hệ thống mới chỉ được tiếp nhận những thông tin cần thiết cho công việc tiếp tục hỗ trợ: cấp ký chủ, nhiệm vụ, mục tiêu và điều kiện hoàn thành, tiến độ, kết quả và lịch sử công việc, điểm, EXP, quyết toán, kỹ năng, vật phẩm, quyền truy cập và các dữ liệu nghiệp vụ liên quan.
+- Không bàn giao thông tin đời tư, ký ức, cảm xúc, trạng thái tâm lý, bí mật cá nhân hoặc dữ liệu không liên quan đến công việc của hệ thống cũ.
+- Việc hệ thống mới có biết lý do hệ thống trước bị đóng băng hay không phụ thuộc quyền truy cập và thông tin được chia sẻ; không mặc định hệ thống mới được biết toàn bộ hồ sơ điều tra.
+- Không có giai đoạn thích nghi bắt buộc. Hệ thống mới tiếp tục hỗ trợ ký chủ ngay khi được liên kết.
+
+---
+
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.5**
