@@ -1,8 +1,8 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.0  
-**Trạng thái:** Tài liệu nền tảng – đang hoàn thiện  
+**Phiên bản:** 1.1  
+**Trạng thái:** Tài liệu nền tảng – đang hoàn thiện; các bảng cấp bậc và phần thưởng đã được tác giả xác nhận  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, tài nguyên, phần thưởng và quy tắc trở về.
 
 ---
@@ -36,10 +36,13 @@ Tổng bộ có hai nguồn năng lượng quan trọng:
 
 **Nguồn năng lượng thưởng**
 - Được Tổng bộ cấp cho hệ thống con sau khi hệ thống và ký chủ hoàn thành nhiệm vụ.
-- Mức thưởng căn cứ vào cấp bậc nhiệm vụ và số nhiệm vụ tự chọn được hoàn thành.
-- Chỉ quyết toán khi nhiệm vụ bắt buộc tương ứng được hoàn thành và đóng thành công.
+- Mức thưởng căn cứ vào cấp bậc nhiệm vụ.
+- Năng lượng thưởng của nhiệm vụ chính và nhiệm vụ phụ được ghi nhận riêng.
+- Năng lượng thưởng nhiệm vụ chính và năng lượng nhiệm vụ phụ đang chờ quyết toán chỉ được trả cho hệ thống con khi nhiệm vụ bắt buộc được hoàn thành và đóng thành công.
+- Nếu nhiệm vụ bắt buộc thất bại, hệ thống con không nhận năng lượng thưởng nhiệm vụ chính; toàn bộ năng lượng nhiệm vụ phụ đang chờ quyết toán bị hủy.
+- Quy tắc hủy năng lượng chờ quyết toán chỉ áp dụng cho tài khoản năng lượng của hệ thống con, không làm mất điểm và EXP nhiệm vụ phụ mà ký chủ đã nhận hợp lệ.
 
-Hai nguồn năng lượng này độc lập với điểm tích lũy của ký chủ.
+Hai nguồn năng lượng này độc lập với điểm tích lũy và EXP của ký chủ.
 
 ---
 
@@ -257,15 +260,52 @@ Có hai loại nhiệm vụ:
 
 ## 5.2. Theo cấp bậc
 
-Nhiệm vụ có cấp độ khó khác nhau.
+Nhiệm vụ có 8 cấp bậc, từ thấp đến cao:
 
-Cấp độ nhiệm vụ ảnh hưởng đến:
-- Điểm thưởng.
-- Kinh nghiệm.
-- Năng lượng thưởng cho hệ thống con.
+**F – E – D – C – B – A – S – SS.**
+
+Cấp bậc nhiệm vụ ảnh hưởng đến:
+- Điểm thưởng của ký chủ.
+- EXP của ký chủ.
+- Năng lượng thưởng của hệ thống con.
 - Mức độ nguy hiểm và độ phức tạp.
 
-Bảng cấp bậc cụ thể sẽ được xây dựng trong phần cân bằng hệ thống.
+Tiêu chuẩn chi tiết để xếp một nhiệm vụ vào từng cấp sẽ được thiết kế riêng; chưa mặc định cấp nhiệm vụ tương ứng với cấp ký chủ.
+
+### Bảng điểm và EXP thưởng cho ký chủ
+
+| Cấp nhiệm vụ | Điểm thưởng | EXP thưởng |
+|---|---:|---:|
+| F | 1.000 | 10 |
+| E | 3.000 | 20 |
+| D | 8.000 | 40 |
+| C | 20.000 | 80 |
+| B | 50.000 | 160 |
+| A | 120.000 | 320 |
+| S | 300.000 | 640 |
+| SS | 800.000 | 1.280 |
+
+- Bảng trên là mức thưởng cơ bản khi hoàn thành nhiệm vụ tương ứng.
+- Nhiệm vụ phụ/tự chọn được tính điểm và EXP theo cấp nhiệm vụ của chính nhiệm vụ đó.
+- Ký chủ chỉ nhận điểm và EXP của nhiệm vụ đã hoàn thành theo quy tắc quyết toán tại Mục 6.
+- Điểm và EXP là hai tài nguyên riêng biệt, không quy đổi cho nhau.
+
+### Bảng năng lượng thưởng cho hệ thống con
+
+Đơn vị năng lượng được ký hiệu là **NL**.
+
+| Cấp nhiệm vụ | Năng lượng thưởng |
+|---|---:|
+| F | 10 NL |
+| E | 30 NL |
+| D | 80 NL |
+| C | 200 NL |
+| B | 500 NL |
+| A | 1.200 NL |
+| S | 3.000 NL |
+| SS | 8.000 NL |
+
+Năng lượng thưởng của hệ thống con được quyết toán độc lập với điểm và EXP của ký chủ. Điều kiện quyết toán khi nhiệm vụ chính thành công hoặc thất bại được quy định tại Mục 1.2 và Mục 6.
 
 ## 5.3. Thời hạn
 
@@ -310,18 +350,36 @@ Khi nhiệm vụ bắt buộc thất bại:
 
 Không có cơ chế trừ hết số điểm đang có rồi cho ký chủ tiếp tục sống với số điểm âm.
 
-## 6.2. Nhiệm vụ tự chọn
+## 6.2. Nhiệm vụ tự chọn / nhiệm vụ phụ
 
 Khi không lựa chọn nhiệm vụ tự chọn:
 - Không chịu hình phạt.
 - Không bị trừ điểm.
+- Không nhận điểm hoặc EXP từ nhiệm vụ đó.
 
 Khi đã lựa chọn nhưng thất bại:
-- Mức phạt bằng 50% điểm thưởng nhiệm vụ.
+- Mức phạt bằng 50% điểm thưởng của nhiệm vụ.
+- Không nhận EXP của nhiệm vụ thất bại.
 - Nếu đủ điểm thì trừ theo mức phạt.
 - Nếu không đủ điểm chịu phạt thì ký chủ chết ngay ở hiện thực.
 
-## 6.3. Tử vong trong thế giới nhiệm vụ
+## 6.3. Quyết toán nhiệm vụ phụ khi nhiệm vụ chính thất bại
+
+Kết quả tài khoản của ký chủ và hệ thống con được quyết toán độc lập.
+
+Nếu ký chủ hoàn thành một hoặc nhiều nhiệm vụ phụ nhưng nhiệm vụ chính thất bại:
+- Ký chủ vẫn giữ toàn bộ điểm thưởng và EXP của những nhiệm vụ phụ đã hoàn thành.
+- Ký chủ vẫn chịu hình phạt 100% điểm thưởng của nhiệm vụ chính.
+- Hệ thống con không nhận năng lượng thưởng của nhiệm vụ chính.
+- Năng lượng thưởng từ các nhiệm vụ phụ đang chờ quyết toán bị hủy.
+
+Việc hủy năng lượng thưởng của hệ thống con không làm mất điểm hoặc EXP nhiệm vụ phụ đã ghi nhận cho ký chủ.
+
+Nếu nhiệm vụ chính thành công:
+- Ký chủ nhận điểm và EXP nhiệm vụ chính cùng phần thưởng của các nhiệm vụ phụ đã hoàn thành.
+- Hệ thống con được quyết toán năng lượng thưởng nhiệm vụ chính và năng lượng của các nhiệm vụ phụ đã hoàn thành.
+
+## 6.4. Tử vong trong thế giới nhiệm vụ
 
 Tử vong trong thế giới nhiệm vụ được tính là thất bại.
 
@@ -416,7 +474,29 @@ Mỗi nhiệm vụ hoàn thành có mức kinh nghiệm cơ bản riêng.
 
 Nhiệm vụ cấp bậc cao hơn được cộng thêm kinh nghiệm tương ứng.
 
-## 8.3. Quyền hạn
+## 8.3. Cấp bậc ký chủ và ngưỡng EXP
+
+Ký chủ có 8 cấp bậc, từ thấp đến cao: **F – E – D – C – B – A – S – SS**.
+
+| Cấp ký chủ | EXP tích lũy tối thiểu |
+|---|---:|
+| F | 0 |
+| E | 100 |
+| D | 300 |
+| C | 700 |
+| B | 1.500 |
+| A | 3.000 |
+| S | 6.000 |
+| SS | 12.000 |
+
+Quy tắc:
+- EXP được tích lũy liên tục.
+- EXP không bị trừ khi ký chủ thăng cấp.
+- Khi EXP tích lũy đạt ngưỡng, ký chủ đủ điều kiện đạt cấp tương ứng.
+- Cấp ký chủ và cấp nhiệm vụ là hai hệ thống phân loại riêng biệt.
+- Cấp ký chủ không tự động quyết định cấp nhiệm vụ được phân phối.
+
+## 8.4. Quyền hạn
 
 Khi đạt cấp kinh nghiệm nhất định, ký chủ có thể mở khóa quyền hạn.
 
@@ -425,7 +505,7 @@ Quyền hạn:
 - Không phải phần thưởng có thể tự do mua bán.
 - Không được bảo lưu khi ký chủ trở về thế giới thực.
 
-Bảng cấp bậc, ngưỡng kinh nghiệm và danh sách quyền hạn cụ thể chưa được chốt.
+Danh sách quyền hạn cụ thể theo từng cấp chưa được chốt.
 
 ---
 
@@ -535,20 +615,21 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 10. Không đủ điểm chịu phạt thì chết ngay ở hiện thực.
 11. Tử vong trong thế giới nhiệm vụ được tính là thất bại, trừ khi vật phẩm giữ mạng có hiệu lực.
 12. Năng lượng thưởng của hệ thống con độc lập với điểm thưởng của ký chủ.
-13. Năng lượng thưởng từ nhiệm vụ phụ chỉ được quyết toán khi nhiệm vụ bắt buộc đóng thành công.
+13. Năng lượng thưởng của hệ thống con từ nhiệm vụ chính và nhiệm vụ phụ chỉ được quyết toán khi nhiệm vụ bắt buộc đóng thành công.
 14. Nếu nhiệm vụ bắt buộc thất bại, năng lượng thưởng đang chờ quyết toán từ các nhiệm vụ phụ bị hủy.
-15. Mỗi người có tài khoản điểm riêng, không thể chuyển, góp hoặc gộp điểm.
-16. Vé Về Nhà cá nhân giá 1 tỷ điểm; mua cho người khác giá 10 tỷ điểm.
-17. Vé mua cho người khác phải được người nhận tự sử dụng.
-18. Mua vé không đồng nghĩa kích hoạt vé.
-19. Vé Về Nhà đưa người sử dụng về thời điểm trước tai nạn, khỏe mạnh và lành lặn, kèm tiền thưởng hợp pháp.
-20. Ở lại một thế giới bất kỳ có giá 100 tỷ điểm.
-21. Điểm và kinh nghiệm là hai tài nguyên độc lập.
-22. Tiền thưởng thực được bảo lưu; vật phẩm đặc biệt không được bảo lưu.
-23. Kỹ năng chỉ được bảo lưu nếu phù hợp với quy luật thế giới gốc.
-24. Quyền hạn hệ thống không được bảo lưu khi trở về.
-25. Người quay lại làm nhiệm vụ có điểm tích lũy reset về 0.
-26. Hệ thống của trẻ nhỏ không được phép tự ý sửa nhiệm vụ hoặc giảm độ khó, nhưng có thể hỗ trợ và dùng năng lượng của mình để can thiệp khi bé gặp nguy hiểm.
+15. Ký chủ vẫn giữ điểm và EXP của nhiệm vụ phụ đã hoàn thành dù nhiệm vụ chính thất bại.
+16. Mỗi người có tài khoản điểm riêng, không thể chuyển, góp hoặc gộp điểm.
+17. Vé Về Nhà cá nhân giá 1 tỷ điểm; mua cho người khác giá 10 tỷ điểm.
+18. Vé mua cho người khác phải được người nhận tự sử dụng.
+19. Mua vé không đồng nghĩa kích hoạt vé.
+20. Vé Về Nhà đưa người sử dụng về thời điểm trước tai nạn, khỏe mạnh và lành lặn, kèm tiền thưởng hợp pháp.
+21. Ở lại một thế giới bất kỳ có giá 100 tỷ điểm.
+22. Điểm và EXP là hai tài nguyên độc lập.
+23. Tiền thưởng thực được bảo lưu; vật phẩm đặc biệt không được bảo lưu.
+24. Kỹ năng chỉ được bảo lưu nếu phù hợp với quy luật thế giới gốc.
+25. Quyền hạn hệ thống không được bảo lưu khi trở về.
+26. Người quay lại làm nhiệm vụ có điểm tích lũy reset về 0.
+27. Hệ thống của trẻ nhỏ không được phép tự ý sửa nhiệm vụ hoặc giảm độ khó, nhưng có thể hỗ trợ và dùng năng lượng của mình để can thiệp khi bé gặp nguy hiểm.
 
 ---
 
@@ -559,11 +640,8 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 | Mã | Nội dung cần quyết định |
 |---|---|
 | SYS-001 | Nguồn gốc và lịch sử hình thành Tổng bộ |
-| SYS-002 | Cấp bậc nhiệm vụ và tiêu chuẩn phân loại |
-| SYS-003 | Công thức tính điểm thưởng theo cấp độ |
-| SYS-004 | Công thức tính năng lượng thưởng cho hệ thống con |
-| SYS-005 | Cấp bậc ký chủ và ngưỡng kinh nghiệm |
-| SYS-006 | Danh sách quyền hạn được mở khóa |
+| SYS-002 | Tiêu chuẩn chi tiết để phân loại nhiệm vụ vào 8 cấp F–SS |
+| SYS-003 | Danh sách quyền hạn được mở khóa theo cấp ký chủ |
 | SYS-007 | Giới hạn năng lượng và khả năng can thiệp của hệ thống con |
 | SYS-008 | Điều kiện và giới hạn sử dụng vật phẩm giữ mạng |
 | SYS-009 | Quy tắc chi tiết về chợ giao dịch và tỷ giá ngoại tệ |
@@ -591,4 +669,4 @@ Khi viết truyện:
 
 Mọi thay đổi canon phải được cập nhật vào tài liệu này và ghi nhận trong CONTINUITY_LOG.md.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.0**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.1**
