@@ -1,9 +1,9 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.2  
+**Phiên bản:** 1.3  
 **Trạng thái:** Tài liệu nền tảng – đang hoàn thiện; các bảng cấp bậc, phần thưởng và quy tắc tạo/làm lại nhiệm vụ đã được tác giả xác nhận  
-**Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, tài nguyên, phần thưởng và quy tắc trở về.
+**Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, tài nguyên, cửa hàng, chợ giao dịch, phần thưởng và quy tắc trở về.
 
 ---
 
@@ -576,20 +576,79 @@ Danh mục sản phẩm và giá cụ thể tùy theo thiết kế hệ thống.
 
 ## 9.2. Chợ giao dịch người chơi
 
-Đây là nơi người chơi giao dịch vật phẩm có nguồn gốc từ các thế giới nhiệm vụ.
+Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được dùng chung giữa các Tổng bộ; ký chủ có thể giao dịch với nhau không phụ thuộc cấp bậc ký chủ.
 
-Có thể:
-- Mua bán vật phẩm đặc biệt.
-- Bán vật phẩm thu được ở các thế giới.
-- Giao dịch bằng điểm hoặc tiền thật.
-- Sử dụng nhiều loại ngoại tệ.
-- Quy đổi ngoại tệ theo tỷ lệ do hệ thống quy định.
+### Điều kiện đưa sản phẩm lên chợ
 
-Chợ có thể giao dịch thuốc tạo năng lực nếu loại thuốc đó tồn tại ở thế giới tương ứng.
+- Chỉ sản phẩm đã được hệ thống kiểm định và xác nhận đủ điều kiện lưu thông mới được đăng bán trên chợ.
+- Việc kiểm định đánh giá chất lượng và tác dụng của sản phẩm.
+- Phạm vi đánh giá không giới hạn ở thế giới hiện tại của người bán. Một sản phẩm có thể không sử dụng được ở thế giới người bán đang sống nhưng vẫn có tác dụng ở thế giới khác; nếu hệ thống xác nhận sản phẩm có giá trị sử dụng và cho phép lưu thông thì người bán được đăng bán.
+- Người bán không nhất thiết phải biết đầy đủ công dụng hoặc điều kiện sử dụng của sản phẩm. Kết quả kiểm định của hệ thống là căn cứ quyết định sản phẩm có được phép đăng bán trên chợ hay không.
+- Sản phẩm không đạt kiểm định hoặc chưa được kiểm định không được đăng bán trên chợ chính thức, nhưng vẫn có thể được trao đổi trực tiếp giữa các ký chủ theo quy tắc tại Mục 9.4.
 
-Chợ không có chức năng mua bán kỹ năng trực tiếp như cửa hàng hệ thống.
+### Giá bán và phí giao dịch
+
+- Người bán được tự do quyết định giá bán; không có giá trần hoặc giá sàn do Tổng bộ áp đặt.
+- Khi giao dịch qua chợ hoàn tất, Tổng bộ thu phí bằng **5% giá trị giao dịch**.
+- Phí giao dịch do người bán chịu và được khấu trừ từ số tiền/điểm người bán nhận được.
+- Người mua thanh toán theo giá niêm yết, không phải chịu thêm khoản phí giao dịch 5%.
+
+### Đặt mua, chỉnh sửa và hủy tin đăng
+
+- Khi người mua đặt mua, hệ thống tự động hoàn tất giao dịch; người bán không cần xác nhận và không có quyền từ chối.
+- Người bán được chỉnh sửa thông tin, thay đổi giá hoặc hủy tin đăng khi giao dịch chưa được ghi nhận là hoàn tất.
+- Nếu thao tác mua, chỉnh sửa hoặc hủy diễn ra đồng thời, Tổng bộ căn cứ vào thứ tự thao tác được hệ thống ghi nhận:
+  - Nếu thao tác mua được ghi nhận trước, giao dịch được hoàn tất; người bán không thể hủy hoặc sửa giao dịch đó.
+  - Nếu thao tác hủy được ghi nhận trước, tin đăng đóng và không thể mua tiếp.
+  - Nếu thao tác chỉnh sửa được ghi nhận trước, thông tin mới có hiệu lực trước khi xử lý thao tác tiếp theo.
+
+### Hiệu lực sau giao dịch
+
+- Giao dịch đã hoàn tất không thể bị hủy.
+- Người mua không được trả lại vật phẩm hoặc yêu cầu hoàn tiền/hoàn điểm.
+- Người bán không được thu hồi vật phẩm đã bán.
+- Phí giao dịch đã thu không được hoàn lại.
+- Vật phẩm mua qua chợ phải chờ **1 giờ kể từ khi giao dịch hoàn tất** mới được phép đăng bán lại trên chợ.
+- Thời gian chờ 1 giờ chỉ áp dụng với vật phẩm mua qua chợ; không áp dụng với vật phẩm nhận qua trao đổi trực tiếp.
 
 ## 9.3. Phân biệt cửa hàng và chợ
+
+| Tiêu chí | Cửa hàng hệ thống | Chợ người chơi |
+|---|---|---|
+| Đơn vị bán | Hệ thống | Ký chủ |
+| Vật phẩm | Theo danh mục hệ thống | Vật phẩm từ các thế giới hoặc sản phẩm do ký chủ tạo ra/thu được |
+| Kỹ năng | Có | Không giao dịch kỹ năng trực tiếp |
+| Bí kíp, sách và tài liệu hướng dẫn | Theo danh mục nếu có | Được đăng bán nếu qua kiểm định |
+| Thuốc tạo năng lực | Theo danh mục nếu có | Có thể giao dịch nếu tồn tại và qua kiểm định |
+| Thanh toán | Điểm | Điểm hoặc tiền thật theo phương thức được hỗ trợ |
+| Phí giao dịch | Theo quy định cửa hàng | 5% giá trị giao dịch, người bán chịu |
+
+## 9.4. Trao đổi trực tiếp giữa các ký chủ
+
+Trao đổi trực tiếp là hình thức các ký chủ gặp nhau và tự thỏa thuận việc trao tay vật phẩm, không thông qua chợ giao dịch của Tổng bộ.
+
+- Hai ký chủ phải gặp nhau trực tiếp để thực hiện việc trao tay.
+- Không có chức năng tặng hoặc chuyển nhượng vật phẩm độc lập với giao dịch trao tay.
+- Nội dung thỏa thuận do hai bên tự quyết định. Có thể thanh toán bằng điểm, tiền thật, đổi vật phẩm, kết hợp nhiều hình thức hoặc trao tay mà không cần thanh toán, nếu cả hai bên đồng ý.
+- Giao dịch trực tiếp không chịu phí 5% của chợ và không áp dụng thời gian chờ 1 giờ.
+- Vật phẩm chưa qua kiểm định hoặc không đạt kiểm định vẫn có thể được trao đổi trực tiếp; điều kiện kiểm định chỉ là điều kiện để đăng bán trên chợ chính thức.
+- Tổng bộ không kiểm định thay, bảo đảm chất lượng, xác nhận công dụng, phân xử tranh chấp hoặc xử phạt các bên đối với giao dịch trực tiếp. Người mua và người bán tự chịu trách nhiệm về thông tin, thỏa thuận và rủi ro của giao dịch.
+
+## 9.5. Vật phẩm, bí kíp và kỹ năng
+
+### Vật phẩm
+
+- Vật phẩm giao dịch không bị định danh cố định theo chủ sở hữu; có thể được mua bán qua chợ hoặc trao tay trực tiếp theo các quy tắc tại Mục 9.2 và 9.4.
+- Vật phẩm có thể bao gồm bí kíp võ công, sách kỹ năng, giáo trình, tài liệu hướng dẫn và các sản phẩm chứa đựng tri thức hoặc phương pháp.
+- Những sản phẩm này có thể được sao chép thành nhiều bản. Mỗi bản muốn đăng bán trên chợ vẫn phải đáp ứng điều kiện kiểm định.
+- Việc sở hữu hoặc đọc bí kíp, sách hay tài liệu không đồng nghĩa với việc tự động sở hữu kỹ năng tương ứng; ký chủ phải tự học, luyện tập hoặc đáp ứng điều kiện cần thiết.
+
+### Kỹ năng
+
+- Kỹ năng mua từ hệ thống có định danh và gắn với ký chủ sở hữu.
+- Kỹ năng không thể tặng, chuyển nhượng, trao tay hoặc mua bán giữa các ký chủ, kể cả thông qua chợ.
+- Không được nhầm lẫn một kỹ năng đã được hệ thống ghi nhận trong hồ sơ ký chủ với vật phẩm chứa đựng tri thức để học kỹ năng đó. Ký chủ không thể bán kỹ năng đã sở hữu, nhưng có thể bán bí kíp hoặc tài liệu hướng dẫn do mình có nếu sản phẩm đáp ứng điều kiện giao dịch tương ứng.
+
 
 | Tiêu chí | Cửa hàng hệ thống | Chợ người chơi |
 |---|---|---|
@@ -690,6 +749,15 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 33. Phí làm lại nhiệm vụ bằng 50% điểm thưởng cơ bản của nhiệm vụ, bị trừ khi yêu cầu được chấp thuận và không hoàn lại nếu thất bại.
 34. Mỗi ký chủ có tối đa 3 lượt thực hiện một nhiệm vụ, tính cả lần đầu; không giới hạn số ký chủ khác nhau có thể tiếp nhận nhiệm vụ đó.
 35. Làm lại thành công vẫn nhận đủ 100% điểm và EXP thưởng; nhiệm vụ đã hoàn thành đóng vĩnh viễn và chỉ có thể quay lại thông qua vé thưởng.
+36. Chợ giao dịch dùng chung giữa các Tổng bộ; ký chủ được giao dịch không phụ thuộc cấp bậc.
+37. Chỉ sản phẩm qua kiểm định chất lượng và tác dụng của hệ thống mới được đăng bán trên chợ; sản phẩm không qua kiểm định vẫn có thể trao đổi trực tiếp.
+38. Người bán tự đặt giá không giới hạn giá trần hoặc giá sàn; phí chợ là 5% giá trị giao dịch và do người bán chịu.
+39. Người mua đặt mua thì hệ thống tự động hoàn tất giao dịch; thao tác mua, chỉnh sửa và hủy được xử lý theo thứ tự hệ thống ghi nhận.
+40. Giao dịch chợ đã hoàn tất không thể hủy hoặc trả lại; vật phẩm mua qua chợ phải chờ 1 giờ mới được đăng bán lại.
+41. Trao đổi trực tiếp phải có việc gặp mặt và trao tay; hai bên tự thỏa thuận phương thức thanh toán, có thể không cần thanh toán; không chịu phí chợ và không có thời gian chờ.
+42. Tổng bộ không can thiệp, phân xử hoặc xử phạt tranh chấp từ giao dịch trực tiếp; các bên tự chịu trách nhiệm.
+43. Vật phẩm không định danh cố định theo chủ sở hữu; bí kíp, sách và tài liệu có thể sao chép, nhưng muốn đăng bán trên chợ phải qua kiểm định.
+44. Kỹ năng có định danh, gắn với ký chủ và không thể tặng, chuyển nhượng hoặc mua bán; vật phẩm chứa tri thức để học kỹ năng được xem là vật phẩm, không phải kỹ năng đã sở hữu.
 
 ---
 
@@ -704,7 +772,7 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 | SYS-003 | Danh sách quyền hạn được mở khóa theo cấp ký chủ |
 | SYS-007 | Giới hạn năng lượng và khả năng can thiệp của hệ thống con |
 | SYS-008 | Điều kiện và giới hạn sử dụng vật phẩm giữ mạng |
-| SYS-009 | Quy tắc chi tiết về chợ giao dịch và tỷ giá ngoại tệ |
+| SYS-009 | Tỷ giá và quy tắc quy đổi ngoại tệ trong giao dịch |
 | SYS-010 | Cơ chế lựa chọn và kích hoạt vé Về Nhà |
 | SYS-011 | Quy tắc thời gian giữa thế giới thực và thế giới nhiệm vụ |
 | SYS-012 | Cơ chế xử lý nhiệm vụ tự chọn không gắn với nhiệm vụ bắt buộc |
@@ -730,4 +798,4 @@ Khi viết truyện:
 
 Mọi thay đổi canon phải được cập nhật vào tài liệu này và ghi nhận trong CONTINUITY_LOG.md.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.2**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.3**
