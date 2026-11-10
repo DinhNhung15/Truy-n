@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.3  
+**Phiên bản:** 1.4  
 **Trạng thái:** Tài liệu nền tảng – đang hoàn thiện; các bảng cấp bậc, phần thưởng và quy tắc tạo/làm lại nhiệm vụ đã được tác giả xác nhận  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, tài nguyên, cửa hàng, chợ giao dịch, phần thưởng và quy tắc trở về.
 
@@ -593,6 +593,19 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 - Phí giao dịch do người bán chịu và được khấu trừ từ số tiền/điểm người bán nhận được.
 - Người mua thanh toán theo giá niêm yết, không phải chịu thêm khoản phí giao dịch 5%.
 
+### Đơn vị tiền tệ và quy đổi
+
+- Đơn vị tiền tệ chung dùng để định giá và hạch toán các giao dịch trên chợ là **S**.
+- Giá niêm yết được quy đổi và hiển thị theo S, giúp ký chủ ở các thế giới khác nhau có thể giao dịch bằng một đơn vị thống nhất.
+- Khi đăng bán, người bán được lựa chọn nhận thanh toán bằng **điểm tích lũy** hoặc **tiền thật**.
+- Nếu người bán chọn nhận điểm, hệ thống quy đổi giá trị giao dịch sang điểm để thanh toán vào tài khoản của người bán.
+- Nếu người bán chọn nhận tiền thật, người mua thanh toán bằng loại tiền đang sử dụng tại thế giới của mình; hệ thống tự quy đổi số tiền người mua phải trả từ S sang tiền tệ tương ứng.
+- Đồng thời, hệ thống tự quy đổi khoản tiền người bán được nhận sau khi khấu trừ phí chợ từ S sang loại tiền tệ đang sử dụng tại thế giới của người bán.
+- Người mua không cần tự đổi tiền hoặc sở hữu loại tiền tệ của thế giới người bán. Người bán cũng không cần lựa chọn hay yêu cầu một loại tiền tệ cụ thể.
+- Tỷ giá áp dụng được hệ thống xác định tại thời điểm giao dịch được ghi nhận. Khi giao dịch hoàn tất, tỷ giá và số tiền thanh toán của hai bên được khóa, không điều chỉnh hồi tố.
+- Tỷ giá do hệ thống tự xác định căn cứ vào giá trị trao đổi và sức mua thực tế của tiền tệ tại từng thế giới; không căn cứ đơn thuần vào mệnh giá danh nghĩa.
+- Không thu thêm phí quy đổi tiền tệ ngoài phí chợ 5% đã quy định.
+
 ### Đặt mua, chỉnh sửa và hủy tin đăng
 
 - Khi người mua đặt mua, hệ thống tự động hoàn tất giao dịch; người bán không cần xác nhận và không có quyền từ chối.
@@ -620,7 +633,7 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 | Kỹ năng | Có | Không giao dịch kỹ năng trực tiếp |
 | Bí kíp, sách và tài liệu hướng dẫn | Theo danh mục nếu có | Được đăng bán nếu qua kiểm định |
 | Thuốc tạo năng lực | Theo danh mục nếu có | Có thể giao dịch nếu tồn tại và qua kiểm định |
-| Thanh toán | Điểm | Điểm hoặc tiền thật theo phương thức được hỗ trợ |
+| Thanh toán | Điểm | Điểm hoặc tiền thật; tiền thật được quy đổi qua đơn vị S |
 | Phí giao dịch | Theo quy định cửa hàng | 5% giá trị giao dịch, người bán chịu |
 
 ## 9.4. Trao đổi trực tiếp giữa các ký chủ
@@ -758,6 +771,9 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 42. Tổng bộ không can thiệp, phân xử hoặc xử phạt tranh chấp từ giao dịch trực tiếp; các bên tự chịu trách nhiệm.
 43. Vật phẩm không định danh cố định theo chủ sở hữu; bí kíp, sách và tài liệu có thể sao chép, nhưng muốn đăng bán trên chợ phải qua kiểm định.
 44. Kỹ năng có định danh, gắn với ký chủ và không thể tặng, chuyển nhượng hoặc mua bán; vật phẩm chứa tri thức để học kỹ năng được xem là vật phẩm, không phải kỹ năng đã sở hữu.
+45. Đơn vị tiền tệ chung để định giá và hạch toán giao dịch trên chợ là S.
+46. Người bán trên chợ được chọn nhận thanh toán bằng điểm tích lũy hoặc tiền thật; nếu nhận tiền thật, hệ thống tự quy đổi tiền người mua phải trả theo tiền tệ thế giới của người mua và tiền người bán nhận theo tiền tệ thế giới của người bán.
+47. Hệ thống tự xác định tỷ giá tại thời điểm giao dịch; tỷ giá và số tiền của giao dịch đã hoàn tất không bị điều chỉnh hồi tố. Không thu phí quy đổi riêng ngoài phí chợ 5% do người bán chịu.
 
 ---
 
@@ -772,7 +788,7 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 | SYS-003 | Danh sách quyền hạn được mở khóa theo cấp ký chủ |
 | SYS-007 | Giới hạn năng lượng và khả năng can thiệp của hệ thống con |
 | SYS-008 | Điều kiện và giới hạn sử dụng vật phẩm giữ mạng |
-| SYS-009 | Tỷ giá và quy tắc quy đổi ngoại tệ trong giao dịch |
+| SYS-009 | Công thức và tiêu chí chi tiết để hệ thống xác định tỷ giá quy đổi sang S |
 | SYS-010 | Cơ chế lựa chọn và kích hoạt vé Về Nhà |
 | SYS-011 | Quy tắc thời gian giữa thế giới thực và thế giới nhiệm vụ |
 | SYS-012 | Cơ chế xử lý nhiệm vụ tự chọn không gắn với nhiệm vụ bắt buộc |
@@ -798,4 +814,4 @@ Khi viết truyện:
 
 Mọi thay đổi canon phải được cập nhật vào tài liệu này và ghi nhận trong CONTINUITY_LOG.md.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.3**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.4**
