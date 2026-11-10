@@ -774,6 +774,15 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 45. Đơn vị tiền tệ chung để định giá và hạch toán giao dịch trên chợ là S.
 46. Người bán trên chợ được chọn nhận thanh toán bằng điểm tích lũy hoặc tiền thật; nếu nhận tiền thật, hệ thống tự quy đổi tiền người mua phải trả theo tiền tệ thế giới của người mua và tiền người bán nhận theo tiền tệ thế giới của người bán.
 47. Hệ thống tự xác định tỷ giá tại thời điểm giao dịch; tỷ giá và số tiền của giao dịch đã hoàn tất không bị điều chỉnh hồi tố. Không thu phí quy đổi riêng ngoài phí chợ 5% do người bán chịu.
+48. Mọi ký chủ phải được một hệ thống ký sinh thuộc Khối Chấp Hành liên kết trước khi vào thế giới nhiệm vụ; hệ thống nghiệp vụ nhiệm vụ là hạ tầng độc lập.
+49. Năng lượng cơ bản, mức duy trì và lương của hệ thống được xác định theo cấp F–SS tại bảng SYS-007; lương trả bằng năng lượng theo chu kỳ 30 ngày.
+50. Dung lượng cơ bản không phải giới hạn lưu trữ tối đa; nâng dung lượng không tự động tăng năng lượng hiện có.
+51. Phí can thiệp tính theo phần trăm dung lượng năng lượng cơ bản của hệ thống ở cấp hiện tại, không tính theo năng lượng hiện có.
+52. Hệ thống có thể tự quyết định sử dụng toàn bộ năng lượng; năng lượng về 0 thì sập và mất kết nối, nhưng ký chủ cùng nhiệm vụ vẫn tiếp tục hoạt động bình thường nhờ hệ thống nghiệp vụ nhiệm vụ độc lập.
+53. Mỗi lần sập do năng lượng về 0 khiến hệ thống hạ một cấp; lần sập thứ tư khiến hệ thống bị đóng băng.
+54. Nếu được Tổng bộ phê duyệt khôi phục sau đóng băng, hệ thống trở lại cấp F, số lần sập reset về 0, năng lượng tích lũy bị xóa, dữ liệu lịch sử được giữ và lương chỉ bắt đầu lại từ thời điểm khôi phục.
+55. Hệ thống bị đóng băng không làm việc và không nhận lương; hệ thống sập nhưng chưa đóng băng vẫn tiếp tục được tính và trả lương.
+56. Khi hệ thống cũ bị đóng băng, ký chủ được chuyển hệ thống; hệ thống mới chỉ nhận dữ liệu nghiệp vụ cần thiết, không nhận dữ liệu đời tư hoặc trạng thái nội tâm của hệ thống cũ.
 
 ---
 
@@ -813,9 +822,6 @@ Khi viết truyện:
 - Nếu tình tiết mới mâu thuẫn với SYSTEM_BIBLE, phải báo tác giả trước khi triển khai.
 
 Mọi thay đổi canon phải được cập nhật vào tài liệu này và ghi nhận trong CONTINUITY_LOG.md.
-
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.4**
-
 
 ---
 
