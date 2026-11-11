@@ -1147,7 +1147,7 @@ Những nội dung chưa được tác giả quyết định không được t�
 Hiện tại, các nội dung vừa được rà soát và chốt gồm SYS-003, phạm vi quy tắc SYS-009 được thống nhất ở mức nguyên tắc, SYS-015 và quy tắc linh hồn/người ủy thác tại Mục 21. Các chi tiết định lượng kỹ thuật không cần thiết không được tự bổ sung chỉ để làm tài liệu phức tạp hơn.
 
 Những vấn đề chưa chốt khác (nếu phát sinh trong các mục còn lại) chỉ được bổ sung vào bảng này sau khi xác định rõ nội dung cần quyết định.
-- Trường hợp toàn bộ 20% năng lượng đã được người ủy thác phân bổ làm phần thưởng trước khi nhiệm vụ thực sự hoàn thành: trạng thái tồn tại của linh hồn trong khoảng thời gian còn lại chưa được xác định.
+- 
 ---
 
 # 14. NGUYÊN TẮC QUẢN LÝ CANON
@@ -1784,6 +1784,7 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 - Ngay khi khế ước được ký, **80% tổng năng lượng hợp đồng được chuyển hóa và đưa vào kho năng lượng chung của Tổng bộ**.
 - **20% năng lượng còn lại do linh hồn người ủy thác nắm giữ**, vừa duy trì sự tồn tại của linh hồn trong thế giới nhiệm vụ, vừa là nguồn duy nhất để phân bổ phần thưởng cho ký chủ.
 - Người ủy thác có thể tự quyết định dùng một phần hoặc toàn bộ 20% năng lượng để đổi thành điểm thưởng cho ký chủ. Việc thưởng có thể diễn ra trong quá trình nhiệm vụ, kể cả khi một lượt ký chủ chưa hoàn thành hoặc đã thất bại; không phải đợi đến khi nhiệm vụ hoàn thành mới được thưởng.
+- Nếu toàn bộ 20% đã được phân bổ làm phần thưởng, linh hồn người ủy thác vẫn tiếp tục tồn tại và theo dõi nhiệm vụ cho đến khi nhiệm vụ thực sự hoàn thành hoặc bị hủy theo quy định. Linh hồn không còn năng lượng để tiếp tục phân bổ thưởng, nhưng việc cạn năng lượng không làm mất quyền quan sát hay khiến linh hồn tan biến sớm.
 - Mọi khoản điểm thưởng do người ủy thác tự nguyện trao đều được trích từ chính 20% năng lượng này. Không tồn tại khoản thưởng tự nguyện độc lập hoặc nguồn thưởng bổ sung nằm ngoài 20%. Việc phân bổ này không làm thay đổi điểm thưởng, EXP hoặc kết quả đánh giá nhiệm vụ do Tổng bộ quyết định.
 - Nếu một ký chủ thất bại, nhiệm vụ được đưa trở lại kho để tiếp tục phân phối cho ký chủ khác. Linh hồn người ủy thác vẫn tồn tại và tiếp tục nắm giữ phần năng lượng 20% chưa sử dụng; phần đã dùng để thưởng không được hoàn lại.
 - Khi nhiệm vụ thực sự hoàn thành, phần 20% chưa sử dụng được chuyển hóa và nhập vào kho năng lượng chung của Tổng bộ. Sau khi quyết toán phần năng lượng còn lại, linh hồn người ủy thác tan biến.
@@ -1791,7 +1792,8 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 
 ## 21.2. Trạng thái và quyền quan sát của người ủy thác
 
-- Sau khi ký hợp đồng, linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ đã được xác định tại thời điểm ký, giữ phần năng lượng 20% chưa sử dụng để duy trì sự tồn tại và quan sát diễn biến.
+- Sau khi ký hợp đồng, linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ đã được xác định tại thời điểm ký. Phần năng lượng 20% được giữ lại là nguồn để phân bổ thưởng; việc linh hồn tiếp tục tồn tại và quan sát không phụ thuộc vào việc phần năng lượng này còn hay đã được sử dụng hết.
+- Kể cả khi đã phân bổ hết 20% năng lượng, linh hồn vẫn tiếp tục theo dõi nhiệm vụ như bình thường cho đến khi nhiệm vụ thực sự hoàn thành hoặc bị hủy theo quy định. Khi hết năng lượng, người ủy thác không thể phân bổ thêm thưởng, nhưng vẫn giữ quyền quan sát.
 - Người ủy thác có thể theo dõi nhiệm vụ như một khán giả: quan sát hành động, lời nói, tương tác và diễn biến đang xảy ra trong thế giới nhiệm vụ.
 - Người ủy thác không thể nhìn thấy, nghe thấy hoặc giao tiếp trực tiếp với ký chủ; không thể giao tiếp với ký chủ thông qua kênh riêng.
 - Người ủy thác không thể trực tiếp tương tác vật lý với thế giới nhiệm vụ.
