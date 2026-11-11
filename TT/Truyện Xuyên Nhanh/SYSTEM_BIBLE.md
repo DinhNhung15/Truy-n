@@ -1,9 +1,9 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.6  
-**Trạng thái:** Tài liệu nền tảng – SYS-007 và SYS-012 đã được tác giả xác nhận  
-**Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, phần thưởng và quy tắc trở về.
+**Phiên bản:** 1.7  
+**Trạng thái:** Tài liệu nền tảng – SYS-007, SYS-008 và SYS-012 đã được tác giả xác nhận  
+**Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
 ---
 
@@ -417,9 +417,9 @@ Nếu nhiệm vụ chính thành công:
 
 ## 6.4. Tử vong trong thế giới nhiệm vụ
 
-Tử vong trong thế giới nhiệm vụ được tính là thất bại.
+Tử vong trong thế giới nhiệm vụ được tính là thất bại nếu không có vật phẩm giữ mạng phát huy tác dụng.
 
-Ký chủ có thể tránh kết cục này bằng cách sử dụng vật phẩm giữ mạng phù hợp.
+Ký chủ có thể tránh kết cục này bằng cách sử dụng vật phẩm giữ mạng phù hợp. Cơ chế, điều kiện kích hoạt, phạm vi bảo vệ và giới hạn của từng vật phẩm được quy định tại Mục 17 – SYS-008.
 
 Vật phẩm giữ mạng có thể:
 - Mua trong cửa hàng hệ thống.
@@ -578,7 +578,7 @@ Danh sách quyền hạn cụ thể theo từng cấp chưa được chốt.
 Cửa hàng hệ thống cho phép ký chủ sử dụng điểm tích lũy để mua:
 - Vé Về Nhà.
 - Vật phẩm đặc biệt.
-- Vật phẩm giữ mạng.
+- Vật phẩm giữ mạng theo danh mục và điều kiện riêng được quy định tại Mục 17 – SYS-008.
 - Kỹ năng.
 - Các dịch vụ khác được hệ thống cung cấp.
 
@@ -661,7 +661,7 @@ Trao đổi trực tiếp là hình thức các ký chủ gặp nhau và tự th
 
 ### Vật phẩm
 
-- Vật phẩm giao dịch không bị định danh cố định theo chủ sở hữu; có thể được mua bán qua chợ hoặc trao tay trực tiếp theo các quy tắc tại Mục 9.2 và 9.4.
+- Vật phẩm giao dịch không bị định danh cố định theo chủ sở hữu; có thể được mua bán qua chợ hoặc trao tay trực tiếp theo các quy tắc tại Mục 9.2 và 9.4. Vật phẩm giữ mạng cũng áp dụng quy tắc giao dịch chung này, đồng thời tuân theo các điều kiện riêng tại Mục 17 – SYS-008.
 - Vật phẩm có thể bao gồm bí kíp võ công, sách kỹ năng, giáo trình, tài liệu hướng dẫn và các sản phẩm chứa đựng tri thức hoặc phương pháp.
 - Những sản phẩm này có thể được sao chép thành nhiều bản. Mỗi bản muốn đăng bán trên chợ vẫn phải đáp ứng điều kiện kiểm định.
 - Việc sở hữu hoặc đọc bí kíp, sách hay tài liệu không đồng nghĩa với việc tự động sở hữu kỹ năng tương ứng; ký chủ phải tự học, luyện tập hoặc đáp ứng điều kiện cần thiết.
@@ -809,6 +809,14 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 69. Hệ thống đồng hành bị đóng băng không nhận năng lượng thưởng; hệ thống mới tiếp quản nhận toàn bộ năng lượng nếu ký chủ đủ điều kiện thành công.
 70. Kết quả và tư cách thành viên được xác định theo trạng thái thực tế tại thời điểm mục tiêu hoàn thành hoặc nhiệm vụ được xác định thất bại, không theo thời điểm tổng kết hoặc trao thưởng.
 71. Quy tắc chi tiết về nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm được quy định tại Mục 16; khi có khác biệt với nguyên tắc chung, Mục 16 được ưu tiên áp dụng.
+72. Cơ chế, điều kiện kích hoạt, hiệu quả, giới hạn và phạm vi bảo vệ của từng vật phẩm giữ mạng được xác định theo mô tả riêng của vật phẩm.
+73. Vật phẩm giữ mạng có thể có cơ chế tự động hoặc chủ động kích hoạt; hệ thống đồng hành không được tự ý kích hoạt vật phẩm trong kho của ký chủ.
+74. Vật phẩm đã sở hữu vẫn có thể sử dụng khi hệ thống đồng hành bị sập hoặc mất kết nối; ký chủ không thể mua vật phẩm mới từ cửa hàng hệ thống trong thời gian đó.
+75. Vật phẩm trong kho hệ thống không thể bị phá hủy, phong ấn, vô hiệu hóa hoặc đánh cắp trực tiếp; vật phẩm ở bên ngoài kho hệ thống có thể bị người khác lấy trộm và sử dụng.
+76. Vật phẩm còn hiệu lực và chưa sử dụng có thể được mang sang thế giới nhiệm vụ khác; vật phẩm chưa sử dụng sẽ mất khi ký chủ tử vong và nhiệm vụ kết thúc.
+77. Khi nhiều vật phẩm cùng có khả năng kích hoạt trước một nguy hiểm, chỉ vật phẩm phù hợp nhất được kích hoạt; các vật phẩm còn lại không kích hoạt và không bị tiêu hao.
+78. Hiệu ứng của nhiều vật phẩm có thể bổ trợ nhau tùy hoàn cảnh và cơ chế riêng; không áp dụng một thứ tự xử lý cố định cho mọi vật phẩm.
+79. Nếu vật phẩm cứu ký chủ thành công, ký chủ được tiếp tục nhiệm vụ; việc được cứu, hồi sinh hoặc tạm thời mất khả năng hành động không tự động khiến nhiệm vụ thất bại. Quy tắc chi tiết tại Mục 17 – SYS-008.
 
 ---
 
@@ -822,7 +830,6 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 | SYS-002 | Tiêu chuẩn chi tiết để phân loại nhiệm vụ vào 8 cấp F–SS |
 | SYS-003 | Danh sách quyền hạn được mở khóa theo cấp ký chủ |
 | SYS-007 | Tiêu chí định lượng chi tiết để xác định chi phí cụ thể trong từng khoảng can thiệp và các trường hợp đặc biệt chưa được quy định |
-| SYS-008 | Điều kiện và giới hạn sử dụng vật phẩm giữ mạng |
 | SYS-009 | Công thức và tiêu chí chi tiết để hệ thống xác định tỷ giá quy đổi sang S |
 | SYS-010 | Cơ chế lựa chọn và kích hoạt vé Về Nhà |
 | SYS-011 | Quy tắc thời gian giữa thế giới thực và thế giới nhiệm vụ |
@@ -1297,4 +1304,85 @@ Nếu ký chủ hoàn thành nhiệm vụ trong thời gian hệ thống đồng
 
 ---
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.6**
+
+# 17. SYS-008 – VẬT PHẨM GIỮ MẠNG
+
+Mục này quy định các nguyên tắc chung về vật phẩm giữ mạng. Không áp dụng một cơ chế kích hoạt hoặc hiệu quả duy nhất cho tất cả vật phẩm; mô tả riêng của từng vật phẩm là căn cứ xác định tính năng, điều kiện, phạm vi và giới hạn sử dụng.
+
+## 17.1. Nguồn nhận và tính chất
+
+- Vật phẩm giữ mạng có thể được mua trong cửa hàng hệ thống, nhận từ phần thưởng nhiệm vụ hoặc giao dịch qua chợ người chơi nếu có nguồn cung phù hợp.
+- Vật phẩm có thể có những cơ chế rất khác nhau. Không xây dựng một danh mục phân loại cố định áp dụng cho tất cả.
+- Vật phẩm hồi sinh cực kỳ hiếm, không thể mua trong cửa hàng và chỉ có thể nhận thông qua phần thưởng nhiệm vụ ngẫu nhiên.
+- Phạm vi bảo vệ của từng vật phẩm có thể bao gồm mọi loại nguy hiểm hoặc chỉ một số nguy hiểm nhất định, căn cứ vào mô tả riêng.
+- Khả năng bảo vệ một người hay nhiều người, bảo vệ chủ sở hữu hay người khác, và khả năng cứu người ngoài nhóm nhiệm vụ đều phụ thuộc quy tắc của từng vật phẩm.
+
+## 17.2. Kích hoạt và hiệu quả
+
+- Vật phẩm có thể tự động kích hoạt hoặc yêu cầu ký chủ chủ động kích hoạt.
+- Việc vật phẩm có kích hoạt khi ký chủ bất tỉnh hoặc không thể hành động hay không phụ thuộc cơ chế riêng.
+- Khả năng kích hoạt trước khi ký chủ bị thương hoặc trước khi nguy hiểm thực sự xảy ra cũng phụ thuộc mô tả vật phẩm.
+- Hiệu quả sau khi kích hoạt, bao gồm khả năng cứu ký chủ khỏi tình huống vốn có thể dẫn đến tử vong, được xác định riêng cho từng vật phẩm.
+- Một vật phẩm có thể bảo vệ trong một lần, nhiều lần hoặc liên tục; thời hạn, số lượt, giới hạn theo ngày/nhiệm vụ và thời gian hồi chiêu tùy mô tả.
+- Sau khi kích hoạt thành công, vật phẩm có thể bị tiêu hao, mất một lượt sử dụng, đi vào thời gian hồi chiêu hoặc áp dụng cơ chế khác đã được mô tả.
+- Nếu điều kiện kích hoạt không được đáp ứng hoặc vật phẩm không thể kích hoạt, vật phẩm không bị tiêu hao.
+
+## 17.3. Nhiều vật phẩm và hiệu ứng chồng lấp
+
+- Khi nhiều vật phẩm cùng có điều kiện bảo vệ trước một nguy hiểm, chỉ vật phẩm phù hợp nhất được kích hoạt.
+- Những vật phẩm còn lại không kích hoạt và không bị tiêu hao.
+- Việc xác định vật phẩm phù hợp nhất căn cứ vào tính năng, điều kiện và giới hạn được mô tả cho từng vật phẩm.
+- Hiệu ứng của các vật phẩm có thể bổ trợ nhau tùy tình huống. Ví dụ, lá chắn có thể chặn sát thương trong khi vật phẩm hồi phục bổ sung máu.
+- Không có thứ tự xử lý cố định áp dụng cho mọi loại hiệu ứng; kết quả phụ thuộc cơ chế của các vật phẩm liên quan.
+- Khi nguy hiểm tiếp diễn hoặc xuất hiện liên tiếp, vật phẩm còn khả năng bảo vệ có thể tiếp tục phát huy tác dụng. Nếu không còn vật phẩm phù hợp hoặc vật phẩm không thể kích hoạt, ký chủ có thể tử vong.
+
+## 17.4. Sở hữu, lưu trữ và khả năng bị tác động
+
+- Vật phẩm giữ mạng có thể được sử dụng để bảo vệ chủ sở hữu hoặc người khác nếu mô tả vật phẩm cho phép.
+- Vật phẩm nằm trong kho hệ thống không thể bị phá hủy, phong ấn hoặc vô hiệu hóa.
+- Không thể đánh cắp trực tiếp vật phẩm từ kho hệ thống.
+- Nếu vật phẩm được đưa ra bên ngoài kho hệ thống, người khác có thể lấy trộm và sử dụng nó.
+- Vật phẩm giữ mạng không bị khóa cứng theo một thế giới. Vật phẩm còn hiệu lực và chưa sử dụng có thể được mang sang thế giới nhiệm vụ khác.
+- Khả năng sử dụng vật phẩm tại thế giới khác vẫn tuân theo điều kiện và giới hạn riêng của vật phẩm.
+- Số lượng vật phẩm được sở hữu tùy quy tắc của từng vật phẩm; không mặc định một giới hạn số lượng chung.
+- Khi ký chủ tử vong và nhiệm vụ kết thúc, vật phẩm chưa sử dụng sẽ mất.
+
+## 17.5. Giao dịch
+
+- Vật phẩm giữ mạng có thể được giao dịch tự do như các vật phẩm khác.
+- Giao dịch qua chợ chính thức phải tuân theo điều kiện kiểm định, phí giao dịch, thời gian chờ và các quy tắc tại Mục 9.2.
+- Trao đổi trực tiếp phải tuân theo các quy tắc tại Mục 9.4.
+- Việc vật phẩm có thể sử dụng bởi người nhận hay không căn cứ vào mô tả và điều kiện riêng của vật phẩm; không mặc định chỉ chủ sở hữu ban đầu mới có thể sử dụng.
+
+## 17.6. Quan hệ với hệ thống đồng hành
+
+- Hệ thống đồng hành không thể tự ý kích hoạt vật phẩm đang thuộc quyền sở hữu/kho vật phẩm của ký chủ. Việc kích hoạt tuân theo cơ chế của vật phẩm và yêu cầu chủ động của ký chủ nếu vật phẩm quy định như vậy.
+- Quy tắc trên không ngăn cản vật phẩm tự động kích hoạt theo thiết kế vốn có của nó. Việc tự động kích hoạt là tính năng của vật phẩm, không phải hành động do hệ thống đồng hành quyết định.
+- Cơ chế cứu mạng của vật phẩm và cơ chế can thiệp bằng năng lượng của hệ thống đồng hành là hai cơ chế độc lập. Không kết hợp hai cơ chế để tăng hiệu quả cho nhau.
+- Khi hệ thống đồng hành bị sập hoặc mất kết nối, ký chủ vẫn sử dụng được những vật phẩm đã sở hữu.
+- Trong thời gian hệ thống đồng hành bị sập hoặc mất kết nối, ký chủ không thể mua vật phẩm mới từ cửa hàng hệ thống.
+- Vật phẩm tự động vẫn có thể kích hoạt khi hệ thống đồng hành bị sập nếu điều kiện riêng của vật phẩm được đáp ứng.
+
+## 17.7. Ảnh hưởng đến tiến trình nhiệm vụ
+
+- Nếu vật phẩm cứu ký chủ thành công nhưng mục tiêu nhiệm vụ chưa hoàn thành, ký chủ được tiếp tục thực hiện nhiệm vụ.
+- Nếu vật phẩm có khả năng hồi sinh ký chủ và kích hoạt thành công, ký chủ được tiếp tục nhiệm vụ sau khi hồi sinh.
+- Nếu ký chủ được cứu nhưng bị thương nặng hoặc mất khả năng hành động, nhiệm vụ vẫn tiếp tục cho đến khi có kết quả hoặc hết thời hạn; không tự động tính thất bại chỉ vì ký chủ tạm thời không thể hành động.
+- Nếu vật phẩm kích hoạt thành công và ký chủ sống sót, sự kiện đó không được ghi nhận là ký chủ tử vong; nhiệm vụ tiếp tục theo điều kiện ban đầu.
+- Ký chủ chỉ bị tính tử vong và thất bại nếu thực sự tử vong mà không có vật phẩm giữ mạng phát huy tác dụng cứu sống theo cơ chế của nó.
+
+## 17.8. Các nguyên tắc không được nhầm lẫn
+
+1. Không có một cơ chế kích hoạt, hiệu quả hoặc giới hạn chung cho mọi vật phẩm giữ mạng.
+2. Vật phẩm tự động kích hoạt theo thiết kế của nó không đồng nghĩa với việc hệ thống đồng hành tự ý kích hoạt vật phẩm.
+3. Hệ thống đồng hành không thể tự ý kích hoạt vật phẩm trong kho của ký chủ.
+4. Vật phẩm đã sở hữu vẫn sử dụng được khi hệ thống đồng hành bị sập; ký chủ chỉ mất khả năng mua mới từ cửa hàng hệ thống trong thời gian đó.
+5. Chỉ vật phẩm phù hợp nhất được kích hoạt khi nhiều vật phẩm cùng có điều kiện bảo vệ; những vật phẩm còn lại không bị tiêu hao.
+6. Vật phẩm trong kho hệ thống không thể bị phá hủy, phong ấn, vô hiệu hóa hoặc đánh cắp trực tiếp.
+7. Vật phẩm ở bên ngoài kho hệ thống có thể bị lấy trộm và sử dụng.
+8. Vật phẩm còn hiệu lực và chưa sử dụng có thể được mang sang thế giới nhiệm vụ khác.
+9. Vật phẩm cứu mạng và can thiệp bằng năng lượng của hệ thống đồng hành là hai cơ chế độc lập.
+10. Được cứu, hồi sinh hoặc tạm thời mất khả năng hành động không tự động đồng nghĩa với nhiệm vụ thất bại.
+11. Nếu không có vật phẩm phù hợp hoặc vật phẩm không thể kích hoạt trước nguy hiểm, ký chủ vẫn có thể tử vong và chịu quy tắc thất bại thông thường.
+
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.7**
