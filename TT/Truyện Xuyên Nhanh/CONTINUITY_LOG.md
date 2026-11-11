@@ -221,3 +221,13 @@
 ### Bổ sung kiểm tra nhất quán trong v1.13
 - Đồng bộ phần tổng quan Mục 1.2, nguyên tắc khế ước Mục 3.3 và quy tắc nhanh Mục 12 với quyền phân bổ 20% năng lượng kể cả khi một lượt ký chủ thất bại.
 - Ghi nhận một điểm chưa chốt để không tự suy diễn: nếu người ủy thác đã phân bổ hết 20% làm phần thưởng trước khi nhiệm vụ thực sự hoàn thành, trạng thái tồn tại của linh hồn trong khoảng thời gian còn lại chưa được xác định.
+
+
+## 2026-11-11 – Bổ sung quy tắc linh hồn khi đã dùng hết 20% năng lượng
+
+- Chốt: Nếu người ủy thác đã phân bổ toàn bộ 20% năng lượng hợp đồng làm phần thưởng trước khi nhiệm vụ thực sự hoàn thành, linh hồn vẫn tiếp tục tồn tại và theo dõi nhiệm vụ bình thường.
+- Việc linh hồn tiếp tục tồn tại và quan sát không phụ thuộc vào lượng năng lượng 20% còn lại.
+- Khi 20% đã dùng hết, người ủy thác không còn năng lượng để phân bổ thêm phần thưởng; tuy nhiên vẫn giữ quyền quan sát cho đến khi nhiệm vụ thực sự hoàn thành hoặc bị hủy theo quy định.
+- Khi nhiệm vụ hoàn thành, linh hồn tan biến theo quy tắc đã chốt. Nếu nhiệm vụ bị hủy do phá hoại đã xác minh, áp dụng chế tài tại Mục 21.5.
+- Điểm chưa chốt trước đó về trạng thái linh hồn khi 20% đã dùng hết được đóng lại.
+- Đã đồng bộ Mục 21.1 và 21.2 trong `SYSTEM_BIBLE.md`; không thay đổi tỷ lệ 80%/20% hoặc cơ chế thưởng.
