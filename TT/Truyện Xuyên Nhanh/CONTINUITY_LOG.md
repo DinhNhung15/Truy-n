@@ -216,3 +216,8 @@
 ### Trạng thái
 - Các cập nhật trên đã được ghi vào `SYSTEM_BIBLE.md` v1.13.
 - Những mô tả cũ trái với các quyết định mới trong nhật ký phiên bản trước không còn được áp dụng.
+
+
+### Bổ sung kiểm tra nhất quán trong v1.13
+- Đồng bộ phần tổng quan Mục 1.2, nguyên tắc khế ước Mục 3.3 và quy tắc nhanh Mục 12 với quyền phân bổ 20% năng lượng kể cả khi một lượt ký chủ thất bại.
+- Ghi nhận một điểm chưa chốt để không tự suy diễn: nếu người ủy thác đã phân bổ hết 20% làm phần thưởng trước khi nhiệm vụ thực sự hoàn thành, trạng thái tồn tại của linh hồn trong khoảng thời gian còn lại chưa được xác định.
