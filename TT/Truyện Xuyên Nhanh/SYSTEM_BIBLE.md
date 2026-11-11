@@ -1,8 +1,8 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.10  
-**Trạng thái:** Tài liệu nền tảng – SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014 và SYS-015 đã được tác giả xác nhận; một số chi tiết vận hành khác vẫn đang chờ quyết định  
+**Phiên bản:** 1.11  
+**Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
 ---
@@ -759,9 +759,53 @@ Quyền hạn của ký chủ được chia thành hai nhóm:
 - Chỉ bao gồm tiện ích và chức năng hỗ trợ ký chủ trong quá trình thực hiện nhiệm vụ.
 - Không bao gồm quyền quản lý, điều hành, khiếu nại hoặc can thiệp vào hoạt động nội bộ của Tổng bộ.
 - Cấp bậc ký chủ không đồng nghĩa với quyền lực hành chính trong Tổng bộ.
+- Việc mở khóa một tiện ích không đồng nghĩa mọi lần sử dụng hoặc nâng cấp tiện ích đó đều miễn phí. Ví dụ, mở khóa chức năng mở rộng kho không đồng nghĩa được tăng sức chứa vô hạn miễn phí.
 
-Danh sách tiện ích và chức năng hỗ trợ cụ thể theo từng cấp chưa được chốt.
+### Danh mục tiện ích theo cấp ký chủ
 
+Các mốc mở khóa được chia thành bốn nhóm. Tiện ích ở mốc thấp hơn tiếp tục được duy trì khi ký chủ đạt cấp cao hơn.
+
+**F–E – Tiện ích cơ bản**
+- Hồ sơ ký chủ: xem cấp bậc, điểm, EXP, lịch sử nhiệm vụ và trạng thái hiện tại.
+- Sổ tay nhiệm vụ: lưu trữ thông tin, mục tiêu, điều kiện hoàn thành và dữ liệu ký chủ đã thu thập.
+- Ghi chú cá nhân: ghi chép, đánh dấu và tìm kiếm thông tin.
+- Quản lý kho đồ: phân loại, tìm kiếm và xem thông tin vật phẩm, kỹ năng đang sở hữu.
+- Lịch sử giao dịch: tra cứu mua bán, điểm đã chi và vật phẩm đã nhận.
+
+**D–C – Tiện ích hỗ trợ và nâng cấp**
+- Thống kê nhiệm vụ: tổng hợp tỷ lệ hoàn thành, thất bại, điểm và EXP theo lịch sử.
+- Phân tích cá nhân: thống kê kỹ năng, vật phẩm và hiệu quả sử dụng của chính ký chủ.
+- So sánh vật phẩm/kỹ năng.
+- Đánh dấu mục tiêu, tạo danh sách công việc, theo dõi tiến độ và lập kế hoạch chuẩn bị nhiệm vụ.
+- Tạo danh sách vật phẩm, kỹ năng theo từng tình huống.
+- Tìm kiếm và lọc thông tin trong dữ liệu cá nhân.
+- Mở rộng kho chứa: tăng sức chứa vật phẩm.
+- Phân khu kho: chia kho thành các ngăn theo nhóm, đặt tên và đánh dấu.
+- Tìm kiếm nâng cao: lọc vật phẩm theo loại, công dụng, cấp bậc và trạng thái.
+- Lưu bộ trang bị: lưu nhiều cấu hình vật phẩm để tiện kiểm tra và chuẩn bị.
+- Mở rộng dung lượng sổ tay.
+- Theo dõi biến động giá trên chợ chung, lưu danh sách mặt hàng quan tâm, so sánh giá giữa các tin đăng và nhận thông báo khi mặt hàng quan tâm thay đổi trạng thái.
+
+**B–A – Tiện ích chuyên sâu**
+- Phân tích nhiệm vụ: phân tích mục tiêu, điều kiện hoàn thành, thời hạn và dữ kiện ký chủ đã thu thập; hỗ trợ sắp xếp mức độ ưu tiên.
+- Mô phỏng tình huống: dựng kịch bản giả định dựa trên dữ liệu hiện có và so sánh các kết quả có thể xảy ra.
+- Quản lý tài nguyên nâng cao: thống kê mức tiêu hao vật phẩm, lập kế hoạch sử dụng và cảnh báo nguy cơ thiếu tài nguyên.
+- Mở rộng kho nâng cao: tăng thêm giới hạn sức chứa và mở khu lưu trữ riêng cho vật phẩm đặc biệt.
+- Bộ hồ sơ nhiệm vụ: lưu và tái sử dụng mẫu kế hoạch, ghi chú và danh sách vật phẩm từ nhiệm vụ trước.
+- Tra cứu chéo: tìm kiếm, đối chiếu dữ liệu từ nhiều thế giới nhiệm vụ ký chủ đã trải qua.
+- Quản lý giao dịch nâng cao: theo dõi lịch sử giá, thống kê giao dịch và thiết lập bộ lọc mua bán chi tiết.
+
+**S–SS – Tiện ích cao cấp**
+- Quản lý cá nhân hóa: tùy chỉnh giao diện, tạo bảng điều khiển riêng, ghim thông tin thường dùng, tự động phân loại/sắp xếp dữ liệu và thiết lập quy tắc cảnh báo theo điều kiện.
+- Quản lý kho cao cấp: mở rộng sức chứa ở mức cao hơn, tạo khu lưu trữ chuyên biệt, hỗ trợ sắp xếp/phân loại/chuyển vị trí vật phẩm nhanh chóng, quản lý nhiều bộ trang bị và cấu hình dự phòng.
+- Phân tích chuyên sâu: phân tích nhiều phương án thực hiện nhiệm vụ, đối chiếu dữ liệu phức tạp từ nhiều thế giới, phân tích rủi ro và điểm thiếu thông tin, xây dựng mô hình giả định nhiều bước.
+- Quản lý tài nguyên và giao dịch: thống kê tổng tài sản, điểm, vật phẩm, kỹ năng; phân tích xu hướng giá trên chợ chung; thiết lập danh sách theo dõi và cảnh báo nâng cao.
+- Tự động hóa thao tác: tạo quy tắc tự động phân loại dữ liệu, tự động lưu hồ sơ nhiệm vụ theo mẫu và tạo quy trình thao tác cá nhân cho công việc lặp lại.
+
+### Giới hạn chung
+- Các tiện ích phân tích, tra cứu và mô phỏng chỉ xử lý dữ liệu mà ký chủ có quyền tiếp cận hoặc đã thu thập; không tự biết bí mật của thế giới, không nhìn thấy tương lai.
+- Các tiện ích không làm thay đổi luật nhiệm vụ, không tạo quyền can thiệp vào hoạt động nội bộ Tổng bộ và không cho phép ký chủ điều khiển hệ thống khác.
+- Các nâng cấp như tăng sức chứa kho hoặc dung lượng lưu trữ có thể cần thanh toán điểm hoặc đáp ứng điều kiện riêng; việc mở khóa chỉ cấp quyền sử dụng chức năng.
 ---
 
 # 9. CỬA HÀNG HỆ THỐNG VÀ CHỢ GIAO DỊCH
@@ -809,14 +853,39 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 - Người mua không cần tự đổi tiền hoặc sở hữu loại tiền tệ của thế giới người bán. Người bán cũng không cần lựa chọn hay yêu cầu một loại tiền tệ cụ thể.
 - Tỷ giá áp dụng được hệ thống xác định tại thời điểm giao dịch được ghi nhận. Khi giao dịch hoàn tất, tỷ giá và số tiền thanh toán của hai bên được khóa, không điều chỉnh hồi tố.
 - Tỷ giá do hệ thống tự xác định căn cứ vào giá trị trao đổi và sức mua thực tế của tiền tệ tại từng thế giới; không căn cứ đơn thuần vào mệnh giá danh nghĩa.
-- Tổng bộ xây dựng một giỏ hàng tham chiếu gồm các nhu yếu phẩm, dịch vụ phổ biến và chi phí sinh hoạt cơ bản.
-- Hệ thống thu thập giá của giỏ hàng tham chiếu tại từng thế giới, so sánh tổng chi phí để xác định tỷ giá theo sức mua thực tế.
-- Giá trị giỏ hàng được cập nhật định kỳ hoặc khi có biến động sức mua đáng kể.
-- Tỷ giá được khóa tại thời điểm giao dịch được ghi nhận; biến động sau đó không làm thay đổi giao dịch đã hoàn tất.
-- Không áp dụng một công thức quy đổi cố định dựa trên mệnh giá danh nghĩa; việc quy đổi căn cứ dữ liệu giá và sức mua của giỏ hàng tham chiếu.
-- Không thu thêm phí quy đổi tiền tệ ngoài phí chợ 5% đã quy định.
 
-### Đặt mua, chỉnh sửa và hủy tin đăng
+#### Giỏ hàng tham chiếu
+
+Tổng bộ sử dụng giỏ hàng tham chiếu để so sánh sức mua thực tế giữa các thế giới. Giỏ hàng không chỉ giới hạn ở nhu yếu phẩm mà có thể bao gồm các nhóm hàng hóa và dịch vụ tồn tại trong nền kinh tế của thế giới đó:
+
+1. **Nhu yếu phẩm:** lương thực, thực phẩm, nước uống và đồ dùng cá nhân.
+2. **Sinh hoạt:** nhà ở, điện, nước, nhiên liệu, đi lại và liên lạc.
+3. **Y tế:** thuốc, khám chữa bệnh và thiết bị y tế.
+4. **Công cụ và vật liệu:** công cụ lao động, nguyên liệu, vật liệu xây dựng và máy móc.
+5. **Vũ khí và trang bị:** vũ khí thông thường, giáp, trang bị phòng hộ và phương tiện chiến đấu.
+6. **Hàng hóa đặc thù:** ma pháp, linh thạch, tinh hạch, tài nguyên dị năng, công nghệ cao và hàng hóa chỉ tồn tại ở một số thế giới.
+7. **Dịch vụ:** giáo dục, sửa chữa, vận chuyển, dịch vụ chuyên môn và dịch vụ đặc thù.
+
+- Không loại trừ vũ khí, trang bị hoặc hàng hóa đặc thù chỉ vì chúng không tồn tại ở mọi thế giới.
+- Mỗi thế giới có cơ cấu giỏ hàng và trọng số riêng, căn cứ vào nền kinh tế, mức độ phổ biến, tính thiết yếu và sức mua thực tế tại thế giới đó.
+- Hệ thống nghiệp vụ tự động thu thập dữ liệu giá cả, phân tích và tính trọng số theo từng thế giới. Tổng bộ kiểm tra, phê duyệt khi có biến động lớn hoặc dữ liệu bất thường.
+- Giỏ hàng được cập nhật định kỳ **3 tháng một lần**, đồng thời có thể cập nhật đột xuất khi xảy ra biến động kinh tế lớn như lạm phát, khủng hoảng, chiến tranh, thay đổi công nghệ hoặc nguồn cung.
+- Không cập nhật chỉ vì một vài mặt hàng biến động giá ngắn hạn.
+- Nếu hàng hóa có sản phẩm tương đương về công dụng ở thế giới khác, hệ thống có thể đối chiếu theo công dụng. Nếu không có sản phẩm tương đương, hàng hóa được ghi nhận thành nhóm đặc thù riêng.
+- Khi không có thị trường giao dịch hoặc không đủ dữ liệu giá đáng tin cậy cho hàng hóa đặc thù, **Tổng bộ tự định giá** dựa trên công dụng, độ khan hiếm, mức độ phổ biến, giá trị sử dụng và điều kiện kinh tế của thế giới đó; có thể tham khảo dữ liệu từ thế giới khác nếu phù hợp.
+- Khi có dữ liệu giao dịch thực tế đáng tin cậy, Tổng bộ có thể dùng dữ liệu đó để đánh giá và điều chỉnh mức định giá.
+- Ký chủ chỉ xem được giá quy đổi cuối cùng và tỷ giá giao dịch; không xem công thức định giá hoặc dữ liệu kinh tế nội bộ của Tổng bộ.
+- Không cần quy định cứng trọng số chi tiết cho từng mặt hàng hoặc ngưỡng số học cho mọi trường hợp; việc đánh giá được thực hiện theo cơ cấu kinh tế thực tế của từng thế giới.
+
+#### Nguyên tắc tương thích thế giới đối với vật phẩm
+
+- Vật phẩm có thể được mua bán và mang qua các thế giới, nhưng không mặc nhiên phát huy toàn bộ công năng ở mọi thế giới.
+- Trước khi ký chủ sử dụng vật phẩm tại một thế giới, hệ thống kiểm tra mức độ tương thích với quy luật vật lý, công nghệ, năng lượng và hệ thống sức mạnh của thế giới hiện tại; phải thông báo cho ký chủ trước khi sử dụng.
+- Tùy cơ chế riêng của từng vật phẩm, kết quả có thể là: hoạt động bình thường; bị hạn chế một phần công năng; chuyển sang trạng thái/cách vận hành tương thích nếu cơ chế vật phẩm cho phép; hoặc vô hiệu hóa hoàn toàn công năng không tương thích.
+- Thông báo phải cho ký chủ biết công năng nào có thể hoạt động, công năng nào bị hạn chế hoặc vô hiệu hóa.
+- Hệ thống không được tự ý thay đổi quy luật nền tảng của thế giới để giúp vật phẩm hoạt động.
+- Ví dụ: kiếm có công năng ngự kiếm mang sang thế giới hiện đại không thể bay bằng linh lực nếu thế giới đó không có điều kiện cho phép; những công năng khác của kiếm vẫn được đánh giá riêng.
+- Cần phân biệt vật phẩm không tương thích với quy luật thế giới và vật phẩm tương thích nhưng ký chủ chưa đáp ứng điều kiện sử dụng. Trường hợp thứ hai tuân theo điều kiện riêng của vật phẩm.### Đặt mua, chỉnh sửa và hủy tin đăng
 
 - Khi người mua đặt mua, hệ thống tự động hoàn tất giao dịch; người bán không cần xác nhận và không có quyền từ chối.
 - Người bán được chỉnh sửa thông tin, thay đổi giá hoặc hủy tin đăng khi giao dịch chưa được ghi nhận là hoàn tất.
@@ -1057,19 +1126,23 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 87. Ký chủ trở về thời điểm ngay trước tai nạn, với thân thể khỏe mạnh, an toàn và lành lặn, kèm khoản tiền thưởng hợp pháp.
 88. Tất cả ký chủ trở về bằng vé giữ ký ức hành trình dưới dạng mơ hồ như giấc mơ. Khi gặp lại người từng quen, họ có thể thấy thân thuộc tùy mức độ cảm xúc và gắn kết, không nhất thiết nhận ra ngay.
 89. Ký chủ giữ lại những thay đổi về tính cách, tư duy, thói quen, phản xạ và kiến thức/kỹ năng tương thích với thế giới thực; họ có thể biết và làm được mà không nhớ rõ nguồn gốc. Năng lực siêu nhiên không tương thích với thế giới thực không thể sử dụng.
+90. Tiện ích mở khóa theo cấp ký chủ chỉ là tiện ích hỗ trợ; không cấp quyền quản lý, điều hành, khiếu nại hoặc can thiệp nội bộ Tổng bộ. Danh mục mở khóa F–E, D–C, B–A và S–SS được quy định tại SYS-003.
+91. Giỏ hàng tham chiếu và trọng số tỷ giá được điều chỉnh theo cơ cấu kinh tế từng thế giới; có thể bao gồm nhu yếu phẩm, sinh hoạt, y tế, công cụ/vật liệu, vũ khí/trang bị, hàng hóa đặc thù và dịch vụ. Giỏ hàng cập nhật định kỳ 3 tháng hoặc đột xuất khi có biến động kinh tế lớn.
+92. Vật phẩm xuyên thế giới phải được kiểm tra tương thích và thông báo cho ký chủ trước khi sử dụng; không được làm thay đổi quy luật nền tảng của thế giới hiện tại.
+93. Vé quay lại thế giới nhiệm vụ đã hoàn thành có giá 10 tỷ điểm/vé, bán trong cửa hàng hệ thống, mỗi vé dùng một lần và kế thừa cơ chế vé Về Nhà SYS-010, trừ đích đến cùng lựa chọn thời điểm/thân phận riêng của SYS-015.
+94. Người ủy thác thanh toán trước 80% năng lượng hợp đồng; phần còn lại do người ủy thác tự chọn tỷ lệ và chỉ được thanh toán khi nhiệm vụ hoàn thành. Nhiệm vụ thất bại ở một lượt ký chủ được đưa lại vào kho để tiếp tục phân phối, không làm chấm dứt nhiệm vụ.
+95. Người ủy thác có thể tự nguyện thưởng thêm điểm cho ký chủ và năng lượng cho hệ thống đồng hành; khoản thưởng độc lập với phần thưởng nhiệm vụ và có thể được trao dù nhiệm vụ thất bại.
+96. Người ủy thác không được sử dụng năng lượng linh hồn hoặc phương thức bất thường để can thiệp vào thế giới nhiệm vụ vì mục đích cá nhân. Nếu Tổng bộ xác minh được hành vi phá hoại, hợp đồng bị hủy và áp dụng chế tài tại Mục 21.
 
 ---
 
 # 13. CÁC VẤN ĐỀ CHƯA CHỐT
 
-Những nội dung sau không được tự ý suy diễn thành canon.
+Những nội dung chưa được tác giả quyết định không được tự ý suy diễn thành canon.
 
-| Mã | Nội dung cần quyết định |
-|---|---|
-| SYS-003 | Danh sách tiện ích và chức năng hỗ trợ cụ thể được mở khóa ở từng cấp ký chủ |
-| SYS-009 | Các chi tiết định lượng sâu hơn của giỏ hàng tham chiếu (danh mục mặt hàng cụ thể, trọng số từng mặt hàng và ngưỡng cập nhật) nếu cần triển khai ở mức kỹ thuật |
-| SYS-015 | Giá, nguồn nhận và các giới hạn sử dụng khác của vé quay lại thế giới nhiệm vụ đã hoàn thành, nếu cần quy định cụ thể |
+Hiện tại, các nội dung vừa được rà soát và chốt gồm SYS-003, phạm vi quy tắc SYS-009 được thống nhất ở mức nguyên tắc, SYS-015 và quy tắc linh hồn/người ủy thác tại Mục 21. Các chi tiết định lượng kỹ thuật không cần thiết không được tự bổ sung chỉ để làm tài liệu phức tạp hơn.
 
+Những vấn đề chưa chốt khác (nếu phát sinh trong các mục còn lại) chỉ được bổ sung vào bảng này sau khi xác định rõ nội dung cần quyết định.
 ---
 
 # 14. NGUYÊN TẮC QUẢN LÝ CANON
@@ -1683,7 +1756,75 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 - Sau khi quay lại, ký chủ có thể tiếp tục sinh sống và ở lại thế giới đó nếu muốn.
 - Không bắt buộc phải lập tức rời đi hoặc quay về Tổng bộ.
 
-Các điều kiện khác như giá vé, nguồn nhận vé, giới hạn số lần sử dụng và những giới hạn can thiệp vào diễn biến thế giới chưa được quy định tại mục này.
+## 20.4. Vé quay lại thế giới nhiệm vụ đã hoàn thành
 
+- Giá vé: **10 tỷ điểm/vé**.
+- Vé được bán trực tiếp trong cửa hàng hệ thống.
+- Không giới hạn số lượng vé ký chủ có thể mua nếu đủ điểm và đáp ứng điều kiện mua hàng của cửa hàng.
+- Mỗi vé chỉ sử dụng được một lần.
+- Ký chủ có thể sử dụng vé bất cứ lúc nào sau khi thế giới nhiệm vụ tương ứng đã hoàn thành, kể cả khi đang ở thế giới nhiệm vụ khác hoặc đã trở về Tổng bộ.
+- Vé có cơ chế mua, lưu trữ, chỉ định người nhận, kích hoạt và xử lý khi người nhận tử vong tương tự vé Về Nhà tại SYS-010; người nhận được chỉ định phải tự kích hoạt vé. Nếu người nhận tử vong trước khi kích hoạt, vé mất hiệu lực, không hoàn điểm và không thể chuyển cho người khác.
+- Khi kích hoạt trong lúc đang thực hiện một nhiệm vụ bắt buộc, vé được xử lý sau khi nhiệm vụ bắt buộc hiện tại có kết quả. Nếu nhiệm vụ bắt buộc thành công, ký chủ được đưa đến thế giới đã chọn; nếu thất bại, phải xử lý hình phạt trước và chỉ được quay lại nếu còn sống. Vé không cứu ký chủ tử vong do hình phạt.
+- Điểm khác biệt về đích đến: thay vì trở về thế giới thực ở thời điểm ngay trước tai nạn như SYS-010, vé này đưa ký chủ đến thế giới nhiệm vụ đã hoàn thành, tại thời điểm do ký chủ tự chọn và theo lựa chọn thân phận tại Mục 20.2.
+- Ngoài giá vé và địa điểm quay lại, các quy tắc chung về vé được kế thừa từ SYS-010; những lựa chọn riêng về thời điểm, thân phận cũ/thân phận mới và quyền ở lại tuân theo SYS-015.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.10**
+---
+
+# 21. NGƯỜI ỦY THÁC – LINH HỒN, HỢP ĐỒNG VÀ QUYỀN QUAN SÁT
+
+## 21.1. Thanh toán năng lượng hợp đồng
+
+- Khi hợp đồng được ký, **80% năng lượng hợp đồng được thanh toán trước** và đưa vào nguồn năng lượng chung của Tổng bộ.
+- Phần năng lượng còn lại do người ủy thác tự lựa chọn tỷ lệ; không quy định mức tối thiểu hoặc tối đa cố định.
+- Phần năng lượng còn lại chỉ được thanh toán khi nhiệm vụ hoàn thành.
+- Nhiệm vụ thất bại ở lượt thực hiện của một ký chủ không đồng nghĩa nhiệm vụ kết thúc. Nhiệm vụ được đưa trở lại kho để tiếp tục phân phối cho ký chủ khác cho đến khi hoàn thành; phần năng lượng hợp đồng còn lại tiếp tục chờ đến khi nhiệm vụ hoàn thành.
+- Nếu nhiệm vụ bị Tổng bộ hủy do người ủy thác phá hoại, phần năng lượng hợp đồng chưa thanh toán bị Tổng bộ thu hồi; 80% đã thanh toán trước đó vẫn thuộc Tổng bộ.
+
+## 21.2. Trạng thái và quyền quan sát của người ủy thác
+
+- Sau khi ký hợp đồng, linh hồn người ủy thác ở lại thế giới nhiệm vụ để quan sát diễn biến.
+- Người ủy thác có thể theo dõi nhiệm vụ như một khán giả: quan sát hành động, lời nói, tương tác và diễn biến đang xảy ra trong thế giới nhiệm vụ.
+- Người ủy thác không thể nhìn thấy, nghe thấy hoặc giao tiếp trực tiếp với ký chủ; không thể giao tiếp với ký chủ thông qua kênh riêng.
+- Người ủy thác không thể trực tiếp tương tác vật lý với thế giới nhiệm vụ.
+- Một số cảnh riêng tư được tự động che khuất, bao gồm cảnh thân mật, sinh hoạt cá nhân mang tính riêng tư, thay quần áo và vệ sinh cá nhân. Các cuộc trò chuyện riêng tư không tự động thuộc phạm vi che khuất chỉ vì đó là cuộc trò chuyện riêng tư.
+- Việc quan sát diễn ra theo thời gian thực. Người ủy thác không thể tua lại, tua nhanh hoặc xem lại diễn biến đã xảy ra.
+- Người ủy thác có thể chủ động tạm dừng quan sát và tiếp tục quan sát lại khi muốn. Những diễn biến xảy ra trong thời gian tạm dừng không thể xem lại.
+
+## 21.3. Giới hạn hành vi của người ủy thác
+
+- Người ủy thác không được sử dụng năng lượng linh hồn hoặc bất kỳ phương thức bất thường nào để tác động đến thế giới nhiệm vụ vì mục đích cá nhân.
+- Không được dùng năng lượng hoặc phương thức bất thường để can thiệp vào con người, sự kiện, vật phẩm, môi trường hay diễn biến của thế giới nhiệm vụ.
+- Người ủy thác không có nghĩa vụ trực tiếp hỗ trợ ký chủ; việc không hợp tác hoặc không cung cấp thông tin không tự nó được xem là hành vi phá hoại.
+- Hành vi phá hoại được xem xét khi người ủy thác chủ động sử dụng năng lượng linh hồn hoặc phương thức bất thường để can thiệp trái phép vào diễn biến thực tế của thế giới nhiệm vụ.
+- Việc người ủy thác quan sát, tạm dừng quan sát hoặc không cung cấp thông tin không phải hành vi can thiệp.
+
+## 21.4. Giám sát và xác minh hành vi phá hoại
+
+- Tổng bộ có cơ chế giám sát năng lượng linh hồn trong thế giới nhiệm vụ.
+- Khi phát hiện dấu hiệu bất thường, Tổng bộ kiểm tra nguồn năng lượng và xác minh hành vi.
+- Chỉ kết luận phá hoại khi có căn cứ xác định người ủy thác chủ động sử dụng năng lượng hoặc phương thức bất thường để can thiệp trái phép.
+- Không kết luận phá hoại chỉ dựa trên việc xuất hiện hiện tượng bất thường nếu chưa xác định được nguồn và hành vi.
+- Người ủy thác không được thông báo về việc đang bị giám sát; việc giám sát không cần thông báo cho ký chủ.
+
+## 21.5. Hủy hợp đồng và chế tài phá hoại
+
+Nếu Tổng bộ xác minh người ủy thác có hành vi phá hoại:
+- Hợp đồng và nhiệm vụ bị Tổng bộ hủy.
+- Ký chủ nhận **50% điểm thưởng cơ bản của nhiệm vụ**.
+- EXP của ký chủ được tính theo phần công việc thực tế đã hoàn thành.
+- Người ủy thác bị cưỡng chế tiêu diệt; linh hồn biến mất.
+- Phần năng lượng hợp đồng chưa thanh toán bị Tổng bộ thu hồi.
+- Phần 80% năng lượng đã thanh toán trước đó vẫn thuộc Tổng bộ.
+
+Sau khi hợp đồng được ký và nhiệm vụ hình thành, người ủy thác không thể đơn phương hủy hoặc rút khỏi hợp đồng. Việc Tổng bộ hủy hợp đồng do hành vi phá hoại đã được xác minh là ngoại lệ đã được quy định ở trên.
+
+## 21.6. Phần thưởng tự nguyện của người ủy thác
+
+- Người ủy thác có thể tự nguyện thưởng thêm điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành.
+- Không có mức thưởng cố định; mức thưởng do người ủy thác tự quyết định trong phạm vi năng lượng họ có thể sử dụng.
+- Điểm thưởng được cộng trực tiếp vào tài khoản ký chủ.
+- Năng lượng thưởng được chuyển trực tiếp cho hệ thống đồng hành của ký chủ.
+- Đây là khoản thưởng bổ sung, độc lập với phần thưởng nhiệm vụ và không làm thay đổi kết quả đánh giá nhiệm vụ.
+- Người ủy thác có thể lựa chọn thưởng thêm kể cả khi nhiệm vụ thất bại.
+
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.11**
