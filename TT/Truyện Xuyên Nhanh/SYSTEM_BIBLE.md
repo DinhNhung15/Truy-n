@@ -1066,7 +1066,7 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 
 | Mã | Nội dung cần quyết định |
 |---|---|
-| SYS-004/006 và các mục khác | Những chi tiết chưa được xác định trong phạm vi từng mục; chỉ bổ sung khi tác giả quyết định |
+| SYS-003 | Danh sách tiện ích và chức năng hỗ trợ cụ thể được mở khóa ở từng cấp ký chủ |
 | SYS-009 | Các chi tiết định lượng sâu hơn của giỏ hàng tham chiếu (danh mục mặt hàng cụ thể, trọng số từng mặt hàng và ngưỡng cập nhật) nếu cần triển khai ở mức kỹ thuật |
 | SYS-015 | Giá, nguồn nhận và các giới hạn sử dụng khác của vé quay lại thế giới nhiệm vụ đã hoàn thành, nếu cần quy định cụ thể |
 
