@@ -613,7 +613,6 @@ Vật phẩm giữ mạng có thể:
 
 - Khi một ký chủ thực hiện nhiệm vụ nhưng thất bại, nhiệm vụ không bị xóa hoặc hủy; Tổng bộ đưa nhiệm vụ trở lại kho để tiếp tục phân phối cho ký chủ khác.
 - Quy tắc này áp dụng cho thất bại của một lượt ký chủ, không áp dụng cho trường hợp Tổng bộ hủy nhiệm vụ do hành vi phá hoại của người ủy thác đã được xác minh theo Mục 21.5.
-- Tổng bộ đưa nhiệm vụ trở lại kho để tiếp tục phân phối cho ký chủ khác.
 - Nhiệm vụ có thể được giao cho những ký chủ khác nhau cho đến khi có người hoàn thành.
 - Một nhiệm vụ chỉ có một ký chủ thực hiện tại một thời điểm; không phân phối đồng thời cùng một nhiệm vụ cho nhiều ký chủ.
 
@@ -1137,7 +1136,7 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 94. Khi ký khế ước, 80% năng lượng hợp đồng được chuyển vào kho chung; linh hồn người ủy thác giữ 20% để duy trì sự tồn tại và quan sát. Thế giới nhiệm vụ được xác định ngay tại thời điểm ký.
 95. Phần 20% là nguồn duy nhất để người ủy thác thưởng điểm cho ký chủ; không có khoản thưởng tự nguyện độc lập nằm ngoài 20% này. Người ủy thác có thể phân bổ một phần hoặc toàn bộ 20% để thưởng, kể cả khi một lượt ký chủ thất bại. Phần còn lại được quyết toán theo trạng thái cuối cùng của nhiệm vụ; khi nhiệm vụ hoàn thành, phần chưa dùng chuyển về Tổng bộ và linh hồn người ủy thác tan biến.
 96. Thất bại của một lượt ký chủ không làm chấm dứt nhiệm vụ; nhiệm vụ trở lại kho để tiếp tục phân phối. Nếu phá hoại của người ủy thác được Tổng bộ xác minh, nhiệm vụ bị hủy và áp dụng chế tài tại Mục 21.
-96. Người ủy thác không được sử dụng năng lượng linh hồn hoặc phương thức bất thường để can thiệp vào thế giới nhiệm vụ vì mục đích cá nhân. Nếu Tổng bộ xác minh được hành vi phá hoại, hợp đồng bị hủy và áp dụng chế tài tại Mục 21.
+97. Người ủy thác không được dùng năng lượng linh hồn hoặc phương thức bất thường để can thiệp trái phép vào thế giới nhiệm vụ vì mục đích cá nhân; việc quan sát, im lặng hoặc không cung cấp thông tin tự thân không phải phá hoại.
 
 ---
 
@@ -1340,7 +1339,7 @@ Trong thời gian hệ thống sập:
 
 Mục này ghi nhận các quy tắc đã được tác giả xác nhận về nhiệm vụ tự chọn độc lập, hình thức nhóm, tư cách thành viên, kết quả nhiệm vụ, điểm thưởng, EXP và năng lượng của hệ thống đồng hành.
 
-**Phạm vi áp dụng:** Nhiệm vụ tự chọn độc lập, không gắn với điều kiện phải hoàn thành một nhiệm vụ bắt buộc khác. Nhiệm vụ tự chọn độc lập có thể do một ký chủ thực hiện riêng lẻ hoặc do nhiều ký chủ cùng thực hiện theo hình thức nhóm.
+**Phạm vi áp dụng:** Nhiệm vụ tự chọn độc lập, không gắn với điều kiện phải hoàn thành một nhiệm vụ bắt buộc khác. Mỗi ký chủ vẫn phải có một nhiệm vụ bắt buộc; nhiệm vụ tự chọn độc lập chỉ là nhiệm vụ nhận thêm trong thời gian ký chủ đang thực hiện nhiệm vụ bắt buộc, không thể thay thế nghĩa vụ có nhiệm vụ bắt buộc. Nhiệm vụ tự chọn độc lập có thể do một ký chủ thực hiện riêng lẻ hoặc do nhiều ký chủ cùng thực hiện theo hình thức nhóm.
 
 ## 16.1. Nhiệm vụ tự chọn độc lập – hình thức cá nhân
 
