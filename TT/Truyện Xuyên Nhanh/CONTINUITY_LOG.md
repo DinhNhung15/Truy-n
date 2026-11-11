@@ -1,3 +1,29 @@
+## 2026-11-11 – SYSTEM_BIBLE.md v1.12
+
+**Tài liệu cập nhật:** `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`  
+**Phiên bản:** 1.11 → 1.12  
+**Phạm vi:** Cơ chế năng lượng hợp đồng, linh hồn người ủy thác và ngoại lệ giá vé SYS-015.
+
+### Người ủy thác – phân chia năng lượng và sự tồn tại của linh hồn
+- Chốt người ủy thác không chuyển hóa toàn bộ thành năng lượng sau khi ký hợp đồng; linh hồn vẫn tồn tại trong thế giới nhiệm vụ.
+- 80% tổng năng lượng hợp đồng được chuyển hóa và đưa vào kho năng lượng chung của Tổng bộ ngay sau khi ký.
+- Linh hồn người ủy thác giữ 20% năng lượng hợp đồng để duy trì sự tồn tại và quan sát nhiệm vụ.
+- Khi nhiệm vụ thực sự hoàn thành, người ủy thác tự quyết định dùng bao nhiêu trong 20% năng lượng còn lại để thưởng điểm cho ký chủ; không có mức tối thiểu/tối đa cố định. Phần dư được chuyển hóa về kho chung của Tổng bộ.
+- Thất bại ở một lượt ký chủ không làm nhiệm vụ kết thúc; nhiệm vụ quay lại kho để phân phối tiếp và 20% năng lượng còn lại tiếp tục do linh hồn người ủy thác giữ cho đến khi nhiệm vụ hoàn thành.
+- Nếu Tổng bộ hủy nhiệm vụ do hành vi phá hoại đã xác minh, phần 20% chưa thanh toán bị thu hồi; 80% đã thanh toán trước vẫn thuộc Tổng bộ và linh hồn người ủy thác bị tiêu diệt.
+- Khoản thưởng tự nguyện thêm điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành được xác định là khoản riêng, không lấy từ 20% năng lượng hợp đồng đang giữ để quan sát; có thể trao kể cả khi nhiệm vụ thất bại.
+
+### SYS-015 – Ngoại lệ giá vé
+- Giữ giá 10 tỷ điểm/vé như đã chốt.
+- Làm rõ giá SYS-015 là giá cố định cho mỗi vé, không phân biệt ký chủ mua để tự sử dụng hay chỉ định người khác làm người nhận.
+- Đây là ngoại lệ riêng về giá so với SYS-010; các cơ chế chung khác vẫn kế thừa theo quy định đã ghi.
+
+### Trạng thái
+- Các nội dung trên đã được cập nhật vào SYSTEM_BIBLE.md v1.12 và các quy tắc tổng hợp liên quan.
+- Các nội dung canon khác được giữ nguyên.
+
+---
+
 ## 2026-11-11 – SYSTEM_BIBLE.md v1.11
 
 **Tài liệu cập nhật:** `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`  
