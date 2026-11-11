@@ -1,8 +1,8 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.8  
-**Trạng thái:** Tài liệu nền tảng – SYS-002 (nguyên tắc đánh giá và điều chỉnh cấp), SYS-007, SYS-008 và SYS-012 đã được tác giả xác nhận  
+**Phiên bản:** 1.9  
+**Trạng thái:** Tài liệu nền tảng – SYS-002, SYS-008, SYS-009 (quy tắc kỹ năng/giao dịch), SYS-010 (vé Về Nhà và bảo lưu khi trở về), SYS-012 đã được tác giả xác nhận; SYS-007 còn một phần tiêu chí định lượng cần hoàn thiện  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
 ---
@@ -382,7 +382,26 @@ Ngưỡng có thể được điều chỉnh theo loại nhiệm vụ để ph�
 - Nhiệm vụ có thể thuộc nhiều loại. Hệ thống xác định tỷ trọng tương đối của từng loại theo mục tiêu và bản chất nhiệm vụ, kết hợp các bộ hệ số thành một bộ hệ số chung rồi chuẩn hóa về 100%.
 - Mục tiêu chính quyết định loại nhiệm vụ chủ đạo. Mục tiêu phụ chỉ được tính vào phân loại đa loại nếu ảnh hưởng đáng kể đến độ khó, nguy hiểm, tính cấp bách hoặc phạm vi ảnh hưởng; công việc hỗ trợ thông thường không tự trở thành một loại nhiệm vụ riêng.
 - Nếu mục tiêu chính thay đổi về bản chất do diễn biến khách quan, hệ thống đánh giá lại loại nhiệm vụ và tỷ trọng các loại; Cục Điều Phối phê duyệt. Việc phân loại lại không được làm thay đổi mục tiêu hoặc điều kiện hoàn thành đã ký với người ủy thác.
-- Hệ số cụ thể của từng loại nhiệm vụ được quy định khi hoàn thiện danh mục loại nhiệm vụ; không mặc định một bộ hệ số chung cho mọi loại.
+- Danh mục hiện có 7 loại nhiệm vụ: Điều tra, Sinh tồn, Cứu viện, Bảo vệ, Tranh đấu, Thu thập và Can thiệp.
+- Hệ số được áp dụng theo thứ tự tiêu chí: Độ khó – Mức độ nguy hiểm – Tính cấp bách – Phạm vi ảnh hưởng – Độ phức tạp.
+
+| Loại nhiệm vụ | Độ khó | Nguy hiểm | Cấp bách | Phạm vi ảnh hưởng | Độ phức tạp |
+|---|---:|---:|---:|---:|---:|
+| Điều tra | 1,25 | 0,75 | 0,75 | 1,00 | 1,50 |
+| Sinh tồn | 1,25 | 1,50 | 1,25 | 1,00 | 1,00 |
+| Cứu viện | 1,00 | 1,25 | 1,50 | 1,25 | 1,00 |
+| Bảo vệ | 1,00 | 1,25 | 1,00 | 1,25 | 1,25 |
+| Tranh đấu | 1,25 | 1,25 | 1,00 | 1,00 | 1,25 |
+| Thu thập | 1,00 | 1,00 | 1,00 | 0,75 | 1,25 |
+| Can thiệp | 1,00 | 1,25 | 1,25 | 1,50 | 1,25 |
+
+- Thang hệ số được sử dụng gồm 0,50; 0,75; 1,00; 1,25 và 1,50.
+- Với nhiệm vụ đa loại, hệ thống xác định tỷ trọng từng loại theo mục tiêu và bản chất thực tế của nhiệm vụ; tổng tỷ trọng bằng 100%. Không có một bảng tỷ trọng cố định áp dụng cho mọi nhiệm vụ.
+- Hệ số chung của nhiệm vụ đa loại được tính bằng trung bình có trọng số của các bộ hệ số theo tỷ trọng từng loại, sau đó nhân với trọng số cơ bản và chuẩn hóa để tổng trọng số bằng 100%.
+- Ví dụ minh họa: nhiệm vụ gồm 60% Cứu viện, 25% Bảo vệ và 15% Điều tra thì hệ số chung được tổng hợp theo đúng các tỷ trọng này.
+- Mục tiêu chính quyết định loại nhiệm vụ chủ đạo. Mục tiêu phụ được tính vào phân loại đa loại nếu có ảnh hưởng đáng kể đến độ khó, nguy hiểm, tính cấp bách hoặc phạm vi ảnh hưởng; công việc hỗ trợ thông thường không tự trở thành loại nhiệm vụ độc lập.
+- Nếu mục tiêu chính thay đổi về bản chất do diễn biến khách quan, hệ thống đánh giá lại loại nhiệm vụ và tỷ trọng; Cục Điều Phối phê duyệt. Việc phân loại lại không được thay đổi mục tiêu hoặc điều kiện hoàn thành đã ký với người ủy thác.
+- Các trường hợp nguy hiểm đặc biệt có thể là căn cứ độc lập để nâng cấp, gồm: (1) xuất hiện thực thể/đối tượng có khả năng gây tử vong hàng loạt; (2) nguy cơ phá hủy khu vực rộng lớn hoặc đe dọa sự tồn tại của một cộng đồng; (3) mức nguy hiểm thực tế vượt xa dự báo ban đầu khiến cấp hiện tại không còn phản ánh đúng rủi ro; (4) xuất hiện mối đe dọa chưa phân loại nhưng có dữ liệu đáng tin cậy cho thấy hậu quả tiềm tàng đặc biệt nghiêm trọng. Thông tin chưa xác minh hoặc việc một đối tượng chỉ đơn thuần chưa được phân loại không tự động làm tăng cấp; phải có căn cứ khách quan phù hợp.
 
 #### 5. Dữ liệu và căn cứ đánh giá
 
@@ -617,8 +636,8 @@ Mỗi ký chủ có một tài khoản điểm riêng.
 
 Nguyên tắc:
 - Ai kiếm được điểm thì điểm thuộc tài khoản người đó.
-- Không thể chuyển điểm giữa các ký chủ.
-- Không thể góp điểm.
+- Không được chuyển điểm trực tiếp giữa các ký chủ, tặng điểm, cho vay, góp điểm hoặc gộp tài khoản.
+- Ngoại lệ duy nhất là thanh toán trong giao dịch mua bán chính thức qua chợ của Tổng bộ: hệ thống tự động chuyển điểm từ người mua sang người bán khi giao dịch hoàn tất. Không được chuyển điểm ngoài giao dịch mua bán chính thức.
 - Không thể gộp tài khoản.
 - Không có tài khoản điểm chung của gia đình.
 
@@ -637,7 +656,8 @@ Giá vé:
 - Mua cho người khác: **10 tỷ điểm**.
 
 Quy tắc:
-- Một vé áp dụng cho một người được chỉ định.
+- Một vé áp dụng cho đúng một người được chỉ định và được ràng buộc cố định với người đó; không thể đổi người nhận trong bất kỳ trường hợp nào, kể cả khi người nhận từ chối trở về.
+- Nếu người nhận được chỉ định tử vong trước khi kích hoạt vé, vé mất hiệu lực; người mua không được hoàn điểm và vé không thể chuyển cho người khác.
 - Người được mua vé không cần tự có điểm.
 - Người mua vé cho người khác có thể đưa vé cho người đó tự sử dụng.
 - Người mua không tự động trở về cùng người nhận vé.
@@ -651,10 +671,21 @@ Khi sử dụng vé Về Nhà:
 - Được đưa về thời điểm trước khi tai nạn xảy ra.
 - Thân thể khỏe mạnh, an toàn và lành lặn.
 - Nhận khoản tiền thưởng hợp pháp.
+- Vé đưa ký chủ về thời điểm ngay trước khi tai nạn xảy ra, trong tình trạng thân thể khỏe mạnh, an toàn và lành lặn. Vé không đưa ký chủ trở về ngay tại thời điểm họ kích hoạt vé trong thế giới nhiệm vụ.
 
 Vé không được xem là cơ chế tự động kích hoạt khi ký chủ gặp nguy hiểm.
 
 Nếu ký chủ thất bại trong nhiệm vụ và không đủ điểm chịu phạt, họ vẫn chết ngay ở hiện thực, kể cả khi đang giữ vé nhưng chưa sử dụng.
+
+### Kích hoạt vé trong thế giới nhiệm vụ và thời điểm trở về
+
+- Người nhận vé phải tự mình kích hoạt vé. Việc mua vé hoặc đưa vé vào túi hệ thống không tự động kích hoạt.
+- Vé có thể được kích hoạt tại bất kỳ thời điểm nào trong thế giới nhiệm vụ. Khi kích hoạt, vé chuyển sang trạng thái **chờ trở về**, không đưa ký chủ về hiện thực ngay lập tức.
+- Vé chờ trở về chỉ được xử lý sau khi nhiệm vụ bắt buộc hiện tại của ký chủ có kết quả.
+- Nếu nhiệm vụ bắt buộc hoàn thành: ký chủ lập tức trở về thế giới thực sau khi nhiệm vụ bắt buộc được xác nhận hoàn thành. Không cần hoàn thành các nhiệm vụ tự chọn đang tham gia.
+- Nếu nhiệm vụ bắt buộc thất bại: ký chủ được chuyển đến khu vực chờ để xử lý kết quả và hình phạt. Nếu còn sống sau khi quá trình xử lý hình phạt kết thúc, vé được kích hoạt và ký chủ lập tức trở về thế giới thực.
+- Nếu ký chủ tử vong do hình phạt thất bại hoặc không đủ điểm chịu phạt, vé không thể cứu họ và không được kích hoạt.
+- Vé không làm thay đổi mục tiêu, điều kiện hoàn thành, hình phạt hoặc kết quả của nhiệm vụ bắt buộc đang diễn ra.
 
 ## 7.5. Lựa chọn ở lại thế giới nhiệm vụ
 
@@ -761,6 +792,8 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 - Đơn vị tiền tệ chung dùng để định giá và hạch toán các giao dịch trên chợ là **S**.
 - Giá niêm yết được quy đổi và hiển thị theo S, giúp ký chủ ở các thế giới khác nhau có thể giao dịch bằng một đơn vị thống nhất.
 - Khi đăng bán, người bán được lựa chọn nhận thanh toán bằng **điểm tích lũy** hoặc **tiền thật**.
+- Nếu giao dịch chính thức trên chợ được thanh toán bằng điểm, hệ thống tự động trừ điểm của người mua và chuyển điểm tương ứng cho người bán khi giao dịch hoàn tất.
+- Đây là hình thức thanh toán mua bán được hệ thống cho phép, không phải quyền chuyển điểm tự do. Không tồn tại chức năng tặng điểm, cho vay điểm, góp điểm, gộp điểm hoặc chuyển điểm trực tiếp ngoài giao dịch chính thức.
 - Nếu người bán chọn nhận điểm, hệ thống quy đổi giá trị giao dịch sang điểm để thanh toán vào tài khoản của người bán.
 - Nếu người bán chọn nhận tiền thật, người mua thanh toán bằng loại tiền đang sử dụng tại thế giới của mình; hệ thống tự quy đổi số tiền người mua phải trả từ S sang tiền tệ tương ứng.
 - Đồng thời, hệ thống tự quy đổi khoản tiền người bán được nhận sau khi khấu trừ phí chợ từ S sang loại tiền tệ đang sử dụng tại thế giới của người bán.
@@ -805,7 +838,7 @@ Trao đổi trực tiếp là hình thức các ký chủ gặp nhau và tự th
 
 - Hai ký chủ phải gặp nhau trực tiếp để thực hiện việc trao tay.
 - Không có chức năng tặng hoặc chuyển nhượng vật phẩm độc lập với giao dịch trao tay.
-- Nội dung thỏa thuận do hai bên tự quyết định. Có thể thanh toán bằng điểm, tiền thật, đổi vật phẩm, kết hợp nhiều hình thức hoặc trao tay mà không cần thanh toán, nếu cả hai bên đồng ý.
+- Nội dung thỏa thuận do hai bên tự quyết định. Có thể thanh toán bằng tiền thật, đổi vật phẩm, kết hợp nhiều hình thức hoặc trao tay miễn phí nếu cả hai bên đồng ý. Điểm tích lũy không được dùng làm phương thức thanh toán trong trao đổi trực tiếp; điểm chỉ được chuyển qua giao dịch mua bán chính thức trên chợ do hệ thống ghi nhận.
 - Giao dịch trực tiếp không chịu phí 5% của chợ và không áp dụng thời gian chờ 1 giờ.
 - Vật phẩm chưa qua kiểm định hoặc không đạt kiểm định vẫn có thể được trao đổi trực tiếp; điều kiện kiểm định chỉ là điều kiện để đăng bán trên chợ chính thức.
 - Tổng bộ không kiểm định thay, bảo đảm chất lượng, xác nhận công dụng, phân xử tranh chấp hoặc xử phạt các bên đối với giao dịch trực tiếp. Người mua và người bán tự chịu trách nhiệm về thông tin, thỏa thuận và rủi ro của giao dịch.
@@ -824,6 +857,26 @@ Trao đổi trực tiếp là hình thức các ký chủ gặp nhau và tự th
 - Kỹ năng mua từ hệ thống có định danh và gắn với ký chủ sở hữu.
 - Kỹ năng không thể tặng, chuyển nhượng, trao tay hoặc mua bán giữa các ký chủ, kể cả thông qua chợ.
 - Không được nhầm lẫn một kỹ năng đã được hệ thống ghi nhận trong hồ sơ ký chủ với vật phẩm chứa đựng tri thức để học kỹ năng đó. Ký chủ không thể bán kỹ năng đã sở hữu, nhưng có thể bán bí kíp hoặc tài liệu hướng dẫn do mình có nếu sản phẩm đáp ứng điều kiện giao dịch tương ứng.
+
+### Quy tắc mua, nâng cấp và bảo lưu kỹ năng
+
+- Kỹ năng được mua theo từng cấp độ bằng điểm tích lũy. Điều kiện mở khóa phụ thuộc cấp ký chủ và yêu cầu riêng của từng kỹ năng.
+- Cấp ký chủ là giới hạn cứng: ký chủ không thể mua hoặc nâng cấp vượt quá cấp độ mà cấp ký chủ hiện tại cho phép, kể cả khi có đủ điểm.
+- Mỗi kỹ năng có bảng điều kiện riêng, bao gồm cấp độ tối đa của kỹ năng, cấp ký chủ tối thiểu cho từng lần nâng cấp, điều kiện bổ sung (nếu có) và giá điểm. Không có một bảng cấp ký chủ–cấp kỹ năng chung áp dụng cho tất cả kỹ năng. Mỗi kỹ năng có thể có giới hạn cấp tối đa khác nhau.
+- Kỹ năng có thể được mua theo dạng **dùng trong một nhiệm vụ** hoặc **sở hữu vĩnh viễn**.
+- Kỹ năng dùng trong một nhiệm vụ có hiệu lực trong đúng nhiệm vụ đó, được sử dụng không giới hạn số lần trong thời gian hiệu lực nếu mô tả kỹ năng không quy định giới hạn riêng; kỹ năng hết hiệu lực khi nhiệm vụ kết thúc, kể cả khi nhiệm vụ thất bại.
+- Kỹ năng sở hữu vĩnh viễn được giữ lại qua các nhiệm vụ. Nếu ký chủ thất bại nhưng còn sống, kỹ năng vĩnh viễn đã mua vẫn thuộc sở hữu của ký chủ.
+- Kỹ năng chủ động có thể có thời gian hồi chiêu. Kỹ năng bị động thường không có hồi chiêu nhưng có thể có giới hạn kích hoạt, thời gian duy trì hoặc điều kiện riêng. Mỗi kỹ năng phải hiển thị rõ cơ chế và giới hạn của nó.
+- Ký chủ có thể nâng cấp kỹ năng vĩnh viễn đã sở hữu ngay trong nhiệm vụ nếu đủ điểm, đáp ứng cấp ký chủ tối thiểu và tất cả điều kiện riêng của kỹ năng.
+- Quyền nâng cấp kỹ năng vĩnh viễn đã sở hữu không phụ thuộc việc kỹ năng đó có xuất hiện trong danh sách kỹ năng ngẫu nhiên của nhiệm vụ hiện tại hay không. Danh sách ngẫu nhiên chỉ giới hạn việc mua kỹ năng mới trong nhiệm vụ, không giới hạn nâng cấp kỹ năng vĩnh viễn đã sở hữu.
+- Kỹ năng hoặc cấp độ kỹ năng đã sở hữu không thể mua trùng lần thứ hai; muốn tăng cấp phải thực hiện đúng cơ chế nâng cấp. Không hoàn điểm hoặc hoàn kỹ năng sau khi mua.
+- Các nhánh kỹ năng được xét độc lập. Một nhánh có thể yêu cầu kỹ năng nền; nếu có, chỉ cần sở hữu kỹ năng nền, không mặc định phải đạt cấp tối thiểu trừ khi mô tả nhánh quy định khác.
+- Nếu kỹ năng nền bị phong ấn hoặc vô hiệu hóa, tác dụng của kỹ năng nhánh phụ thuộc cơ chế riêng của từng kỹ năng; không áp dụng một quy tắc chung.
+- Khi ở ngoài nhiệm vụ, ký chủ có thể xem và mua các kỹ năng đủ điều kiện. Khi vào nhiệm vụ, hệ thống tạo một danh sách kỹ năng ngẫu nhiên riêng cho ký chủ tại thời điểm bắt đầu nhiệm vụ; danh sách này cố định trong toàn bộ nhiệm vụ, không thể làm mới bằng điểm. Sang nhiệm vụ mới, danh sách được tạo lại.
+- Ký chủ có thể mua nhiều kỹ năng trong cùng một nhiệm vụ nếu đủ điều kiện và đủ điểm; không đặt giới hạn số lượng chung.
+- Kỹ năng vĩnh viễn đã sở hữu vẫn có thể sử dụng trong nhiệm vụ dù không xuất hiện trong danh sách ngẫu nhiên hiện tại.
+- Khi ký chủ tử vong, kỹ năng vĩnh viễn đã mua mất theo ký chủ; không thể chuyển nhượng, thừa kế hoặc hoàn điểm.
+- Sau khi trở về thế giới thực, chỉ kỹ năng tương thích với quy luật thế giới gốc mới có thể tiếp tục sử dụng. Năng lực siêu nhiên không tương thích không thể sử dụng tại thế giới thực.
 
 
 | Tiêu chí | Cửa hàng hệ thống | Chợ người chơi |
@@ -868,6 +921,16 @@ Ví dụ:
 ## 10.4. Quyền hạn
 
 Quyền hạn hệ thống không được bảo lưu khi trở về thế giới thực.
+
+## 10.5. Ký ức và dấu ấn sau khi trở về
+
+- Quy tắc này áp dụng cho tất cả ký chủ trở về thế giới thực bằng vé Về Nhà.
+- Ký chủ vẫn giữ ký ức về hành trình xuyên thế giới, nhưng ký ức trở nên mơ hồ như những giấc mơ. Họ có thể nhớ mang máng sự kiện, con người và cảm xúc, nhưng không nhớ rõ trình tự, tên tuổi, lời thoại hoặc chi tiết cụ thể.
+- Khi gặp lại người từng quen trong thế giới nhiệm vụ, ký chủ có thể cảm thấy người đó quen thuộc, thân thuộc hoặc nảy sinh cảm xúc khó giải thích. Mức độ cảm giác này phụ thuộc vào mức độ cảm xúc và gắn kết từng có; quan hệ càng sâu đậm, dấu ấn cảm xúc càng dễ lưu lại. Không bảo đảm họ sẽ lập tức nhận ra nhau.
+- Ký chủ giữ lại những thay đổi về tính cách, tư duy, thói quen, phản xạ và kỹ năng đã hình thành trong hành trình.
+- Kiến thức và kỹ năng tương thích với thế giới thực vẫn có thể được vận dụng. Ký chủ có thể biết, hiểu và làm được dù không nhớ mình đã học hoặc trải qua điều gì để có được năng lực đó.
+- Năng lực siêu nhiên không tương thích với quy luật thế giới thực không thể sử dụng sau khi trở về.
+- Ký ức mơ hồ không đồng nghĩa với việc những thay đổi về năng lực, thói quen hoặc tính cách bị xóa bỏ.
 
 ---
 
@@ -970,6 +1033,16 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 77. Khi nhiều vật phẩm cùng có khả năng kích hoạt trước một nguy hiểm, chỉ vật phẩm phù hợp nhất được kích hoạt; các vật phẩm còn lại không kích hoạt và không bị tiêu hao.
 78. Hiệu ứng của nhiều vật phẩm có thể bổ trợ nhau tùy hoàn cảnh và cơ chế riêng; không áp dụng một thứ tự xử lý cố định cho mọi vật phẩm.
 79. Nếu vật phẩm cứu ký chủ thành công, ký chủ được tiếp tục nhiệm vụ; việc được cứu, hồi sinh hoặc tạm thời mất khả năng hành động không tự động khiến nhiệm vụ thất bại. Quy tắc chi tiết tại Mục 17 – SYS-008.
+80. Điểm chỉ được chuyển từ ký chủ này sang ký chủ khác như khoản thanh toán trong giao dịch mua bán chính thức trên chợ; hệ thống tự động chuyển điểm khi giao dịch hoàn tất. Không tặng, cho vay, góp, gộp hoặc chuyển điểm trực tiếp ngoài giao dịch chính thức.
+81. Trao đổi trực tiếp giữa ký chủ không được sử dụng điểm làm phương thức thanh toán; chỉ có thể dùng tiền thật, vật phẩm, hình thức kết hợp hoặc trao tay miễn phí theo thỏa thuận.
+82. Mỗi kỹ năng có cấp tối đa, điều kiện nâng cấp, cấp ký chủ tối thiểu và giá riêng; không có bảng cấp kỹ năng chung. Cấp ký chủ là giới hạn cứng đối với việc mua và nâng cấp kỹ năng.
+83. Danh sách kỹ năng ngẫu nhiên trong mỗi nhiệm vụ được tạo một lần khi nhiệm vụ bắt đầu và cố định đến khi kết thúc; không thể làm mới bằng điểm. Danh sách này không hạn chế việc nâng cấp kỹ năng vĩnh viễn đã sở hữu.
+84. Kỹ năng dùng trong một nhiệm vụ hết hiệu lực khi nhiệm vụ kết thúc; kỹ năng vĩnh viễn được giữ nếu ký chủ sống sót sau thất bại, nhưng mất khi ký chủ tử vong.
+85. Vé Về Nhà gắn cố định với người nhận được chỉ định; không thể đổi người nhận. Nếu người nhận tử vong trước khi kích hoạt, vé mất hiệu lực, không hoàn điểm và không thể chuyển cho người khác.
+86. Khi kích hoạt vé trong thế giới nhiệm vụ, vé chuyển sang trạng thái chờ trở về. Ký chủ chỉ trở về sau khi nhiệm vụ bắt buộc hiện tại được giải quyết; nhiệm vụ tự chọn không cần hoàn thành. Nếu nhiệm vụ bắt buộc thất bại, ký chủ chỉ trở về sau khi xử lý hình phạt và còn sống; vé không cứu người tử vong do hình phạt.
+87. Ký chủ trở về thời điểm ngay trước tai nạn, với thân thể khỏe mạnh, an toàn và lành lặn, kèm khoản tiền thưởng hợp pháp.
+88. Tất cả ký chủ trở về bằng vé giữ ký ức hành trình dưới dạng mơ hồ như giấc mơ. Khi gặp lại người từng quen, họ có thể thấy thân thuộc tùy mức độ cảm xúc và gắn kết, không nhất thiết nhận ra ngay.
+89. Ký chủ giữ lại những thay đổi về tính cách, tư duy, thói quen, phản xạ và kiến thức/kỹ năng tương thích với thế giới thực; họ có thể biết và làm được mà không nhớ rõ nguồn gốc. Năng lực siêu nhiên không tương thích với thế giới thực không thể sử dụng.
 
 ---
 
@@ -980,11 +1053,9 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 | Mã | Nội dung cần quyết định |
 |---|---|
 | SYS-001 | Nguồn gốc và lịch sử hình thành Tổng bộ |
-| SYS-002 | Tiêu chuẩn chi tiết để phân loại nhiệm vụ vào 8 cấp F–SS |
 | SYS-003 | Danh sách quyền hạn được mở khóa theo cấp ký chủ |
 | SYS-007 | Tiêu chí định lượng chi tiết để xác định chi phí cụ thể trong từng khoảng can thiệp và các trường hợp đặc biệt chưa được quy định |
-| SYS-009 | Công thức và tiêu chí chi tiết để hệ thống xác định tỷ giá quy đổi sang S |
-| SYS-010 | Cơ chế lựa chọn và kích hoạt vé Về Nhà |
+| SYS-009 | Công thức định lượng chi tiết để quy đổi sức mua theo giỏ hàng tham chiếu thành tỷ giá S; phương pháp lấy giỏ hàng và cách cập nhật giá trị cụ thể |
 | SYS-011 | Quy tắc thời gian giữa thế giới thực và thế giới nhiệm vụ |
 | SYS-013 | Cơ chế vận hành khi hệ thống con mất ký chủ hoặc bị hủy |
 | SYS-014 | Cơ chế quản lý và phân phối năng lượng trong Tổng bộ |
@@ -1538,4 +1609,4 @@ Mục này quy định các nguyên tắc chung về vật phẩm giữ mạng. 
 10. Được cứu, hồi sinh hoặc tạm thời mất khả năng hành động không tự động đồng nghĩa với nhiệm vụ thất bại.
 11. Nếu không có vật phẩm phù hợp hoặc vật phẩm không thể kích hoạt trước nguy hiểm, ký chủ vẫn có thể tử vong và chịu quy tắc thất bại thông thường.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.8**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.9**
