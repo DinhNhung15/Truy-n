@@ -968,7 +968,7 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 13. Năng lượng thưởng của hệ thống con từ nhiệm vụ chính và nhiệm vụ phụ chỉ được quyết toán khi nhiệm vụ bắt buộc đóng thành công.
 14. Nếu nhiệm vụ bắt buộc thất bại, năng lượng thưởng đang chờ quyết toán từ các nhiệm vụ phụ bị hủy.
 15. Ký chủ vẫn giữ điểm và EXP của nhiệm vụ phụ đã hoàn thành dù nhiệm vụ chính thất bại.
-16. Mỗi người có tài khoản điểm riêng, không thể chuyển, góp hoặc gộp điểm.
+16. Mỗi người có tài khoản điểm riêng; không được tặng, cho vay, góp, gộp hoặc chuyển điểm trực tiếp. Điểm chỉ được chuyển từ người mua sang người bán như khoản thanh toán trong giao dịch mua bán chính thức trên chợ do hệ thống ghi nhận.
 17. Vé Về Nhà cá nhân giá 1 tỷ điểm; mua cho người khác giá 10 tỷ điểm.
 18. Vé mua cho người khác phải được người nhận tự sử dụng.
 19. Mua vé không đồng nghĩa kích hoạt vé.
