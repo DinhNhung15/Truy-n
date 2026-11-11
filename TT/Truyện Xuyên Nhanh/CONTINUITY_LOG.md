@@ -231,3 +231,34 @@
 - Khi nhiệm vụ hoàn thành, linh hồn tan biến theo quy tắc đã chốt. Nếu nhiệm vụ bị hủy do phá hoại đã xác minh, áp dụng chế tài tại Mục 21.5.
 - Điểm chưa chốt trước đó về trạng thái linh hồn khi 20% đã dùng hết được đóng lại.
 - Đã đồng bộ Mục 21.1 và 21.2 trong `SYSTEM_BIBLE.md`; không thay đổi tỷ lệ 80%/20% hoặc cơ chế thưởng.
+
+
+## 2026-11-11 – Tổ chức hồ sơ thế giới nhiệm vụ
+
+**Tài liệu mới:**
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_INDEX.md`
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_001.md`
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_002.md`
+
+### Quy tắc đánh số
+- Mỗi thế giới có mã hồ sơ riêng `WORLD_XXX`; số mã là thứ tự hồ sơ trong dự án.
+- Số nhiệm vụ của vợ, chồng và con được tính độc lập; không suy ra số nhiệm vụ của người này từ người khác.
+- Thời điểm bắt đầu và tổng thời lượng trải qua nhiệm vụ của từng thành viên có thể khác nhau.
+- Giữ quy tắc SYSTEM_BIBLE về thời gian tại Tổng bộ và thế giới nhiệm vụ đồng bộ 1:1; không diễn giải thành yêu cầu mọi thành viên phải bắt đầu cùng lúc hoặc trải qua cùng thời lượng.
+
+### WORLD_001
+- Ghi nhận đây là nhiệm vụ thứ nhất của người vợ.
+- Chưa có đủ dữ kiện về bối cảnh, thân phận, nhiệm vụ và diễn biến; tạo hồ sơ khung chờ tác giả bổ sung.
+- Không tự bịa nội dung để lấp chỗ trống.
+
+### WORLD_002 – Kinh Thành Dưới Màn Mưa
+- Ghi nhận đây là nhiệm vụ thứ hai của người vợ và nhiệm vụ thứ tám của người chồng; hành trình của con độc lập.
+- Đây là thế giới đoàn tụ đầu tiên của vợ chồng; chồng nhận ra vợ trước, vợ ban đầu chưa nhận ra chồng.
+- Sau khi xác nhận riêng tư, hai người chủ động giả vờ bất hòa trước mặt người ngoài.
+- Tách hai tuyến nhiệm vụ điều tra quân lương và cái chết của Trần Bá; mỗi người phải có kết quả điều tra riêng.
+- Lưu bối cảnh, phương án thân phận, cơ chế thất thoát, nhân vật, chứng cứ, timeline, khung 16 chương và nguyên tắc nhất quán trong hồ sơ WORLD_002.
+- Tên riêng, số liệu, ngày tháng và một số chi tiết trong hồ sơ được đánh dấu là phương án làm việc/chờ xác nhận, không tự động nâng thành canon.
+
+### Trạng thái
+- Đã tạo mục lục và hai hồ sơ thế giới riêng trên nhánh `main`.
+- Không thay đổi SYSTEM_BIBLE hoặc CHARACTER_BIBLE trong lần cập nhật này.
