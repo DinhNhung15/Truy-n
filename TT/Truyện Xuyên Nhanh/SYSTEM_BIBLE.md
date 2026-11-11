@@ -1,8 +1,8 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.9  
-**Trạng thái:** Tài liệu nền tảng – SYS-002, SYS-008, SYS-009 (quy tắc kỹ năng/giao dịch), SYS-010 (vé Về Nhà và bảo lưu khi trở về), SYS-012 đã được tác giả xác nhận; SYS-007 còn một phần tiêu chí định lượng cần hoàn thiện  
+**Phiên bản:** 1.10  
+**Trạng thái:** Tài liệu nền tảng – SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014 và SYS-015 đã được tác giả xác nhận; một số chi tiết vận hành khác vẫn đang chờ quyết định  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
 ---
@@ -14,6 +14,8 @@
 Hệ thống không phải một thực thể đơn lẻ mà là một tổ chức có cơ cấu quản lý, các bộ phận chuyên trách và những hệ thống con hoạt động độc lập trong khuôn khổ quy định chung.
 
 Tổ chức này được gọi là **Tổng bộ Nguyện Vọng**.
+
+Tổng bộ Nguyện Vọng đã tồn tại từ rất lâu và hình thành một cách tự nhiên từ năng lượng ước nguyện. Tổ chức không do cá nhân hay thực thể nào sáng lập. Tổng bộ chỉ được xác định là một tổ chức có cơ cấu, quy tắc và các đơn vị vận hành; không cần xây dựng thêm ý thức tập thể, nhân cách riêng hoặc lịch sử nguồn gốc sâu hơn.
 
 Mục đích hoạt động:
 - Tiếp nhận những mong cầu, tiếc nuối và oán niệm của con người.
@@ -44,6 +46,8 @@ Tổng bộ có hai nguồn năng lượng quan trọng:
 - Việc hủy năng lượng chờ quyết toán không làm mất điểm và EXP nhiệm vụ phụ mà ký chủ đã nhận hợp lệ.
 
 Hai nguồn năng lượng này độc lập với điểm tích lũy và EXP của ký chủ.
+
+Tổng bộ sử dụng **một kho năng lượng chung**. Năng lượng được tập trung vào kho chung và phân phối từ đó cho các đơn vị trực thuộc theo nhu cầu vận hành. Các đơn vị không có kho nguồn năng lượng độc lập tách khỏi cơ chế phân phối chung.
 
 ---
 
@@ -744,14 +748,19 @@ Quy tắc:
 
 ## 8.4. Quyền hạn
 
-Khi đạt cấp kinh nghiệm nhất định, ký chủ có thể mở khóa quyền hạn.
+Quyền hạn của ký chủ được chia thành hai nhóm:
 
-Quyền hạn:
-- Phụ thuộc cấp bậc.
-- Không phải phần thưởng có thể tự do mua bán.
-- Không được bảo lưu khi ký chủ trở về thế giới thực.
+**Quyền hạn mặc định**
+- Áp dụng cho mọi ký chủ, không phụ thuộc cấp bậc.
+- Bao gồm các chức năng cơ bản cần thiết để tham gia và thực hiện nhiệm vụ theo quy định của Tổng bộ.
 
-Danh sách quyền hạn cụ thể theo từng cấp chưa được chốt.
+**Quyền hạn mở khóa theo cấp**
+- Được mở dần khi ký chủ đạt cấp bậc tương ứng.
+- Chỉ bao gồm tiện ích và chức năng hỗ trợ ký chủ trong quá trình thực hiện nhiệm vụ.
+- Không bao gồm quyền quản lý, điều hành, khiếu nại hoặc can thiệp vào hoạt động nội bộ của Tổng bộ.
+- Cấp bậc ký chủ không đồng nghĩa với quyền lực hành chính trong Tổng bộ.
+
+Danh sách tiện ích và chức năng hỗ trợ cụ thể theo từng cấp chưa được chốt.
 
 ---
 
@@ -800,6 +809,11 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 - Người mua không cần tự đổi tiền hoặc sở hữu loại tiền tệ của thế giới người bán. Người bán cũng không cần lựa chọn hay yêu cầu một loại tiền tệ cụ thể.
 - Tỷ giá áp dụng được hệ thống xác định tại thời điểm giao dịch được ghi nhận. Khi giao dịch hoàn tất, tỷ giá và số tiền thanh toán của hai bên được khóa, không điều chỉnh hồi tố.
 - Tỷ giá do hệ thống tự xác định căn cứ vào giá trị trao đổi và sức mua thực tế của tiền tệ tại từng thế giới; không căn cứ đơn thuần vào mệnh giá danh nghĩa.
+- Tổng bộ xây dựng một giỏ hàng tham chiếu gồm các nhu yếu phẩm, dịch vụ phổ biến và chi phí sinh hoạt cơ bản.
+- Hệ thống thu thập giá của giỏ hàng tham chiếu tại từng thế giới, so sánh tổng chi phí để xác định tỷ giá theo sức mua thực tế.
+- Giá trị giỏ hàng được cập nhật định kỳ hoặc khi có biến động sức mua đáng kể.
+- Tỷ giá được khóa tại thời điểm giao dịch được ghi nhận; biến động sau đó không làm thay đổi giao dịch đã hoàn tất.
+- Không áp dụng một công thức quy đổi cố định dựa trên mệnh giá danh nghĩa; việc quy đổi căn cứ dữ liệu giá và sức mua của giỏ hàng tham chiếu.
 - Không thu thêm phí quy đổi tiền tệ ngoài phí chợ 5% đã quy định.
 
 ### Đặt mua, chỉnh sửa và hủy tin đăng
@@ -1052,14 +1066,9 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 
 | Mã | Nội dung cần quyết định |
 |---|---|
-| SYS-001 | Nguồn gốc và lịch sử hình thành Tổng bộ |
-| SYS-003 | Danh sách quyền hạn được mở khóa theo cấp ký chủ |
-| SYS-007 | Tiêu chí định lượng chi tiết để xác định chi phí cụ thể trong từng khoảng can thiệp và các trường hợp đặc biệt chưa được quy định |
-| SYS-009 | Công thức định lượng chi tiết để quy đổi sức mua theo giỏ hàng tham chiếu thành tỷ giá S; phương pháp lấy giỏ hàng và cách cập nhật giá trị cụ thể |
-| SYS-011 | Quy tắc thời gian giữa thế giới thực và thế giới nhiệm vụ |
-| SYS-013 | Cơ chế vận hành khi hệ thống con mất ký chủ hoặc bị hủy |
-| SYS-014 | Cơ chế quản lý và phân phối năng lượng trong Tổng bộ |
-| SYS-015 | Cơ chế, điều kiện và cách sử dụng vé thưởng để quay lại nhiệm vụ đã hoàn thành |
+| SYS-004/006 và các mục khác | Những chi tiết chưa được xác định trong phạm vi từng mục; chỉ bổ sung khi tác giả quyết định |
+| SYS-009 | Các chi tiết định lượng sâu hơn của giỏ hàng tham chiếu (danh mục mặt hàng cụ thể, trọng số từng mặt hàng và ngưỡng cập nhật) nếu cần triển khai ở mức kỹ thuật |
+| SYS-015 | Giá, nguồn nhận và các giới hạn sử dụng khác của vé quay lại thế giới nhiệm vụ đã hoàn thành, nếu cần quy định cụ thể |
 
 ---
 
@@ -1171,7 +1180,9 @@ Phí can thiệp được xác định theo mức độ và quy mô công việc
 | Cao | Tác động trực tiếp để hỗ trợ ký chủ | 10–20% |
 | Đặc biệt | Can thiệp quy mô lớn hoặc cứu nguy nghiêm trọng | 20–40% |
 
-- Chi phí cụ thể trong từng khoảng phụ thuộc độ phức tạp, thời gian và phạm vi can thiệp.
+- Chi phí cụ thể trong từng khoảng được hệ thống tự đánh giá dựa trên ba yếu tố: độ phức tạp, thời gian thực hiện và phạm vi tác động của can thiệp.
+- Hệ thống lựa chọn một tỷ lệ cụ thể trong khoảng phí tương ứng theo đánh giá tổng thể; không áp dụng công thức tính cứng dùng chung cho mọi trường hợp.
+- Mỗi lần can thiệp phải ghi nhận căn cứ lựa chọn tỷ lệ để bảo đảm có thể kiểm tra và tránh việc tính phí tùy tiện.
 - Tỷ lệ phần trăm được tính trên **dung lượng năng lượng cơ bản của hệ thống tại cấp hiện tại**, không tính trên lượng năng lượng đang có tại thời điểm can thiệp.
 - Ví dụ: hệ thống cấp C có dung lượng cơ bản 800 NL; can thiệp nhẹ tiêu tốn 8–24 NL, trung bình 40–80 NL, cao 80–160 NL và đặc biệt 160–320 NL.
 - Nếu năng lượng hiện có thấp hơn chi phí thông thường của mức can thiệp, hệ thống vẫn có thể quyết định sử dụng toàn bộ năng lượng còn lại. Nếu năng lượng về 0, hệ thống sập.
@@ -1609,4 +1620,70 @@ Mục này quy định các nguyên tắc chung về vật phẩm giữ mạng. 
 10. Được cứu, hồi sinh hoặc tạm thời mất khả năng hành động không tự động đồng nghĩa với nhiệm vụ thất bại.
 11. Nếu không có vật phẩm phù hợp hoặc vật phẩm không thể kích hoạt trước nguy hiểm, ký chủ vẫn có thể tử vong và chịu quy tắc thất bại thông thường.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.9**
+
+
+---
+
+# 18. SYS-013 – MẤT KÝ CHỦ HOẶC HỆ THỐNG BỊ PHÁ HỦY
+
+## 18.1. Ký chủ tử vong
+
+- Khi ký chủ tử vong, hệ thống đồng hành mất liên kết với ký chủ đó.
+- Hệ thống có thể trở về Tổng bộ Nguyện Vọng.
+- Sau khi trở về, hệ thống chờ được phân công và tiếp tục tìm kiếm ký chủ mới để đồng hành, thực hiện nhiệm vụ.
+
+## 18.2. Hệ thống bị phá hủy trong thế giới nhiệm vụ
+
+- Khi hệ thống đồng hành bị phá hủy, hệ thống không thể tiếp tục hoạt động.
+- Nếu ký chủ vẫn còn sống, ký chủ tiếp tục thực hiện nhiệm vụ bình thường; nhiệm vụ không bị tạm dừng vì hệ thống bị phá hủy.
+- Tổng bộ phân công một hệ thống đồng hành mới cho ký chủ để tiếp tục hỗ trợ và đồng hành trong nhiệm vụ.
+- Hệ thống cũ có thể được khôi phục từ dữ liệu sao lưu nếu ký chủ đã liên kết với hệ thống đó sử dụng điểm để đổi quyền khôi phục.
+- Chi phí khôi phục bằng giá vé Về Nhà dành cho chính ký chủ tại thời điểm áp dụng; theo mức giá hiện tại là **1 tỷ điểm**.
+- Chỉ ký chủ từng liên kết với hệ thống bị phá hủy mới có quyền đổi điểm để khôi phục hệ thống đó.
+- Nếu ký chủ không đổi điểm để khôi phục, hệ thống cũ biến mất vĩnh viễn.
+- Dữ liệu sao lưu bao gồm ký ức và tình cảm của hệ thống.
+- Mức độ khôi phục ký ức, tình cảm và dữ liệu cá nhân của hệ thống phụ thuộc vào mức độ lưu trữ trước khi bị phá hủy; không bảo đảm khôi phục đầy đủ nếu dữ liệu sao lưu không đầy đủ.
+
+---
+
+# 19. SYS-014 – KHO NĂNG LƯỢNG CHUNG CỦA TỔNG BỘ
+
+- Tổng bộ Nguyện Vọng sử dụng một kho năng lượng chung.
+- Năng lượng được tập trung vào kho chung và phân phối từ đó cho các đơn vị trực thuộc.
+- Các đơn vị nhận năng lượng từ kho chung để phục vụ hoạt động và chức năng được giao.
+- Không tổ chức các nguồn năng lượng độc lập, tách rời khỏi kho chung cho từng đơn vị.
+
+Phạm vi phân bổ, định mức, thứ tự ưu tiên và quy trình phê duyệt cấp năng lượng chưa được quy định chi tiết.
+
+---
+
+# 20. SYS-015 – VÉ QUAY LẠI THẾ GIỚI NHIỆM VỤ ĐÃ HOÀN THÀNH
+
+## 20.1. Thời điểm quay lại
+
+- Ký chủ có thể sử dụng vé để quay lại một thế giới nhiệm vụ đã hoàn thành.
+- Thời điểm quay lại do ký chủ tự lựa chọn; không bắt buộc phải quay lại đúng thời điểm rời khỏi thế giới đó.
+
+## 20.2. Lựa chọn thân phận
+
+Ký chủ có thể lựa chọn một trong hai hình thức:
+
+**Thân phận cũ**
+- Trở lại đúng nhân vật mà ký chủ từng nhập vai trong lần thực hiện nhiệm vụ trước.
+- Giữ toàn bộ ký ức, trải nghiệm và các mối quan hệ đã hình thành trong lần thực hiện nhiệm vụ đó.
+- Tiếp tục cuộc đời của nhân vật theo trạng thái và quan hệ đã có.
+
+**Thân phận mới**
+- Có một thân phận hoàn toàn mới, không phải nhân vật mà ký chủ từng nhập vai trước đó.
+- Thân phận mới tồn tại hợp pháp trong thế giới được quay lại.
+- Ký chủ là một người mới hoàn toàn, không kế thừa thân phận và cuộc đời của nhân vật cũ.
+
+## 20.3. Quyền ở lại
+
+- Sau khi quay lại, ký chủ có thể tiếp tục sinh sống và ở lại thế giới đó nếu muốn.
+- Không bắt buộc phải lập tức rời đi hoặc quay về Tổng bộ.
+
+Các điều kiện khác như giá vé, nguồn nhận vé, giới hạn số lần sử dụng và những giới hạn can thiệp vào diễn biến thế giới chưa được quy định tại mục này.
+
+
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.10**
