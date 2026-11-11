@@ -1,9 +1,9 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.5  
-**Trạng thái:** Tài liệu nền tảng – đang hoàn thiện; các quy tắc SYS-007 về hệ thống ký sinh, năng lượng, can thiệp, sập và khôi phục đã được tác giả xác nhận  
-**Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, tài nguyên, cửa hàng, chợ giao dịch, phần thưởng và quy tắc trở về.
+**Phiên bản:** 1.6  
+**Trạng thái:** Tài liệu nền tảng – SYS-007 và SYS-012 đã được tác giả xác nhận  
+**Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, phần thưởng và quy tắc trở về.
 
 ---
 
@@ -37,10 +37,11 @@ Tổng bộ có hai nguồn năng lượng quan trọng:
 **Nguồn năng lượng thưởng**
 - Được Tổng bộ cấp cho hệ thống con sau khi hệ thống và ký chủ hoàn thành nhiệm vụ.
 - Mức thưởng căn cứ vào cấp bậc nhiệm vụ.
-- Năng lượng thưởng của nhiệm vụ chính và nhiệm vụ phụ được ghi nhận riêng.
-- Năng lượng thưởng nhiệm vụ chính và năng lượng nhiệm vụ phụ đang chờ quyết toán chỉ được trả cho hệ thống con khi nhiệm vụ bắt buộc được hoàn thành và đóng thành công.
+- Năng lượng thưởng của nhiệm vụ chính và nhiệm vụ phụ gắn với nhiệm vụ chính được ghi nhận riêng.
+- Đối với nhiệm vụ phụ gắn với một nhiệm vụ bắt buộc, năng lượng thưởng chỉ được quyết toán cho hệ thống con khi nhiệm vụ bắt buộc hoàn thành và đóng thành công.
 - Nếu nhiệm vụ bắt buộc thất bại, hệ thống con không nhận năng lượng thưởng nhiệm vụ chính; toàn bộ năng lượng nhiệm vụ phụ đang chờ quyết toán bị hủy.
-- Quy tắc hủy năng lượng chờ quyết toán chỉ áp dụng cho tài khoản năng lượng của hệ thống con, không làm mất điểm và EXP nhiệm vụ phụ mà ký chủ đã nhận hợp lệ.
+- Quy tắc chờ và hủy năng lượng trên chỉ áp dụng cho nhiệm vụ phụ gắn với nhiệm vụ bắt buộc. Nhiệm vụ tự chọn độc lập được quyết toán riêng theo kết quả của chính nhiệm vụ đó.
+- Việc hủy năng lượng chờ quyết toán không làm mất điểm và EXP nhiệm vụ phụ mà ký chủ đã nhận hợp lệ.
 
 Hai nguồn năng lượng này độc lập với điểm tích lũy và EXP của ký chủ.
 
@@ -274,8 +275,10 @@ Có hai loại nhiệm vụ:
 
 **Nhiệm vụ tự chọn**
 - Ký chủ có quyền lựa chọn tham gia hoặc không.
-- Không lựa chọn thì không bị phạt.
-- Nếu đã lựa chọn và thất bại thì chịu mức phạt bằng 50% điểm thưởng của nhiệm vụ.
+- Không lựa chọn thì không bị phạt và không nhận điểm hoặc EXP từ nhiệm vụ đó.
+- Nhiệm vụ tự chọn có thể là nhiệm vụ độc lập hoặc nhiệm vụ phụ gắn với một nhiệm vụ bắt buộc; hai loại này có quy tắc quyết toán năng lượng khác nhau.
+- Nhiệm vụ tự chọn độc lập có thể được tổ chức cho một ký chủ hoặc nhiều ký chủ cùng thực hiện theo hình thức nhóm.
+- Nếu đã nhận nhiệm vụ tự chọn nhưng thất bại, ký chủ chịu mức phạt bằng 50% điểm thưởng cơ bản, theo các ngoại lệ về EXP và tư cách thành viên được quy định tại Mục 16.
 
 ## 5.2. Theo cấp bậc
 
@@ -305,8 +308,9 @@ Tiêu chuẩn chi tiết để xếp một nhiệm vụ vào từng cấp sẽ �
 | SS | 800.000 | 1.280 |
 
 - Bảng trên là mức thưởng cơ bản khi hoàn thành nhiệm vụ tương ứng.
-- Nhiệm vụ phụ/tự chọn được tính điểm và EXP theo cấp nhiệm vụ của chính nhiệm vụ đó.
-- Ký chủ chỉ nhận điểm và EXP của nhiệm vụ đã hoàn thành theo quy tắc quyết toán tại Mục 6.
+- Nhiệm vụ tự chọn độc lập được quyết toán theo cấp nhiệm vụ của chính nó. Khi hoàn thành, ký chủ đủ điều kiện nhận toàn bộ điểm và EXP cơ bản ngay; không phải chờ nhiệm vụ bắt buộc khác.
+- Với nhiệm vụ tự chọn độc lập theo nhóm, điểm và EXP của từng thành viên được quyết toán theo tư cách thành viên và trạng thái thực tế tại thời điểm nhiệm vụ kết thúc, theo Mục 16.
+- Nhiệm vụ phụ gắn với nhiệm vụ bắt buộc vẫn áp dụng quy tắc quyết toán tại Mục 6.3.
 - Điểm và EXP là hai tài nguyên riêng biệt, không quy đổi cho nhau.
 
 ### Bảng năng lượng thưởng cho hệ thống con
@@ -324,7 +328,7 @@ Tiêu chuẩn chi tiết để xếp một nhiệm vụ vào từng cấp sẽ �
 | S | 3.000 NL |
 | SS | 8.000 NL |
 
-Năng lượng thưởng của hệ thống con được quyết toán độc lập với điểm và EXP của ký chủ. Điều kiện quyết toán khi nhiệm vụ chính thành công hoặc thất bại được quy định tại Mục 1.2 và Mục 6.
+Năng lượng thưởng của hệ thống con được quyết toán theo loại nhiệm vụ. Nhiệm vụ phụ gắn với nhiệm vụ bắt buộc áp dụng Mục 1.2 và Mục 6.3; nhiệm vụ tự chọn độc lập áp dụng nguyên tắc quyết toán riêng tại Mục 16.
 
 ## 5.3. Thời hạn
 
@@ -369,20 +373,26 @@ Khi nhiệm vụ bắt buộc thất bại:
 
 Không có cơ chế trừ hết số điểm đang có rồi cho ký chủ tiếp tục sống với số điểm âm.
 
-## 6.2. Nhiệm vụ tự chọn / nhiệm vụ phụ
+## 6.2. Nhiệm vụ tự chọn
 
 Khi không lựa chọn nhiệm vụ tự chọn:
 - Không chịu hình phạt.
 - Không bị trừ điểm.
 - Không nhận điểm hoặc EXP từ nhiệm vụ đó.
 
-Khi đã lựa chọn nhưng thất bại:
-- Mức phạt bằng 50% điểm thưởng của nhiệm vụ.
-- Không nhận EXP của nhiệm vụ thất bại.
+Khi đã nhận nhiệm vụ tự chọn nhưng thất bại:
+- Mức phạt thông thường bằng 50% điểm thưởng cơ bản của nhiệm vụ.
 - Nếu đủ điểm thì trừ theo mức phạt.
-- Nếu không đủ điểm chịu phạt thì ký chủ chết ngay ở hiện thực.
+- Nếu không đủ điểm chịu phạt thì ký chủ chết ngay ở hiện thực; không phát sinh nợ hoặc điểm âm.
+- Nhiệm vụ tự chọn độc lập thực hiện riêng lẻ: ký chủ thất bại không nhận điểm thưởng, EXP hoặc năng lượng thưởng cho hệ thống đồng hành.
+- Nhiệm vụ tự chọn độc lập theo nhóm áp dụng quy tắc riêng về thất bại cá nhân, EXP, tử vong, out nhóm và năng lượng hệ thống tại Mục 16.
+- Nhiệm vụ phụ gắn với nhiệm vụ bắt buộc áp dụng quy tắc quyết toán tại Mục 6.3.
 
-## 6.3. Quyết toán nhiệm vụ phụ khi nhiệm vụ chính thất bại
+Các quy tắc tại Mục 16 là quy định chuyên biệt và được ưu tiên áp dụng khi có khác biệt với nguyên tắc chung tại mục này.
+
+## 6.3. Quyết toán nhiệm vụ phụ gắn với nhiệm vụ bắt buộc
+
+Mục này chỉ áp dụng cho nhiệm vụ phụ được thực hiện kèm một nhiệm vụ bắt buộc; không áp dụng cho nhiệm vụ tự chọn độc lập.
 
 Kết quả tài khoản của ký chủ và hệ thống con được quyết toán độc lập.
 
@@ -784,6 +794,22 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 55. Hệ thống bị đóng băng không làm việc và không nhận lương; hệ thống sập nhưng chưa đóng băng vẫn tiếp tục được tính và trả lương.
 56. Khi hệ thống cũ bị đóng băng, ký chủ được chuyển hệ thống; hệ thống mới chỉ nhận dữ liệu nghiệp vụ cần thiết, không nhận dữ liệu đời tư hoặc trạng thái nội tâm của hệ thống cũ.
 
+57. Nhiệm vụ tự chọn độc lập được quyết toán riêng; không phải chờ nhiệm vụ bắt buộc khác. Khi hoàn thành, ký chủ nhận đủ điểm và EXP, hệ thống đồng hành nhận đủ năng lượng thưởng.
+58. Nhiệm vụ tự chọn độc lập có thể tổ chức theo hình thức nhóm; giới hạn số thành viên được công bố riêng cho từng nhiệm vụ.
+59. Quy tắc nhóm chỉ áp dụng giữa các ký chủ đã chính thức gia nhập cùng nhóm; thành viên mới phải tự nguyện đồng ý và có quyền, trách nhiệm như thành viên ban đầu.
+60. Chỉ có hai trường hợp out nhóm: ký chủ chủ động rời nhiệm vụ hoặc bị hệ thống cưỡng chế kết thúc nhiệm vụ do vi phạm quy tắc không gây hại đồng đội.
+61. Thành viên out nhóm bị tính là thất bại cá nhân, chịu phạt 50% điểm thưởng cơ bản; không đủ điểm nộp phạt thì chết ở thế giới thực; không nhận EXP, điểm thưởng nhóm hoặc năng lượng thưởng cho hệ thống đồng hành.
+62. Thất bại cá nhân hoặc out nhóm của một thành viên không tự động làm nhiệm vụ nhóm thất bại và không ảnh hưởng kết quả của các thành viên còn lại.
+63. Nhóm thành công: thành viên còn sống và vẫn ở trong nhóm tại thời điểm mục tiêu hoàn thành nhận đủ điểm, EXP cơ bản và EXP tối thiểu; hệ thống đồng hành đủ điều kiện nhận toàn bộ năng lượng thưởng.
+64. Nhóm thất bại: thành viên còn ở trong nhóm tại thời điểm nhiệm vụ thất bại chịu phạt 50% điểm thưởng cơ bản; nhận EXP công việc và EXP tối thiểu nếu còn sống; hệ thống đồng hành không nhận năng lượng thưởng.
+65. Thành viên tử vong trước khi nhiệm vụ kết thúc chịu phạt 50% điểm thưởng cơ bản, vẫn nhận EXP công việc đã hoàn thành trước khi chết; nếu nhiệm vụ thất bại thì không nhận EXP tối thiểu.
+66. Thành viên tử vong sau thời điểm mục tiêu nhóm hoàn thành vẫn được tính thành công và nhận đầy đủ quyền lợi.
+67. Thành viên gia nhập giữa nhiệm vụ được hưởng quyền lợi như thành viên ban đầu nếu đủ tư cách tại thời điểm nhiệm vụ kết thúc; khi nhóm thất bại, EXP công việc chỉ tính từ thời điểm gia nhập.
+68. Hệ thống đồng hành sập/mất kết nối không làm ký chủ tự động thất bại; nếu ký chủ đủ điều kiện thành công, hệ thống được nhận năng lượng thưởng sau khi khôi phục.
+69. Hệ thống đồng hành bị đóng băng không nhận năng lượng thưởng; hệ thống mới tiếp quản nhận toàn bộ năng lượng nếu ký chủ đủ điều kiện thành công.
+70. Kết quả và tư cách thành viên được xác định theo trạng thái thực tế tại thời điểm mục tiêu hoàn thành hoặc nhiệm vụ được xác định thất bại, không theo thời điểm tổng kết hoặc trao thưởng.
+71. Quy tắc chi tiết về nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm được quy định tại Mục 16; khi có khác biệt với nguyên tắc chung, Mục 16 được ưu tiên áp dụng.
+
 ---
 
 # 13. CÁC VẤN ĐỀ CHƯA CHỐT
@@ -800,7 +826,6 @@ Những nội dung sau không được tự ý suy diễn thành canon.
 | SYS-009 | Công thức và tiêu chí chi tiết để hệ thống xác định tỷ giá quy đổi sang S |
 | SYS-010 | Cơ chế lựa chọn và kích hoạt vé Về Nhà |
 | SYS-011 | Quy tắc thời gian giữa thế giới thực và thế giới nhiệm vụ |
-| SYS-012 | Cơ chế xử lý nhiệm vụ tự chọn không gắn với nhiệm vụ bắt buộc |
 | SYS-013 | Cơ chế vận hành khi hệ thống con mất ký chủ hoặc bị hủy |
 | SYS-014 | Cơ chế quản lý và phân phối năng lượng trong Tổng bộ |
 | SYS-015 | Cơ chế, điều kiện và cách sử dụng vé thưởng để quay lại nhiệm vụ đã hoàn thành |
@@ -987,6 +1012,289 @@ Trong thời gian hệ thống sập:
 - Việc hệ thống mới có biết lý do hệ thống trước bị đóng băng hay không phụ thuộc quyền truy cập và thông tin được chia sẻ; không mặc định hệ thống mới được biết toàn bộ hồ sơ điều tra.
 - Không có giai đoạn thích nghi bắt buộc. Hệ thống mới tiếp tục hỗ trợ ký chủ ngay khi được liên kết.
 
+
 ---
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.5**
+# 16. SYS-012 – NHIỆM VỤ TỰ CHỌN ĐỘC LẬP VÀ NHIỆM VỤ NHÓM
+
+Mục này ghi nhận các quy tắc đã được tác giả xác nhận về nhiệm vụ tự chọn độc lập, hình thức nhóm, tư cách thành viên, kết quả nhiệm vụ, điểm thưởng, EXP và năng lượng của hệ thống đồng hành.
+
+**Phạm vi áp dụng:** Nhiệm vụ tự chọn độc lập, không gắn với điều kiện phải hoàn thành một nhiệm vụ bắt buộc khác. Nhiệm vụ tự chọn độc lập có thể do một ký chủ thực hiện riêng lẻ hoặc do nhiều ký chủ cùng thực hiện theo hình thức nhóm.
+
+## 16.1. Nhiệm vụ tự chọn độc lập – hình thức cá nhân
+
+### Hoàn thành
+
+Khi ký chủ hoàn thành nhiệm vụ:
+- Nhận toàn bộ điểm thưởng cơ bản theo cấp nhiệm vụ.
+- Nhận toàn bộ EXP cơ bản theo cấp nhiệm vụ.
+- Hệ thống đồng hành nhận toàn bộ năng lượng thưởng theo cấp nhiệm vụ.
+- Điểm, EXP và năng lượng của hệ thống được quyết toán ngay theo kết quả của chính nhiệm vụ này; không phải chờ nhiệm vụ bắt buộc khác.
+
+### Thất bại
+
+Khi ký chủ đã nhận nhiệm vụ nhưng thất bại:
+- Chịu phạt 50% điểm thưởng cơ bản.
+- Nếu đủ điểm thì trừ trực tiếp khoản phạt.
+- Nếu không đủ điểm nộp phạt, ký chủ chết ngay ở thế giới thực.
+- Không phát sinh nợ hoặc điểm âm.
+- Không nhận điểm thưởng và EXP của nhiệm vụ.
+- Hệ thống đồng hành không nhận năng lượng thưởng.
+
+### Tử vong và làm lại
+
+- Tử vong trong thế giới nhiệm vụ, nếu không có vật phẩm cứu mạng phát huy tác dụng, được tính là thất bại và chịu phạt 50% điểm thưởng cơ bản.
+- Nhiệm vụ tự chọn độc lập không được làm lại bởi ký chủ đã thất bại.
+- Nhiệm vụ thất bại được trả về kho và có thể giao cho ký chủ khác.
+- Nhiệm vụ đã hoàn thành đóng vĩnh viễn, không được giao lại.
+
+## 16.2. Thành lập và quản lý nhóm
+
+### Phạm vi nhóm
+
+- Quy tắc nhóm chỉ áp dụng giữa những ký chủ đã chính thức gia nhập cùng một nhóm.
+- Không tự động áp dụng giữa tất cả ký chủ cùng làm một nhiệm vụ nếu họ không thuộc cùng nhóm.
+- Một nhiệm vụ có thể có nhiều nhóm hoặc ký chủ hoạt động độc lập, tùy thiết kế nhiệm vụ.
+
+### Mời và gia nhập
+
+- Những ký chủ quen biết nhau và cùng thực hiện một nhiệm vụ có thể mời nhau vào nhóm.
+- Bất kỳ thành viên nào trong nhóm cũng có quyền mời một ký chủ đủ điều kiện tham gia.
+- Người được mời phải tự nguyện đồng ý; tư cách thành viên chỉ phát sinh sau khi chấp thuận.
+- Thành viên mới có quyền và trách nhiệm giống thành viên ban đầu.
+- Có thể mời thêm thành viên trong suốt thời gian nhiệm vụ, miễn là nhiệm vụ chưa kết thúc và nhóm còn chỗ.
+- Mỗi nhiệm vụ quy định số lượng thành viên tối đa riêng và công bố giới hạn đó khi phát hành nhiệm vụ.
+- Không thể gia nhập nếu nhóm đã đạt giới hạn. Khi có thành viên out nhóm, vị trí trống được mở lại.
+
+### Tư cách thành viên và rời nhóm
+
+- Sau khi gia nhập, thành viên không thể tự ý rời nhóm mà vẫn giữ tư cách thành viên trong nhiệm vụ.
+- Chủ động rời nhiệm vụ được tính ngay là thất bại cá nhân và tự động out nhóm.
+- Thành viên đã out nhóm không thể gia nhập lại nhóm cũ trong cùng nhiệm vụ, kể cả khi nhóm còn chỗ.
+- Không có cơ chế trưởng nhóm hoặc thành viên biểu quyết loại một người khỏi nhóm.
+- Tổng bộ không có quyền tùy ý loại thành viên khỏi nhóm vì lý do khác.
+- Chỉ có hai trường hợp out nhóm:
+  1. Thành viên chủ động rời nhiệm vụ.
+  2. Thành viên bị hệ thống cưỡng chế kết thúc nhiệm vụ do vi phạm quy tắc không gây hại đồng đội.
+
+## 16.3. Kết quả nhiệm vụ nhóm
+
+### Thời điểm ghi nhận
+
+- Nhiệm vụ nhóm được ghi nhận thành công ngay khi điều kiện hoàn thành mục tiêu chung được đáp ứng.
+- Nhiệm vụ nhóm được ghi nhận thất bại khi điều kiện thất bại của nhiệm vụ được xác định.
+- Việc kiểm tra, tổng kết hoặc trao thưởng diễn ra sau đó không làm thay đổi kết quả đã được ghi nhận.
+- Tư cách thành viên và trạng thái sống/chết được xác định theo trạng thái thực tế tại thời điểm mục tiêu hoàn thành hoặc nhiệm vụ được xác định thất bại, không căn cứ vào thời điểm tổng kết hay trao thưởng.
+
+### Nhóm thành công
+
+Thành viên được tính là thành công nếu đồng thời:
+- Còn sống tại thời điểm mục tiêu chung được hoàn thành.
+- Vẫn thuộc nhóm tại thời điểm đó.
+
+Mỗi thành viên đủ điều kiện nhận:
+- Toàn bộ điểm thưởng cơ bản của nhiệm vụ.
+- Toàn bộ EXP cơ bản của nhiệm vụ.
+- EXP tối thiểu của nhiệm vụ, được cộng thêm vào EXP cơ bản.
+
+Quyền lợi không phụ thuộc mức độ đóng góp trực tiếp. Thành viên bị bắt giữ, mất khả năng hành động hoặc không trực tiếp tham gia hoàn thành mục tiêu vẫn được tính thành công nếu còn sống và vẫn ở trong nhóm tại thời điểm mục tiêu hoàn thành.
+
+Thành viên gia nhập giữa nhiệm vụ cũng nhận đầy đủ điểm thưởng, EXP cơ bản và EXP tối thiểu như thành viên ban đầu, nếu còn sống và vẫn thuộc nhóm tại thời điểm nhiệm vụ hoàn thành.
+
+### Nhóm thất bại
+
+- Các thành viên còn thuộc nhóm tại thời điểm nhiệm vụ được xác định thất bại đều bị tính là thất bại cá nhân.
+- Mỗi người chịu hình phạt riêng; không chia sẻ hoặc chuyển hình phạt cho thành viên khác.
+- Một thành viên thất bại cá nhân hoặc out nhóm không làm nhiệm vụ nhóm tự động thất bại. Những thành viên còn lại tiếp tục nếu điều kiện nhiệm vụ cho phép.
+- Mỗi thành viên còn trong nhóm khi nhiệm vụ thất bại chịu phạt 50% điểm thưởng cơ bản.
+- Nếu không đủ điểm nộp phạt, thành viên đó chết ngay ở thế giới thực; không phát sinh nợ hoặc điểm âm.
+- Không có thành viên nào nhận điểm thưởng thành công từ nhiệm vụ nhóm thất bại.
+- Không hệ thống đồng hành nào nhận năng lượng thưởng từ nhiệm vụ nhóm thất bại.
+
+## 16.4. Thất bại cá nhân, out nhóm và hình phạt
+
+### Chủ động rời nhiệm vụ
+
+Nếu thành viên chủ động bỏ nhiệm vụ:
+- Hệ thống chỉ cần xác định hành động rời nhiệm vụ là có chủ đích để ghi nhận thất bại cá nhân ngay lập tức.
+- Không cần cảnh báo hoặc yêu cầu xác nhận lần cuối.
+- Thành viên tự động out nhóm.
+- Chịu phạt 50% điểm thưởng cơ bản; không đủ điểm nộp phạt thì chết ở thế giới thực.
+- Không nhận EXP, điểm thưởng nhóm hoặc bất kỳ phần thưởng nào khác từ kết quả nhóm.
+- Hệ thống đồng hành không nhận năng lượng thưởng.
+
+### Bị hệ thống cưỡng chế out nhóm
+
+Nếu thành viên tiếp tục vi phạm quy tắc không gây hại đồng đội và bị hệ thống cưỡng chế kết thúc nhiệm vụ:
+- Bị tính là thất bại cá nhân và tự động out nhóm.
+- Chịu phạt 50% điểm thưởng cơ bản; không đủ điểm nộp phạt thì chết ở thế giới thực.
+- Không nhận EXP, điểm thưởng nhóm hoặc bất kỳ phần thưởng nào khác từ kết quả nhóm.
+- Hệ thống đồng hành không nhận năng lượng thưởng.
+
+Không có ngoại lệ miễn phạt điểm đối với trường hợp bị cưỡng chế out nhóm.
+
+### Hậu quả chung của việc out nhóm
+
+Bất kể nguyên nhân out nhóm thuộc một trong hai trường hợp được phép:
+- Thành viên bị tính là thất bại cá nhân.
+- Chịu phạt 50% điểm thưởng cơ bản; không đủ điểm nộp phạt thì chết ở thế giới thực.
+- Không nhận EXP của nhiệm vụ, kể cả phần công việc đã hoàn thành trước khi out nhóm.
+- Không nhận điểm thưởng hoặc bất kỳ phần thưởng nào từ kết quả nhóm, kể cả khi nhóm sau đó hoàn thành nhiệm vụ.
+- Hệ thống đồng hành không nhận năng lượng thưởng.
+- Việc một thành viên out nhóm không làm thay đổi kết quả nhiệm vụ của những thành viên còn lại.
+
+## 16.5. Tử vong trong nhiệm vụ nhóm
+
+### Tử vong trước khi nhiệm vụ kết thúc
+
+Nếu thành viên tử vong khi vẫn thuộc nhóm và trước thời điểm mục tiêu chung được hoàn thành:
+- Bị tính là thất bại cá nhân.
+- Chịu phạt 50% điểm thưởng cơ bản; không đủ điểm nộp phạt thì chết ở thế giới thực.
+- Không nhận điểm thưởng thành công của nhóm.
+- Không nhận năng lượng thưởng cho hệ thống đồng hành.
+- Vẫn được nhận EXP tương ứng với phần công việc thực tế đã hoàn thành trước khi tử vong.
+
+Nếu nhiệm vụ nhóm sau đó thất bại, thành viên đã tử vong chỉ nhận EXP công việc đã hoàn thành; không nhận EXP tối thiểu.
+
+Việc một thành viên tử vong không tự động làm nhiệm vụ nhóm thất bại.
+
+### Tử vong sau khi nhiệm vụ đã hoàn thành
+
+Nếu thành viên còn sống và vẫn thuộc nhóm tại thời điểm mục tiêu chung được hoàn thành, nhưng tử vong sau thời điểm đó và trước khi hệ thống tổng kết hoặc trao thưởng:
+- Vẫn được tính là thành công.
+- Nhận đầy đủ điểm thưởng, EXP cơ bản và EXP tối thiểu.
+- Hệ thống đồng hành được nhận đầy đủ năng lượng thưởng nếu hệ thống vẫn hoạt động hoặc có thể khôi phục sau sự cố sập.
+- Không bị chuyển thành thất bại cá nhân.
+
+Kết quả thành công đã được ghi nhận tại thời điểm điều kiện hoàn thành được đáp ứng; sự kiện tử vong xảy ra sau đó không làm thay đổi kết quả.
+
+## 16.6. Quy tắc tính EXP trong nhiệm vụ nhóm
+
+### Nguyên tắc
+
+- EXP được tính riêng cho từng ký chủ, không chia đều giữa các thành viên.
+- EXP công việc căn cứ vào phần việc thực tế từng người đã hoàn thành.
+- Các công việc và mức EXP tương ứng được quy định trong tiêu chí nhiệm vụ công bố trước.
+- Công việc phát sinh ngoài dự kiến do Tổng bộ đánh giá.
+- Mỗi nhiệm vụ công bố một mức EXP tối thiểu riêng khi phát hành.
+- EXP tối thiểu là khoản cộng thêm, không thay thế EXP công việc hoặc EXP cơ bản.
+- Không có giới hạn tổng EXP trong trường hợp nhiệm vụ thất bại.
+
+### Nhiệm vụ thành công
+
+Thành viên còn sống và vẫn thuộc nhóm tại thời điểm mục tiêu hoàn thành nhận toàn bộ EXP cơ bản và EXP tối thiểu, không phụ thuộc đóng góp trực tiếp.
+
+### Nhiệm vụ thất bại
+
+Thành viên còn sống và vẫn thuộc nhóm tại thời điểm nhiệm vụ thất bại nhận:
+- EXP tương ứng với công việc thực tế đã hoàn thành.
+- EXP tối thiểu của nhiệm vụ.
+
+Hai khoản EXP được cộng với nhau, không lấy mức cao hơn và không áp dụng giới hạn tổng EXP.
+
+### Thành viên gia nhập giữa nhiệm vụ
+
+- Nếu nhóm thành công: thành viên đủ điều kiện nhận toàn bộ EXP cơ bản và EXP tối thiểu như thành viên ban đầu.
+- Nếu nhóm thất bại: nhận EXP công việc đã thực hiện kể từ thời điểm gia nhập, cộng EXP tối thiểu nếu còn sống và vẫn thuộc nhóm tại thời điểm nhiệm vụ thất bại.
+- Nếu thành viên out nhóm trước khi nhiệm vụ kết thúc: không nhận bất kỳ EXP nào từ nhiệm vụ, kể cả phần công việc đã hoàn thành trước khi out.
+
+### Thành viên tử vong
+
+- Nếu tử vong trước khi nhiệm vụ kết thúc: chỉ nhận EXP công việc đã hoàn thành trước khi chết.
+- Nếu nhiệm vụ sau đó thất bại: không nhận EXP tối thiểu.
+- Nếu tử vong sau thời điểm nhiệm vụ đã hoàn thành: vẫn nhận đầy đủ EXP thành công như các thành viên đủ điều kiện khác.
+
+## 16.7. Quy tắc không gây hại đồng đội
+
+### Phạm vi
+
+Quy tắc chỉ áp dụng giữa những thành viên thuộc cùng một nhóm, không áp dụng cho tất cả ký chủ cùng nhiệm vụ nhưng không cùng nhóm.
+
+### Hành vi bị cấm
+
+Thành viên không được thực hiện hành vi thực sự gây tổn hại cho thành viên khác trong nhóm, dù hành vi đó là cố ý hay vô ý.
+
+Phạm vi bao gồm:
+- Gây tổn hại đến lợi ích hoặc quyền lợi của đồng đội.
+- Cản trở khả năng hoàn thành nhiệm vụ của đồng đội.
+- Gây tổn hại thân thể.
+- Đe dọa tính mạng đồng đội.
+
+### Xác minh và xử lý
+
+- Hệ thống phải xác minh hành vi thực sự gây ra tổn hại trước khi cảnh cáo.
+- Chỉ cần xác định hành vi đã gây hại thực tế; không cần chứng minh động cơ.
+- Xung đột lợi ích hoặc hành vi ảnh hưởng đến lợi ích chung chỉ bị xử lý nếu vi phạm điều kiện nhiệm vụ đã công bố trước.
+- Không được xử phạt chỉ vì hành vi không có lợi cho các thành viên khác nếu hành vi đó vẫn nằm trong điều kiện nhiệm vụ.
+
+Quy trình:
+1. Phát hiện hành vi có khả năng gây hại.
+2. Xác minh hành vi thực sự gây ra tổn hại.
+3. Nếu xác định có vi phạm, hệ thống phát cảnh cáo.
+4. Nếu thành viên tiếp tục vi phạm, hệ thống cưỡng chế kết thúc nhiệm vụ của người đó.
+5. Người vi phạm bị tính là thất bại cá nhân và out nhóm, chịu hình phạt tại Mục 16.4.
+
+## 16.8. Hệ thống đồng hành và năng lượng thưởng trong nhiệm vụ nhóm
+
+### Nguyên tắc gắn quyền lợi
+
+Quyền lợi của hệ thống đồng hành gần như gắn liền với quyền lợi của ký chủ. Hệ thống chỉ nhận năng lượng thưởng khi ký chủ đủ điều kiện nhận quyền lợi tương ứng.
+
+### Nhóm thành công
+
+- Hệ thống đồng hành của mỗi ký chủ còn sống và vẫn thuộc nhóm tại thời điểm nhiệm vụ hoàn thành nhận toàn bộ năng lượng thưởng theo cấp nhiệm vụ.
+- Không chia hoặc phân bổ năng lượng theo mức độ đóng góp của từng thành viên.
+- Thành viên không trực tiếp đóng góp vẫn có quyền nhận thưởng nếu đủ điều kiện thành công.
+- Nếu ký chủ tử vong sau thời điểm nhiệm vụ hoàn thành, quyền nhận năng lượng thưởng của hệ thống vẫn được giữ nguyên.
+
+### Nhóm thất bại hoặc ký chủ thất bại cá nhân
+
+- Nhiệm vụ nhóm thất bại: không hệ thống đồng hành nào nhận năng lượng thưởng.
+- Ký chủ out nhóm hoặc thất bại cá nhân: hệ thống đồng hành của ký chủ đó không nhận năng lượng thưởng, kể cả khi nhóm hoàn thành nhiệm vụ.
+- Ký chủ tử vong trước khi nhiệm vụ hoàn thành: hệ thống đồng hành không nhận năng lượng thưởng.
+
+### Hệ thống đồng hành bị sập hoặc mất kết nối
+
+Sập hoặc mất kết nối không làm ký chủ tự động out nhóm hay thất bại cá nhân.
+
+Trong thời gian hệ thống đồng hành bị sập:
+- Ký chủ vẫn thực hiện nhiệm vụ bình thường.
+- Hệ thống nghiệp vụ nhiệm vụ tiếp tục theo dõi tiến độ, điều kiện, kết quả và quyết toán.
+- Nếu ký chủ đủ điều kiện thành công, vẫn nhận đầy đủ điểm và EXP.
+- Nếu ký chủ thất bại, vẫn chịu hình phạt tương ứng.
+
+Nếu ký chủ hoàn thành nhiệm vụ trong thời gian hệ thống đồng hành bị sập:
+- Hệ thống đồng hành vẫn được nhận đầy đủ năng lượng thưởng nếu sau đó khôi phục.
+- Năng lượng thưởng được ghi nhận và thanh toán sau khi hệ thống khôi phục.
+- Việc mất kết nối không làm mất quyền nhận thưởng hợp lệ của hệ thống.
+
+### Hệ thống đồng hành bị đóng băng và hệ thống tiếp quản
+
+Đóng băng khác với sập hoặc mất kết nối có thể khôi phục:
+- Hệ thống cũ bị đóng băng không nhận năng lượng thưởng từ nhiệm vụ.
+- Năng lượng thưởng không được chuyển cho hệ thống cũ nếu hệ thống đó được khôi phục về sau.
+- Nếu ký chủ được hệ thống mới tiếp quản và đủ điều kiện thành công, hệ thống mới nhận toàn bộ năng lượng thưởng theo cấp nhiệm vụ.
+- Không chia năng lượng theo thời gian hệ thống cũ và mới tham gia.
+- Nếu ký chủ thất bại hoặc out nhóm, hệ thống mới không nhận năng lượng thưởng.
+- Trong nhiệm vụ nhóm, nếu ký chủ vẫn ở trong nhóm và nhóm hoàn thành nhiệm vụ, hệ thống mới tiếp quản nhận toàn bộ năng lượng thưởng.
+- Nếu ký chủ đã out nhóm và thất bại cá nhân, hệ thống mới không nhận năng lượng thưởng, kể cả khi nhóm hoàn thành nhiệm vụ.
+
+## 16.9. Các nguyên tắc không được nhầm lẫn
+
+1. Thất bại cá nhân không đồng nghĩa nhiệm vụ nhóm thất bại.
+2. Một thành viên out nhóm không làm những thành viên còn lại tự động thất bại.
+3. Chỉ có hai trường hợp out nhóm: chủ động rời nhiệm vụ hoặc bị hệ thống cưỡng chế do vi phạm quy tắc không gây hại đồng đội.
+4. Thành viên out nhóm chịu phạt 50% điểm thưởng cơ bản và không nhận EXP, bất kể đã đóng góp trước đó hay nhóm sau đó thành công.
+5. Thành viên tử vong trước khi nhiệm vụ kết thúc chịu phạt 50% điểm thưởng cơ bản nhưng vẫn nhận EXP công việc đã hoàn thành trước khi chết.
+6. Thành viên tử vong trước khi nhiệm vụ thất bại không nhận EXP tối thiểu.
+7. Thành viên còn sống và ở trong nhóm tại thời điểm nhiệm vụ hoàn thành nhận đầy đủ điểm và EXP, không phụ thuộc đóng góp trực tiếp.
+8. Tử vong sau thời điểm nhiệm vụ hoàn thành không làm mất quyền lợi đã được xác lập.
+9. Kết quả nhiệm vụ được ghi nhận ngay khi điều kiện hoàn thành hoặc thất bại được đáp ứng.
+10. Sập/mất kết nối của hệ thống đồng hành không làm ký chủ mất quyền lợi.
+11. Đóng băng khiến hệ thống cũ mất quyền nhận năng lượng thưởng; hệ thống mới tiếp quản nhận toàn bộ năng lượng nếu ký chủ đủ điều kiện.
+12. Quyền lợi của hệ thống đồng hành gắn liền với tư cách và kết quả nhiệm vụ của ký chủ.
+
+
+---
+
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.6**
