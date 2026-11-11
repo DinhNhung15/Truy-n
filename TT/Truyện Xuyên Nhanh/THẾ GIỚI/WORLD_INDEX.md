@@ -1,7 +1,7 @@
 # WORLD_INDEX.md
 # MỤC LỤC CÁC THẾ GIỚI NHIỆM VỤ
 
-**Quy tắc đặt mã:** Mỗi thế giới có mã cố định `WORLD_XXX`. Số thứ tự là số thứ tự hồ sơ thế giới trong dự án, không mặc định là số nhiệm vụ của tất cả thành viên.
+**Quy tắc đặt mã:** Mỗi thế giới có mã cố định WORLD_XXX. Số thứ tự là số thứ tự hồ sơ thế giới trong dự án, không mặc định là số nhiệm vụ của tất cả thành viên.
 
 ## 1. Quy tắc đánh số hành trình cá nhân
 
@@ -12,22 +12,43 @@
 - SYSTEM_BIBLE quy định thời gian tại Tổng bộ và thế giới nhiệm vụ trôi qua đồng bộ 1:1. Quy tắc này không có nghĩa các thành viên phải bắt đầu nhiệm vụ cùng lúc hoặc có cùng tổng thời gian trải nghiệm.
 - Không tự đặt thêm tỷ lệ quy đổi thời gian giữa các thành viên.
 
-## 2. Danh mục thế giới
+## 2. Danh mục 16 thế giới
 
-| Mã hồ sơ | Tên tạm | Vị trí trong hành trình | Trạng thái |
-|---|---|---|---|
-| WORLD_001 | Chưa đặt tên | Nhiệm vụ 1 của vợ; thông tin hành trình của chồng và con chưa xác định | Chờ xây dựng |
-| WORLD_002 | Kinh Thành Dưới Màn Mưa | Nhiệm vụ 2 của vợ; nhiệm vụ 8 của chồng; con ở hành trình riêng, khoảng nhiệm vụ đầu | Hồ sơ nền đã tổng hợp; chi tiết tên riêng/bối cảnh đang là thiết kế làm việc |
+| Mã hồ sơ | Tên thế giới | Người tham gia dự kiến | Cấp nhiệm vụ | Liên quan Tổng bộ | Trạng thái hồ sơ |
+|---|---|---|---|---|---|
+| WORLD_001 | Khởi Điểm | Vợ | D | M0 – Không liên quan | Chờ xây dựng |
+| WORLD_002 | Kinh Thành Dưới Màn Mưa | Vợ + chồng | B | M0 – Không liên quan | Hồ sơ nền đã tổng hợp |
+| WORLD_003 | Thành Phố Sau Ngày Tận Thế | Vợ | A | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_004 | Sơn Môn Vấn Đạo | Chồng | A | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_005 | Trạm Cuối Cùng Giữa Các Vì Sao | Vợ + chồng | B | M1 – Gợi ý gián tiếp | Ý tưởng đã chốt |
+| WORLD_006 | Bóng Đêm Thành Cũ | Vợ | B | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_007 | Mùa Xuân Ở Thôn Nhỏ | Vợ + con | D | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_008 | Vạn Tiên Đại Lục | Vợ + chồng | A | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_009 | Vương Quốc Không Vua | Chồng | S | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_010 | Những Người Ở Lại | Vợ + con | C | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_011 | Sau Ánh Đèn Sân Khấu | Vợ | C | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_012 | Thành Phố Ngủ Dưới Đáy Biển | Vợ + chồng | A | M1 – Gợi ý gián tiếp | Ý tưởng đã chốt |
+| WORLD_013 | Mười Ba Cánh Cửa | Vợ | S | M1 – Gợi ý gián tiếp | Ý tưởng đã chốt |
+| WORLD_014 | Kỷ Nguyên Cơ Khí | Chồng + con | A | M2 – Có manh mối liên quan | Ý tưởng đã chốt |
+| WORLD_015 | Biên Giới Giữa Các Thế Giới | Vợ + chồng + con | S | M3 – Liên quan trực tiếp | Ý tưởng đã chốt |
+| WORLD_016 | Nguyện Vọng Cuối Cùng | Vợ + chồng + con | SS | M4 – Trung tâm bí mật | Ý tưởng đã chốt |
+
+Ghi chú:
+- Cấp nhiệm vụ và mức độ liên quan Tổng bộ trong bảng là phân bổ đã chốt cho hồ sơ thiết kế 16 thế giới.
+- Điểm số chi tiết theo từng tiêu chí SYS-002 chưa được chấm ở giai đoạn này; không tự tạo điểm số để hợp thức hóa cấp đã chọn. Khi hồ sơ nhiệm vụ cụ thể hoàn thiện, thực hiện bước đối chiếu SYS-002 và chỉ điều chỉnh cấp khi có căn cứ.
+- Người tham gia là phương án phân bổ cốt truyện hiện tại; số thứ tự nhiệm vụ cá nhân chỉ ghi khi đã xác định.
+- Danh mục này không có nghĩa mỗi thành viên lần lượt đi qua cả 16 thế giới.
 
 ## 3. Tài liệu riêng
 
 - [WORLD_001.md](./WORLD_001.md) – Hồ sơ thế giới nhiệm vụ thứ nhất.
 - [WORLD_002.md](./WORLD_002.md) – Kinh Thành Dưới Màn Mưa, thế giới đoàn tụ của vợ chồng.
+- [MISSION_CLASSIFICATION.md](./MISSION_CLASSIFICATION.md) – Quy tắc phân cấp nhiệm vụ và mức độ liên quan Tổng bộ cho 16 thế giới.
 
 ## 4. Nguyên tắc quản lý
 
 1. Không gộp nhiều thế giới vào cùng một hồ sơ.
 2. Mỗi thế giới chỉ ghi những sự kiện, nhân vật, quy tắc và nhiệm vụ thuộc chính thế giới đó.
-3. Quy tắc hệ thống dùng chung đặt tại `SYSTEM_BIBLE.md`; hồ sơ thế giới chỉ dẫn chiếu, không tự viết lại hoặc sửa luật hệ thống.
+3. Quy tắc hệ thống dùng chung đặt tại SYSTEM_BIBLE.md; hồ sơ thế giới chỉ dẫn chiếu, không tự viết lại hoặc sửa luật hệ thống.
 4. Thông tin đã xác nhận, đề xuất đang thử nghiệm và điểm chưa chốt phải được phân biệt rõ.
 5. Khi thay đổi thứ tự hành trình, cập nhật bảng danh mục và hồ sơ liên quan; không đổi mã hồ sơ đã cấp.
