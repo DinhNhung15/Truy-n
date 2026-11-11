@@ -1,3 +1,59 @@
+## 2026-11-11 – SYSTEM_BIBLE.md v1.10
+
+**Tài liệu cập nhật:** `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`  
+**Phiên bản:** 1.9 → 1.10  
+**Phạm vi:** SYS-001, SYS-003, SYS-007, SYS-009, SYS-013, SYS-014 và SYS-015.
+
+### SYS-001 – Nguồn gốc Tổng bộ Nguyện Vọng
+- Chốt Tổng bộ Nguyện Vọng đã tồn tại từ rất lâu và hình thành tự nhiên từ năng lượng ước nguyện.
+- Không có cá nhân hay thực thể sáng lập.
+- Tổng bộ chỉ là tổ chức có cơ cấu, quy tắc và các đơn vị vận hành; không xây dựng thêm ý thức tập thể hoặc lịch sử nguồn gốc sâu hơn.
+
+### SYS-003 – Quyền hạn ký chủ
+- Chia quyền hạn thành quyền mặc định áp dụng cho mọi ký chủ và quyền tiện ích/chức năng hỗ trợ được mở khóa theo cấp.
+- Quyền mở khóa không bao gồm quyền quản lý, điều hành, khiếu nại hoặc can thiệp vào hoạt động nội bộ Tổng bộ.
+- Cấp ký chủ không đồng nghĩa với quyền lực hành chính.
+
+### SYS-007 – Chi phí can thiệp
+- Chốt hệ thống chọn tỷ lệ cụ thể trong khoảng phí theo đánh giá tổng thể ba yếu tố: độ phức tạp, thời gian thực hiện và phạm vi tác động.
+- Không dùng công thức cứng chung cho mọi trường hợp.
+- Mỗi lần can thiệp phải lưu căn cứ xác định tỷ lệ để có thể kiểm tra.
+
+### SYS-009 – Tỷ giá quy đổi sang S
+- Chốt giỏ hàng tham chiếu gồm nhu yếu phẩm, dịch vụ phổ biến và chi phí sinh hoạt cơ bản.
+- Hệ thống so sánh tổng giá trị giỏ hàng giữa các thế giới để xác định tỷ giá theo sức mua thực tế.
+- Giỏ hàng được cập nhật định kỳ hoặc khi sức mua biến động đáng kể.
+- Tỷ giá được khóa tại thời điểm giao dịch; không điều chỉnh hồi tố.
+
+### SYS-011 – Quan hệ thời gian và quy tắc trở về
+- Làm rõ không cần đặt thêm tỷ lệ quy đổi thời gian thực–nhiệm vụ cho cơ chế vé Về Nhà: vé đưa ký chủ về đúng thời điểm ngay trước tai nạn, với thân thể khỏe mạnh, an toàn và lành lặn.
+- Giữ nguyên quy tắc thời gian Tổng bộ và thế giới nhiệm vụ đồng bộ 1:1 đã có.
+
+### SYS-013 – Mất ký chủ hoặc hệ thống bị phá hủy
+- Ký chủ tử vong: hệ thống mất liên kết, có thể trở về Tổng bộ và tiếp tục tìm ký chủ mới.
+- Hệ thống bị phá hủy nhưng ký chủ còn sống: ký chủ vẫn làm nhiệm vụ; Tổng bộ phân công hệ thống mới.
+- Hệ thống cũ có thể được khôi phục từ dữ liệu sao lưu bằng điểm; chi phí bằng giá vé Về Nhà dành cho chính ký chủ (hiện là 1 tỷ điểm).
+- Chỉ ký chủ từng liên kết mới có quyền đổi điểm khôi phục. Không khôi phục thì hệ thống cũ biến mất vĩnh viễn.
+- Dữ liệu sao lưu có ký ức và tình cảm; mức độ khôi phục phụ thuộc mức độ lưu trữ.
+
+### SYS-014 – Kho năng lượng chung
+- Chốt Tổng bộ có một kho năng lượng chung, phân phối năng lượng cho các đơn vị trực thuộc; không có nguồn độc lập tách rời cho từng đơn vị.
+
+### SYS-015 – Vé quay lại thế giới nhiệm vụ đã hoàn thành
+- Ký chủ tự chọn thời điểm quay lại.
+- Có thể chọn thân phận cũ và giữ toàn bộ ký ức, trải nghiệm, quan hệ đã hình thành; hoặc chọn thân phận mới hoàn toàn, tồn tại hợp pháp và không kế thừa cuộc đời nhân vật cũ.
+- Sau khi quay lại, ký chủ có thể tiếp tục ở lại thế giới đó nếu muốn.
+- Giá vé, nguồn nhận, giới hạn số lần và giới hạn can thiệp khác chưa được quyết định.
+
+### Trạng thái
+- Các quy tắc đã xác nhận được cập nhật vào SYSTEM_BIBLE.md v1.10.
+- SYS-001, SYS-003, SYS-007, SYS-013 và SYS-014 được chuyển khỏi danh sách chưa chốt.
+- SYS-009 chỉ còn các chi tiết kỹ thuật sâu hơn của giỏ hàng tham chiếu nếu cần.
+- SYS-015 chỉ còn các chi tiết giá, nguồn nhận vé và giới hạn sử dụng khác nếu cần.
+- SYS-011 không còn là một vấn đề độc lập cần đặt tỷ lệ thời gian cho cơ chế trở về; quy tắc neo thời điểm trở về vào trước tai nạn được giữ trong SYS-010.
+
+---
+
 # CONTINUITY_LOG.md
 # NHẬT KÝ CẬP NHẬT CANON
 
