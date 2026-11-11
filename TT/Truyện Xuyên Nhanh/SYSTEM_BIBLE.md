@@ -34,8 +34,8 @@ Tổng bộ có hai nguồn năng lượng quan trọng:
 - Đến từ những người đã ký khế ước ước nguyện.
 - Sau khi khế ước hoàn tất, 80% tổng năng lượng hợp đồng được chuyển hóa và đưa vào nguồn vận hành chung của Tổng bộ.
 - Linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ và giữ lại 20% năng lượng hợp đồng để duy trì sự tồn tại, quan sát nhiệm vụ.
-- Khi nhiệm vụ thực sự hoàn thành, người ủy thác được tự quyết định dùng bao nhiêu trong 20% năng lượng còn lại để thưởng điểm cho ký chủ; phần năng lượng không dùng để thưởng được chuyển hóa về kho chung của Tổng bộ.
-- Nếu một ký chủ thất bại, nhiệm vụ được đưa lại vào kho để tiếp tục phân phối; 20% năng lượng còn lại vẫn do linh hồn người ủy thác giữ cho đến khi nhiệm vụ hoàn thành.
+- Người ủy thác có thể dùng một phần hoặc toàn bộ 20% năng lượng còn lại để đổi thành điểm thưởng cho ký chủ, kể cả khi một lượt ký chủ chưa hoàn thành hoặc đã thất bại.
+- Nếu một ký chủ thất bại, nhiệm vụ được đưa lại vào kho để tiếp tục phân phối; phần 20% chưa sử dụng vẫn do linh hồn người ủy thác giữ. Khi nhiệm vụ thực sự hoàn thành, phần chưa sử dụng được chuyển về kho chung của Tổng bộ và linh hồn tan biến.
 - Nếu Tổng bộ hủy nhiệm vụ do người ủy thác phá hoại đã được xác minh, phần năng lượng chưa thanh toán bị thu hồi theo Mục 21; linh hồn người ủy thác bị tiêu diệt.
 
 **Nguồn năng lượng thưởng**
@@ -184,7 +184,7 @@ Nhiệm vụ chờ hệ thống con tiếp nhận và thực hiện.
 - Không được tính nhiệm vụ mới nếu khế ước chưa hoàn tất.
 - Mỗi khế ước hoàn tất tạo thêm một nhiệm vụ.
 - Sau khi ký khế ước, nguyện vọng và điều kiện hoàn thành không thể thay đổi.
-- Việc chuyển hóa 80% năng lượng hợp đồng được thực hiện ngay sau khi ký; linh hồn người ủy thác vẫn tồn tại với 20% năng lượng còn lại. Phần năng lượng này chỉ được quyết toán khi nhiệm vụ thực sự hoàn thành, không phụ thuộc việc từng ký chủ được phân công thất bại hay thành công.
+- Việc chuyển hóa 80% năng lượng hợp đồng được thực hiện ngay sau khi ký; linh hồn người ủy thác giữ 20% năng lượng còn lại. Người ủy thác có thể phân bổ một phần hoặc toàn bộ 20% để thưởng kể cả khi một lượt ký chủ thất bại; chỉ phần chưa sử dụng mới chờ quyết toán cuối cùng khi nhiệm vụ thực sự hoàn thành.
 
 ### Quy tắc cụ thể hóa và xác nhận nguyện vọng
 
@@ -1040,8 +1040,8 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 # 12. CÁC QUY TẮC BẮT BUỘC KHÔNG ĐƯỢC PHÁ VỠ
 
 1. Người ước nguyện phải ký khế ước thì nhiệm vụ mới được tạo.
-2. Sau khi ký khế ước, 80% năng lượng hợp đồng được chuyển hóa vào kho chung của Tổng bộ; linh hồn người ủy thác vẫn tồn tại và giữ 20% năng lượng còn lại để quan sát.
-3. Khi nhiệm vụ thực sự hoàn thành, người ủy thác chọn phần năng lượng trong 20% còn lại dùng để thưởng điểm cho ký chủ; phần dư chuyển hóa về Tổng bộ. Thất bại của một lượt ký chủ không làm nhiệm vụ kết thúc hoặc khiến phần năng lượng này bị quyết toán.
+2. Sau khi ký khế ước, 80% năng lượng hợp đồng được chuyển hóa vào kho chung của Tổng bộ; linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ đã xác định và giữ 20% năng lượng còn lại.
+3. Người ủy thác có thể dùng một phần hoặc toàn bộ 20% để thưởng điểm cho ký chủ, kể cả khi một lượt ký chủ thất bại. Phần 20% chưa sử dụng chỉ được quyết toán khi nhiệm vụ thực sự hoàn thành; phần dư chuyển về Tổng bộ và linh hồn tan biến.
 4. Hệ thống con có thể tự do tìm kiếm ký chủ.
 5. Nhiệm vụ được phân phối ngẫu nhiên và có cấp bậc.
 6. Ký chủ không được từ chối nhiệm vụ bắt buộc.
@@ -1147,6 +1147,7 @@ Những nội dung chưa được tác giả quyết định không được t�
 Hiện tại, các nội dung vừa được rà soát và chốt gồm SYS-003, phạm vi quy tắc SYS-009 được thống nhất ở mức nguyên tắc, SYS-015 và quy tắc linh hồn/người ủy thác tại Mục 21. Các chi tiết định lượng kỹ thuật không cần thiết không được tự bổ sung chỉ để làm tài liệu phức tạp hơn.
 
 Những vấn đề chưa chốt khác (nếu phát sinh trong các mục còn lại) chỉ được bổ sung vào bảng này sau khi xác định rõ nội dung cần quyết định.
+- Trường hợp toàn bộ 20% năng lượng đã được người ủy thác phân bổ làm phần thưởng trước khi nhiệm vụ thực sự hoàn thành: trạng thái tồn tại của linh hồn trong khoảng thời gian còn lại chưa được xác định.
 ---
 
 # 14. NGUYÊN TẮC QUẢN LÝ CANON
