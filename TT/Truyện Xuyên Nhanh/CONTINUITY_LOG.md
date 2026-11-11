@@ -166,3 +166,53 @@
 - Các nội dung trên đã được cập nhật vào SYSTEM_BIBLE.md v1.9.
 - SYS-010 về vé Về Nhà và bảo lưu sau khi trở về được chuyển khỏi danh sách vấn đề chưa chốt.
 - SYS-007 vẫn còn phần tiêu chí định lượng chi phí can thiệp cần hoàn thiện.
+
+
+## 2026-11-11 – SYSTEM_BIBLE.md v1.13
+
+**Tài liệu cập nhật:** `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`  
+**Phiên bản:** 1.12 → 1.13  
+**Phạm vi:** Hoàn thiện các điểm lệch được rà soát; đồng bộ quy tắc nhiệm vụ, hệ thống thay thế/khôi phục và cơ chế linh hồn người ủy thác.
+
+### Nhiệm vụ bắt buộc và nhiệm vụ tự chọn
+- Chốt mỗi ký chủ phải có một nhiệm vụ bắt buộc; không được chỉ tham gia nhiệm vụ tự chọn mà không có nhiệm vụ bắt buộc.
+- Trong thời gian thực hiện nhiệm vụ bắt buộc, ký chủ có thể nhận thêm nhiệm vụ tự chọn nếu đáp ứng điều kiện.
+- Bổ sung nguyên tắc này vào Mục 5.1, phạm vi Mục 16 và quy tắc nhanh.
+
+### Thất bại và hủy nhiệm vụ
+- Làm rõ thất bại của một lượt ký chủ chỉ khiến nhiệm vụ trở lại kho để tiếp tục phân phối; không đồng nghĩa nhiệm vụ bị hủy.
+- Ngoại lệ: nhiệm vụ bị Tổng bộ hủy khi hành vi phá hoại của người ủy thác được xác minh theo Mục 21.5.
+
+### Khế ước và thế giới nhiệm vụ
+- Chốt thế giới nhiệm vụ được xác định ngay tại thời điểm ký khế ước.
+- Bổ sung vào trình tự ký kết và chuyển hóa năng lượng.
+
+### Hệ thống mới và hệ thống cũ được khôi phục
+- Hệ thống mới tiếp quản là cá thể độc lập, chỉ nhận dữ liệu nghiệp vụ cần thiết; không nhận ký ức, cảm xúc hoặc nhân cách của hệ thống cũ.
+- Khôi phục từ bản sao lưu là khôi phục chính cá thể hệ thống cũ, tùy mức độ dữ liệu còn lại.
+- Hai cá thể không ghi đè, xóa hoặc thay thế dữ liệu tồn tại của nhau.
+
+### Người ủy thác – sửa đổi cơ chế 20% năng lượng
+- Giữ nguyên tỷ lệ 80% chuyển vào kho chung ngay khi ký khế ước và 20% do linh hồn người ủy thác nắm giữ.
+- Chốt 20% là nguồn duy nhất để người ủy thác tự nguyện đổi thành điểm thưởng cho ký chủ; không tồn tại khoản thưởng riêng nằm ngoài 20%.
+- Người ủy thác có thể phân bổ một phần hoặc toàn bộ 20% để thưởng trong quá trình nhiệm vụ, kể cả khi một lượt ký chủ chưa hoàn thành hoặc đã thất bại.
+- Khi một lượt ký chủ thất bại, phần 20% chưa sử dụng vẫn do linh hồn nắm giữ; nhiệm vụ trở lại kho để phân phối tiếp.
+- Khi nhiệm vụ thực sự hoàn thành, phần 20% chưa sử dụng chuyển về Tổng bộ và linh hồn người ủy thác tan biến.
+- Nếu nhiệm vụ bị hủy do phá hoại đã xác minh, phần 20% chưa sử dụng bị thu hồi; linh hồn bị cưỡng chế tiêu diệt.
+- Mục 21.6 được đổi từ “phần thưởng tự nguyện độc lập” thành “phân bổ phần thưởng từ 20% năng lượng hợp đồng”. Các mô tả cũ tại nhật ký v1.11 và v1.12 về khoản thưởng độc lập ngoài 20% đã bị thay thế bởi quyết định này.
+
+### Quyền cung cấp thông tin và giới hạn can thiệp
+- Người ủy thác không có nghĩa vụ cung cấp toàn bộ thông tin; có thể im lặng, không hợp tác hoặc che giấu thông tin trước khi ký khế ước.
+- Việc không cung cấp hoặc cung cấp thông tin không đầy đủ tự thân không bị xem là phá hoại; mục tiêu và điều kiện có hiệu lực là nội dung đã xác nhận trong khế ước.
+- Người ủy thác không thể giao tiếp với ký chủ hoặc nhân vật trong thế giới nhiệm vụ.
+- Phá hoại chỉ được kết luận khi có căn cứ về hành vi dùng năng lượng linh hồn hoặc phương thức bất thường để can thiệp trái phép; hiện tượng bất thường đơn thuần không đủ.
+
+### Các điểm đã rà soát và đồng bộ
+- Quy tắc nhanh 94–97 được sửa theo cơ chế hợp đồng mới.
+- Mục 6.5 bổ sung ngoại lệ hủy nhiệm vụ do phá hoại đã xác minh.
+- Các nội dung chưa được tác giả quyết định vẫn được giữ ở trạng thái chưa chốt, không tự suy diễn.
+- Bổ sung tệp `SYSTEM_CHARACTER_BIBLE.md` làm nơi lưu các nguyên tắc đã xác nhận về ba hệ thống đồng hành; chi tiết riêng của từng hệ thống tiếp tục để trống cho đến khi tác giả quyết định.
+
+### Trạng thái
+- Các cập nhật trên đã được ghi vào `SYSTEM_BIBLE.md` v1.13.
+- Những mô tả cũ trái với các quyết định mới trong nhật ký phiên bản trước không còn được áp dụng.
