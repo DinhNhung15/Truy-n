@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.11  
+**Phiên bản:** 1.12  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -32,9 +32,11 @@ Tổng bộ có hai nguồn năng lượng quan trọng:
 
 **Nguồn năng lượng nền**
 - Đến từ những người đã ký khế ước ước nguyện.
-- Người ước nguyện chuyển hóa thành năng lượng ngay sau khi khế ước hoàn tất.
-- Năng lượng được đưa vào nguồn vận hành chung của Tổng bộ.
-- Việc nhiệm vụ có được hoàn thành hay không không ảnh hưởng đến quá trình chuyển hóa này.
+- Sau khi khế ước hoàn tất, 80% tổng năng lượng hợp đồng được chuyển hóa và đưa vào nguồn vận hành chung của Tổng bộ.
+- Linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ và giữ lại 20% năng lượng hợp đồng để duy trì sự tồn tại, quan sát nhiệm vụ.
+- Khi nhiệm vụ thực sự hoàn thành, người ủy thác được tự quyết định dùng bao nhiêu trong 20% năng lượng còn lại để thưởng điểm cho ký chủ; phần năng lượng không dùng để thưởng được chuyển hóa về kho chung của Tổng bộ.
+- Nếu một ký chủ thất bại, nhiệm vụ được đưa lại vào kho để tiếp tục phân phối; 20% năng lượng còn lại vẫn do linh hồn người ủy thác giữ cho đến khi nhiệm vụ hoàn thành.
+- Nếu Tổng bộ hủy nhiệm vụ do người ủy thác phá hoại đã được xác minh, phần năng lượng chưa thanh toán bị thu hồi theo Mục 21; linh hồn người ủy thác bị tiêu diệt.
 
 **Nguồn năng lượng thưởng**
 - Được Tổng bộ cấp cho hệ thống con sau khi hệ thống và ký chủ hoàn thành nhiệm vụ.
@@ -75,7 +77,7 @@ Quy tắc:
 - Mong cầu đạt 100% chưa tự động tạo thành nhiệm vụ.
 - Người ước nguyện phải ký khế ước.
 - Sau khi khế ước hoàn tất, số lượng nhiệm vụ tăng thêm 1.
-- Người ước nguyện chuyển hóa thành năng lượng ngay sau khi ký khế ước.
+- Sau khi ký khế ước, 80% năng lượng hợp đồng được chuyển hóa vào kho chung của Tổng bộ; linh hồn người ủy thác vẫn tồn tại và giữ 20% năng lượng còn lại.
 
 ### B. Khối Chấp Hành
 
@@ -162,8 +164,8 @@ Người ủy thác xác nhận phương án, mục tiêu và điều kiện ho�
 
 **Bước 6: Chuyển hóa**  
 Ngay sau khi khế ước hoàn tất:
-- Người ủy thác chuyển hóa thành năng lượng.
-- Năng lượng được đưa vào nguồn vận hành chung.
+- 80% tổng năng lượng hợp đồng được chuyển hóa và đưa vào nguồn vận hành chung của Tổng bộ.
+- Linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ, giữ lại 20% năng lượng hợp đồng để quan sát.
 - Nguyện vọng được ghi nhận chính thức.
 
 **Bước 7: Tạo nhiệm vụ**  
@@ -182,7 +184,7 @@ Nhiệm vụ chờ hệ thống con tiếp nhận và thực hiện.
 - Không được tính nhiệm vụ mới nếu khế ước chưa hoàn tất.
 - Mỗi khế ước hoàn tất tạo thêm một nhiệm vụ.
 - Sau khi ký khế ước, nguyện vọng và điều kiện hoàn thành không thể thay đổi.
-- Người ước nguyện đã chuyển hóa thành năng lượng không phụ thuộc vào kết quả nhiệm vụ.
+- Việc chuyển hóa 80% năng lượng hợp đồng được thực hiện ngay sau khi ký; linh hồn người ủy thác vẫn tồn tại với 20% năng lượng còn lại. Phần năng lượng này chỉ được quyết toán khi nhiệm vụ thực sự hoàn thành, không phụ thuộc việc từng ký chủ được phân công thất bại hay thành công.
 
 ### Quy tắc cụ thể hóa và xác nhận nguyện vọng
 
@@ -1037,8 +1039,8 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 # 12. CÁC QUY TẮC BẮT BUỘC KHÔNG ĐƯỢC PHÁ VỠ
 
 1. Người ước nguyện phải ký khế ước thì nhiệm vụ mới được tạo.
-2. Người ước nguyện chuyển hóa thành năng lượng ngay sau khi ký khế ước.
-3. Năng lượng người ước nguyện không phụ thuộc nhiệm vụ thành công hay thất bại.
+2. Sau khi ký khế ước, 80% năng lượng hợp đồng được chuyển hóa vào kho chung của Tổng bộ; linh hồn người ủy thác vẫn tồn tại và giữ 20% năng lượng còn lại để quan sát.
+3. Khi nhiệm vụ thực sự hoàn thành, người ủy thác chọn phần năng lượng trong 20% còn lại dùng để thưởng điểm cho ký chủ; phần dư chuyển hóa về Tổng bộ. Thất bại của một lượt ký chủ không làm nhiệm vụ kết thúc hoặc khiến phần năng lượng này bị quyết toán.
 4. Hệ thống con có thể tự do tìm kiếm ký chủ.
 5. Nhiệm vụ được phân phối ngẫu nhiên và có cấp bậc.
 6. Ký chủ không được từ chối nhiệm vụ bắt buộc.
@@ -1758,7 +1760,7 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 
 ## 20.4. Vé quay lại thế giới nhiệm vụ đã hoàn thành
 
-- Giá vé: **10 tỷ điểm/vé**.
+- Giá vé: **10 tỷ điểm/vé**, không phân biệt ký chủ mua để tự sử dụng hay chỉ định người khác làm người nhận. Đây là mức giá riêng của SYS-015, khác cơ chế giá theo người nhận tại SYS-010.
 - Vé được bán trực tiếp trong cửa hàng hệ thống.
 - Không giới hạn số lượng vé ký chủ có thể mua nếu đủ điểm và đáp ứng điều kiện mua hàng của cửa hàng.
 - Mỗi vé chỉ sử dụng được một lần.
@@ -1774,15 +1776,15 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 
 ## 21.1. Thanh toán năng lượng hợp đồng
 
-- Khi hợp đồng được ký, **80% năng lượng hợp đồng được thanh toán trước** và đưa vào nguồn năng lượng chung của Tổng bộ.
-- Phần năng lượng còn lại do người ủy thác tự lựa chọn tỷ lệ; không quy định mức tối thiểu hoặc tối đa cố định.
-- Phần năng lượng còn lại chỉ được thanh toán khi nhiệm vụ hoàn thành.
-- Nhiệm vụ thất bại ở lượt thực hiện của một ký chủ không đồng nghĩa nhiệm vụ kết thúc. Nhiệm vụ được đưa trở lại kho để tiếp tục phân phối cho ký chủ khác cho đến khi hoàn thành; phần năng lượng hợp đồng còn lại tiếp tục chờ đến khi nhiệm vụ hoàn thành.
-- Nếu nhiệm vụ bị Tổng bộ hủy do người ủy thác phá hoại, phần năng lượng hợp đồng chưa thanh toán bị Tổng bộ thu hồi; 80% đã thanh toán trước đó vẫn thuộc Tổng bộ.
+- Khi hợp đồng được ký, **80% tổng năng lượng hợp đồng được thanh toán trước** và đưa vào kho năng lượng chung của Tổng bộ.
+- **20% năng lượng còn lại vẫn thuộc quyền nắm giữ của linh hồn người ủy thác**, đồng thời duy trì sự tồn tại của linh hồn trong thế giới nhiệm vụ để quan sát. Người ủy thác không bị chuyển hóa toàn bộ thành năng lượng.
+- Khi nhiệm vụ thực sự hoàn thành, người ủy thác tự quyết định dùng bao nhiêu trong 20% năng lượng còn lại để thưởng điểm cho ký chủ; không có mức tối thiểu hoặc tối đa cố định. Phần năng lượng không dùng để thưởng được chuyển hóa và nhập vào kho chung của Tổng bộ.
+- Thất bại ở lượt thực hiện của một ký chủ không đồng nghĩa nhiệm vụ kết thúc. Nhiệm vụ được đưa trở lại kho để tiếp tục phân phối cho ký chủ khác; 20% năng lượng còn lại vẫn do linh hồn người ủy thác giữ và chưa được quyết toán cho đến khi nhiệm vụ hoàn thành.
+- Nếu nhiệm vụ bị Tổng bộ hủy do người ủy thác phá hoại đã được xác minh, phần 20% năng lượng chưa thanh toán bị Tổng bộ thu hồi; 80% đã thanh toán trước đó vẫn thuộc Tổng bộ.
 
 ## 21.2. Trạng thái và quyền quan sát của người ủy thác
 
-- Sau khi ký hợp đồng, linh hồn người ủy thác ở lại thế giới nhiệm vụ để quan sát diễn biến.
+- Sau khi ký hợp đồng, linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ, giữ lại 20% năng lượng hợp đồng để duy trì sự tồn tại và quan sát diễn biến.
 - Người ủy thác có thể theo dõi nhiệm vụ như một khán giả: quan sát hành động, lời nói, tương tác và diễn biến đang xảy ra trong thế giới nhiệm vụ.
 - Người ủy thác không thể nhìn thấy, nghe thấy hoặc giao tiếp trực tiếp với ký chủ; không thể giao tiếp với ký chủ thông qua kênh riêng.
 - Người ủy thác không thể trực tiếp tương tác vật lý với thế giới nhiệm vụ.
@@ -1813,18 +1815,18 @@ Nếu Tổng bộ xác minh người ủy thác có hành vi phá hoại:
 - Ký chủ nhận **50% điểm thưởng cơ bản của nhiệm vụ**.
 - EXP của ký chủ được tính theo phần công việc thực tế đã hoàn thành.
 - Người ủy thác bị cưỡng chế tiêu diệt; linh hồn biến mất.
-- Phần năng lượng hợp đồng chưa thanh toán bị Tổng bộ thu hồi.
+- Phần 20% năng lượng hợp đồng còn lại chưa thanh toán bị Tổng bộ thu hồi.
 - Phần 80% năng lượng đã thanh toán trước đó vẫn thuộc Tổng bộ.
 
 Sau khi hợp đồng được ký và nhiệm vụ hình thành, người ủy thác không thể đơn phương hủy hoặc rút khỏi hợp đồng. Việc Tổng bộ hủy hợp đồng do hành vi phá hoại đã được xác minh là ngoại lệ đã được quy định ở trên.
 
 ## 21.6. Phần thưởng tự nguyện của người ủy thác
 
-- Người ủy thác có thể tự nguyện thưởng thêm điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành.
-- Không có mức thưởng cố định; mức thưởng do người ủy thác tự quyết định trong phạm vi năng lượng họ có thể sử dụng.
+- Ngoài việc phân bổ phần 20% năng lượng hợp đồng còn lại tại Mục 21.1 khi nhiệm vụ hoàn thành, người ủy thác có thể tự nguyện thưởng thêm điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành.
+- Khoản thưởng tự nguyện này là khoản riêng, không lấy từ phần 20% năng lượng hợp đồng đang giữ để quan sát; không có mức thưởng cố định, do người ủy thác tự quyết định trong phạm vi năng lượng họ có thể sử dụng.
 - Điểm thưởng được cộng trực tiếp vào tài khoản ký chủ.
 - Năng lượng thưởng được chuyển trực tiếp cho hệ thống đồng hành của ký chủ.
 - Đây là khoản thưởng bổ sung, độc lập với phần thưởng nhiệm vụ và không làm thay đổi kết quả đánh giá nhiệm vụ.
 - Người ủy thác có thể lựa chọn thưởng thêm kể cả khi nhiệm vụ thất bại.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.11**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.12**
