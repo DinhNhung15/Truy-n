@@ -1,3 +1,24 @@
+## 2026-11-11 – Chốt phân cấp 16 thế giới nhiệm vụ
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_INDEX.md`
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/MISSION_CLASSIFICATION.md`
+
+### Nội dung đã chốt
+- Chốt danh mục 16 thế giới và cấp nhiệm vụ theo hồ sơ thiết kế: D (2), C (2), B (3), A (5), S (3), SS (1).
+- Chốt 5 mức liên quan Tổng bộ: M0 (10 thế giới), M1 (3), M2 (1), M3 (1), M4 (1).
+- Mức liên quan Tổng bộ là nhãn quản lý tuyến bí mật cốt truyện, độc lập với cấp nhiệm vụ SYS-002.
+- Giữ nguyên thứ tự và mã WORLD_001–WORLD_016; số thứ tự hồ sơ không đồng nghĩa số nhiệm vụ cá nhân.
+- Ghi rõ điểm thành phần và điểm tổng SYS-002 chưa được chấm cho các thế giới chưa có hồ sơ nhiệm vụ chi tiết; không tự tạo điểm số. Cấp đã chốt hiện là cấp thiết kế của hồ sơ, sẽ được đối chiếu khi nhiệm vụ cụ thể hoàn thiện.
+
+### Trạng thái
+- WORLD_INDEX.md được cập nhật thành danh mục 16 thế giới.
+- Tạo MISSION_CLASSIFICATION.md làm hồ sơ quản lý cấp nhiệm vụ và mức độ liên quan Tổng bộ.
+- Không thay đổi SYSTEM_BIBLE.md hoặc các quy tắc SYS-002.
+- Không tự tạo hồ sơ chi tiết WORLD_003–WORLD_016 trong lần cập nhật này.
+
+---
+
 ## 2026-11-11 – SYSTEM_BIBLE.md v1.12
 
 **Tài liệu cập nhật:** `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`  
