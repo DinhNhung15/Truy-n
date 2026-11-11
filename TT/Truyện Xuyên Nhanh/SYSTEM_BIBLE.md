@@ -1,8 +1,8 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.7  
-**Trạng thái:** Tài liệu nền tảng – SYS-007, SYS-008 và SYS-012 đã được tác giả xác nhận  
+**Phiên bản:** 1.8  
+**Trạng thái:** Tài liệu nền tảng – SYS-002 (nguyên tắc đánh giá và điều chỉnh cấp), SYS-007, SYS-008 và SYS-012 đã được tác giả xác nhận  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
 ---
@@ -292,7 +292,160 @@ Cấp bậc nhiệm vụ ảnh hưởng đến:
 - Năng lượng thưởng của hệ thống con.
 - Mức độ nguy hiểm và độ phức tạp.
 
-Tiêu chuẩn chi tiết để xếp một nhiệm vụ vào từng cấp sẽ được thiết kế riêng; chưa mặc định cấp nhiệm vụ tương ứng với cấp ký chủ.
+Cấp nhiệm vụ được xác định theo tiêu chuẩn đánh giá SYS-002 dưới đây; không mặc định cấp nhiệm vụ tương ứng với cấp ký chủ.
+
+### SYS-002 – Tiêu chuẩn đánh giá và phân cấp nhiệm vụ
+
+#### 1. Phương pháp đánh giá
+
+- Cấp nhiệm vụ được xác định bằng phương pháp kết hợp: hệ thống nghiệp vụ nhiệm vụ chấm điểm và đề xuất cấp; Cục Điều Phối xem xét, phê duyệt hoặc điều chỉnh trong những trường hợp cần thiết.
+- Mọi điều chỉnh cấp phải có căn cứ khách quan, lý do rõ ràng và được lưu hồ sơ.
+- Việc đánh giá căn cứ vào bản chất, điều kiện và mức độ khách quan của nhiệm vụ, không căn cứ vào năng lực của ký chủ được phân công.
+
+#### 2. Năm tiêu chí và trọng số cơ bản
+
+| Tiêu chí | Trọng số cơ bản |
+|---|---:|
+| Độ khó | 25% |
+| Mức độ nguy hiểm | 30% |
+| Tính cấp bách/thời hạn | 10% |
+| Phạm vi ảnh hưởng | 15% |
+| Độ phức tạp | 20% |
+
+Mỗi tiêu chí được chấm theo thang điểm từ 1 đến 5.
+
+**Thang đánh giá độ khó**
+- 1: Nhiệm vụ rất đơn giản, không đòi hỏi kỹ năng đặc biệt.
+- 2: Cần kỹ năng hoặc kinh nghiệm cơ bản.
+- 3: Cần kỹ năng chuyên môn/kinh nghiệm và nỗ lực đáng kể.
+- 4: Đòi hỏi năng lực cao, nhiều kỹ năng chuyên biệt hoặc nguồn lực khan hiếm.
+- 5: Đòi hỏi năng lực đặc biệt hoặc nguồn lực cực hiếm; ngay cả người có kinh nghiệm cũng rất khó thực hiện.
+
+**Thang đánh giá mức độ nguy hiểm**
+- 1: Hầu như không có nguy cơ gây hại.
+- 2: Rủi ro nhỏ, có thể kiểm soát; hậu quả nhẹ.
+- 3: Có thể gây thương tích, tổn thất đáng kể hoặc đe dọa tính mạng trong một số tình huống.
+- 4: Nguy cơ tử vong cao hoặc gây tổn hại nghiêm trọng cho nhiều người.
+- 5: Thảm họa, tử vong hàng loạt, phá hủy quy mô lớn hoặc đe dọa sự tồn tại của một khu vực, cộng đồng hay thế giới.
+
+**Thang đánh giá tính cấp bách/thời hạn**
+- 1: Không có thời hạn nghiêm ngặt.
+- 2: Có thời hạn nhưng còn dư dả.
+- 3: Thời hạn tương đối gấp, cần kế hoạch và tiến độ ổn định.
+- 4: Thời hạn rất ngắn, ít thời gian chuẩn bị hoặc trì hoãn.
+- 5: Cực kỳ khẩn cấp; chỉ có một khoảng thời gian rất ngắn để ngăn hậu quả nghiêm trọng hoặc hoàn thành mục tiêu.
+
+**Thang đánh giá phạm vi ảnh hưởng**
+- 1: Một người hoặc sự việc biệt lập.
+- 2: Một nhóm nhỏ, gia đình hoặc đơn vị nhỏ.
+- 3: Một tổ chức, cộng đồng hoặc khu vực địa phương.
+- 4: Nhiều cộng đồng, khu vực rộng lớn hoặc cấp quốc gia.
+- 5: Liên quốc gia, toàn thế giới hoặc làm thay đổi trật tự tồn tại của thế giới.
+
+**Thang đánh giá độ phức tạp**
+- 1: Công việc đơn giản, tuyến tính.
+- 2: Có một số yếu tố liên quan nhưng quan hệ rõ ràng.
+- 3: Có nhiều yếu tố, nhiều bước hoặc nhiều bên cần phối hợp và thích ứng.
+- 4: Các yếu tố phụ thuộc lẫn nhau, biến số khó dự đoán; một thay đổi có thể tác động đến nhiều phần khác.
+- 5: Hệ thống cực kỳ phức tạp, lợi ích xung đột, quan hệ chồng chéo, nhiều biến số khó kiểm soát và toàn bộ diễn biến khó dự đoán.
+
+Độ khó phản ánh năng lực, công sức và nguồn lực cần thiết; độ phức tạp phản ánh số lượng yếu tố và mức độ phụ thuộc lẫn nhau giữa chúng. Nếu các dấu hiệu trong cùng một tiêu chí thuộc nhiều mức khác nhau, Cục Điều Phối đánh giá toàn cảnh để chọn mức đại diện, không mặc định lấy mức cao nhất, thấp nhất hoặc trung bình cộng. Điểm 5 phải có căn cứ tương xứng; riêng thông tin chưa rõ không tự động được xem là mức 5.
+
+#### 3. Công thức và ngưỡng điểm cơ bản
+
+Điểm tổng được tính theo công thức:
+
+\[
+S=\sum_{i=1}^{5}\frac{Điểm_i}{5}\times Trọng\ số_i
+\]
+
+Với thang điểm từng tiêu chí từ 1 đến 5, điểm tổng cơ bản nằm trong khoảng 20–100.
+
+| Cấp nhiệm vụ | Điểm tổng cơ bản |
+|---|---:|
+| F | 20–29 |
+| E | 30–39 |
+| D | 40–49 |
+| C | 50–59 |
+| B | 60–69 |
+| A | 70–79 |
+| S | 80–89 |
+| SS | 90–100 |
+
+Ngưỡng có thể được điều chỉnh theo loại nhiệm vụ để phản ánh đúng đặc thù đánh giá. Ngoài kết quả điểm tổng, nguy hiểm đặc biệt có thể là căn cứ độc lập để nâng cấp nhiệm vụ, kể cả khi điểm tổng chưa chạm ngưỡng cấp tiếp theo.
+
+#### 4. Hệ số theo loại nhiệm vụ
+
+- Mỗi loại nhiệm vụ có bộ hệ số riêng cho 5 tiêu chí, phản ánh đặc điểm khách quan của loại nhiệm vụ đó.
+- Hệ số chỉ điều chỉnh tỷ trọng tương đối giữa các tiêu chí, không trực tiếp cộng hoặc trừ điểm tổng.
+- Sau khi áp dụng hệ số, trọng số được chuẩn hóa để tổng bằng 100%.
+- Nhiệm vụ có thể thuộc nhiều loại. Hệ thống xác định tỷ trọng tương đối của từng loại theo mục tiêu và bản chất nhiệm vụ, kết hợp các bộ hệ số thành một bộ hệ số chung rồi chuẩn hóa về 100%.
+- Mục tiêu chính quyết định loại nhiệm vụ chủ đạo. Mục tiêu phụ chỉ được tính vào phân loại đa loại nếu ảnh hưởng đáng kể đến độ khó, nguy hiểm, tính cấp bách hoặc phạm vi ảnh hưởng; công việc hỗ trợ thông thường không tự trở thành một loại nhiệm vụ riêng.
+- Nếu mục tiêu chính thay đổi về bản chất do diễn biến khách quan, hệ thống đánh giá lại loại nhiệm vụ và tỷ trọng các loại; Cục Điều Phối phê duyệt. Việc phân loại lại không được làm thay đổi mục tiêu hoặc điều kiện hoàn thành đã ký với người ủy thác.
+- Hệ số cụ thể của từng loại nhiệm vụ được quy định khi hoàn thiện danh mục loại nhiệm vụ; không mặc định một bộ hệ số chung cho mọi loại.
+
+#### 5. Dữ liệu và căn cứ đánh giá
+
+Dữ liệu được chia thành ba mức:
+- **Dữ liệu đã xác minh:** có bằng chứng trực tiếp hoặc nguồn đáng tin cậy; được dùng cho đánh giá chính thức.
+- **Dữ liệu có căn cứ nhưng chưa xác minh:** có dấu hiệu và nguồn hỗ trợ nhưng chưa đủ xác nhận; được dùng cho đánh giá tạm thời.
+- **Suy đoán:** giả thuyết, tin đồn hoặc thông tin không có căn cứ; không được dùng làm căn cứ duy nhất để nâng cấp nhiệm vụ.
+
+Nếu dữ liệu chưa đầy đủ, hệ thống đánh giá tạm thời theo thông tin hiện có. Dữ liệu chưa xác minh cho thấy nguy hiểm tiềm tàng đặc biệt nghiêm trọng có thể là căn cứ áp dụng cấp nguy hiểm tạm thời, sau đó phải được xác minh. Đối tượng hoặc mối đe dọa chưa phân loại được đánh giá theo dữ liệu hiện có và mức nguy hiểm tiềm tàng; không mặc định mọi yếu tố chưa rõ đều ở mức nguy hiểm tối đa.
+
+Phạm vi đánh giá lấy khu vực và điều kiện thực tế liên quan đến nhiệm vụ làm trọng tâm, đồng thời tính đến các mối đe dọa, thực thể hoặc sự kiện bên ngoài nếu chúng có khả năng tác động trực tiếp đến nhiệm vụ. Những nguy cơ ở khu vực không liên quan và không có ảnh hưởng trực tiếp không được tính vào cấp nhiệm vụ.
+
+#### 6. Điều chỉnh cấp nhiệm vụ
+
+- Chỉ đánh giá lại khi có thay đổi khách quan đáng kể ảnh hưởng đến bản chất hoặc điều kiện nhiệm vụ, có dữ liệu mới đáng tin cậy, xuất hiện dấu hiệu nguy hiểm chưa được tính đến hoặc có căn cứ cho thấy phân loại ban đầu không còn phù hợp.
+- Không có lịch rà soát định kỳ cố định; việc đánh giá lại được kích hoạt khi có căn cứ hoặc dấu hiệu thay đổi quan trọng.
+- Không điều chỉnh cấp chỉ vì ký chủ thực hiện nhanh/chậm, có năng lực cao/thấp, tìm được phương pháp hiệu quả hơn hoặc gặp khó khăn do sai lầm cá nhân.
+- Khi phân loại nhiệm vụ thay đổi, phải đánh giá lại toàn bộ 5 tiêu chí, áp dụng bộ hệ số tương ứng và tính lại điểm tổng từ đầu; không chỉ sửa riêng tiêu chí bị tác động.
+- Cục Điều Phối có thể nâng hoặc hạ cấp nếu điều kiện khách quan thực sự thay đổi. Việc hạ cấp không được căn cứ vào việc ký chủ đã thành công, tiến độ, kỹ năng hoặc việc ký chủ tự làm nhiệm vụ dễ hơn.
+- Mỗi lần điều chỉnh thông thường không quá một cấp. Trường hợp ngoại lệ có căn cứ khách quan đặc biệt có thể điều chỉnh nhiều cấp.
+- Có thể điều chỉnh nhiều lần trong một nhiệm vụ, nhưng mỗi lần phải có căn cứ khách quan mới; không được lặp lại cùng một lý do đã dùng cho lần điều chỉnh trước.
+- Cấp mới có hiệu lực ngay sau khi Cục Điều Phối phê duyệt. Điểm thưởng, EXP và hình phạt được tính theo cấp đang có hiệu lực tại thời điểm nhiệm vụ hoàn thành hoặc thất bại; không chia theo thời gian ký chủ thực hiện ở từng cấp và không điều chỉnh hồi tố các kết quả đã quyết toán.
+
+#### 7. Nhiệm vụ có nguy hiểm phát sinh và cấp tạm thời
+
+- Khi xuất hiện nguy hiểm cực đoan bất ngờ, hệ thống đồng hành phải cảnh báo ký chủ ngay.
+- Cơ chế khẩn cấp của Tổng bộ có thể áp dụng cấp nguy hiểm tạm thời trước khi hoàn tất đánh giá; Cục Điều Phối sau đó xác minh và đưa ra quyết định chính thức.
+- Cấp tạm thời tiếp tục có hiệu lực cho đến khi mối đe dọa được xác minh và Cục Điều Phối ban hành quyết định tiếp theo; không đặt thời hạn cố định.
+- Nếu ký chủ hoàn thành nhiệm vụ khi cấp tạm thời vẫn có hiệu lực và đánh giá chính thức chưa hoàn tất, ký chủ được quyết toán ngay theo cấp tạm thời. Không điều chỉnh giảm hoặc tăng quyền lợi đã quyết toán chỉ vì kết quả đánh giá cuối cùng khác đi, trừ trường hợp phát hiện sai sót dữ liệu nghiêm trọng.
+- Nếu nhiệm vụ thất bại khi cấp tạm thời còn hiệu lực, hình phạt được áp dụng ngay theo cấp tạm thời. Nếu cần đánh giá lại sau thất bại, nhiệm vụ tạm thời được giữ lại và chưa phân phối cho ký chủ tiếp theo cho đến khi Cục Điều Phối xem xét xong.
+- Nếu kết quả đánh giá sau đó cho thấy cấp nhiệm vụ cần cao hơn hoặc thấp hơn cấp tạm thời, hình phạt đã quyết toán của ký chủ trước vẫn giữ nguyên; không truy thu hoặc hoàn trả. Cấp mới được áp dụng cho lần phân phối tiếp theo.
+- Nếu phát hiện sai sót dữ liệu nghiêm trọng sau khi nhiệm vụ đã hoàn thành và quyền lợi đã quyết toán, giữ nguyên quyền lợi của ký chủ; Tổng bộ xử lý sai sót nội bộ, không truy thu hoặc điều chỉnh hồi tố.
+
+#### 8. Nhiều ký chủ lần lượt thất bại ở cùng nhiệm vụ bắt buộc
+
+- Việc nhiều ký chủ liên tiếp thất bại là dấu hiệu để xem xét lại cấp nhiệm vụ, không tự động khiến nhiệm vụ được nâng cấp.
+- Cục Điều Phối phải xác định có bằng chứng khách quan cho thấy độ khó hoặc nguy hiểm đã bị đánh giá thấp; không nâng cấp chỉ vì ký chủ yếu hoặc mắc sai lầm cá nhân.
+- Nhiệm vụ bắt buộc chỉ giao cho một ký chủ tại một thời điểm. Khi ký chủ thất bại, nhiệm vụ trở lại kho để phân phối cho người khác.
+- Nếu có căn cứ nâng cấp, việc đánh giá và điều chỉnh phải hoàn tất trước khi phân phối nhiệm vụ cho ký chủ tiếp theo.
+- Việc điều chỉnh cấp không được thay đổi mục tiêu hoặc điều kiện hoàn thành đã thống nhất với người ủy thác.
+- Kết quả và hình phạt đã quyết toán của các ký chủ trước được giữ nguyên theo cấp có hiệu lực trong lượt của họ; ký chủ tiếp theo áp dụng cấp mới.
+
+#### 9. Thông tin ký chủ được biết
+
+Ký chủ được thông báo:
+- Cấp nhiệm vụ tại thời điểm được phân công.
+- Mục tiêu, điều kiện hoàn thành, thời hạn và thông tin cần thiết để thực hiện.
+- Khi cấp nhiệm vụ thay đổi: cấp cũ, cấp mới và lý do cơ bản.
+
+Thông báo điều chỉnh không được làm gián đoạn hoạt động nguy hiểm của ký chủ. Ký chủ không được xem trọng số, hệ số, ngưỡng điểm chính xác, công thức, hồ sơ đánh giá hoặc dữ liệu nội bộ và không có quyền khiếu nại/yêu cầu xem xét lại cấp nhiệm vụ.
+
+#### 10. Hồ sơ và kiểm tra đánh giá
+
+- Mỗi lần điều chỉnh phải có bản ghi riêng, không ghi đè lịch sử; hồ sơ gồm cấp trước/sau, điểm 5 tiêu chí, điểm tổng, bộ hệ số, dữ liệu và lý do, đơn vị đề xuất/phê duyệt, thời điểm đề xuất và thời điểm có hiệu lực.
+- Hệ thống nghiệp vụ tạo và lưu hồ sơ; Cục Điều Phối được xem toàn bộ và phê duyệt; đơn vị khác chỉ xem phần cần thiết cho chức trách; ký chủ không được truy cập hồ sơ nội bộ.
+- Sai sót khi nhiệm vụ còn hoạt động phải được lập hồ sơ sửa đổi và trình Cục Điều Phối phê duyệt. Dữ liệu cũ không bị xóa hoặc ghi đè.
+- Sai sót phát hiện sau khi nhiệm vụ đã kết thúc và quyết toán không làm thay đổi quyền lợi của ký chủ; Tổng bộ xử lý nội bộ.
+- Trách nhiệm được xác định theo nguồn gây sai sót: hệ thống nghiệp vụ chịu trách nhiệm về lỗi tính toán/xử lý dữ liệu; Cục Điều Phối chịu trách nhiệm về quyết định phê duyệt sai; đơn vị cung cấp dữ liệu chịu trách nhiệm về thông tin sai lệch hoặc bỏ sót thuộc trách nhiệm báo cáo. Nếu nhiều bên cùng có lỗi, xác định trách nhiệm riêng.
+- Sai sót khách quan không do bất cẩn được ghi nhận và khắc phục; thiếu cẩn trọng hoặc sai quy trình có thể bị nhắc nhở, cảnh cáo hoặc xem xét kỷ luật; cố ý làm sai lệch dữ liệu, bao che hoặc lạm dụng quyền hạn phải bị điều tra và xử lý nghiêm. Không xử phạt người đánh giá chỉ vì kết quả ban đầu khác kết quả cuối cùng nếu họ tuân thủ quy trình và dùng dữ liệu đáng tin cậy tại thời điểm đánh giá.
+- Nhiệm vụ cấp cao hoặc có nguy cơ đặc biệt phải được kiểm tra chéo trước khi phê duyệt. Nhiệm vụ thông thường có thể áp dụng quy trình tự động và hậu kiểm khi có dấu hiệu bất thường.
+- Người kiểm tra chéo phải độc lập với người đề xuất; phạm vi kiểm tra gồm độ tin cậy dữ liệu, điểm 5 tiêu chí, bộ hệ số, căn cứ xếp cấp và nguy hiểm đặc biệt. Người kiểm tra lập ý kiến phản biện, không tự ý thay đổi kết quả.
+- Nếu có bất đồng, cấp có thẩm quyền cao hơn trong Cục Điều Phối quyết định; ý kiến bất đồng và quyết định cuối cùng được lưu hồ sơ.
+- Người có xung đột lợi ích phải rút khỏi quy trình xét duyệt; người có thẩm quyền độc lập khác tiếp nhận.
 
 ### Bảng điểm và EXP thưởng cho ký chủ
 
@@ -1385,4 +1538,4 @@ Mục này quy định các nguyên tắc chung về vật phẩm giữ mạng. 
 10. Được cứu, hồi sinh hoặc tạm thời mất khả năng hành động không tự động đồng nghĩa với nhiệm vụ thất bại.
 11. Nếu không có vật phẩm phù hợp hoặc vật phẩm không thể kích hoạt trước nguy hiểm, ký chủ vẫn có thể tử vong và chịu quy tắc thất bại thông thường.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.7**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.8**
