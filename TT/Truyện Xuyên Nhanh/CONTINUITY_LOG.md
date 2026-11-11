@@ -1,3 +1,51 @@
+## 2026-11-11 – SYSTEM_BIBLE.md v1.11
+
+**Tài liệu cập nhật:** `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`  
+**Phiên bản:** 1.10 → 1.11  
+**Phạm vi:** SYS-003, SYS-009, SYS-015 và quy tắc người ủy thác/linh hồn/hợp đồng.
+
+### SYS-003 – Tiện ích mở khóa theo cấp ký chủ
+- Chốt bốn mốc tiện ích: F–E, D–C, B–A và S–SS.
+- F–E: hồ sơ ký chủ, sổ tay nhiệm vụ, ghi chú cá nhân, quản lý kho đồ và lịch sử giao dịch.
+- D–C: thống kê/phân tích cá nhân, so sánh vật phẩm/kỹ năng, quản lý và chuẩn bị nhiệm vụ, mở rộng/phân khu/tìm kiếm kho, lưu bộ trang bị, mở rộng sổ tay và tiện ích theo dõi giao dịch.
+- B–A: phân tích nhiệm vụ, mô phỏng tình huống, quản lý tài nguyên nâng cao, mở rộng kho nâng cao, bộ hồ sơ nhiệm vụ, tra cứu chéo và quản lý giao dịch nâng cao.
+- S–SS: cá nhân hóa giao diện/bảng điều khiển, quản lý kho cao cấp, phân tích chuyên sâu, quản lý tài nguyên/giao dịch và tự động hóa thao tác.
+- Chốt nguyên tắc mở khóa tính năng không đồng nghĩa nâng cấp miễn phí; các tiện ích không cấp quyền hành chính hoặc truy cập bí mật, không dự đoán tương lai và chỉ xử lý dữ liệu ký chủ có quyền tiếp cận.
+
+### SYS-009 – Giỏ hàng tham chiếu và tương thích thế giới
+- Mở rộng giỏ hàng tham chiếu thành 7 nhóm: nhu yếu phẩm; sinh hoạt; y tế; công cụ/vật liệu; vũ khí/trang bị; hàng hóa đặc thù; dịch vụ.
+- Chốt cơ cấu và trọng số giỏ hàng thay đổi theo từng thế giới, dựa trên nền kinh tế, mức độ phổ biến, tính thiết yếu và sức mua thực tế.
+- Hệ thống nghiệp vụ tự thu thập dữ liệu, phân tích và tính trọng số; Tổng bộ kiểm tra/phê duyệt khi biến động lớn hoặc dữ liệu bất thường.
+- Chốt cập nhật định kỳ 3 tháng/lần và cập nhật đột xuất khi có biến động kinh tế lớn; không cập nhật chỉ vì vài mặt hàng biến động ngắn hạn.
+- Hàng hóa có sản phẩm tương đương được đối chiếu theo công dụng; hàng hóa không có tương đương được ghi nhận thành nhóm đặc thù.
+- Khi thiếu thị trường hoặc dữ liệu đáng tin cậy, Tổng bộ tự định giá dựa trên công dụng, độ khan hiếm, mức độ phổ biến, giá trị sử dụng và điều kiện kinh tế; có thể đối chiếu thế giới khác. Ký chủ chỉ xem giá quy đổi cuối cùng và tỷ giá, không xem công thức hay dữ liệu kinh tế nội bộ.
+- Chốt nguyên tắc tương thích thế giới: hệ thống kiểm tra và thông báo trước khi dùng; tùy vật phẩm có thể hoạt động bình thường, bị hạn chế, chuyển trạng thái tương thích nếu cơ chế cho phép hoặc vô hiệu hóa công năng không tương thích. Không thay đổi quy luật nền tảng của thế giới.
+
+### SYS-015 – Vé quay lại thế giới nhiệm vụ đã hoàn thành
+- Chốt giá 10 tỷ điểm/vé; bán trực tiếp trong cửa hàng hệ thống; không giới hạn số lượng mua nếu đủ điểm và điều kiện; mỗi vé dùng một lần.
+- Ký chủ được chọn thời điểm quay lại sau khi thế giới nhiệm vụ đã hoàn thành.
+- Các quy tắc mua, lưu trữ, chỉ định người nhận, kích hoạt và xử lý khi người nhận tử vong kế thừa SYS-010; đích đến là thế giới nhiệm vụ đã hoàn thành thay vì thế giới thực.
+- Kích hoạt khi đang làm nhiệm vụ bắt buộc được xử lý sau khi nhiệm vụ hiện tại có kết quả; nếu thất bại phải xử lý hình phạt và còn sống mới được quay lại.
+- Giữ hai lựa chọn thân phận cũ/thân phận mới và quyền ở lại đã chốt trước đó.
+
+### Người ủy thác – linh hồn, hợp đồng và quyền quan sát
+- Chốt thanh toán trước 80% năng lượng hợp đồng; phần còn lại do người ủy thác tự chọn tỷ lệ, không có mức tối thiểu/tối đa cố định và chỉ thanh toán khi nhiệm vụ hoàn thành.
+- Thất bại của một ký chủ chỉ kết thúc lượt thực hiện; nhiệm vụ trở lại kho để phân phối tiếp cho ký chủ khác cho đến khi hoàn thành. Phần năng lượng còn lại tiếp tục chờ, không bị xem là thất bại cuối cùng.
+- Người ủy thác quan sát nhiệm vụ như khán giả theo thời gian thực; không giao tiếp với ký chủ, không tương tác vật lý, không tua lại/xem lại. Có thể tạm dừng và tiếp tục quan sát; thời gian bỏ lỡ không thể xem lại.
+- Cảnh thân mật, sinh hoạt cá nhân riêng tư, thay quần áo và vệ sinh cá nhân được che khuất; không mở rộng tự động sang các cuộc trò chuyện riêng tư.
+- Người ủy thác không được sử dụng năng lượng linh hồn hoặc phương thức bất thường để can thiệp vào thế giới vì mục đích cá nhân; việc không hợp tác/không cung cấp thông tin tự nó không phải phá hoại.
+- Tổng bộ giám sát năng lượng linh hồn; khi có dấu hiệu bất thường thì xác minh nguồn và hành vi. Chỉ kết luận phá hoại khi có căn cứ về hành vi can thiệp trái phép, không chỉ dựa vào hiện tượng lạ.
+- Nếu phá hoại được xác minh: hủy hợp đồng và nhiệm vụ; ký chủ nhận 50% điểm thưởng cơ bản, EXP theo công việc thực tế; người ủy thác bị cưỡng chế tiêu diệt, linh hồn biến mất; năng lượng chưa thanh toán bị thu hồi, 80% đã trả trước vẫn thuộc Tổng bộ.
+- Sau khi ký hợp đồng, người ủy thác không thể đơn phương rút/hủy; ngoại lệ là Tổng bộ hủy do phá hoại đã xác minh.
+- Người ủy thác có thể tự nguyện thưởng thêm điểm cho ký chủ và năng lượng cho hệ thống đồng hành; không có mức thưởng cố định, chuyển trực tiếp vào tài khoản tương ứng, độc lập với phần thưởng nhiệm vụ và có thể trao dù nhiệm vụ thất bại.
+
+### Trạng thái
+- SYS-003, SYS-009 ở phạm vi nguyên tắc đã thống nhất, SYS-015 và quy tắc người ủy thác vừa cập nhật được ghi nhận trong SYSTEM_BIBLE.md v1.11.
+- Không bổ sung các công thức, ngưỡng hoặc cơ chế kỹ thuật mà tác giả chưa yêu cầu; nội dung chi tiết chỉ được mở rộng khi cần cho cốt truyện.
+- Các nội dung canon trước đó được giữ nguyên, trừ những chỗ cập nhật trạng thái và chi tiết được nêu trong mục này.
+
+---
+
 ## 2026-11-11 – SYSTEM_BIBLE.md v1.10
 
 **Tài liệu cập nhật:** `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`  
