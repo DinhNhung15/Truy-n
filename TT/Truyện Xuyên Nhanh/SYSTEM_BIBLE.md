@@ -1096,7 +1096,7 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 44. Kỹ năng có định danh, gắn với ký chủ và không thể tặng, chuyển nhượng hoặc mua bán; vật phẩm chứa tri thức để học kỹ năng được xem là vật phẩm, không phải kỹ năng đã sở hữu.
 45. Đơn vị tiền tệ chung để định giá và hạch toán giao dịch trên chợ là S.
 46. Chợ hỗ trợ thanh toán/đối giá bằng điểm tích lũy, tiền tệ thế giới hoặc vật phẩm; hệ thống định giá theo S và chuyển giao theo phương thức đã ghi nhận. Người bán trả phí đăng bán 5% giá niêm yết quy đổi theo S bằng điểm cá nhân trước khi vật phẩm lên kệ; không thu thêm phí khi giao dịch hoàn tất.
-47. Hệ thống tự xác định tỷ giá tại thời điểm giao dịch; tỷ giá và số tiền của giao dịch đã hoàn tất không bị điều chỉnh hồi tố. Không thu phí quy đổi riêng ngoài phí chợ 5% do người bán chịu.
+47. Hệ thống tự xác định tỷ giá tại thời điểm giao dịch; tỷ giá và số tiền của giao dịch đã hoàn tất không bị điều chỉnh hồi tố. Không thu phí quy đổi riêng ngoài phí đăng bán 5% đã thu trước khi đưa hàng lên kệ.
 48. Mọi ký chủ phải được một hệ thống ký sinh thuộc Khối Chấp Hành liên kết trước khi vào thế giới nhiệm vụ; hệ thống nghiệp vụ nhiệm vụ là hạ tầng độc lập.
 49. Năng lượng cơ bản, mức duy trì và lương của hệ thống được xác định theo cấp F–SS tại bảng SYS-007; lương trả bằng năng lượng theo chu kỳ 30 ngày.
 50. Dung lượng cơ bản không phải giới hạn lưu trữ tối đa; nâng dung lượng không tự động tăng năng lượng hiện có.
@@ -1159,7 +1159,7 @@ Những nội dung chưa được tác giả quyết định không được t�
 Hiện tại, các nội dung vừa được rà soát và chốt gồm SYS-002, SYS-007, SYS-009, SYS-010 và cơ chế hợp đồng/người ủy thác tại Mục 21. Các chi tiết định lượng hoặc kỹ thuật chưa được quyết định không được tự suy diễn.
 
 Các điểm còn cần quyết định riêng:
-- Cách khấu trừ phí 5% trong giao dịch chợ mà khoản thanh toán là vật phẩm không thể chia nhỏ; nguyên tắc người bán chịu phí đã được chốt, cách xử lý vật phẩm lẻ chưa được xác định.
+- Cách xử lý khi người bán không đủ điểm để thanh toán phí đăng bán 5% trước khi đưa vật phẩm lên kệ chưa được xác định.
 - Tỷ lệ quy đổi cụ thể giữa điểm thưởng cho ký chủ và năng lượng thưởng cho hệ thống đồng hành trong quỹ 20% của người ủy thác chưa được xác định.
 ---
 
