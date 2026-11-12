@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.17  
+**Phiên bản:** 1.18  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -1160,7 +1160,7 @@ Những nội dung đã được chốt và không còn là vấn đề mở:
 - Vi phạm của người ủy thác được xử lý theo bốn cấp tại Mục 21.5; không tự động hủy nhiệm vụ, thay đổi kết quả/quyền lợi ký chủ hoặc tiêu diệt toàn bộ linh hồn (v1.14 và các cập nhật sau).
 
 ### Các điểm còn cần quyết định riêng
-- SYS-007: tiêu chí chọn cấp can thiệp khi tác động nằm giữa hai mức; cách tính khi một lần can thiệp tạo nhiều hiệu ứng độc lập; cách tính khi phạm vi hoặc mức tác động thay đổi trong thời gian hiệu ứng tồn tại.
+- SYS-007: tiêu chí chọn E₀ khi mức can thiệp nằm giữa hai cấp; cách xử lý khi nhiều hệ số thay đổi đồng thời; cách phân loại hiệu ứng khi bản chất/mức tác động thay đổi trong thời gian tồn tại; ranh giới Kp giữa khu vực/thành phố và nhóm thống nhất trên 10 thành viên phân bố ở nhiều thành phố.
 - Mục 21.6: điều kiện và thẩm quyền xác định một nhiệm vụ đã kết thúc thất bại, phân biệt với một lượt ký chủ thất bại khiến nhiệm vụ quay lại kho để phân phối tiếp.
 - SYS-010: cách bảo đảm sự phân biệt giữa giá mua vé cho bản thân (1 tỷ điểm) và giá mua để chuyển cho người khác (10 tỷ điểm), trong bối cảnh vé được trao tay không giới hạn số lần và người giữ vé hợp lệ có quyền kích hoạt.
 ---
@@ -1300,27 +1300,55 @@ Tỷ lệ E₀ giữa bốn cấp độ là 1 : 3 : 10 : 30. Cấp độ đượ
 | Toàn thế giới | 100 |
 | Nhiều thế giới | 300 |
 
+**Nguyên tắc xác định và thay đổi phạm vi Kp**
+- Kp căn cứ vào phạm vi thực tế bị hiệu ứng tác động, không căn cứ vào số câu lệnh, cách truyền dẫn, vị trí máy chủ hoặc nơi khởi phát hiệu ứng.
+- Nhóm nhỏ gồm 2–10 đối tượng có mối liên hệ thực tế hoặc chức năng với nhau và cùng chịu một hiệu ứng chung. Việc nhiều đối tượng chỉ cùng xuất hiện trong một danh sách, câu lệnh hoặc nhiệm vụ không tự động tạo thành một nhóm.
+- Nhóm trên 10 đối tượng chỉ được chia thành các nhóm nhỏ để tính riêng khi các nhóm đó thực sự độc lập; không được chia cơ học một tập hợp thống nhất chỉ để áp dụng Kp thấp hơn.
+- Nếu một hiệu ứng tác động trên toàn bộ một khu vực, áp dụng Kp khu vực dù chỉ có một số ít người trực tiếp hưởng lợi.
+- Các hiệu ứng độc lập được tính riêng; các bước kỹ thuật cần thiết để tạo ra cùng một hiệu ứng thống nhất không bị tách thành nhiều hiệu ứng.
+- Khi phạm vi của một hiệu ứng mở rộng, chỉ thu phần chi phí tăng thêm, không tính lại toàn bộ chi phí của hiệu ứng. Nếu chỉ Kp thay đổi và các hệ số khác giữ nguyên: ΔE = E₀ × Kt × Ks × (Kp_mới − Kp_cũ).
+- Nếu phạm vi thu hẹp, không tự động hoàn trả năng lượng đã tiêu hao.
+- Nếu phạm vi mở rộng nhiều lần, chỉ tính phần tăng thêm vượt mức chi phí cao nhất đã được tính/thu trước đó; không thu thêm nếu phạm vi mới vẫn nằm trong mức đã thanh toán.
+
+**Các điểm Kp còn mở**
+- Cách phân loại một nhóm thống nhất có trên 10 thành viên nhưng phân bố ở nhiều thành phố, không thể chia thành các nhóm độc lập.
+- Ranh giới giữa “một khu vực”, “một thành phố” và trường hợp hiệu ứng chỉ bao phủ một phần địa giới hành chính hoặc nhiều khu vực rời nhau.
+
 **Hệ số thời gian duy trì Kt**
 
-| Thời gian | Kt |
+| Thời gian duy trì | Kt |
 |---|---:|
-| Tức thời, dưới 1 phút | 1 |
-| Ngắn, 1–10 phút | 2 |
-| Trung bình, 10–60 phút | 5 |
-| Dài, 1–24 giờ | 10 |
-| Rất dài, 1–7 ngày | 30 |
+| Dưới 1 phút | 1 |
+| Từ 1 phút đến dưới 10 phút | 2 |
+| Từ 10 phút đến dưới 60 phút | 5 |
+| Từ 60 phút đến dưới 24 giờ | 10 |
+| Từ 24 giờ đến hết 7 ngày | 30 |
 | Trên 7 ngày | 100 |
+
+Các mốc được tính theo thời lượng thực tế, không chồng lấn và không có khoảng trống. Mốc đúng 1, 10, 60 phút lần lượt thuộc các khoảng bắt đầu tại mốc đó; đúng 24 giờ thuộc Kt 30; đúng 7 ngày vẫn thuộc Kt 30.
 
 **Hệ số mức độ thay đổi thực tại Ks**
 
-| Mức tác động | Ks |
+| Bản chất tác động | Ks |
 |---|---:|
-| Không thay đổi thực tại, chỉ tác động thông tin/nhận thức | 1 |
-| Thay đổi nhỏ, dễ đảo ngược | 2 |
-| Thay đổi trạng thái cục bộ, có ý nghĩa thực tế | 5 |
-| Thay đổi lớn hoặc kéo dài | 10 |
-| Thay đổi quy luật/cấu trúc thực tại | 30 |
-| Can thiệp vào quy luật nền tảng của thế giới | 100 |
+| Thay đổi thông tin, nhận thức hoặc ký ức | 1 |
+| Điều chỉnh trạng thái nhỏ của đối tượng, không làm thay đổi hoặc khôi phục đáng kể chức năng vốn có | 2 |
+| Khôi phục, điều chỉnh hoặc cải thiện chức năng trong phạm vi cơ chế vốn có của đối tượng | 5 |
+| Thay đổi cấu trúc/cơ chế của đối tượng hoặc dùng cơ chế riêng để tạo hiệu ứng mới trên đối tượng | 10 |
+| Thiết lập hoặc thay đổi quy tắc chi phối các đối tượng/hiện tượng trong một phạm vi thực tại | 30 |
+| Trực tiếp sửa đổi hoặc tạo ngoại lệ đối với định luật nền tảng của thế giới | 100 |
+
+**Tiêu chí phân loại Ks**
+- Phân loại theo bản chất và cơ chế thực sự tạo ra hiệu ứng, không chỉ theo biểu hiện bên ngoài, kết quả cuối cùng hoặc tên gọi do hệ thống đặt.
+- **Ks 1:** Xóa hoặc sửa ký ức trực tiếp được xếp Ks 1; không suy rộng ngoại lệ này thành quy tắc cho mọi can thiệp sinh học hoặc thần kinh.
+- **Ks 2:** Điều chỉnh trạng thái hiện tại mà không làm thay đổi hoặc khôi phục đáng kể chức năng vốn có. Ví dụ: mô phỏng không trọng lực bằng cách dùng lực nâng tác động lên từng vật thể.
+- **Ks 5:** Khôi phục, điều chỉnh hoặc cải thiện chức năng trong phạm vi cơ chế vốn có. Ví dụ: chữa lành hoàn toàn cơ thể về trạng thái khỏe mạnh vốn có; khôi phục chức năng ngôn ngữ hoặc vận động đã mất.
+- **Ks 10:** Thay đổi chính cấu trúc/cơ chế vận hành của một đối tượng, hoặc sử dụng cơ chế riêng của hệ thống để tạo hiệu ứng mới mà không sửa đổi quy tắc thực tại hay định luật nền tảng. Ví dụ: cải tạo cơ thể vượt giới hạn sinh học ban đầu; tái cấu trúc não bộ tạo cơ chế xử lý mới; tạo vật chất hoặc năng lượng bằng cơ chế riêng; cải tạo cấu trúc phân tử của một vật thể; dịch chuyển một vật thể bằng năng lực dịch chuyển riêng.
+- **Ks 30:** Thiết lập hoặc thay đổi quy tắc dị thường áp dụng cho các đối tượng/hiện tượng trong một phạm vi thực tại. Ví dụ: áp đặt quy tắc giảm trọng lực cho một khu vực; thay đổi quan hệ khoảng cách trong một vùng; thiết lập quy tắc khiến một bước chân bên trong căn phòng tương đương 100 mét.
+- **Ks 100:** Trực tiếp sửa đổi hoặc tạo ngoại lệ thực sự đối với định luật nền tảng, bất kể phạm vi tác động lớn hay nhỏ. Ví dụ đã xác nhận: ngoại lệ nhân quả trong một căn phòng; ngoại lệ đối với định luật chuyển động trên một chiếc xe; ngoại lệ đối với định luật bảo toàn năng lượng tại một máy phát điện.
+- Một hiệu ứng chỉ mô phỏng biểu hiện của việc thay đổi quy luật, nhưng thực tế được tạo ra bằng cơ chế riêng tác động lên từng đối tượng, không tự động được xếp Ks 30 hoặc Ks 100. Ví dụ: dùng lực nâng để làm vật thể lơ lửng không phải sửa đổi định luật trọng lực.
+- Một hiệu ứng thống nhất có nhiều đặc tính được áp dụng cấp Ks cao nhất mà chính hiệu ứng đó thực sự đạt tới; không cộng các cấp Ks hoặc tính phí riêng cho những đặc tính phụ thuộc của cùng hiệu ứng. Nhiều hiệu ứng độc lập được phân loại và tính riêng.
+- Ks độc lập với Kp và Kt. Phạm vi nhỏ không làm giảm Ks nếu hiệu ứng thực sự can thiệp định luật nền tảng; thời gian ngắn hoặc khả năng đảo ngược không làm giảm Ks. Tầm quan trọng của hiệu ứng đối với một cá nhân cũng không tự nó làm tăng Ks.
 
 **Nguyên tắc tính phí**
 - Bốn cấp độ can thiệp được xác định theo tác động thực tế; không được dùng nhãn gọi để hạ cấp chi phí.
@@ -1929,4 +1957,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.17**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.18**
