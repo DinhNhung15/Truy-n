@@ -12,7 +12,7 @@
 - SYSTEM_BIBLE quy định thời gian tại Tổng bộ và thế giới nhiệm vụ trôi qua đồng bộ 1:1. Quy tắc này không có nghĩa các thành viên phải bắt đầu nhiệm vụ cùng lúc hoặc có cùng tổng thời gian trải nghiệm.
 - Không tự đặt thêm tỷ lệ quy đổi thời gian giữa các thành viên.
 
-## 2. Danh mục 16 thế giới
+## 2. Danh mục 18 thế giới
 
 | Mã hồ sơ | Tên thế giới | Người tham gia dự kiến | Cấp nhiệm vụ | Liên quan Tổng bộ | Trạng thái hồ sơ |
 |---|---|---|---|---|---|
@@ -22,28 +22,30 @@
 | WORLD_004 | Sơn Môn Vấn Đạo | Chồng | A | M0 – Không liên quan | Ý tưởng đã chốt |
 | WORLD_005 | Trạm Cuối Cùng Giữa Các Vì Sao | Vợ + chồng | B | M1 – Gợi ý gián tiếp | Ý tưởng đã chốt |
 | WORLD_006 | Bóng Đêm Thành Cũ | Vợ | B | M0 – Không liên quan | Ý tưởng đã chốt |
-| WORLD_007 | Mùa Xuân Ở Thôn Nhỏ | Vợ + con | D | M0 – Không liên quan | Ý tưởng đã chốt |
-| WORLD_008 | Vạn Tiên Đại Lục | Vợ + chồng | A | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_007 | Mùa Xuân Ở Thôn Nhỏ | Vợ + con | D | M0 – Không liên quan | Ý tưởng đã chốt; mẹ tìm thấy con |
+| WORLD_008 | Vạn Tiên Đại Lục | Vợ + chồng | A | M0 – Không liên quan | Ý tưởng đã chốt; mẹ báo cho bố biết đã tìm thấy con |
 | WORLD_009 | Vương Quốc Không Vua | Chồng | S | M0 – Không liên quan | Ý tưởng đã chốt |
-| WORLD_010 | Những Người Ở Lại | Vợ + con | C | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_017 | Bố Và Con Đồng Hành | Chồng + con | Chưa chốt | Chưa chốt | Bổ sung; cuộc gặp riêng của bố và con |
+| WORLD_010 | Những Người Ở Lại | Vợ + con | C | M0 – Không liên quan | Ý tưởng đã chốt; tuyến mẹ-con |
 | WORLD_011 | Sau Ánh Đèn Sân Khấu | Vợ | C | M0 – Không liên quan | Ý tưởng đã chốt |
 | WORLD_012 | Thành Phố Ngủ Dưới Đáy Biển | Vợ + chồng | A | M1 – Gợi ý gián tiếp | Ý tưởng đã chốt |
 | WORLD_013 | Mười Ba Cánh Cửa | Vợ | S | M1 – Gợi ý gián tiếp | Ý tưởng đã chốt |
 | WORLD_014 | Kỷ Nguyên Cơ Khí | Chồng + con | A | M2 – Có manh mối liên quan | Ý tưởng đã chốt |
+| WORLD_018 | Tinh Hải Cơ Giáp | Vợ + chồng + con | Chưa chốt | Chưa chốt | Bổ sung; cả gia đình cùng tham gia, có cao trào gần cuối |
 | WORLD_015 | Biên Giới Giữa Các Thế Giới | Vợ + chồng + con | S | M3 – Liên quan trực tiếp | Ý tưởng đã chốt |
 | WORLD_016 | Nguyện Vọng Cuối Cùng | Vợ + chồng + con | SS | M4 – Trung tâm bí mật | Ý tưởng đã chốt |
 
 Ghi chú:
-- Cấp nhiệm vụ và mức độ liên quan Tổng bộ trong bảng là phân bổ đã chốt cho hồ sơ thiết kế 16 thế giới.
+- Cấp nhiệm vụ và mức độ liên quan Tổng bộ của 16 thế giới cũ là phân bổ đã chốt cho hồ sơ thiết kế. Hai thế giới mới WORLD_017 và WORLD_018 chưa được phân cấp hoặc xác định mức liên quan Tổng bộ.
 - Điểm số chi tiết theo từng tiêu chí SYS-002 chưa được chấm ở giai đoạn này; không tự tạo điểm số để hợp thức hóa cấp đã chọn. Khi hồ sơ nhiệm vụ cụ thể hoàn thiện, thực hiện bước đối chiếu SYS-002 và chỉ điều chỉnh cấp khi có căn cứ.
 - Người tham gia là phương án phân bổ cốt truyện hiện tại; số thứ tự nhiệm vụ cá nhân chỉ ghi khi đã xác định.
-- Danh mục này không có nghĩa mỗi thành viên lần lượt đi qua cả 16 thế giới.
+- Danh mục này không có nghĩa mỗi thành viên lần lượt đi qua cả 18 thế giới. Thứ tự trình bày thể hiện mạch cốt truyện dự kiến; mã hồ sơ được giữ cố định, vì vậy không nhất thiết tăng liên tục theo thứ tự xuất hiện.
 
 ## 3. Tài liệu riêng
 
 - [WORLD_001.md](./WORLD_001.md) – Hồ sơ thế giới nhiệm vụ thứ nhất.
 - [WORLD_002.md](./WORLD_002.md) – Kinh Thành Dưới Màn Mưa, thế giới đoàn tụ của vợ chồng.
-- [MISSION_CLASSIFICATION.md](./MISSION_CLASSIFICATION.md) – Quy tắc phân cấp nhiệm vụ và mức độ liên quan Tổng bộ cho 16 thế giới.
+- [MISSION_CLASSIFICATION.md](./MISSION_CLASSIFICATION.md) – Quy tắc phân cấp nhiệm vụ và mức độ liên quan Tổng bộ cho các thế giới trong danh mục.
 
 ## 4. Nguyên tắc quản lý
 
