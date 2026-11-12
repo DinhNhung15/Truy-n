@@ -189,9 +189,9 @@ Nhiệm vụ chờ hệ thống con tiếp nhận và thực hiện.
 
 ### Quy tắc cụ thể hóa và xác nhận nguyện vọng
 
-- Người ủy thác trình bày nguyện vọng ban đầu với Cục Thu Nguyện; không có nghĩa vụ phải tự nguyện cung cấp toàn bộ mọi thông tin riêng tư hoặc mọi chi tiết họ biết.
+- Người ủy thác trình bày nguyện vọng ban đầu với Cục Thu Nguyện; không phải cung cấp mọi thông tin riêng tư hoặc chi tiết không liên quan, nhưng phải khai báo trung thực những thông tin trọng yếu mình biết có thể ảnh hưởng đáng kể đến mục tiêu, điều kiện hoàn thành, nguy cơ hoặc trở ngại của nhiệm vụ.
 - Tổng bộ phân tích thông tin được cung cấp, làm rõ nguyện vọng và đề xuất mục tiêu cùng điều kiện hoàn thành cụ thể.
-- Người ủy thác có quyền trao đổi, xác nhận hoặc không chấp nhận phương án được đề xuất. Việc che giấu hoặc cung cấp thông tin không đầy đủ ở giai đoạn trước khế ước không tự động bị xem là hành vi phá hoại; Tổng bộ phải căn cứ vào nguyện vọng và điều kiện cuối cùng được hai bên xác nhận trong khế ước.
+- Người ủy thác có quyền trao đổi, xác nhận hoặc không chấp nhận phương án được đề xuất. Cố ý che giấu thông tin trọng yếu ở giai đoạn trước khế ước được phân loại là Cấp 1 – Che giấu theo Mục 21.5; việc thiếu thông tin không trọng yếu hoặc thông tin riêng tư không ảnh hưởng đáng kể đến nhiệm vụ không tự động cấu thành vi phạm. Mục tiêu và điều kiện nhiệm vụ có hiệu lực vẫn là nội dung cuối cùng được hai bên xác nhận trong khế ước.
 - Nếu nguyện vọng ban đầu không thể thực hiện, Tổng bộ đưa ra một hoặc nhiều phương án khả thi gần với mong muốn ban đầu để người ủy thác lựa chọn.
 - Người ủy thác có quyền từ chối tất cả phương án. Nếu không chấp nhận phương án nào và không ký khế ước, nhiệm vụ không được tạo, người đó không chuyển hóa thành năng lượng.
 - Chỉ sau khi người ủy thác xác nhận phương án và điều kiện hoàn thành, hai bên mới ký khế ước.
@@ -619,7 +619,7 @@ Vật phẩm giữ mạng có thể:
 ### Nhiệm vụ được tiếp tục phân phối
 
 - Khi một ký chủ thực hiện nhiệm vụ nhưng thất bại, nhiệm vụ không bị xóa hoặc hủy; Tổng bộ đưa nhiệm vụ trở lại kho để tiếp tục phân phối cho ký chủ khác.
-- Quy tắc này áp dụng cho thất bại của một lượt ký chủ, không áp dụng cho trường hợp Tổng bộ hủy nhiệm vụ do hành vi phá hoại của người ủy thác đã được xác minh theo Mục 21.5.
+- Việc người ủy thác vi phạm khế ước được xử lý riêng theo Mục 21.5; không tự động làm nhiệm vụ bị hủy hoặc thay đổi kết quả, điểm thưởng và hình phạt của ký chủ. Nhiệm vụ vẫn được tiếp tục phân phối trừ khi có quyết định khác được quy định rõ.
 - Nhiệm vụ có thể được giao cho những ký chủ khác nhau cho đến khi có người hoàn thành.
 - Một nhiệm vụ chỉ có một ký chủ thực hiện tại một thời điểm; không phân phối đồng thời cùng một nhiệm vụ cho nhiều ký chủ.
 
@@ -1049,7 +1049,7 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 
 1. Người ước nguyện phải ký khế ước thì nhiệm vụ mới được tạo.
 2. Sau khi ký khế ước, 80% năng lượng hợp đồng được chuyển hóa vào kho chung của Tổng bộ; linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ đã xác định và giữ 20% năng lượng còn lại.
-3. Người ủy thác có thể dùng một phần hoặc toàn bộ 20% để thưởng điểm cho ký chủ, kể cả khi một lượt ký chủ thất bại. Phần 20% chưa sử dụng chỉ được quyết toán khi nhiệm vụ thực sự hoàn thành; phần dư chuyển về Tổng bộ và linh hồn tan biến.
+3. Phần 20% năng lượng người ủy thác giữ lại là quỹ thưởng hợp nhất, có thể phân bổ thành điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành. Người ủy thác được thay đổi phương án trước khi quyết toán; chi trả sau khi ký chủ rời thế giới nhiệm vụ và Tổng bộ xác minh kết quả. Ký chủ thất bại không nhận khoản thưởng từ quỹ này trong lượt thất bại.
 4. Hệ thống con có thể tự do tìm kiếm ký chủ.
 5. Nhiệm vụ được phân phối ngẫu nhiên và có cấp bậc.
 6. Ký chủ không được từ chối nhiệm vụ bắt buộc.
@@ -1064,7 +1064,7 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 15. Ký chủ vẫn giữ điểm và EXP của nhiệm vụ phụ đã hoàn thành dù nhiệm vụ chính thất bại.
 16. Mỗi ký chủ có tài khoản điểm riêng; không được tặng, cho vay, góp, gộp hoặc chuyển điểm trực tiếp. Điểm chỉ được chuyển như khoản thanh toán cho một giao dịch mua bán thực tế qua chợ do hệ thống ghi nhận.
 17. Vé Về Nhà cá nhân giá 1 tỷ điểm; mua cho người khác giá 10 tỷ điểm.
-18. Vé mua cho người khác phải được người nhận tự sử dụng.
+18. Vé được trao tay; người đang trực tiếp nắm giữ vé hợp lệ có quyền tự kích hoạt, không phụ thuộc người mua ban đầu hay số lần chuyển giao.
 19. Mua vé không đồng nghĩa kích hoạt vé.
 20. Vé Về Nhà đưa người sử dụng về thời điểm trước tai nạn, khỏe mạnh và lành lặn, kèm tiền thưởng hợp pháp.
 21. Ở lại một thế giới bất kỳ có giá 100 tỷ điểm.
@@ -1143,7 +1143,7 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 93. Vé quay lại thế giới nhiệm vụ đã hoàn thành có giá 10 tỷ điểm/vé, bán trong cửa hàng hệ thống, mỗi vé dùng một lần và kế thừa cơ chế trao tay, chuyển giao, thời hạn và kích hoạt của vé Về Nhà SYS-010, trừ đích đến cùng lựa chọn thời điểm/thân phận riêng của SYS-015.
 94. Khi ký khế ước, 80% năng lượng hợp đồng được chuyển vào kho chung; linh hồn người ủy thác giữ 20% để duy trì sự tồn tại và quan sát. Thế giới nhiệm vụ được xác định ngay tại thời điểm ký.
 95. Phần 20% là nguồn duy nhất để người ủy thác thưởng điểm cho ký chủ; không có khoản thưởng tự nguyện độc lập nằm ngoài 20% này. Người ủy thác có thể phân bổ một phần hoặc toàn bộ 20% để thưởng, kể cả khi một lượt ký chủ thất bại. Phần còn lại được quyết toán theo trạng thái cuối cùng của nhiệm vụ; khi nhiệm vụ hoàn thành, phần chưa dùng chuyển về Tổng bộ và linh hồn người ủy thác tan biến.
-96. Thất bại của một lượt ký chủ không làm chấm dứt nhiệm vụ; nhiệm vụ trở lại kho để tiếp tục phân phối. Nếu phá hoại của người ủy thác được Tổng bộ xác minh, nhiệm vụ bị hủy và áp dụng chế tài tại Mục 21.
+96. Thất bại của một lượt ký chủ không làm chấm dứt nhiệm vụ; nhiệm vụ trở lại kho để tiếp tục phân phối. Vi phạm của người ủy thác được xử lý theo cấp độ tại Mục 21.5 và không tự động hủy nhiệm vụ.
 97. Người ủy thác phải khai báo những thông tin trọng yếu mình biết có liên quan trực tiếp đến mục tiêu, điều kiện hoàn thành, nguy cơ và trở ngại của nhiệm vụ. Cố ý che giấu thông tin trọng yếu thuộc Cấp 1 – Che giấu; thông tin không liên quan hoặc riêng tư không trọng yếu không bắt buộc phải cung cấp.
 98. Vi phạm của người ủy thác được phân thành bốn cấp: Cấp 0 – Sai lệch; Cấp 1 – Che giấu; Cấp 2 – Gây khó dễ; Cấp 3 – Phá hoại. Mức chế tài căn cứ hành vi, hậu quả thực tế và mức độ lỗi; không tự động tiêu diệt linh hồn.
 
