@@ -420,3 +420,20 @@
 - Cập nhật `SYSTEM_BIBLE.md` từ v1.15 lên **v1.16**.
 - Đồng bộ toàn bộ cơ chế phí đăng bán trong `SYS-009.md`.
 - Các mô tả lịch sử về thu phí khi quyết toán giao dịch được giữ lại trong nhật ký để truy vết, nhưng không còn là quy tắc hiện hành.
+
+
+## 2026-11-12 – Chốt xử lý khi người bán không đủ điểm trả phí đăng bán (SYSTEM_BIBLE.md v1.17)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-009.md`
+
+### Quy tắc người bán không đủ điểm
+- Người bán phải có đủ điểm trong tài khoản cá nhân để thanh toán toàn bộ phí đăng bán 5% trước khi vật phẩm được đưa lên kệ.
+- Nếu số dư không đủ, hệ thống từ chối đăng bán; không tạo tin đăng và không đưa vật phẩm vào trạng thái chờ.
+- Không cho phép âm điểm, ghi nợ hoặc đăng bán trước rồi thu phí sau.
+
+### Trạng thái
+- Cập nhật `SYSTEM_BIBLE.md` từ v1.16 lên **v1.17**.
+- Đồng bộ quy tắc vào tài liệu chuyên biệt `SYS-009.md`.
+- Điểm chưa chốt về điều kiện không đủ phí đăng bán đã được đóng.
