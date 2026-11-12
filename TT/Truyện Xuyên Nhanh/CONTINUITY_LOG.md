@@ -372,3 +372,29 @@
 - Đã cập nhật SYSTEM_BIBLE.md lên v1.14.
 - Đã tạo thư mục SYS với bốn tài liệu chuyên biệt và README.
 - Các quy tắc cũ mâu thuẫn đã được thay thế trong bản tổng hợp; SYSTEM_BIBLE.md là nguồn canon ưu tiên.
+
+## 2026-11-12 – SYSTEM_BIBLE.md v1.15: chốt phí vật phẩm nguyên vẹn và tỷ lệ quy đổi quỹ 20%
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-007.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-009.md`
+
+### SYS-009 – Phí giao dịch khi người bán nhận vật phẩm không thể chia nhỏ
+- Chốt: vật phẩm được chuyển giao nguyên vẹn theo thỏa thuận; không chia nhỏ, phá hủy hoặc thay thế vật phẩm để thu phí.
+- Phí 5% vẫn do người bán chịu; nếu đối giá là vật phẩm không thể chia nhỏ, hệ thống khấu trừ khoản phí quy đổi thành điểm từ tài khoản điểm cá nhân của người bán.
+- Người mua không chịu thêm phí.
+- Điểm còn mở: cách xử lý nếu tài khoản điểm của người bán không đủ để khấu trừ toàn bộ phí. Không tự suy diễn cho phép âm điểm, treo giao dịch hay từ chối giao dịch.
+
+### Quỹ thưởng 20% của người ủy thác
+- Người dùng xác nhận tỷ lệ quy đổi cố định **100 điểm = 1 NL**.
+- Quỹ 20% tiếp tục là một nguồn thưởng hợp nhất; người ủy thác có thể phân bổ thành điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành.
+- Tổng giá trị phân bổ không vượt quá năng lượng còn lại trong quỹ; người ủy thác được thay đổi phương án trước khi quyết toán, sau quyết toán thì phương án được khóa.
+- Tỷ lệ 100 điểm = 1 NL chỉ áp dụng cho việc phân bổ quỹ 20% này; không áp dụng cho giao dịch chợ, cửa hàng hoặc cơ chế quy đổi thông thường khác.
+- Năng lượng thưởng do Tổng bộ cấp từ nhiệm vụ chính/nhiệm vụ phụ vẫn là khoản riêng, không nhập chung với quỹ 20%.
+
+### Trạng thái
+- Cập nhật `SYSTEM_BIBLE.md` từ v1.14 lên **v1.15**.
+- Đồng bộ quy tắc phí vật phẩm nguyên vẹn vào SYS-009 và tỷ lệ quy đổi quỹ thưởng vào SYS-007.
+- Điểm chưa chốt duy nhất phát sinh trong lần cập nhật này: xử lý giao dịch khi người bán không đủ điểm để trả phí 5% trong trường hợp nhận vật phẩm không thể chia nhỏ.
+
