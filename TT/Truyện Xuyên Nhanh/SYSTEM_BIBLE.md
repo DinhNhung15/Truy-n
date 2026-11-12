@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.15  
+**Phiên bản:** 1.16  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -848,21 +848,22 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 
 ### Giá bán và phí giao dịch
 
-- Người bán được tự do quyết định giá bán; không có giá trần hoặc giá sàn do Tổng bộ áp đặt.
-- Khi giao dịch qua chợ hoàn tất, Tổng bộ thu phí bằng **5% giá trị giao dịch**.
-- Phí giao dịch do người bán chịu và được khấu trừ trước khi người bán nhận đối giá.
-- Nếu người bán nhận tiền hoặc điểm, phí được khấu trừ từ khoản thanh toán tương ứng.
-- Nếu người bán nhận vật phẩm không thể chia nhỏ, hệ thống giữ nguyên vật phẩm và khấu trừ khoản phí 5% quy đổi thành điểm từ tài khoản điểm cá nhân của người bán; không chia nhỏ, phá hủy hoặc thay thế vật phẩm để thu phí.
-- Người mua thanh toán theo giá niêm yết, không phải chịu thêm khoản phí giao dịch 5%.
+- Người bán được tự do quyết định giá bán; không có giá trần hoặc giá sàn do Tổng bộ áp đặt. Giá được khóa sau khi tin đăng được đưa lên kệ; không thể chỉnh sửa giá của tin đăng đang hoạt động.
+- Người bán phải thanh toán phí đăng bán bằng điểm từ tài khoản điểm cá nhân; mức phí bằng **5% giá trị niêm yết quy đổi theo S**.
+- Phí được khấu trừ thành công trước khi vật phẩm được đưa lên kệ. Chỉ khi thanh toán phí thành công, tin đăng mới có hiệu lực và được hiển thị trên chợ.
+- Phí đăng bán đã thu không được hoàn lại, kể cả khi người bán gỡ hàng xuống hoặc không bán được.
+- Tin đăng đã đưa lên kệ không được chỉnh sửa giá hoặc thông tin niêm yết. Người bán có thể gỡ hàng xuống.
+- Nếu đăng lại cùng vật phẩm với mức giá khác, hệ thống xem đó là một lượt đăng bán mới và thu phí 5% mới trên giá niêm yết mới.
+- Phí được thu tại thời điểm đăng bán, không thu lại khi giao dịch hoàn tất. Người mua chỉ thanh toán theo giá niêm yết, không chịu thêm phí 5%.
 
 ### Đơn vị tiền tệ và quy đổi
 
 - Đơn vị tiền tệ chung dùng để định giá và hạch toán giao dịch trên chợ là **S**. Giá trị niêm yết được quy đổi và hiển thị theo S để ký chủ ở các thế giới khác nhau có thể giao dịch bằng một đơn vị thống nhất.
 - Chợ hệ thống hỗ trợ ba nhóm phương thức thanh toán/đối giá: **điểm tích lũy cá nhân, tiền tệ của thế giới và vật phẩm**. Người mua thanh toán theo phương thức được chấp nhận trong giao dịch; người bán nhận loại đối giá đã thỏa thuận/được chọn trong phạm vi hệ thống hỗ trợ.
-- Nếu thanh toán bằng điểm, hệ thống tự động trừ điểm người mua và chuyển điểm cho người bán sau khi khấu trừ phí giao dịch. Đây là thanh toán mua bán qua chợ, không phải quyền chuyển điểm tự do.
-- Nếu thanh toán bằng tiền tệ thế giới, hệ thống tự quy đổi số tiền người mua phải trả từ S sang tiền tệ của thế giới người mua; đồng thời quy đổi khoản tiền người bán nhận sau phí từ S sang tiền tệ của thế giới người bán.
+- Nếu thanh toán bằng điểm, hệ thống tự động trừ điểm người mua và chuyển điểm cho người bán khi giao dịch hoàn tất. Đây là thanh toán mua bán qua chợ, không phải quyền chuyển điểm tự do.
+- Nếu thanh toán bằng tiền tệ thế giới, hệ thống tự quy đổi số tiền người mua phải trả từ S sang tiền tệ của thế giới người mua và chuyển khoản thanh toán cho người bán theo giá niêm yết.
 - Nếu thanh toán bằng vật phẩm, hệ thống định giá vật phẩm theo S để đối chiếu với giá trị giao dịch và thực hiện việc chuyển giao qua chợ. Vật phẩm được chuyển cho bên nhận theo thỏa thuận đã được hệ thống ghi nhận.
-- Phí giao dịch là **5% giá trị giao dịch**, do người bán chịu. Người mua không phải trả thêm phí ngoài giá trị đã thỏa thuận/niêm yết. Hệ thống khấu trừ phí trước khi người bán nhận khoản thanh toán.
+- Phí đăng bán 5% được thu trước khi đưa tin lên kệ theo quy tắc trên; không khấu trừ thêm phí khi giao dịch hoàn tất.
 - Việc quy đổi tiền tệ được hệ thống xác định tại thời điểm giao dịch được ghi nhận. Khi giao dịch hoàn tất, tỷ giá và số tiền thanh toán của hai bên được khóa, không điều chỉnh hồi tố.
 - Tỷ giá do hệ thống tự xác định căn cứ vào giá trị trao đổi và sức mua thực tế của tiền tệ tại từng thế giới; không căn cứ đơn thuần vào mệnh giá danh nghĩa.
 - Phương thức thanh toán và loại đối giá nhận được trong một giao dịch phải được ghi nhận rõ trước khi giao dịch hoàn tất. Không được dùng giao dịch chợ để tạo khoản chuyển điểm độc lập với việc mua bán thực tế.
@@ -901,7 +902,7 @@ Tổng bộ sử dụng giỏ hàng tham chiếu để so sánh sức mua thực
 - Cần phân biệt vật phẩm không tương thích với quy luật thế giới và vật phẩm tương thích nhưng ký chủ chưa đáp ứng điều kiện sử dụng. Trường hợp thứ hai tuân theo điều kiện riêng của vật phẩm.### Đặt mua, chỉnh sửa và hủy tin đăng
 
 - Khi người mua đặt mua, hệ thống tự động hoàn tất giao dịch; người bán không cần xác nhận và không có quyền từ chối.
-- Người bán được chỉnh sửa thông tin, thay đổi giá hoặc hủy tin đăng khi giao dịch chưa được ghi nhận là hoàn tất.
+- Người bán không được chỉnh sửa giá hoặc thông tin của tin đăng đang hoạt động; có thể gỡ tin đăng xuống. Muốn bán lại với giá khác phải tạo lượt đăng mới và nộp phí đăng bán mới.
 - Nếu thao tác mua, chỉnh sửa hoặc hủy diễn ra đồng thời, Tổng bộ căn cứ vào thứ tự thao tác được hệ thống ghi nhận:
   - Nếu thao tác mua được ghi nhận trước, giao dịch được hoàn tất; người bán không thể hủy hoặc sửa giao dịch đó.
   - Nếu thao tác hủy được ghi nhận trước, tin đăng đóng và không thể mua tiếp.
@@ -926,7 +927,7 @@ Tổng bộ sử dụng giỏ hàng tham chiếu để so sánh sức mua thực
 | Bí kíp, sách và tài liệu hướng dẫn | Theo danh mục nếu có | Được đăng bán nếu qua kiểm định |
 | Thuốc tạo năng lực | Theo danh mục nếu có | Có thể giao dịch nếu tồn tại và qua kiểm định |
 | Thanh toán | Điểm | Điểm tích lũy, tiền tệ thế giới hoặc vật phẩm; giá trị quy chiếu qua S |
-| Phí giao dịch | Theo quy định cửa hàng | 5% giá trị giao dịch, người bán chịu |
+| Phí | Theo quy định cửa hàng | Phí đăng bán 5% giá niêm yết, người bán trả trước bằng điểm |
 
 ## 9.4. Trao đổi trực tiếp giữa các ký chủ
 
@@ -1086,15 +1087,15 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 35. Làm lại thành công vẫn nhận đủ 100% điểm và EXP thưởng; nhiệm vụ đã hoàn thành đóng vĩnh viễn và chỉ có thể quay lại thông qua vé thưởng.
 36. Chợ giao dịch dùng chung giữa các Tổng bộ; ký chủ được giao dịch không phụ thuộc cấp bậc.
 37. Chỉ sản phẩm qua kiểm định chất lượng và tác dụng của hệ thống mới được đăng bán trên chợ; sản phẩm không qua kiểm định vẫn có thể trao đổi trực tiếp.
-38. Người bán tự đặt giá không giới hạn giá trần hoặc giá sàn; phí chợ là 5% giá trị giao dịch và do người bán chịu.
-39. Người mua đặt mua thì hệ thống tự động hoàn tất giao dịch; thao tác mua, chỉnh sửa và hủy được xử lý theo thứ tự hệ thống ghi nhận.
+38. Người bán tự đặt giá không giới hạn giá trần hoặc giá sàn; phải trả phí đăng bán 5% giá niêm yết quy đổi theo S bằng điểm cá nhân trước khi vật phẩm được đưa lên kệ; phí đã thu không hoàn lại.
+39. Tin đăng đã lên kệ không được chỉnh sửa; người bán có thể gỡ hàng. Đăng lại với giá khác được tính là lượt bán mới và phải trả phí mới. Người mua đặt mua thì hệ thống tự động hoàn tất giao dịch.
 40. Giao dịch chợ đã hoàn tất không thể hủy hoặc trả lại; vật phẩm mua qua chợ phải chờ 1 giờ mới được đăng bán lại.
 41. Trao đổi trực tiếp phải có việc gặp mặt và trao tay; hai bên tự thỏa thuận phương thức thanh toán, có thể không cần thanh toán; không chịu phí chợ và không có thời gian chờ.
 42. Tổng bộ không can thiệp, phân xử hoặc xử phạt tranh chấp từ giao dịch trực tiếp; các bên tự chịu trách nhiệm.
 43. Vật phẩm không định danh cố định theo chủ sở hữu; bí kíp, sách và tài liệu có thể sao chép, nhưng muốn đăng bán trên chợ phải qua kiểm định.
 44. Kỹ năng có định danh, gắn với ký chủ và không thể tặng, chuyển nhượng hoặc mua bán; vật phẩm chứa tri thức để học kỹ năng được xem là vật phẩm, không phải kỹ năng đã sở hữu.
 45. Đơn vị tiền tệ chung để định giá và hạch toán giao dịch trên chợ là S.
-46. Chợ hỗ trợ thanh toán/đối giá bằng điểm tích lũy, tiền tệ thế giới hoặc vật phẩm; hệ thống định giá theo S và chuyển giao theo phương thức đã ghi nhận. Phí giao dịch 5% do người bán chịu, được khấu trừ trước khi người bán nhận thanh toán.
+46. Chợ hỗ trợ thanh toán/đối giá bằng điểm tích lũy, tiền tệ thế giới hoặc vật phẩm; hệ thống định giá theo S và chuyển giao theo phương thức đã ghi nhận. Người bán trả phí đăng bán 5% giá niêm yết quy đổi theo S bằng điểm cá nhân trước khi vật phẩm lên kệ; không thu thêm phí khi giao dịch hoàn tất.
 47. Hệ thống tự xác định tỷ giá tại thời điểm giao dịch; tỷ giá và số tiền của giao dịch đã hoàn tất không bị điều chỉnh hồi tố. Không thu phí quy đổi riêng ngoài phí chợ 5% do người bán chịu.
 48. Mọi ký chủ phải được một hệ thống ký sinh thuộc Khối Chấp Hành liên kết trước khi vào thế giới nhiệm vụ; hệ thống nghiệp vụ nhiệm vụ là hạ tầng độc lập.
 49. Năng lượng cơ bản, mức duy trì và lương của hệ thống được xác định theo cấp F–SS tại bảng SYS-007; lương trả bằng năng lượng theo chu kỳ 30 ngày.
