@@ -1,7 +1,7 @@
 # CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT CHÍNH – GIA ĐÌNH XUYÊN THẾ GIỚI
 
-**Phiên bản:** 1.1  
+**Phiên bản:** 1.2  
 **Trạng thái:** Tổng hợp các đặc điểm nhân vật đã được xác nhận  
 **Phạm vi:** Ba thành viên gia đình và định hướng xây dựng tính cách  
 **Nguyên tắc:** Không tự đặt tên, tuổi, nghề nghiệp, ngoại hình, kỹ năng hoặc tiểu sử khi tác giả chưa xác nhận.
@@ -10,7 +10,7 @@
 
 ## 1. TIỀN ĐỀ NHÂN VẬT
 
-Ba thành viên trong một gia đình gồm chồng, vợ và con trai ba tuổi gặp tai nạn giao thông, khiến cả ba rơi vào trạng thái sống thực vật. Sau tai nạn, mỗi người được liên kết với một hệ thống riêng và lần lượt bước vào những thế giới nhiệm vụ khác nhau.
+Ba thành viên trong một gia đình gồm chồng, vợ và con trai 4,5 tuổi gặp tai nạn giao thông, khiến cả ba rơi vào trạng thái sống thực vật. Sau tai nạn, mỗi người được liên kết với một hệ thống riêng và lần lượt bước vào những thế giới nhiệm vụ khác nhau.
 
 Mạch truyện ban đầu theo góc nhìn của người vợ. Cô tìm cách trở về thế giới thực, dần phát hiện chồng mình cũng đang sở hữu hệ thống. Hai người tìm kiếm nhau, sau đó phát hiện con trai cũng đã được đưa vào hệ thống. Đích đến cảm xúc quan trọng là gia đình tìm được nhau và đoàn tụ.
 
@@ -183,7 +183,7 @@ Các điểm có thể tạo thành hành trình phát triển:
 
 ### 4.2. Nguyên tắc xây dựng
 
-- Giữ đúng đặc điểm của một đứa trẻ ba tuổi; không viết bé như người trưởng thành thu nhỏ.
+- Giữ đúng đặc điểm của một đứa trẻ 4,5 tuổi; không viết bé như người trưởng thành thu nhỏ.
 - Sự độc lập không có nghĩa là bé không cần người chăm sóc hoặc không có lúc sợ hãi, mè nheo.
 - Sự nhạy cảm và ấm áp có thể thể hiện qua phản ứng, hành động nhỏ và cách bé quan tâm đến người khác.
 - Không mặc định bé hiểu được những vấn đề vượt quá nhận thức phù hợp với độ tuổi.
@@ -239,4 +239,4 @@ Các nội dung sau chưa được xác nhận và không được tự ý coi l
 
 ---
 
-**Kết thúc CHARACTER_BIBLE.md – Phiên bản 1.1**
+**Kết thúc CHARACTER_BIBLE.md – Phiên bản 1.2**
