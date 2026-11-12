@@ -9,14 +9,11 @@
 
 Nhiệm vụ có 8 cấp từ thấp đến cao: F – E – D – C – B – A – S – SS.
 
-SYS-002 quy định đánh giá theo 5 tiêu chí:
-- Độ khó: 25%.
-- Mức độ nguy hiểm: 30%.
-- Tính cấp bách/thời hạn: 10%.
-- Phạm vi ảnh hưởng: 15%.
-- Độ phức tạp: 20%.
+SYS-002 đánh giá nhiệm vụ theo 5 tiêu chí: Độ khó, Mức độ nguy hiểm, Tính cấp bách/thời hạn, Phạm vi ảnh hưởng và Độ phức tạp; mỗi tiêu chí được chấm từ 1 đến 5.
 
-Mỗi tiêu chí được chấm từ 1 đến 5. Điểm tổng cơ bản được tính theo công thức và ngưỡng trong SYSTEM_BIBLE.md, Mục 5.2, SYS-002. Cục Điều Phối có trách nhiệm xem xét, phê duyệt hoặc điều chỉnh cấp khi có căn cứ; trường hợp nguy hiểm đặc biệt có thể là căn cứ độc lập để nâng cấp.
+Trọng số không dùng một bảng chung cho mọi nhiệm vụ. SYS-002 quy định bộ trọng số riêng cho tám loại nhiệm vụ; với nhiệm vụ đa loại, loại chủ đạo chiếm 70% và các loại phụ chia đều 30% còn lại. Công thức, trọng số cụ thể và ngưỡng cấp F–SS được áp dụng theo SYSTEM_BIBLE.md, Mục 5.2 – SYS-002. Không sử dụng lại bảng trọng số chung cũ trong tài liệu này.
+
+Cục Điều Phối có trách nhiệm xem xét, phê duyệt hoặc điều chỉnh cấp khi có căn cứ; trường hợp nguy hiểm đặc biệt có thể là căn cứ độc lập để nâng cấp.
 
 **Phân biệt trạng thái:** Cấp trong bảng dưới đây là cấp thiết kế đã chốt cho từng hồ sơ thế giới. Điểm thành phần và điểm tổng SYS-002 chưa được chấm vì nhiều nhiệm vụ chưa có mục tiêu, điều kiện, thời hạn, phạm vi và cơ chế nguy hiểm chi tiết. Không được tự điền điểm giả hoặc coi cấp ký chủ là căn cứ xác định cấp nhiệm vụ. Khi xây dựng xong nhiệm vụ cụ thể, cần lập phiếu chấm SYS-002 để kiểm tra tính nhất quán; chỉ đề xuất thay đổi cấp nếu kết quả và căn cứ khách quan yêu cầu.
 
