@@ -850,6 +850,7 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 
 - Người bán được tự do quyết định giá bán; không có giá trần hoặc giá sàn do Tổng bộ áp đặt. Giá được khóa sau khi tin đăng được đưa lên kệ; không thể chỉnh sửa giá của tin đăng đang hoạt động.
 - Người bán phải thanh toán phí đăng bán bằng điểm từ tài khoản điểm cá nhân; mức phí bằng **5% giá trị niêm yết quy đổi theo S**.
+- Người bán phải có đủ điểm để thanh toán toàn bộ phí trước khi đăng bán. Nếu số dư không đủ, hệ thống từ chối đăng bán; không tạo tin đăng, không đưa tin vào trạng thái chờ, không cho phép âm điểm hoặc ghi nợ phí.
 - Phí được khấu trừ thành công trước khi vật phẩm được đưa lên kệ. Chỉ khi thanh toán phí thành công, tin đăng mới có hiệu lực và được hiển thị trên chợ.
 - Phí đăng bán đã thu không được hoàn lại, kể cả khi người bán gỡ hàng xuống hoặc không bán được.
 - Tin đăng đã đưa lên kệ không được chỉnh sửa giá hoặc thông tin niêm yết. Người bán có thể gỡ hàng xuống.
@@ -1927,4 +1928,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.15**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.17**
