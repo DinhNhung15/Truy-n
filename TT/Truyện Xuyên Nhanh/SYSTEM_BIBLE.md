@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.18  
+**Phiên bản:** 1.19  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -1160,7 +1160,7 @@ Những nội dung đã được chốt và không còn là vấn đề mở:
 - Vi phạm của người ủy thác được xử lý theo bốn cấp tại Mục 21.5; không tự động hủy nhiệm vụ, thay đổi kết quả/quyền lợi ký chủ hoặc tiêu diệt toàn bộ linh hồn (v1.14 và các cập nhật sau).
 
 ### Các điểm còn cần quyết định riêng
-- SYS-007: tiêu chí chọn E₀ khi mức can thiệp nằm giữa hai cấp; cách xử lý khi nhiều hệ số thay đổi đồng thời; cách phân loại hiệu ứng khi bản chất/mức tác động thay đổi trong thời gian tồn tại; ranh giới Kp giữa khu vực/thành phố và nhóm thống nhất trên 10 thành viên phân bố ở nhiều thành phố.
+- SYS-007: cách xử lý khi nhiều hệ số thay đổi đồng thời; cách phân loại hiệu ứng khi bản chất/mức tác động thay đổi trong thời gian tồn tại; ranh giới Kp giữa khu vực/thành phố và nhóm thống nhất trên 10 thành viên phân bố ở nhiều thành phố.
 - Mục 21.6: điều kiện và thẩm quyền xác định một nhiệm vụ đã kết thúc thất bại, phân biệt với một lượt ký chủ thất bại khiến nhiệm vụ quay lại kho để phân phối tiếp.
 - SYS-010: cách bảo đảm sự phân biệt giữa giá mua vé cho bản thân (1 tỷ điểm) và giá mua để chuyển cho người khác (10 tỷ điểm), trong bối cảnh vé được trao tay không giới hạn số lần và người giữ vé hợp lệ có quyền kích hoạt.
 ---
@@ -1286,7 +1286,32 @@ Trong đó:
 | Cao | 10 NL |
 | Đặc biệt | 30 NL |
 
-Tỷ lệ E₀ giữa bốn cấp độ là 1 : 3 : 10 : 30. Cấp độ được xác định theo hiệu quả và tác động thực tế của can thiệp, không căn cứ riêng vào tên gọi mà hệ thống đặt cho hành động.
+Tỷ lệ E₀ giữa bốn cấp độ là 1 : 3 : 10 : 30. Cấp độ được xác định theo phạm vi trạng thái/cấu trúc thực sự được can thiệp, không căn cứ riêng vào tên gọi mà hệ thống đặt cho hành động.
+
+**Tiêu chí phân loại E₀**
+
+E₀ được xác định theo phạm vi trạng thái hoặc cấu trúc mà hệ thống thực sự can thiệp bên trong từng mục tiêu. Không tính phần bị hỏng nhưng không được can thiệp.
+
+| Cấp độ | E₀ | Tiêu chí |
+|---|---:|---|
+| Nhẹ | 1 NL | Can thiệp vào một trạng thái hoặc bộ phận cục bộ, có phạm vi cấu trúc hạn chế. |
+| Trung bình | 3 NL | Can thiệp vào một cấu trúc hoặc hệ thống chính, kể cả khi cần phục hồi toàn bộ cấu trúc đó. |
+| Cao | 10 NL | Can thiệp vào nhiều cấu trúc hoặc hệ thống chức năng độc lập trong cùng một mục tiêu. |
+| Đặc biệt | 30 NL | Can thiệp gần như toàn bộ cấu trúc và hệ thống chức năng của mục tiêu. |
+
+**Nguyên tắc áp dụng**
+- Chỉ tính phần trạng thái/cấu trúc thực sự được hệ thống can thiệp; không tính toàn bộ phần hư hỏng nếu chỉ xử lý một phần.
+- Mức độ nghiêm trọng của tổn thương không tự động làm tăng E₀ nếu phạm vi can thiệp vẫn giới hạn ở một cấu trúc đơn lẻ.
+- Không dùng số lượng bước kỹ thuật hoặc thao tác để quyết định E₀. Nhiều bước kỹ thuật cùng tạo ra một hiệu ứng thống nhất vẫn được phân loại theo phạm vi can thiệp thực tế của hiệu ứng đó.
+- Tiêu chí áp dụng cho cả mục tiêu sinh học và phi sinh học.
+- E₀ độc lập với Kp, Kt và Ks: không tăng E₀ chỉ vì số lượng mục tiêu tăng (Kp), thời gian duy trì dài hơn (Kt), hoặc bản chất thay đổi thực tại có cấp độ cao hơn (Ks).
+
+**Ví dụ minh họa đã kiểm thử**
+- E₀ = 1: điều chỉnh một trạng thái sinh lý cục bộ; sửa một linh kiện máy tính; chỉ sửa phần mái bị dột của một tòa nhà.
+- E₀ = 3: can thiệp một cơ quan đơn lẻ dù tổn thương nghiêm trọng; sửa chữa toàn bộ cấu trúc mái nhà.
+- E₀ = 10: phục hồi đồng thời tim, phổi và gan; sửa nhiều hệ thống độc lập của máy tính hoặc ô tô; phục hồi nhiều hệ thống chức năng trong một tầng nhà.
+- E₀ = 30: phục hồi gần như toàn bộ cơ thể; toàn bộ kết cấu và hệ thống chức năng của tòa nhà, cây cổ thụ hoặc con tàu.
+
 
 **Hệ số phạm vi tác động Kp**
 
@@ -1957,4 +1982,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.18**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.19**
