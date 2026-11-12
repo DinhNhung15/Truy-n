@@ -398,3 +398,25 @@
 - Đồng bộ quy tắc phí vật phẩm nguyên vẹn vào SYS-009 và tỷ lệ quy đổi quỹ thưởng vào SYS-007.
 - Điểm chưa chốt duy nhất phát sinh trong lần cập nhật này: xử lý giao dịch khi người bán không đủ điểm để trả phí 5% trong trường hợp nhận vật phẩm không thể chia nhỏ.
 
+
+
+## 2026-11-12 – Chốt thu phí trước khi đăng bán trên chợ (SYSTEM_BIBLE.md v1.16)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-009.md`
+
+### Quy tắc phí đăng bán
+- Phí chợ 5% được xác định theo giá trị niêm yết quy đổi theo S và do người bán chịu.
+- Người bán thanh toán phí bằng điểm từ tài khoản cá nhân; hệ thống khấu trừ thành công trước khi vật phẩm được đưa lên kệ.
+- Phí đã thu không hoàn lại, kể cả khi người bán gỡ hàng hoặc không bán được.
+- Tin đăng đang hoạt động không được chỉnh sửa giá hoặc thông tin niêm yết; người bán được gỡ hàng xuống.
+- Nếu đăng lại cùng vật phẩm với giá khác, đó là lượt đăng bán mới và phải nộp phí 5% mới theo giá mới.
+- Không thu thêm phí khi giao dịch hoàn tất; người mua thanh toán theo giá niêm yết và không chịu thêm phí 5%.
+- Quy tắc này thay thế cách thu phí trước đây là khấu trừ khi người bán nhận đối giá, bao gồm cả cơ chế riêng xử lý phí bằng điểm khi đối giá là vật phẩm không thể chia nhỏ. Không cần chia nhỏ hoặc can thiệp vào vật phẩm để thu phí vì phí đã được thu trước khi đăng.
+- Điểm còn mở: cách xử lý khi người bán không đủ điểm để thanh toán phí đăng bán trước khi đưa hàng lên kệ. Không tự suy diễn cho phép âm điểm, cho nợ phí, giữ tin chờ hay từ chối đăng bán.
+
+### Trạng thái
+- Cập nhật `SYSTEM_BIBLE.md` từ v1.15 lên **v1.16**.
+- Đồng bộ toàn bộ cơ chế phí đăng bán trong `SYS-009.md`.
+- Các mô tả lịch sử về thu phí khi quyết toán giao dịch được giữ lại trong nhật ký để truy vết, nhưng không còn là quy tắc hiện hành.
