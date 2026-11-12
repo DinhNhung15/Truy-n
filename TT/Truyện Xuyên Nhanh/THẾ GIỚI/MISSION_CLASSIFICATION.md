@@ -1,7 +1,7 @@
 # MISSION_CLASSIFICATION.md
 # PHÂN CẤP NHIỆM VỤ VÀ MỨC ĐỘ LIÊN QUAN TỔNG BỘ
 
-**Phạm vi:** 16 thế giới trong dự án Truyện Xuyên Nhanh.  
+**Phạm vi:** 18 thế giới trong danh mục; 16 thế giới cũ đã có phân bổ, 2 thế giới mới đang chờ chốt cấp nhiệm vụ và mức liên quan Tổng bộ.  
 **Trạng thái:** Phân bổ cấp nhiệm vụ và mức độ liên quan Tổng bộ đã được tác giả chốt ở cấp hồ sơ thiết kế.  
 **Tài liệu quy chuẩn:** SYSTEM_BIBLE.md, Mục 5.2 – SYS-002.
 
@@ -20,7 +20,7 @@ Mỗi tiêu chí được chấm từ 1 đến 5. Điểm tổng cơ bản đư�
 
 **Phân biệt trạng thái:** Cấp trong bảng dưới đây là cấp thiết kế đã chốt cho từng hồ sơ thế giới. Điểm thành phần và điểm tổng SYS-002 chưa được chấm vì nhiều nhiệm vụ chưa có mục tiêu, điều kiện, thời hạn, phạm vi và cơ chế nguy hiểm chi tiết. Không được tự điền điểm giả hoặc coi cấp ký chủ là căn cứ xác định cấp nhiệm vụ. Khi xây dựng xong nhiệm vụ cụ thể, cần lập phiếu chấm SYS-002 để kiểm tra tính nhất quán; chỉ đề xuất thay đổi cấp nếu kết quả và căn cứ khách quan yêu cầu.
 
-## 2. Phân cấp 16 thế giới
+## 2. Phân cấp các thế giới đã được chốt
 
 | Mã | Tên thế giới | Cấp đã chốt | Căn cứ thiết kế |
 |---|---|---:|---|
@@ -41,6 +41,13 @@ Mỗi tiêu chí được chấm từ 1 đến 5. Điểm tổng cơ bản đư�
 | WORLD_015 | Biên Giới Giữa Các Thế Giới | S | Điều tra bất thường xuyên nhiều thế giới, có nguy cơ ảnh hưởng đến hoạt động của nhiều hệ thống và cấu trúc vận hành liên thế giới. |
 | WORLD_016 | Nguyện Vọng Cuối Cùng | SS | Đối diện trực tiếp với bí mật cốt lõi, khế ước và cơ chế vận hành của Tổng bộ; là nhiệm vụ kết thúc tuyến truyện chính. |
 
+Hai thế giới mới chưa được tác giả chốt cấp nhiệm vụ. Không tự gán cấp chỉ dựa trên thể loại hoặc mức độ gay cấn dự kiến.
+
+| Mã | Tên thế giới | Cấp | Trạng thái |
+|---|---|---:|---|
+| WORLD_017 | Bố Và Con Đồng Hành | Chưa chốt | Chờ xây dựng nhiệm vụ cụ thể và chấm SYS-002. |
+| WORLD_018 | Tinh Hải Cơ Giáp | Chưa chốt | Chờ xây dựng nhiệm vụ cụ thể và chấm SYS-002. |
+
 ## 3. Mức độ liên quan đến Tổng bộ Nguyện Vọng
 
 Dùng 5 mức để phân loại mức độ bằng chứng và liên hệ trong cốt truyện. Đây là nhãn quản lý nội dung truyện, không phải cấp nhiệm vụ trong SYS-002.
@@ -53,7 +60,7 @@ Dùng 5 mức để phân loại mức độ bằng chứng và liên hệ trong
 | M3 | Liên quan trực tiếp | Có bằng chứng xác thực rằng một phần sự kiện hoặc hoạt động trong thế giới liên hệ với Tổng bộ hay cơ chế hệ thống. |
 | M4 | Trung tâm bí mật | Thế giới trực tiếp tập trung vào nguồn gốc, bản chất, mục đích hoặc bí mật cốt lõi của Tổng bộ. |
 
-### Phân bổ theo thế giới
+### Phân bổ theo 16 thế giới đã chốt
 
 | Mã | Tên thế giới | Mức | Cách sử dụng trong cốt truyện |
 |---|---|---|---|
@@ -74,11 +81,19 @@ Dùng 5 mức để phân loại mức độ bằng chứng và liên hệ trong
 | WORLD_015 | Biên Giới Giữa Các Thế Giới | M3 | Nhân vật thu thập và xác minh bằng chứng về liên hệ trực tiếp. |
 | WORLD_016 | Nguyện Vọng Cuối Cùng | M4 | Giải quyết bí mật trung tâm của Tổng bộ và tuyến truyện chính. |
 
+Hai thế giới mới chưa được xác định mức liên quan Tổng bộ:
+
+| Mã | Tên thế giới | Mức | Trạng thái |
+|---|---|---|---|
+| WORLD_017 | Bố Và Con Đồng Hành | Chưa chốt | Chưa có chủ trương cài manh mối Tổng bộ. |
+| WORLD_018 | Tinh Hải Cơ Giáp | Chưa chốt | Chưa có chủ trương cài manh mối Tổng bộ. |
+
 ## 4. Nhịp hé lộ bí mật
 
 - WORLD_001–004: hành trình độc lập; chưa hé lộ bí mật Tổng bộ.
-- WORLD_005–008: bắt đầu xuất hiện một vài gợi ý gián tiếp, nhưng không biến mọi thế giới thành manh mối.
-- WORLD_009–014: tiếp tục các tuyến độc lập; một số thế giới cung cấp dữ kiện có thể đối chiếu, đặc biệt WORLD_014.
+- WORLD_005–008: một vài thế giới có gợi ý gián tiếp, nhưng không biến mọi thế giới thành manh mối.
+- WORLD_009, WORLD_017 và WORLD_010–014: tiếp tục các tuyến cá nhân/gia đình độc lập; WORLD_014 có dữ kiện liên quan theo phân bổ cũ. WORLD_017 là tuyến gặp lại riêng của bố và con.
+- WORLD_018: thế giới cơ giáp cả gia đình cùng tham gia, thiên về hành động, phối hợp và tình cảm gia đình; có biến cố gần cuối. Chưa xác định có liên quan Tổng bộ hay không.
 - WORLD_015: các nhân vật chủ động điều tra và xác minh mối liên hệ.
 - WORLD_016: kết nối các dữ kiện đã được gieo trước đó và đối diện bí mật cốt lõi.
 
@@ -91,4 +106,4 @@ Không bắt buộc mọi thế giới phải chứa manh mối. Không để nh
 3. Cấp nhiệm vụ không được xác định theo số thứ tự thế giới, số nhiệm vụ cá nhân hoặc cấp ký chủ.
 4. Thế giới cấp D/C vẫn có thể có ý nghĩa cảm xúc lớn; thế giới cấp S/SS không mặc định phải có liên quan Tổng bộ.
 5. Không nâng cấp nhiệm vụ chỉ vì có yếu tố huyền bí, công nghệ lạ hoặc thông tin chưa được xác minh.
-6. Các cấp và mức liên quan trong tài liệu này được giữ thống nhất với WORLD_INDEX.md. Khi tác giả thay đổi, cập nhật đồng thời cả hai tài liệu và ghi nhận trong CONTINUITY_LOG.md.
+6. Các cấp và mức liên quan đã chốt trong tài liệu này được giữ thống nhất với WORLD_INDEX.md. WORLD_017 và WORLD_018 để trạng thái chưa chốt cho đến khi tác giả quyết định. Khi tác giả thay đổi, cập nhật đồng thời cả hai tài liệu và ghi nhận trong CONTINUITY_LOG.md.
