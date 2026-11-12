@@ -506,3 +506,35 @@
 - Cập nhật SYSTEM_BIBLE.md từ v1.17 lên v1.18.
 - Đồng bộ nội dung SYS-007 theo nguồn quy tắc tại SYSTEM_BIBLE Mục 15.
 - Không thay đổi E₀, công thức chi phí tổng thể, quy tắc sập/khôi phục hoặc tự quyết định các vấn đề còn mở.
+
+
+## 2026-11-13 – Chốt tiêu chí phân loại E₀ trong SYS-007 (SYSTEM_BIBLE.md v1.19)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-007.md`
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### E₀ – Cấp độ can thiệp
+- Chốt thước đo chính: phạm vi trạng thái hoặc cấu trúc mà hệ thống thực sự can thiệp bên trong từng mục tiêu.
+- Nhẹ – 1 NL: can thiệp vào một trạng thái hoặc bộ phận cục bộ, phạm vi cấu trúc hạn chế.
+- Trung bình – 3 NL: can thiệp vào một cấu trúc hoặc hệ thống chính, kể cả khi cần phục hồi toàn bộ cấu trúc đó.
+- Cao – 10 NL: can thiệp vào nhiều cấu trúc hoặc hệ thống chức năng độc lập trong cùng một mục tiêu.
+- Đặc biệt – 30 NL: can thiệp gần như toàn bộ cấu trúc và hệ thống chức năng của mục tiêu.
+- Chỉ tính phần thực sự được can thiệp; không tính phần hư hỏng nhưng không được xử lý.
+- Mức độ nghiêm trọng của tổn thương không tự động làm tăng E₀ nếu phạm vi vẫn giới hạn ở một cấu trúc đơn lẻ.
+- Không dùng số lượng bước kỹ thuật/thao tác làm tiêu chí; các bước cùng tạo một hiệu ứng thống nhất được xét theo phạm vi can thiệp thực tế.
+- Tiêu chí áp dụng cho cả mục tiêu sinh học và phi sinh học.
+- Làm rõ E₀ độc lập với Kp, Kt và Ks; các hệ số lần lượt đo phạm vi đối tượng, thời gian duy trì và bản chất/cấp độ thay đổi thực tại.
+
+### Ví dụ đã kiểm thử
+- E₀ = 1: điều chỉnh trạng thái sinh lý cục bộ; sửa một linh kiện máy tính; chỉ sửa phần mái bị dột.
+- E₀ = 3: can thiệp một cơ quan đơn lẻ dù tổn thương nghiêm trọng; phục hồi toàn bộ cấu trúc mái nhà.
+- E₀ = 10: phục hồi đồng thời tim, phổi và gan; sửa nhiều hệ thống độc lập của máy tính/ô tô; phục hồi nhiều hệ thống chức năng trong một tầng nhà.
+- E₀ = 30: phục hồi gần như toàn bộ cơ thể; phục hồi toàn bộ kết cấu và hệ thống chức năng của tòa nhà, cây cổ thụ hoặc con tàu.
+
+### Trạng thái
+- Cập nhật SYSTEM_BIBLE.md từ v1.18 lên v1.19.
+- Đồng bộ tiêu chí E₀ vào SYS-007.md.
+- Loại bỏ tiêu chí chọn cấp E₀ khỏi danh sách vấn đề chưa chốt.
+- Các điểm mở khác của SYS-007, gồm tương tác khi nhiều hệ số thay đổi đồng thời, biến động bản chất/mức tác động theo thời gian và ranh giới Kp, được giữ nguyên; không tự quyết định trong lần cập nhật này.
