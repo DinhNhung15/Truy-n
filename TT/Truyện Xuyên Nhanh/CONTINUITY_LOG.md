@@ -437,3 +437,23 @@
 - Cập nhật `SYSTEM_BIBLE.md` từ v1.16 lên **v1.17**.
 - Đồng bộ quy tắc vào tài liệu chuyên biệt `SYS-009.md`.
 - Điểm chưa chốt về điều kiện không đủ phí đăng bán đã được đóng.
+
+
+## 2026-11-12 – Dọn lỗi đồng bộ tài liệu (SYSTEM_BIBLE.md v1.17)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-002.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-007.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-009.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-010.md`
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/MISSION_CLASSIFICATION.md`
+
+### Nội dung chỉnh sửa
+- Sửa metadata đầu `SYSTEM_BIBLE.md` từ v1.16 thành v1.17, thống nhất với phiên bản ở cuối tài liệu và nhật ký quyết định.
+- Cập nhật thông tin đồng bộ của `SYS-002.md`, `SYS-007.md` và `SYS-010.md` theo `SYSTEM_BIBLE.md` v1.17.
+- Đổi tiêu đề mục 6 trong `SYS-009.md` vì quy tắc người bán không đủ điểm trả phí đăng bán đã được chốt, không còn là điểm chưa quy định.
+- Xóa bảng trọng số chung cũ khỏi `MISSION_CLASSIFICATION.md`; thay bằng nguyên tắc dẫn chiếu bộ trọng số theo tám loại nhiệm vụ và cơ chế nhiệm vụ đa loại trong SYS-002.
+
+### Phạm vi
+- Đây là đợt sửa metadata và đồng bộ tham chiếu; không thay đổi cấp nhiệm vụ đã chốt, công thức SYS-002, quy tắc năng lượng SYS-007, giá vé SYS-010 hoặc bất kỳ quyết định canon nào khác.
