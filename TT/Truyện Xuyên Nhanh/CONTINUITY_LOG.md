@@ -470,3 +470,39 @@
 
 ### Phạm vi
 - Đây là đợt chỉnh sửa lỗi tài liệu và tham chiếu theo các quyết định canon mới nhất; không thay đổi quy tắc nghiệp vụ đã chốt, không tự quyết định các điểm còn mở.
+
+## 2026-11-12 – Đồng bộ quyết định mới về Kp, Kt và Ks trong SYS-007 (SYSTEM_BIBLE.md v1.18)
+
+**Tài liệu cập nhật:**
+- TT/Truyện Xuyên Nhanh/SYS/SYS-007.md
+- TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md
+- TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md
+
+### Kt – Thời gian duy trì
+- Thay các khoảng thời gian cũ có điểm biên chồng lấn bằng các khoảng không giao nhau: dưới 1 phút = 1; từ 1 đến dưới 10 phút = 2; từ 10 đến dưới 60 phút = 5; từ 60 phút đến dưới 24 giờ = 10; từ 24 giờ đến hết 7 ngày = 30; trên 7 ngày = 100.
+- Xác nhận đúng 24 giờ thuộc Kt 30 và đúng 7 ngày vẫn thuộc Kt 30.
+
+### Kp – Phạm vi tác động
+- Giữ nguyên các hệ số: cá nhân 1; nhóm nhỏ 2; khu vực 5; thành phố 10; quốc gia 30; toàn thế giới 100; nhiều thế giới 300.
+- Bổ sung tiêu chí phạm vi thực tế; định nghĩa nhóm nhỏ 2–10 đối tượng có liên hệ thực tế/chức năng và cùng chịu hiệu ứng chung; không gom nhóm chỉ vì cùng nằm trong một lệnh/danh sách.
+- Nhóm trên 10 chỉ được chia nếu các nhóm thực sự độc lập; hiệu ứng tác động trên toàn khu vực dùng Kp khu vực dù số người hưởng lợi trực tiếp ít.
+- Hiệu ứng độc lập tính riêng; các bước kỹ thuật của cùng hiệu ứng không tách riêng.
+- Khi phạm vi mở rộng, chỉ tính phần chi phí tăng thêm; nếu chỉ Kp thay đổi: ΔE = E₀ × Kt × Ks × (Kp_mới − Kp_cũ). Thu hẹp phạm vi không tự động hoàn năng lượng; mở rộng nhiều lần chỉ thu phần vượt mức chi phí cao nhất đã tính/thu.
+- Giữ mở hai vấn đề: nhóm thống nhất trên 10 thành viên phân bố nhiều thành phố; ranh giới khu vực/thành phố và phạm vi địa lý rời rạc.
+
+### Ks – Mức độ thay đổi thực tại
+- Thay bảng phân loại cũ bằng tiêu chí dựa trên bản chất/cơ chế thực tế: Ks 1 thông tin/nhận thức/ký ức; Ks 2 điều chỉnh trạng thái nhỏ; Ks 5 khôi phục/điều chỉnh chức năng trong cơ chế vốn có; Ks 10 thay đổi cấu trúc/cơ chế đối tượng hoặc tạo hiệu ứng mới bằng cơ chế riêng; Ks 30 thiết lập quy tắc dị thường trong phạm vi thực tại; Ks 100 trực tiếp sửa đổi/tạo ngoại lệ đối với định luật nền tảng.
+- Ghi rõ các ví dụ đã chốt: xóa/sửa ký ức Ks 1; chữa lành hoàn toàn cơ thể Ks 5; tạo vật chất/năng lượng bằng cơ chế riêng Ks 10; dịch chuyển vật thể bằng năng lực riêng Ks 10; áp đặt quy tắc giảm trọng lực trong khu vực Ks 30; ngoại lệ nhân quả trong phòng, ngoại lệ định luật chuyển động trên một xe và ngoại lệ bảo toàn năng lượng tại máy phát điện Ks 100.
+- Phân biệt mô phỏng biểu hiện bằng cơ chế riêng với việc thực sự áp đặt quy tắc hoặc can thiệp định luật.
+- Một hiệu ứng thống nhất lấy Ks cao nhất mà hiệu ứng thực sự đạt tới; hiệu ứng độc lập tính riêng. Ks độc lập Kp/Kt; thời gian ngắn, khả năng đảo ngược hoặc tầm quan trọng đối với cá nhân không tự làm giảm/tăng Ks.
+
+### Các điểm chưa chốt được giữ nguyên hoặc làm rõ
+- E₀: tiêu chí chọn cấp khi mức can thiệp nằm giữa hai cấp.
+- Kp: nhóm thống nhất trên 10 thành viên phân bố ở nhiều thành phố; ranh giới khu vực/thành phố và phạm vi địa lý rời rạc.
+- Tương tác khi nhiều hệ số thay đổi đồng thời; cách phân loại hiệu ứng khi bản chất/mức tác động thay đổi trong thời gian tồn tại.
+- Các điểm mở khác tại Mục 13, gồm điều kiện nhiệm vụ kết thúc thất bại và lỗ hổng giá vé SYS-010, không bị thay đổi.
+
+### Phạm vi
+- Cập nhật SYSTEM_BIBLE.md từ v1.17 lên v1.18.
+- Đồng bộ nội dung SYS-007 theo nguồn quy tắc tại SYSTEM_BIBLE Mục 15.
+- Không thay đổi E₀, công thức chi phí tổng thể, quy tắc sập/khôi phục hoặc tự quyết định các vấn đề còn mở.
