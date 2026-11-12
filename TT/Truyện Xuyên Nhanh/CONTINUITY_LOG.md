@@ -283,3 +283,29 @@
 ### Trạng thái
 - Đã tạo mục lục và hai hồ sơ thế giới riêng trên nhánh `main`.
 - Không thay đổi SYSTEM_BIBLE hoặc CHARACTER_BIBLE trong lần cập nhật này.
+
+
+## 2026-11-12 – Bổ sung hai thế giới và cập nhật tuổi của con
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/CHARACTER_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_INDEX.md`
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/MISSION_CLASSIFICATION.md`
+
+### Tuổi của con
+- Cập nhật tuổi canon của con trai từ 3 tuổi lên **4,5 tuổi** trong CHARACTER_BIBLE.md.
+- Khi xây dựng lời thoại, hành vi và năng lực nhận thức, giữ đúng đặc điểm của trẻ 4,5 tuổi; không viết bé như người trưởng thành thu nhỏ.
+- Tuổi thân phận ở từng thế giới nhiệm vụ vẫn cần ghi riêng nếu khác tuổi canon; không tự suy ra tuổi tại mọi vị diện.
+
+### Bổ sung và sắp xếp thế giới
+- Bổ sung **WORLD_017 – Bố Và Con Đồng Hành**, nhân vật tham gia: bố và con. Vị diện này đặt sau WORLD_008 (mẹ báo cho bố biết đã tìm thấy con) và trước WORLD_010 (tuyến mẹ-con), tạo cuộc gặp riêng của bố và con.
+- Bổ sung **WORLD_018 – Tinh Hải Cơ Giáp**, cả gia đình tham gia. Đây là thế giới cơ giáp nơi gia đình thể hiện năng lực và sự phối hợp khiến người khác ngưỡng mộ; nhiệm vụ ban đầu đơn giản nhưng có biến cố gần cuối để tạo cao trào. Không biến nội dung thành cuộc thi sức mạnh đơn thuần hoặc một vị diện chỉ nghỉ ngơi.
+- Giữ nguyên mã hồ sơ của 16 thế giới đã có. Thứ tự trong WORLD_INDEX thể hiện trình tự cốt truyện dự kiến, không bắt buộc mã hồ sơ tăng liên tục.
+- WORLD_018 đặt sau WORLD_014 và trước WORLD_015–016 trong mạch truyện.
+- Chưa tự gán cấp nhiệm vụ hoặc mức liên quan Tổng bộ cho WORLD_017 và WORLD_018; chờ xây dựng nhiệm vụ cụ thể và quyết định của tác giả.
+
+### Trạng thái
+- Danh mục được mở rộng từ 16 lên 18 thế giới.
+- Cập nhật tuổi canon của con lên 4,5 tuổi.
+- Không thay đổi SYSTEM_BIBLE.md hoặc các quy tắc hệ thống.
+- Chưa tạo hồ sơ chi tiết riêng cho WORLD_017 và WORLD_018.
