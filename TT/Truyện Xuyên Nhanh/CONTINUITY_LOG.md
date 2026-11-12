@@ -309,3 +309,66 @@
 - Cập nhật tuổi canon của con lên 4,5 tuổi.
 - Không thay đổi SYSTEM_BIBLE.md hoặc các quy tắc hệ thống.
 - Chưa tạo hồ sơ chi tiết riêng cho WORLD_017 và WORLD_018.
+
+
+## 2026-11-12 – SYSTEM_BIBLE.md v1.14 và tách hồ sơ SYS
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/SYS/README.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-002.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-007.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-009.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-010.md`
+
+### SYS-002 – Đánh giá và phân cấp nhiệm vụ
+- Thay bảng trọng số chung và bộ hệ số cũ bằng trọng số trực tiếp theo tám loại nhiệm vụ: Điều tra, Sinh tồn, Cứu viện, Bảo vệ, Tranh đấu, Hộ tống, Thu thập và Phát triển.
+- Chốt trọng số theo năm tiêu chí cho từng loại; mỗi hàng có tổng 100%.
+- Nhiệm vụ đa loại: loại chủ đạo 70%; các loại phụ chia đều 30%.
+- Giữ thang điểm 1–5, định nghĩa năm tiêu chí và ngưỡng F–SS; làm rõ ngưỡng cấp là ngưỡng chung, không tự điều chỉnh theo loại nhiệm vụ.
+- Làm rõ quy trình tăng/hạ cấp: thông thường phải báo cáo và được Tổng bộ/Cục Điều Phối phê duyệt; trường hợp khẩn cấp đủ điều kiện có thể tự động tăng một cấp rồi gửi xác minh. Mỗi lần đánh giá lại tối đa một cấp; có thể đánh giá lại tiếp khi xuất hiện dữ liệu mới.
+- Điều kiện tăng cấp tập trung vào nguy hiểm mới chưa được tính đến, mức nguy hiểm thực tế tăng đáng kể và tác động rõ đến khả năng hoàn thành hoặc nguy cơ tử vong. Hạ cấp dựa trên bằng chứng cho thấy đánh giá ban đầu cao hơn đáng kể so với thực tế.
+- Chuẩn hóa thông báo: “Xác nhận có bất thường. Tăng cấp nhiệm vụ.” / “Xác nhận có bất thường. Hạ cấp nhiệm vụ.”
+
+### SYS-007 – Năng lượng và chi phí can thiệp
+- Bổ sung công thức chi phí: E = E₀ × Kp × Kt × Ks.
+- Chốt E₀ theo bốn cấp độ: Nhẹ 1 NL, Trung bình 3 NL, Cao 10 NL, Đặc biệt 30 NL.
+- Chốt hệ số phạm vi Kp: cá nhân 1; nhóm nhỏ 2; khu vực 5; thành phố 10; quốc gia 30; toàn thế giới 100; nhiều thế giới 300.
+- Chốt hệ số thời gian Kt: dưới 1 phút 1; 1–10 phút 2; 10–60 phút 5; 1–24 giờ 10; 1–7 ngày 30; trên 7 ngày 100.
+- Chốt hệ số thay đổi thực tại Ks: chỉ thông tin/nhận thức 1; thay đổi nhỏ dễ đảo ngược 2; thay đổi cục bộ có ý nghĩa 5; thay đổi lớn/kéo dài 10; thay đổi quy luật/cấu trúc 30; can thiệp quy luật nền tảng 100.
+- Làm rõ chi phí tính theo hiệu ứng thực sự tiêu hao năng lượng; hiệu ứng độc lập tính riêng, hệ quả kỹ thuật tất yếu không tính lặp; nhiều hệ thống chia chi phí theo mức đóng góp.
+- Giữ các quy tắc dung lượng, duy trì, lương, sập, hạ cấp, đóng băng và khôi phục đã có.
+
+### SYS-009 – Điểm và chợ giao dịch
+- Giữ nguyên nguyên tắc điểm là tài sản cá nhân; không tặng, cho vay, góp, gộp hoặc chuyển trực tiếp.
+- Điểm chỉ được chuyển giữa ký chủ như khoản thanh toán cho giao dịch mua bán thực tế qua chợ do hệ thống ghi nhận.
+- Chợ hỗ trợ đối giá bằng điểm tích lũy, tiền tệ thế giới hoặc vật phẩm; hệ thống định giá theo S và thực hiện chuyển giao theo thỏa thuận đã ghi nhận.
+- Phí 5% do người bán chịu, khấu trừ trước khi người bán nhận thanh toán; người mua không chịu thêm phí 5%.
+- Trao đổi trực tiếp vẫn chỉ dùng tiền thật, vật phẩm, hình thức kết hợp hoặc trao tay miễn phí; không dùng điểm, không chịu phí chợ và không có thời gian chờ.
+- Giữ các quy tắc kiểm định, tỷ giá theo sức mua thực tế, kỹ năng và cửa hàng đã xác nhận.
+
+### SYS-010 – Vé Về Nhà
+- Giá mua cho bản thân: 1 tỷ điểm; mua để chuyển cho người khác: 10 tỷ điểm.
+- Không chỉ định người nhận tại thời điểm mua; vé được trao tay vật lý và có thể chuyển qua nhiều người, không giới hạn số lần.
+- Vé không có thời hạn, không thừa kế; người đang giữ vé hợp lệ có quyền kích hoạt.
+- Báo mất/báo trộm không tự động khóa vé; hệ thống không yêu cầu người kích hoạt chứng minh nguồn gốc nhận vé.
+- Nếu người giữ vé tử vong trước khi kích hoạt, vé mất hiệu lực. Người giữ có quyền từ chối kích hoạt; không có cơ chế cưỡng ép.
+- Giữ nguyên cơ chế chờ trở về sau khi nhiệm vụ bắt buộc có kết quả và các điều kiện trở về đã xác nhận.
+
+### Người ủy thác – khế ước và chế tài
+- Chọn phương án B: người ủy thác phải khai báo trung thực thông tin trọng yếu mình biết có thể ảnh hưởng đáng kể đến mục tiêu, điều kiện hoàn thành, nguy cơ hoặc trở ngại của nhiệm vụ. Không bắt buộc cung cấp mọi thông tin riêng tư hoặc không liên quan.
+- Cố ý che giấu thông tin trọng yếu thuộc Cấp 1 – Che giấu; thông tin sai lệch do nhầm lẫn thuộc Cấp 0 – Sai lệch.
+- Chốt bốn cấp vi phạm: Cấp 0 – Sai lệch; Cấp 1 – Che giấu; Cấp 2 – Gây khó dễ; Cấp 3 – Phá hoại.
+- Chế tài tăng theo cấp nhưng phải căn cứ hành vi, mức độ cố ý và hậu quả thực tế. Không có tỷ lệ khấu trừ cố định; không cấp nào tự động dẫn đến tiêu diệt toàn bộ linh hồn.
+- Thay cơ chế cũ “hủy hợp đồng + ký chủ nhận 50% điểm + tiêu diệt linh hồn” bằng chế tài theo bốn cấp; vi phạm không tự động hủy nhiệm vụ hoặc thay đổi kết quả/quyền lợi của ký chủ.
+- Quỹ 20% là một nguồn thưởng hợp nhất, người ủy thác chọn phân bổ thành điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành. Có thể đổi lựa chọn trước quyết toán; chi trả sau khi ký chủ rời thế giới nhiệm vụ và Tổng bộ xác minh kết quả.
+- Bổ sung báo cáo quyết toán cho ký chủ sau xác minh: cấp nhiệm vụ, kết quả, điểm, tiền thưởng, năng lượng hệ thống, vật phẩm, các khoản khấu trừ/hủy và lý do. Nhiệm vụ thất bại vẫn phải có báo cáo; không chi thưởng hoàn thành từ quỹ 20%.
+
+### Các điểm còn mở
+- Cách khấu trừ phí 5% khi đối giá là vật phẩm không thể chia nhỏ chưa được xác định.
+- Tỷ lệ quy đổi cụ thể giữa điểm thưởng cho ký chủ và năng lượng thưởng cho hệ thống đồng hành trong quỹ 20% chưa được xác định.
+
+### Trạng thái
+- Đã cập nhật SYSTEM_BIBLE.md lên v1.14.
+- Đã tạo thư mục SYS với bốn tài liệu chuyên biệt và README.
+- Các quy tắc cũ mâu thuẫn đã được thay thế trong bản tổng hợp; SYSTEM_BIBLE.md là nguồn canon ưu tiên.
