@@ -372,7 +372,7 @@ Với thang điểm từng tiêu chí từ 1 đến 5, điểm tổng cơ bản 
 | S | 80–89 |
 | SS | 90–100 |
 
-Ngưỡng có thể được điều chỉnh theo loại nhiệm vụ để phản ánh đúng đặc thù đánh giá. Ngoài kết quả điểm tổng, nguy hiểm đặc biệt có thể là căn cứ độc lập để nâng cấp nhiệm vụ, kể cả khi điểm tổng chưa chạm ngưỡng cấp tiếp theo.
+Ngưỡng cấp F–SS là ngưỡng chung, cố định cho các loại nhiệm vụ; không tự điều chỉnh ngưỡng theo loại nhiệm vụ. Ngoài kết quả điểm tổng, nguy hiểm đặc biệt đáp ứng điều kiện tại Mục 6 có thể là căn cứ độc lập để tăng cấp nhiệm vụ.
 
 #### 4. Trọng số theo loại nhiệm vụ
 
@@ -1322,7 +1322,7 @@ Tỷ lệ E₀ giữa bốn cấp độ là 1 : 3 : 10 : 30. Cấp độ đượ
 - Tính phí theo từng hiệu ứng thực sự tiêu hao năng lượng, không tính đơn thuần theo số câu lệnh hoặc số thao tác giao diện.
 - Các hiệu ứng độc lập được tính riêng. Những hệ quả kỹ thuật tất yếu của cùng một hiệu ứng không bị tính phí lặp lại.
 - Nếu nhiều hệ thống cùng tham gia tạo ra một hiệu ứng, chi phí được phân bổ theo mức đóng góp thực tế của từng hệ thống.
-- Chi phí được tính theo dung lượng năng lượng cơ bản của hệ thống ở cấp hiện tại hay theo năng lượng hiện có? **Không áp dụng tỷ lệ phần trăm dung lượng**; công thức trên xác định lượng NL tiêu hao trực tiếp cho hiệu ứng.
+- Chi phí E được trừ trực tiếp từ năng lượng hiện có của hệ thống. Nếu năng lượng hiện có thấp hơn chi phí tính toán, hệ thống vẫn có thể quyết định sử dụng toàn bộ năng lượng còn lại; khi năng lượng về 0, hệ thống sập theo quy tắc tại Mục 15.6.
 
 ## 15.5. Trạng thái năng lượng và cảnh báo
 
