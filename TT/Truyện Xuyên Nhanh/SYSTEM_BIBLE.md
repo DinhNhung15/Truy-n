@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.14  
+**Phiên bản:** 1.15  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -850,7 +850,9 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 
 - Người bán được tự do quyết định giá bán; không có giá trần hoặc giá sàn do Tổng bộ áp đặt.
 - Khi giao dịch qua chợ hoàn tất, Tổng bộ thu phí bằng **5% giá trị giao dịch**.
-- Phí giao dịch do người bán chịu và được khấu trừ từ số tiền/điểm người bán nhận được.
+- Phí giao dịch do người bán chịu và được khấu trừ trước khi người bán nhận đối giá.
+- Nếu người bán nhận tiền hoặc điểm, phí được khấu trừ từ khoản thanh toán tương ứng.
+- Nếu người bán nhận vật phẩm không thể chia nhỏ, hệ thống giữ nguyên vật phẩm và khấu trừ khoản phí 5% quy đổi thành điểm từ tài khoản điểm cá nhân của người bán; không chia nhỏ, phá hủy hoặc thay thế vật phẩm để thu phí.
 - Người mua thanh toán theo giá niêm yết, không phải chịu thêm khoản phí giao dịch 5%.
 
 ### Đơn vị tiền tệ và quy đổi
@@ -1841,7 +1843,7 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 
 - Ngay khi khế ước được ký, **80% tổng năng lượng hợp đồng được chuyển hóa và đưa vào kho năng lượng chung của Tổng bộ**.
 - **20% còn lại do linh hồn người ủy thác nắm giữ**, là quỹ thưởng hợp nhất có thể được phân bổ thành điểm thưởng cho ký chủ và/hoặc năng lượng thưởng cho hệ thống đồng hành.
-- Đây là một quỹ duy nhất, không phải hai khoản thưởng độc lập. Người ủy thác tự lựa chọn tỷ lệ phân bổ giữa điểm và năng lượng; không tự đặt ra tỷ lệ quy đổi nếu Tổng bộ chưa có quy định được xác nhận.
+- Đây là một quỹ duy nhất, không phải hai khoản thưởng độc lập. Người ủy thác tự lựa chọn tỷ lệ phân bổ giữa điểm và năng lượng theo tỷ lệ quy đổi cố định **100 điểm = 1 NL**. Tỷ lệ này chỉ áp dụng khi phân bổ quỹ thưởng 20% của người ủy thác, không áp dụng cho giao dịch chợ, cửa hàng hoặc các cơ chế quy đổi thông thường khác.
 - Người ủy thác có thể lựa chọn hoặc thay đổi phương án phân bổ trước khi quyết toán. Việc chi trả chỉ được thực hiện sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác minh kết quả.
 - Một lượt ký chủ thất bại không làm nhiệm vụ kết thúc; nhiệm vụ được đưa trở lại kho để tiếp tục phân phối. Ký chủ thất bại không nhận khoản thưởng từ quỹ 20% cho lượt đó; quỹ chưa quyết toán tiếp tục được xử lý theo kết quả cuối cùng của nhiệm vụ.
 - Khi nhiệm vụ được xác nhận hoàn thành, phần quỹ 20% chưa phân bổ được chuyển vào kho năng lượng chung của Tổng bộ; linh hồn người ủy thác tan biến sau khi quyết toán.
@@ -1904,7 +1906,7 @@ Vi phạm của người ủy thác được chia thành bốn cấp:
 
 - Quỹ 20% năng lượng hợp đồng là một nguồn duy nhất để người ủy thác thưởng cho ký chủ và/hoặc hệ thống đồng hành.
 - Người ủy thác được chọn tỷ lệ phân bổ giữa điểm thưởng cho ký chủ và năng lượng cho hệ thống đồng hành; tổng phần phân bổ không vượt quá quỹ 20% còn lại.
-- Người ủy thác có thể thay đổi lựa chọn trước khi Tổng bộ thực hiện quyết toán. Không có tỷ lệ quy đổi cố định giữa điểm và năng lượng nếu chưa được quy định riêng.
+- Người ủy thác có thể thay đổi lựa chọn trước khi Tổng bộ thực hiện quyết toán. Mọi phần quỹ được phân bổ thành điểm hoặc năng lượng đều quy đổi theo tỷ lệ **100 điểm = 1 NL**; tổng giá trị phân bổ không được vượt quá năng lượng còn lại trong quỹ 20%. Sau khi quyết toán, phương án phân bổ được khóa.
 - Việc quyết toán diễn ra sau khi ký chủ rời thế giới nhiệm vụ và Tổng bộ xác minh kết quả; không thanh toán quỹ thưởng trước thời điểm này.
 - Nếu ký chủ hoàn thành nhiệm vụ, khoản thưởng được chi trả theo phương án cuối cùng người ủy thác đã chọn trong giới hạn quỹ còn lại.
 - Nếu ký chủ thất bại trong lượt nhiệm vụ, không chi thưởng từ quỹ 20% cho lượt đó. Nếu nhiệm vụ được phân phối lại, quỹ chưa quyết toán tiếp tục được giữ để xử lý theo kết quả cuối cùng.
@@ -1924,4 +1926,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.14**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.15**
