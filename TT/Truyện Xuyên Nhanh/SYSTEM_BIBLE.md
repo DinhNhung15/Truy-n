@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.13  
+**Phiên bản:** 1.14  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -34,9 +34,10 @@ Tổng bộ có hai nguồn năng lượng quan trọng:
 - Đến từ những người đã ký khế ước ước nguyện.
 - Sau khi khế ước hoàn tất, 80% tổng năng lượng hợp đồng được chuyển hóa và đưa vào nguồn vận hành chung của Tổng bộ.
 - Linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ và giữ lại 20% năng lượng hợp đồng để duy trì sự tồn tại, quan sát nhiệm vụ.
-- Người ủy thác có thể dùng một phần hoặc toàn bộ 20% năng lượng còn lại để đổi thành điểm thưởng cho ký chủ, kể cả khi một lượt ký chủ chưa hoàn thành hoặc đã thất bại.
-- Nếu một ký chủ thất bại, nhiệm vụ được đưa lại vào kho để tiếp tục phân phối; phần 20% chưa sử dụng vẫn do linh hồn người ủy thác giữ. Khi nhiệm vụ thực sự hoàn thành, phần chưa sử dụng được chuyển về kho chung của Tổng bộ và linh hồn tan biến.
-- Nếu Tổng bộ hủy nhiệm vụ do người ủy thác phá hoại đã được xác minh, phần năng lượng chưa thanh toán bị thu hồi theo Mục 21; linh hồn người ủy thác bị tiêu diệt.
+- Phần 20% còn lại là một quỹ thưởng hợp nhất; người ủy thác được chọn phân bổ quỹ này thành điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành, không coi đây là hai nguồn thưởng độc lập.
+- Người ủy thác có thể lựa chọn và điều chỉnh phương án phân bổ trước thời điểm quyết toán. Việc chi trả chỉ thực hiện sau khi ký chủ rời thế giới nhiệm vụ và Tổng bộ xác minh kết quả.
+- Một lượt ký chủ thất bại không tự làm nhiệm vụ kết thúc; nhiệm vụ trở lại kho để tiếp tục phân phối. Ký chủ thất bại không nhận khoản thưởng tự nguyện từ quỹ 20% cho lượt đó.
+- Khi nhiệm vụ được xác nhận hoàn thành, phần quỹ 20% chưa phân bổ được nhập vào kho chung của Tổng bộ và linh hồn người ủy thác tan biến. Nếu nhiệm vụ bị hủy do vi phạm đã xác minh, áp dụng chế tài tại Mục 21.
 
 **Nguồn năng lượng thưởng**
 - Được Tổng bộ cấp cho hệ thống con sau khi hệ thống và ký chủ hoàn thành nhiệm vụ.
@@ -184,7 +185,7 @@ Nhiệm vụ chờ hệ thống con tiếp nhận và thực hiện.
 - Không được tính nhiệm vụ mới nếu khế ước chưa hoàn tất.
 - Mỗi khế ước hoàn tất tạo thêm một nhiệm vụ.
 - Sau khi ký khế ước, nguyện vọng và điều kiện hoàn thành không thể thay đổi.
-- Việc chuyển hóa 80% năng lượng hợp đồng được thực hiện ngay sau khi ký; linh hồn người ủy thác giữ 20% năng lượng còn lại. Người ủy thác có thể phân bổ một phần hoặc toàn bộ 20% để thưởng kể cả khi một lượt ký chủ thất bại; chỉ phần chưa sử dụng mới chờ quyết toán cuối cùng khi nhiệm vụ thực sự hoàn thành.
+- Việc chuyển hóa 80% năng lượng hợp đồng được thực hiện ngay sau khi ký; linh hồn người ủy thác giữ 20% làm quỹ thưởng hợp nhất để phân bổ thành điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành. Người ủy thác có thể thay đổi lựa chọn phân bổ trước khi quyết toán; việc chi trả chỉ thực hiện sau khi ký chủ rời thế giới nhiệm vụ và Tổng bộ xác minh kết quả. Một lượt ký chủ thất bại không làm nhiệm vụ kết thúc và không được nhận khoản thưởng từ quỹ này.
 
 ### Quy tắc cụ thể hóa và xác nhận nguyện vọng
 
@@ -309,17 +310,9 @@ Cấp nhiệm vụ được xác định theo tiêu chuẩn đánh giá SYS-002 
 - Mọi điều chỉnh cấp phải có căn cứ khách quan, lý do rõ ràng và được lưu hồ sơ.
 - Việc đánh giá căn cứ vào bản chất, điều kiện và mức độ khách quan của nhiệm vụ, không căn cứ vào năng lực của ký chủ được phân công.
 
-#### 2. Năm tiêu chí và trọng số cơ bản
+#### 2. Năm tiêu chí đánh giá
 
-| Tiêu chí | Trọng số cơ bản |
-|---|---:|
-| Độ khó | 25% |
-| Mức độ nguy hiểm | 30% |
-| Tính cấp bách/thời hạn | 10% |
-| Phạm vi ảnh hưởng | 15% |
-| Độ phức tạp | 20% |
-
-Mỗi tiêu chí được chấm theo thang điểm từ 1 đến 5.
+Năm tiêu chí gồm Độ khó, Mức độ nguy hiểm, Tính cấp bách/thời hạn, Phạm vi ảnh hưởng và Độ phức tạp. Mỗi tiêu chí được chấm theo thang điểm từ 1 đến 5. Trọng số không dùng một bảng chung cho mọi nhiệm vụ mà được xác định theo loại nhiệm vụ tại Mục 4 dưới đây.
 
 **Thang đánh giá độ khó**
 - 1: Nhiệm vụ rất đơn giản, không đòi hỏi kỹ năng đặc biệt.
@@ -381,34 +374,39 @@ Với thang điểm từng tiêu chí từ 1 đến 5, điểm tổng cơ bản 
 
 Ngưỡng có thể được điều chỉnh theo loại nhiệm vụ để phản ánh đúng đặc thù đánh giá. Ngoài kết quả điểm tổng, nguy hiểm đặc biệt có thể là căn cứ độc lập để nâng cấp nhiệm vụ, kể cả khi điểm tổng chưa chạm ngưỡng cấp tiếp theo.
 
-#### 4. Hệ số theo loại nhiệm vụ
+#### 4. Trọng số theo loại nhiệm vụ
 
-- Mỗi loại nhiệm vụ có bộ hệ số riêng cho 5 tiêu chí, phản ánh đặc điểm khách quan của loại nhiệm vụ đó.
-- Hệ số chỉ điều chỉnh tỷ trọng tương đối giữa các tiêu chí, không trực tiếp cộng hoặc trừ điểm tổng.
-- Sau khi áp dụng hệ số, trọng số được chuẩn hóa để tổng bằng 100%.
-- Nhiệm vụ có thể thuộc nhiều loại. Hệ thống xác định tỷ trọng tương đối của từng loại theo mục tiêu và bản chất nhiệm vụ, kết hợp các bộ hệ số thành một bộ hệ số chung rồi chuẩn hóa về 100%.
-- Mục tiêu chính quyết định loại nhiệm vụ chủ đạo. Mục tiêu phụ chỉ được tính vào phân loại đa loại nếu ảnh hưởng đáng kể đến độ khó, nguy hiểm, tính cấp bách hoặc phạm vi ảnh hưởng; công việc hỗ trợ thông thường không tự trở thành một loại nhiệm vụ riêng.
-- Nếu mục tiêu chính thay đổi về bản chất do diễn biến khách quan, hệ thống đánh giá lại loại nhiệm vụ và tỷ trọng các loại; Cục Điều Phối phê duyệt. Việc phân loại lại không được làm thay đổi mục tiêu hoặc điều kiện hoàn thành đã ký với người ủy thác.
-- Danh mục hiện có 7 loại nhiệm vụ: Điều tra, Sinh tồn, Cứu viện, Bảo vệ, Tranh đấu, Thu thập và Can thiệp.
-- Hệ số được áp dụng theo thứ tự tiêu chí: Độ khó – Mức độ nguy hiểm – Tính cấp bách – Phạm vi ảnh hưởng – Độ phức tạp.
+Mỗi loại nhiệm vụ có bộ trọng số riêng cho năm tiêu chí. Các con số trong bảng là tỷ trọng phần trăm trực tiếp, tổng mỗi hàng bằng 100%; không áp dụng thêm hệ số nhân hoặc bước chuẩn hóa từ một bảng trọng số cơ bản khác.
+
+Thứ tự tiêu chí: **Độ khó – Mức độ nguy hiểm – Tính cấp bách/thời hạn – Phạm vi ảnh hưởng – Độ phức tạp**.
 
 | Loại nhiệm vụ | Độ khó | Nguy hiểm | Cấp bách | Phạm vi ảnh hưởng | Độ phức tạp |
 |---|---:|---:|---:|---:|---:|
-| Điều tra | 1,25 | 0,75 | 0,75 | 1,00 | 1,50 |
-| Sinh tồn | 1,25 | 1,50 | 1,25 | 1,00 | 1,00 |
-| Cứu viện | 1,00 | 1,25 | 1,50 | 1,25 | 1,00 |
-| Bảo vệ | 1,00 | 1,25 | 1,00 | 1,25 | 1,25 |
-| Tranh đấu | 1,25 | 1,25 | 1,00 | 1,00 | 1,25 |
-| Thu thập | 1,00 | 1,00 | 1,00 | 0,75 | 1,25 |
-| Can thiệp | 1,00 | 1,25 | 1,25 | 1,50 | 1,25 |
+| Điều tra | 30% | 15% | 10% | 15% | 30% |
+| Sinh tồn | 15% | 40% | 15% | 15% | 15% |
+| Cứu viện | 15% | 30% | 20% | 25% | 10% |
+| Bảo vệ | 20% | 30% | 15% | 20% | 15% |
+| Tranh đấu | 25% | 35% | 10% | 15% | 15% |
+| Hộ tống | 20% | 30% | 15% | 20% | 15% |
+| Thu thập | 25% | 20% | 10% | 15% | 30% |
+| Phát triển | 20% | 15% | 10% | 30% | 25% |
 
-- Thang hệ số được sử dụng gồm 0,50; 0,75; 1,00; 1,25 và 1,50.
-- Với nhiệm vụ đa loại, hệ thống xác định tỷ trọng từng loại theo mục tiêu và bản chất thực tế của nhiệm vụ; tổng tỷ trọng bằng 100%. Không có một bảng tỷ trọng cố định áp dụng cho mọi nhiệm vụ.
-- Hệ số chung của nhiệm vụ đa loại được tính bằng trung bình có trọng số của các bộ hệ số theo tỷ trọng từng loại, sau đó nhân với trọng số cơ bản và chuẩn hóa để tổng trọng số bằng 100%.
-- Ví dụ minh họa: nhiệm vụ gồm 60% Cứu viện, 25% Bảo vệ và 15% Điều tra thì hệ số chung được tổng hợp theo đúng các tỷ trọng này.
-- Mục tiêu chính quyết định loại nhiệm vụ chủ đạo. Mục tiêu phụ được tính vào phân loại đa loại nếu có ảnh hưởng đáng kể đến độ khó, nguy hiểm, tính cấp bách hoặc phạm vi ảnh hưởng; công việc hỗ trợ thông thường không tự trở thành loại nhiệm vụ độc lập.
-- Nếu mục tiêu chính thay đổi về bản chất do diễn biến khách quan, hệ thống đánh giá lại loại nhiệm vụ và tỷ trọng; Cục Điều Phối phê duyệt. Việc phân loại lại không được thay đổi mục tiêu hoặc điều kiện hoàn thành đã ký với người ủy thác.
-- Các trường hợp nguy hiểm đặc biệt có thể là căn cứ độc lập để nâng cấp, gồm: (1) xuất hiện thực thể/đối tượng có khả năng gây tử vong hàng loạt; (2) nguy cơ phá hủy khu vực rộng lớn hoặc đe dọa sự tồn tại của một cộng đồng; (3) mức nguy hiểm thực tế vượt xa dự báo ban đầu khiến cấp hiện tại không còn phản ánh đúng rủi ro; (4) xuất hiện mối đe dọa chưa phân loại nhưng có dữ liệu đáng tin cậy cho thấy hậu quả tiềm tàng đặc biệt nghiêm trọng. Thông tin chưa xác minh hoặc việc một đối tượng chỉ đơn thuần chưa được phân loại không tự động làm tăng cấp; phải có căn cứ khách quan phù hợp.
+Danh mục nhiệm vụ gồm tám loại: **Điều tra, Sinh tồn, Cứu viện, Bảo vệ, Tranh đấu, Hộ tống, Thu thập và Phát triển**.
+
+Với nhiệm vụ đa loại:
+- Xác định một loại nhiệm vụ chủ đạo theo mục tiêu chính, chiếm **70%** tỷ trọng đánh giá.
+- Các loại nhiệm vụ phụ chia đều **30%** còn lại. Ví dụ: Điều tra là loại chủ đạo, Sinh tồn và Cứu viện là hai loại phụ thì tỷ trọng lần lượt là 70%, 15%, 15%.
+- Chỉ tính loại phụ khi đặc trưng của loại đó thực sự ảnh hưởng đáng kể đến nhiệm vụ; công việc hỗ trợ thông thường không tự tạo thành một loại nhiệm vụ phụ.
+- Trọng số cuối cùng của từng tiêu chí được tính bằng tổng có trọng số từ các hàng loại nhiệm vụ tương ứng. Tổng năm trọng số cuối cùng luôn bằng 100%.
+- Nếu mục tiêu chính thay đổi về bản chất do diễn biến khách quan, hệ thống đánh giá lại tỷ trọng loại nhiệm vụ. Việc phân loại lại không được làm thay đổi mục tiêu hoặc điều kiện hoàn thành đã ký với người ủy thác.
+
+Công thức điểm tổng:
+
+\[
+S=\sum_{i=1}^{5}\frac{Điểm_i}{5}\times Trọng\ số_i
+\]
+
+Trong đó trọng số được lấy từ loại nhiệm vụ đơn hoặc trọng số tổng hợp của nhiệm vụ đa loại. Giữ nguyên thang điểm 1–5, các định nghĩa tiêu chí và ngưỡng cấp F–SS đã quy định tại các mục trước.
 
 #### 5. Dữ liệu và căn cứ đánh giá
 
@@ -423,24 +421,34 @@ Phạm vi đánh giá lấy khu vực và điều kiện thực tế liên quan 
 
 #### 6. Điều chỉnh cấp nhiệm vụ
 
-- Chỉ đánh giá lại khi có thay đổi khách quan đáng kể ảnh hưởng đến bản chất hoặc điều kiện nhiệm vụ, có dữ liệu mới đáng tin cậy, xuất hiện dấu hiệu nguy hiểm chưa được tính đến hoặc có căn cứ cho thấy phân loại ban đầu không còn phù hợp.
-- Không có lịch rà soát định kỳ cố định; việc đánh giá lại được kích hoạt khi có căn cứ hoặc dấu hiệu thay đổi quan trọng.
+- Chỉ đánh giá lại khi có dữ liệu hoặc diễn biến khách quan mới làm thay đổi đáng kể độ khó, mức nguy hiểm hoặc điều kiện thực hiện nhiệm vụ.
 - Không điều chỉnh cấp chỉ vì ký chủ thực hiện nhanh/chậm, có năng lực cao/thấp, tìm được phương pháp hiệu quả hơn hoặc gặp khó khăn do sai lầm cá nhân.
-- Khi phân loại nhiệm vụ thay đổi, phải đánh giá lại toàn bộ 5 tiêu chí, áp dụng bộ hệ số tương ứng và tính lại điểm tổng từ đầu; không chỉ sửa riêng tiêu chí bị tác động.
-- Cục Điều Phối có thể nâng hoặc hạ cấp nếu điều kiện khách quan thực sự thay đổi. Việc hạ cấp không được căn cứ vào việc ký chủ đã thành công, tiến độ, kỹ năng hoặc việc ký chủ tự làm nhiệm vụ dễ hơn.
-- Mỗi lần điều chỉnh thông thường không quá một cấp. Trường hợp ngoại lệ có căn cứ khách quan đặc biệt có thể điều chỉnh nhiều cấp.
-- Có thể điều chỉnh nhiều lần trong một nhiệm vụ, nhưng mỗi lần phải có căn cứ khách quan mới; không được lặp lại cùng một lý do đã dùng cho lần điều chỉnh trước.
-- Cấp mới có hiệu lực ngay sau khi Cục Điều Phối phê duyệt. Điểm thưởng, EXP và hình phạt được tính theo cấp đang có hiệu lực tại thời điểm nhiệm vụ hoàn thành hoặc thất bại; không chia theo thời gian ký chủ thực hiện ở từng cấp và không điều chỉnh hồi tố các kết quả đã quyết toán.
+- Mỗi lần đánh giá lại phải xem xét toàn bộ năm tiêu chí và tính lại điểm tổng theo trọng số loại nhiệm vụ đang có hiệu lực.
+- Mỗi lần đánh giá lại chỉ được tăng hoặc giảm tối đa **một cấp**. Nếu điều kiện tiếp tục thay đổi, hệ thống có thể mở một lần đánh giá lại mới trên cơ sở dữ liệu mới; không gộp nhiều lần thay đổi vào một lần điều chỉnh.
+- Trong trường hợp thông thường, hệ thống lập báo cáo và trình Cục Điều Phối/Tổng bộ phê duyệt; cấp mới chỉ có hiệu lực sau khi được phê duyệt.
+- Trong tình huống khẩn cấp đáp ứng điều kiện tại Mục 7, cơ chế khẩn cấp được phép tự động điều chỉnh cấp để bảo đảm an toàn và phản ánh đúng nguy cơ, sau đó gửi hồ sơ để Tổng bộ xác minh.
+- Việc điều chỉnh cấp không được thay đổi mục tiêu hoặc điều kiện hoàn thành đã thống nhất với người ủy thác.
+- Điểm thưởng, EXP và hình phạt được tính theo cấp đang có hiệu lực tại thời điểm nhiệm vụ hoàn thành hoặc thất bại; không chia theo thời gian ký chủ thực hiện ở từng cấp và không điều chỉnh hồi tố kết quả đã quyết toán.
 
-#### 7. Nhiệm vụ có nguy hiểm phát sinh và cấp tạm thời
+**Điều kiện tăng cấp**
+- Xuất hiện nguy hiểm mới, chưa được tính đến trong đánh giá ban đầu.
+- Mức nguy hiểm thực tế tăng lên đáng kể so với dự báo ban đầu.
+- Nguy hiểm mới làm thay đổi đáng kể khả năng hoàn thành nhiệm vụ hoặc làm tăng rõ rệt nguy cơ ký chủ tử vong.
+- Chỉ một dấu hiệu bất thường, tin đồn hoặc thông tin chưa có căn cứ không đủ để tự động tăng cấp.
 
-- Khi xuất hiện nguy hiểm cực đoan bất ngờ, hệ thống đồng hành phải cảnh báo ký chủ ngay.
-- Cơ chế khẩn cấp của Tổng bộ có thể áp dụng cấp nguy hiểm tạm thời trước khi hoàn tất đánh giá; Cục Điều Phối sau đó xác minh và đưa ra quyết định chính thức.
-- Cấp tạm thời tiếp tục có hiệu lực cho đến khi mối đe dọa được xác minh và Cục Điều Phối ban hành quyết định tiếp theo; không đặt thời hạn cố định.
-- Nếu ký chủ hoàn thành nhiệm vụ khi cấp tạm thời vẫn có hiệu lực và đánh giá chính thức chưa hoàn tất, ký chủ được quyết toán ngay theo cấp tạm thời. Không điều chỉnh giảm hoặc tăng quyền lợi đã quyết toán chỉ vì kết quả đánh giá cuối cùng khác đi, trừ trường hợp phát hiện sai sót dữ liệu nghiêm trọng.
-- Nếu nhiệm vụ thất bại khi cấp tạm thời còn hiệu lực, hình phạt được áp dụng ngay theo cấp tạm thời. Nếu cần đánh giá lại sau thất bại, nhiệm vụ tạm thời được giữ lại và chưa phân phối cho ký chủ tiếp theo cho đến khi Cục Điều Phối xem xét xong.
-- Nếu kết quả đánh giá sau đó cho thấy cấp nhiệm vụ cần cao hơn hoặc thấp hơn cấp tạm thời, hình phạt đã quyết toán của ký chủ trước vẫn giữ nguyên; không truy thu hoặc hoàn trả. Cấp mới được áp dụng cho lần phân phối tiếp theo.
-- Nếu phát hiện sai sót dữ liệu nghiêm trọng sau khi nhiệm vụ đã hoàn thành và quyền lợi đã quyết toán, giữ nguyên quyền lợi của ký chủ; Tổng bộ xử lý sai sót nội bộ, không truy thu hoặc điều chỉnh hồi tố.
+**Điều kiện hạ cấp**
+- Dữ liệu mới đã được xác minh cho thấy cấp ban đầu đánh giá cao hơn đáng kể so với độ khó và mức nguy hiểm thực tế.
+- Việc hạ cấp phải dựa trên đánh giá lại khách quan, không dựa vào việc ký chủ đã thành công, tiến độ thuận lợi, kỹ năng cá nhân hoặc việc ký chủ tự tìm được cách làm dễ hơn.
+- Hạ cấp cũng tuân theo quy trình đánh giá và phê duyệt thông thường; không dùng điều kiện tăng cấp làm điều kiện hạ cấp.
+
+#### 7. Cơ chế điều chỉnh khẩn cấp
+
+- Khi phát sinh nguy hiểm mới đáp ứng đầy đủ điều kiện tăng cấp tại Mục 6, cơ chế khẩn cấp của Tổng bộ có thể tự động tăng một cấp mà không phải chờ quy trình phê duyệt thông thường.
+- Hệ thống đồng hành phải cảnh báo ký chủ ngay khi có thể; thông báo không được làm gián đoạn hành động cần thiết để tránh nguy hiểm.
+- Việc tự động tăng cấp phải được ghi nhận bằng hồ sơ và gửi Tổng bộ/Cục Điều Phối xác minh sau đó. Cơ chế khẩn cấp không cho phép tự động tăng nhiều cấp trong một lần.
+- Nếu nguy hiểm tiếp tục tăng sau lần điều chỉnh đầu tiên, hệ thống có thể thực hiện một lần đánh giá mới dựa trên dữ liệu mới; mỗi lần vẫn chỉ tăng tối đa một cấp.
+- Nếu chưa đủ căn cứ cho điều chỉnh khẩn cấp, hệ thống báo cáo và chờ phê duyệt theo quy trình thông thường.
+- Cơ chế khẩn cấp chỉ áp dụng cho tình huống tăng cấp do nguy hiểm phát sinh; không tự động hạ cấp.
 
 #### 8. Nhiều ký chủ lần lượt thất bại ở cùng nhiệm vụ bắt buộc
 
@@ -453,10 +461,9 @@ Phạm vi đánh giá lấy khu vực và điều kiện thực tế liên quan 
 
 #### 9. Thông tin ký chủ được biết
 
-Ký chủ được thông báo:
-- Cấp nhiệm vụ tại thời điểm được phân công.
-- Mục tiêu, điều kiện hoàn thành, thời hạn và thông tin cần thiết để thực hiện.
-- Khi cấp nhiệm vụ thay đổi: cấp cũ, cấp mới và lý do cơ bản.
+Ký chủ được thông báo cấp nhiệm vụ tại thời điểm được phân công, mục tiêu, điều kiện hoàn thành, thời hạn và thông tin cần thiết để thực hiện. Khi điều chỉnh cấp, thông báo ngắn gọn theo mẫu:
+- Tăng cấp: **“Xác nhận có bất thường. Tăng cấp nhiệm vụ.”**
+- Hạ cấp: **“Xác nhận có bất thường. Hạ cấp nhiệm vụ.”**
 
 Thông báo điều chỉnh không được làm gián đoạn hoạt động nguy hiểm của ký chủ. Ký chủ không được xem trọng số, hệ số, ngưỡng điểm chính xác, công thức, hồ sơ đánh giá hoặc dữ liệu nội bộ và không có quyền khiếu nại/yêu cầu xem xét lại cấp nhiệm vụ.
 
@@ -660,16 +667,19 @@ Nguyên tắc:
 
 Giá vé:
 - Mua cho chính mình: **1 tỷ điểm**.
-- Mua cho người khác: **10 tỷ điểm**.
+- Mua để chuyển cho người khác: **10 tỷ điểm**.
 
-Quy tắc:
-- Một vé áp dụng cho đúng một người được chỉ định và được ràng buộc cố định với người đó; không thể đổi người nhận trong bất kỳ trường hợp nào, kể cả khi người nhận từ chối trở về.
-- Nếu người nhận được chỉ định tử vong trước khi kích hoạt vé, vé mất hiệu lực; người mua không được hoàn điểm và vé không thể chuyển cho người khác.
-- Người được mua vé không cần tự có điểm.
-- Người mua vé cho người khác có thể đưa vé cho người đó tự sử dụng.
-- Người mua không tự động trở về cùng người nhận vé.
-- Mua vé không đồng nghĩa với kích hoạt vé.
-- Vé được lưu trong túi hệ thống cho đến khi chủ sở hữu tự sử dụng.
+Quy tắc sở hữu và chuyển giao:
+- Khi mua vé, người mua **không cần chỉ định người nhận**.
+- Vé là vật phẩm vật lý, được chuyển giao bằng cách trao tận tay giữa các ký chủ. Hệ thống không tự động đưa vé vào túi của người nhận chỉ vì người mua đã thanh toán.
+- Vé có thể được trao tay và chuyển qua nhiều người; không giới hạn số lần chuyển giao.
+- Vé không có thời hạn sử dụng, không tự mất hiệu lực chỉ vì đã được giữ lâu.
+- Vé không được thừa kế. Khi người đang nắm giữ vé tử vong, vé mất hiệu lực.
+- Người đang trực tiếp nắm giữ vé hợp lệ có quyền kích hoạt, không phụ thuộc vé ban đầu được mua bởi ai hoặc đã qua tay bao nhiêu người. Việc báo mất hoặc báo bị trộm không tự động khóa vé; hệ thống không yêu cầu người kích hoạt chứng minh nguồn gốc nhận vé.
+- Người giữ vé có quyền không kích hoạt. Không có cơ chế cưỡng ép người đang giữ phải sử dụng vé.
+- Vé không tự động đưa người mua trở về cùng người đang giữ vé; quyền kích hoạt thuộc người nắm giữ hợp lệ tại thời điểm sử dụng.
+
+Mua vé không đồng nghĩa với kích hoạt vé.
 
 ## 7.4. Điều kiện trở về
 
@@ -845,17 +855,15 @@ Chợ giao dịch là nơi các ký chủ mua bán vật phẩm. Chợ được 
 
 ### Đơn vị tiền tệ và quy đổi
 
-- Đơn vị tiền tệ chung dùng để định giá và hạch toán các giao dịch trên chợ là **S**.
-- Giá niêm yết được quy đổi và hiển thị theo S, giúp ký chủ ở các thế giới khác nhau có thể giao dịch bằng một đơn vị thống nhất.
-- Khi đăng bán, người bán được lựa chọn nhận thanh toán bằng **điểm tích lũy** hoặc **tiền thật**.
-- Nếu giao dịch chính thức trên chợ được thanh toán bằng điểm, hệ thống tự động trừ điểm của người mua và chuyển điểm tương ứng cho người bán khi giao dịch hoàn tất.
-- Đây là hình thức thanh toán mua bán được hệ thống cho phép, không phải quyền chuyển điểm tự do. Không tồn tại chức năng tặng điểm, cho vay điểm, góp điểm, gộp điểm hoặc chuyển điểm trực tiếp ngoài giao dịch chính thức.
-- Nếu người bán chọn nhận điểm, hệ thống quy đổi giá trị giao dịch sang điểm để thanh toán vào tài khoản của người bán.
-- Nếu người bán chọn nhận tiền thật, người mua thanh toán bằng loại tiền đang sử dụng tại thế giới của mình; hệ thống tự quy đổi số tiền người mua phải trả từ S sang tiền tệ tương ứng.
-- Đồng thời, hệ thống tự quy đổi khoản tiền người bán được nhận sau khi khấu trừ phí chợ từ S sang loại tiền tệ đang sử dụng tại thế giới của người bán.
-- Người mua không cần tự đổi tiền hoặc sở hữu loại tiền tệ của thế giới người bán. Người bán cũng không cần lựa chọn hay yêu cầu một loại tiền tệ cụ thể.
-- Tỷ giá áp dụng được hệ thống xác định tại thời điểm giao dịch được ghi nhận. Khi giao dịch hoàn tất, tỷ giá và số tiền thanh toán của hai bên được khóa, không điều chỉnh hồi tố.
+- Đơn vị tiền tệ chung dùng để định giá và hạch toán giao dịch trên chợ là **S**. Giá trị niêm yết được quy đổi và hiển thị theo S để ký chủ ở các thế giới khác nhau có thể giao dịch bằng một đơn vị thống nhất.
+- Chợ hệ thống hỗ trợ ba nhóm phương thức thanh toán/đối giá: **điểm tích lũy cá nhân, tiền tệ của thế giới và vật phẩm**. Người mua thanh toán theo phương thức được chấp nhận trong giao dịch; người bán nhận loại đối giá đã thỏa thuận/được chọn trong phạm vi hệ thống hỗ trợ.
+- Nếu thanh toán bằng điểm, hệ thống tự động trừ điểm người mua và chuyển điểm cho người bán sau khi khấu trừ phí giao dịch. Đây là thanh toán mua bán qua chợ, không phải quyền chuyển điểm tự do.
+- Nếu thanh toán bằng tiền tệ thế giới, hệ thống tự quy đổi số tiền người mua phải trả từ S sang tiền tệ của thế giới người mua; đồng thời quy đổi khoản tiền người bán nhận sau phí từ S sang tiền tệ của thế giới người bán.
+- Nếu thanh toán bằng vật phẩm, hệ thống định giá vật phẩm theo S để đối chiếu với giá trị giao dịch và thực hiện việc chuyển giao qua chợ. Vật phẩm được chuyển cho bên nhận theo thỏa thuận đã được hệ thống ghi nhận.
+- Phí giao dịch là **5% giá trị giao dịch**, do người bán chịu. Người mua không phải trả thêm phí ngoài giá trị đã thỏa thuận/niêm yết. Hệ thống khấu trừ phí trước khi người bán nhận khoản thanh toán.
+- Việc quy đổi tiền tệ được hệ thống xác định tại thời điểm giao dịch được ghi nhận. Khi giao dịch hoàn tất, tỷ giá và số tiền thanh toán của hai bên được khóa, không điều chỉnh hồi tố.
 - Tỷ giá do hệ thống tự xác định căn cứ vào giá trị trao đổi và sức mua thực tế của tiền tệ tại từng thế giới; không căn cứ đơn thuần vào mệnh giá danh nghĩa.
+- Phương thức thanh toán và loại đối giá nhận được trong một giao dịch phải được ghi nhận rõ trước khi giao dịch hoàn tất. Không được dùng giao dịch chợ để tạo khoản chuyển điểm độc lập với việc mua bán thực tế.
 
 #### Giỏ hàng tham chiếu
 
@@ -915,7 +923,7 @@ Tổng bộ sử dụng giỏ hàng tham chiếu để so sánh sức mua thực
 | Kỹ năng | Có | Không giao dịch kỹ năng trực tiếp |
 | Bí kíp, sách và tài liệu hướng dẫn | Theo danh mục nếu có | Được đăng bán nếu qua kiểm định |
 | Thuốc tạo năng lực | Theo danh mục nếu có | Có thể giao dịch nếu tồn tại và qua kiểm định |
-| Thanh toán | Điểm | Điểm hoặc tiền thật; tiền thật được quy đổi qua đơn vị S |
+| Thanh toán | Điểm | Điểm tích lũy, tiền tệ thế giới hoặc vật phẩm; giá trị quy chiếu qua S |
 | Phí giao dịch | Theo quy định cửa hàng | 5% giá trị giao dịch, người bán chịu |
 
 ## 9.4. Trao đổi trực tiếp giữa các ký chủ
@@ -1054,7 +1062,7 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 13. Năng lượng thưởng của hệ thống con từ nhiệm vụ chính và nhiệm vụ phụ chỉ được quyết toán khi nhiệm vụ bắt buộc đóng thành công.
 14. Nếu nhiệm vụ bắt buộc thất bại, năng lượng thưởng đang chờ quyết toán từ các nhiệm vụ phụ bị hủy.
 15. Ký chủ vẫn giữ điểm và EXP của nhiệm vụ phụ đã hoàn thành dù nhiệm vụ chính thất bại.
-16. Mỗi người có tài khoản điểm riêng; không được tặng, cho vay, góp, gộp hoặc chuyển điểm trực tiếp. Điểm chỉ được chuyển từ người mua sang người bán như khoản thanh toán trong giao dịch mua bán chính thức trên chợ do hệ thống ghi nhận.
+16. Mỗi ký chủ có tài khoản điểm riêng; không được tặng, cho vay, góp, gộp hoặc chuyển điểm trực tiếp. Điểm chỉ được chuyển như khoản thanh toán cho một giao dịch mua bán thực tế qua chợ do hệ thống ghi nhận.
 17. Vé Về Nhà cá nhân giá 1 tỷ điểm; mua cho người khác giá 10 tỷ điểm.
 18. Vé mua cho người khác phải được người nhận tự sử dụng.
 19. Mua vé không đồng nghĩa kích hoạt vé.
@@ -1084,12 +1092,12 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 43. Vật phẩm không định danh cố định theo chủ sở hữu; bí kíp, sách và tài liệu có thể sao chép, nhưng muốn đăng bán trên chợ phải qua kiểm định.
 44. Kỹ năng có định danh, gắn với ký chủ và không thể tặng, chuyển nhượng hoặc mua bán; vật phẩm chứa tri thức để học kỹ năng được xem là vật phẩm, không phải kỹ năng đã sở hữu.
 45. Đơn vị tiền tệ chung để định giá và hạch toán giao dịch trên chợ là S.
-46. Người bán trên chợ được chọn nhận thanh toán bằng điểm tích lũy hoặc tiền thật; nếu nhận tiền thật, hệ thống tự quy đổi tiền người mua phải trả theo tiền tệ thế giới của người mua và tiền người bán nhận theo tiền tệ thế giới của người bán.
+46. Chợ hỗ trợ thanh toán/đối giá bằng điểm tích lũy, tiền tệ thế giới hoặc vật phẩm; hệ thống định giá theo S và chuyển giao theo phương thức đã ghi nhận. Phí giao dịch 5% do người bán chịu, được khấu trừ trước khi người bán nhận thanh toán.
 47. Hệ thống tự xác định tỷ giá tại thời điểm giao dịch; tỷ giá và số tiền của giao dịch đã hoàn tất không bị điều chỉnh hồi tố. Không thu phí quy đổi riêng ngoài phí chợ 5% do người bán chịu.
 48. Mọi ký chủ phải được một hệ thống ký sinh thuộc Khối Chấp Hành liên kết trước khi vào thế giới nhiệm vụ; hệ thống nghiệp vụ nhiệm vụ là hạ tầng độc lập.
 49. Năng lượng cơ bản, mức duy trì và lương của hệ thống được xác định theo cấp F–SS tại bảng SYS-007; lương trả bằng năng lượng theo chu kỳ 30 ngày.
 50. Dung lượng cơ bản không phải giới hạn lưu trữ tối đa; nâng dung lượng không tự động tăng năng lượng hiện có.
-51. Phí can thiệp tính theo phần trăm dung lượng năng lượng cơ bản của hệ thống ở cấp hiện tại, không tính theo năng lượng hiện có.
+51. Chi phí can thiệp được tính theo công thức E = E₀ × Kp × Kt × Ks; E₀ xác định theo cấp độ can thiệp, Kp theo phạm vi, Kt theo thời gian và Ks theo mức độ thay đổi thực tại. Không tính phí theo phần trăm dung lượng năng lượng cơ bản.
 52. Hệ thống có thể tự quyết định sử dụng toàn bộ năng lượng; năng lượng về 0 thì sập và mất kết nối, nhưng ký chủ cùng nhiệm vụ vẫn tiếp tục hoạt động bình thường nhờ hệ thống nghiệp vụ nhiệm vụ độc lập.
 53. Mỗi lần sập do năng lượng về 0 khiến hệ thống hạ một cấp; lần sập thứ tư khiến hệ thống bị đóng băng.
 54. Nếu được Tổng bộ phê duyệt khôi phục sau đóng băng, hệ thống trở lại cấp F, số lần sập reset về 0, năng lượng tích lũy bị xóa, dữ liệu lịch sử được giữ và lương chỉ bắt đầu lại từ thời điểm khôi phục.
@@ -1124,19 +1132,20 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 82. Mỗi kỹ năng có cấp tối đa, điều kiện nâng cấp, cấp ký chủ tối thiểu và giá riêng; không có bảng cấp kỹ năng chung. Cấp ký chủ là giới hạn cứng đối với việc mua và nâng cấp kỹ năng.
 83. Danh sách kỹ năng ngẫu nhiên trong mỗi nhiệm vụ được tạo một lần khi nhiệm vụ bắt đầu và cố định đến khi kết thúc; không thể làm mới bằng điểm. Danh sách này không hạn chế việc nâng cấp kỹ năng vĩnh viễn đã sở hữu.
 84. Kỹ năng dùng trong một nhiệm vụ hết hiệu lực khi nhiệm vụ kết thúc; kỹ năng vĩnh viễn được giữ nếu ký chủ sống sót sau thất bại, nhưng mất khi ký chủ tử vong.
-85. Vé Về Nhà gắn cố định với người nhận được chỉ định; không thể đổi người nhận. Nếu người nhận tử vong trước khi kích hoạt, vé mất hiệu lực, không hoàn điểm và không thể chuyển cho người khác.
-86. Khi kích hoạt vé trong thế giới nhiệm vụ, vé chuyển sang trạng thái chờ trở về. Ký chủ chỉ trở về sau khi nhiệm vụ bắt buộc hiện tại được giải quyết; nhiệm vụ tự chọn không cần hoàn thành. Nếu nhiệm vụ bắt buộc thất bại, ký chủ chỉ trở về sau khi xử lý hình phạt và còn sống; vé không cứu người tử vong do hình phạt.
+85. Vé Về Nhà không gắn với người nhận tại thời điểm mua; vé được trao tay và có thể chuyển qua nhiều người, không thời hạn, không thừa kế. Người đang giữ vé hợp lệ có quyền kích hoạt; nếu người giữ vé tử vong trước khi kích hoạt, vé mất hiệu lực.
+86. Khi người đang giữ vé kích hoạt trong thế giới nhiệm vụ, vé chuyển sang trạng thái chờ trở về. Ký chủ chỉ trở về sau khi nhiệm vụ bắt buộc hiện tại được giải quyết; nhiệm vụ tự chọn không cần hoàn thành. Nếu nhiệm vụ bắt buộc thất bại, ký chủ chỉ trở về sau khi xử lý hình phạt và còn sống; vé không cứu người tử vong do hình phạt.
 87. Ký chủ trở về thời điểm ngay trước tai nạn, với thân thể khỏe mạnh, an toàn và lành lặn, kèm khoản tiền thưởng hợp pháp.
 88. Tất cả ký chủ trở về bằng vé giữ ký ức hành trình dưới dạng mơ hồ như giấc mơ. Khi gặp lại người từng quen, họ có thể thấy thân thuộc tùy mức độ cảm xúc và gắn kết, không nhất thiết nhận ra ngay.
 89. Ký chủ giữ lại những thay đổi về tính cách, tư duy, thói quen, phản xạ và kiến thức/kỹ năng tương thích với thế giới thực; họ có thể biết và làm được mà không nhớ rõ nguồn gốc. Năng lực siêu nhiên không tương thích với thế giới thực không thể sử dụng.
 90. Tiện ích mở khóa theo cấp ký chủ chỉ là tiện ích hỗ trợ; không cấp quyền quản lý, điều hành, khiếu nại hoặc can thiệp nội bộ Tổng bộ. Danh mục mở khóa F–E, D–C, B–A và S–SS được quy định tại SYS-003.
 91. Giỏ hàng tham chiếu và trọng số tỷ giá được điều chỉnh theo cơ cấu kinh tế từng thế giới; có thể bao gồm nhu yếu phẩm, sinh hoạt, y tế, công cụ/vật liệu, vũ khí/trang bị, hàng hóa đặc thù và dịch vụ. Giỏ hàng cập nhật định kỳ 3 tháng hoặc đột xuất khi có biến động kinh tế lớn.
 92. Vật phẩm xuyên thế giới phải được kiểm tra tương thích và thông báo cho ký chủ trước khi sử dụng; không được làm thay đổi quy luật nền tảng của thế giới hiện tại.
-93. Vé quay lại thế giới nhiệm vụ đã hoàn thành có giá 10 tỷ điểm/vé, bán trong cửa hàng hệ thống, mỗi vé dùng một lần và kế thừa cơ chế vé Về Nhà SYS-010, trừ đích đến cùng lựa chọn thời điểm/thân phận riêng của SYS-015.
+93. Vé quay lại thế giới nhiệm vụ đã hoàn thành có giá 10 tỷ điểm/vé, bán trong cửa hàng hệ thống, mỗi vé dùng một lần và kế thừa cơ chế trao tay, chuyển giao, thời hạn và kích hoạt của vé Về Nhà SYS-010, trừ đích đến cùng lựa chọn thời điểm/thân phận riêng của SYS-015.
 94. Khi ký khế ước, 80% năng lượng hợp đồng được chuyển vào kho chung; linh hồn người ủy thác giữ 20% để duy trì sự tồn tại và quan sát. Thế giới nhiệm vụ được xác định ngay tại thời điểm ký.
 95. Phần 20% là nguồn duy nhất để người ủy thác thưởng điểm cho ký chủ; không có khoản thưởng tự nguyện độc lập nằm ngoài 20% này. Người ủy thác có thể phân bổ một phần hoặc toàn bộ 20% để thưởng, kể cả khi một lượt ký chủ thất bại. Phần còn lại được quyết toán theo trạng thái cuối cùng của nhiệm vụ; khi nhiệm vụ hoàn thành, phần chưa dùng chuyển về Tổng bộ và linh hồn người ủy thác tan biến.
 96. Thất bại của một lượt ký chủ không làm chấm dứt nhiệm vụ; nhiệm vụ trở lại kho để tiếp tục phân phối. Nếu phá hoại của người ủy thác được Tổng bộ xác minh, nhiệm vụ bị hủy và áp dụng chế tài tại Mục 21.
-97. Người ủy thác không được dùng năng lượng linh hồn hoặc phương thức bất thường để can thiệp trái phép vào thế giới nhiệm vụ vì mục đích cá nhân; việc quan sát, im lặng hoặc không cung cấp thông tin tự thân không phải phá hoại.
+97. Người ủy thác phải khai báo những thông tin trọng yếu mình biết có liên quan trực tiếp đến mục tiêu, điều kiện hoàn thành, nguy cơ và trở ngại của nhiệm vụ. Cố ý che giấu thông tin trọng yếu thuộc Cấp 1 – Che giấu; thông tin không liên quan hoặc riêng tư không trọng yếu không bắt buộc phải cung cấp.
+98. Vi phạm của người ủy thác được phân thành bốn cấp: Cấp 0 – Sai lệch; Cấp 1 – Che giấu; Cấp 2 – Gây khó dễ; Cấp 3 – Phá hoại. Mức chế tài căn cứ hành vi, hậu quả thực tế và mức độ lỗi; không tự động tiêu diệt linh hồn.
 
 ---
 
@@ -1144,10 +1153,11 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 
 Những nội dung chưa được tác giả quyết định không được tự ý suy diễn thành canon.
 
-Hiện tại, các nội dung vừa được rà soát và chốt gồm SYS-003, phạm vi quy tắc SYS-009 được thống nhất ở mức nguyên tắc, SYS-015 và quy tắc linh hồn/người ủy thác tại Mục 21. Các chi tiết định lượng kỹ thuật không cần thiết không được tự bổ sung chỉ để làm tài liệu phức tạp hơn.
+Hiện tại, các nội dung vừa được rà soát và chốt gồm SYS-002, SYS-007, SYS-009, SYS-010 và cơ chế hợp đồng/người ủy thác tại Mục 21. Các chi tiết định lượng hoặc kỹ thuật chưa được quyết định không được tự suy diễn.
 
-Những vấn đề chưa chốt khác (nếu phát sinh trong các mục còn lại) chỉ được bổ sung vào bảng này sau khi xác định rõ nội dung cần quyết định.
-- 
+Các điểm còn cần quyết định riêng:
+- Cách khấu trừ phí 5% trong giao dịch chợ mà khoản thanh toán là vật phẩm không thể chia nhỏ; nguyên tắc người bán chịu phí đã được chốt, cách xử lý vật phẩm lẻ chưa được xác định.
+- Tỷ lệ quy đổi cụ thể giữa điểm thưởng cho ký chủ và năng lượng thưởng cho hệ thống đồng hành trong quỹ 20% của người ủy thác chưa được xác định.
 ---
 
 # 14. NGUYÊN TẮC QUẢN LÝ CANON
@@ -1247,24 +1257,72 @@ Hệ thống tự quyết định phân bổ năng lượng hiện có cho ba nh
 
 Hệ thống có thể sử dụng toàn bộ năng lượng đang có, kể cả khi quyết định đó dẫn đến sập hệ thống. Khi năng lượng thấp, hệ thống vẫn có thể hoạt động bình thường và tự cân nhắc ưu tiên những chức năng cần thiết; không bắt buộc phải chuyển sang chế độ tiết kiệm năng lượng.
 
-### Phí năng lượng can thiệp
+### Chi phí can thiệp bằng năng lượng
 
-Phí can thiệp được xác định theo mức độ và quy mô công việc:
+Chi phí của một hiệu ứng can thiệp được tính theo công thức:
 
-| Mức can thiệp | Phạm vi điển hình | Chi phí |
-|---|---|---:|
-| Nhẹ | Phân tích thông tin, đưa ra cảnh báo | 1–3% |
-| Trung bình | Hỗ trợ kỹ thuật, tạo điều kiện cho ký chủ | 5–10% |
-| Cao | Tác động trực tiếp để hỗ trợ ký chủ | 10–20% |
-| Đặc biệt | Can thiệp quy mô lớn hoặc cứu nguy nghiêm trọng | 20–40% |
+\[
+E=E_0\times K_p\times K_t\times K_s
+\]
 
-- Chi phí cụ thể trong từng khoảng được hệ thống tự đánh giá dựa trên ba yếu tố: độ phức tạp, thời gian thực hiện và phạm vi tác động của can thiệp.
-- Hệ thống lựa chọn một tỷ lệ cụ thể trong khoảng phí tương ứng theo đánh giá tổng thể; không áp dụng công thức tính cứng dùng chung cho mọi trường hợp.
-- Mỗi lần can thiệp phải ghi nhận căn cứ lựa chọn tỷ lệ để bảo đảm có thể kiểm tra và tránh việc tính phí tùy tiện.
-- Tỷ lệ phần trăm được tính trên **dung lượng năng lượng cơ bản của hệ thống tại cấp hiện tại**, không tính trên lượng năng lượng đang có tại thời điểm can thiệp.
-- Ví dụ: hệ thống cấp C có dung lượng cơ bản 800 NL; can thiệp nhẹ tiêu tốn 8–24 NL, trung bình 40–80 NL, cao 80–160 NL và đặc biệt 160–320 NL.
-- Nếu năng lượng hiện có thấp hơn chi phí thông thường của mức can thiệp, hệ thống vẫn có thể quyết định sử dụng toàn bộ năng lượng còn lại. Nếu năng lượng về 0, hệ thống sập.
-- Hệ thống không được dùng năng lượng để sửa đổi mục tiêu hoặc điều kiện nhiệm vụ, cũng không được tự ý giảm độ khó nhiệm vụ.
+Trong đó:
+- **E:** tổng năng lượng phải tiêu hao, đơn vị NL.
+- **E₀:** mức năng lượng cơ bản theo cấp độ can thiệp.
+- **Kp:** hệ số phạm vi tác động.
+- **Kt:** hệ số thời gian duy trì.
+- **Ks:** hệ số mức độ thay đổi thực tại.
+
+**Mức năng lượng cơ bản E₀**
+
+| Cấp độ can thiệp | E₀ |
+|---|---:|
+| Nhẹ | 1 NL |
+| Trung bình | 3 NL |
+| Cao | 10 NL |
+| Đặc biệt | 30 NL |
+
+Tỷ lệ E₀ giữa bốn cấp độ là 1 : 3 : 10 : 30. Cấp độ được xác định theo hiệu quả và tác động thực tế của can thiệp, không căn cứ riêng vào tên gọi mà hệ thống đặt cho hành động.
+
+**Hệ số phạm vi tác động Kp**
+
+| Phạm vi | Kp |
+|---|---:|
+| Một cá nhân | 1 |
+| Nhóm nhỏ | 2 |
+| Một khu vực | 5 |
+| Một thành phố | 10 |
+| Một quốc gia | 30 |
+| Toàn thế giới | 100 |
+| Nhiều thế giới | 300 |
+
+**Hệ số thời gian duy trì Kt**
+
+| Thời gian | Kt |
+|---|---:|
+| Tức thời, dưới 1 phút | 1 |
+| Ngắn, 1–10 phút | 2 |
+| Trung bình, 10–60 phút | 5 |
+| Dài, 1–24 giờ | 10 |
+| Rất dài, 1–7 ngày | 30 |
+| Trên 7 ngày | 100 |
+
+**Hệ số mức độ thay đổi thực tại Ks**
+
+| Mức tác động | Ks |
+|---|---:|
+| Không thay đổi thực tại, chỉ tác động thông tin/nhận thức | 1 |
+| Thay đổi nhỏ, dễ đảo ngược | 2 |
+| Thay đổi trạng thái cục bộ, có ý nghĩa thực tế | 5 |
+| Thay đổi lớn hoặc kéo dài | 10 |
+| Thay đổi quy luật/cấu trúc thực tại | 30 |
+| Can thiệp vào quy luật nền tảng của thế giới | 100 |
+
+**Nguyên tắc tính phí**
+- Bốn cấp độ can thiệp được xác định theo tác động thực tế; không được dùng nhãn gọi để hạ cấp chi phí.
+- Tính phí theo từng hiệu ứng thực sự tiêu hao năng lượng, không tính đơn thuần theo số câu lệnh hoặc số thao tác giao diện.
+- Các hiệu ứng độc lập được tính riêng. Những hệ quả kỹ thuật tất yếu của cùng một hiệu ứng không bị tính phí lặp lại.
+- Nếu nhiều hệ thống cùng tham gia tạo ra một hiệu ứng, chi phí được phân bổ theo mức đóng góp thực tế của từng hệ thống.
+- Chi phí được tính theo dung lượng năng lượng cơ bản của hệ thống ở cấp hiện tại hay theo năng lượng hiện có? **Không áp dụng tỷ lệ phần trăm dung lượng**; công thức trên xác định lượng NL tiêu hao trực tiếp cho hiệu ứng.
 
 ## 15.5. Trạng thái năng lượng và cảnh báo
 
@@ -1770,7 +1828,7 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 - Không giới hạn số lượng vé ký chủ có thể mua nếu đủ điểm và đáp ứng điều kiện mua hàng của cửa hàng.
 - Mỗi vé chỉ sử dụng được một lần.
 - Ký chủ có thể sử dụng vé bất cứ lúc nào sau khi thế giới nhiệm vụ tương ứng đã hoàn thành, kể cả khi đang ở thế giới nhiệm vụ khác hoặc đã trở về Tổng bộ.
-- Vé có cơ chế mua, lưu trữ, chỉ định người nhận, kích hoạt và xử lý khi người nhận tử vong tương tự vé Về Nhà tại SYS-010; người nhận được chỉ định phải tự kích hoạt vé. Nếu người nhận tử vong trước khi kích hoạt, vé mất hiệu lực, không hoàn điểm và không thể chuyển cho người khác.
+- Vé SYS-015 kế thừa các quy tắc chung về giá mua, trao tay, chuyển giao nhiều lần, không thời hạn, không thừa kế và quyền kích hoạt của người đang nắm giữ vé hợp lệ theo SYS-010. Khi người giữ vé tử vong trước khi kích hoạt, vé mất hiệu lực.
 - Khi kích hoạt trong lúc đang thực hiện một nhiệm vụ bắt buộc, vé được xử lý sau khi nhiệm vụ bắt buộc hiện tại có kết quả. Nếu nhiệm vụ bắt buộc thành công, ký chủ được đưa đến thế giới đã chọn; nếu thất bại, phải xử lý hình phạt trước và chỉ được quay lại nếu còn sống. Vé không cứu ký chủ tử vong do hình phạt.
 - Điểm khác biệt về đích đến: thay vì trở về thế giới thực ở thời điểm ngay trước tai nạn như SYS-010, vé này đưa ký chủ đến thế giới nhiệm vụ đã hoàn thành, tại thời điểm do ký chủ tự chọn và theo lựa chọn thân phận tại Mục 20.2.
 - Ngoài giá vé và địa điểm quay lại, các quy tắc chung về vé được kế thừa từ SYS-010; những lựa chọn riêng về thời điểm, thân phận cũ/thân phận mới và quyền ở lại tuân theo SYS-015.
@@ -1782,13 +1840,13 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 ## 21.1. Thanh toán và phân bổ năng lượng hợp đồng
 
 - Ngay khi khế ước được ký, **80% tổng năng lượng hợp đồng được chuyển hóa và đưa vào kho năng lượng chung của Tổng bộ**.
-- **20% năng lượng còn lại do linh hồn người ủy thác nắm giữ**, vừa duy trì sự tồn tại của linh hồn trong thế giới nhiệm vụ, vừa là nguồn duy nhất để phân bổ phần thưởng cho ký chủ.
-- Người ủy thác có thể tự quyết định dùng một phần hoặc toàn bộ 20% năng lượng để đổi thành điểm thưởng cho ký chủ. Việc thưởng có thể diễn ra trong quá trình nhiệm vụ, kể cả khi một lượt ký chủ chưa hoàn thành hoặc đã thất bại; không phải đợi đến khi nhiệm vụ hoàn thành mới được thưởng.
-- Nếu toàn bộ 20% đã được phân bổ làm phần thưởng, linh hồn người ủy thác vẫn tiếp tục tồn tại và theo dõi nhiệm vụ cho đến khi nhiệm vụ thực sự hoàn thành hoặc bị hủy theo quy định. Linh hồn không còn năng lượng để tiếp tục phân bổ thưởng, nhưng việc cạn năng lượng không làm mất quyền quan sát hay khiến linh hồn tan biến sớm.
-- Mọi khoản điểm thưởng do người ủy thác tự nguyện trao đều được trích từ chính 20% năng lượng này. Không tồn tại khoản thưởng tự nguyện độc lập hoặc nguồn thưởng bổ sung nằm ngoài 20%. Việc phân bổ này không làm thay đổi điểm thưởng, EXP hoặc kết quả đánh giá nhiệm vụ do Tổng bộ quyết định.
-- Nếu một ký chủ thất bại, nhiệm vụ được đưa trở lại kho để tiếp tục phân phối cho ký chủ khác. Linh hồn người ủy thác vẫn tồn tại và tiếp tục nắm giữ phần năng lượng 20% chưa sử dụng; phần đã dùng để thưởng không được hoàn lại.
-- Khi nhiệm vụ thực sự hoàn thành, phần 20% chưa sử dụng được chuyển hóa và nhập vào kho năng lượng chung của Tổng bộ. Sau khi quyết toán phần năng lượng còn lại, linh hồn người ủy thác tan biến.
-- Nếu nhiệm vụ bị Tổng bộ hủy do hành vi phá hoại đã được xác minh, phần năng lượng 20% chưa sử dụng bị Tổng bộ thu hồi; 80% đã chuyển trước đó vẫn thuộc Tổng bộ. Linh hồn người ủy thác bị cưỡng chế tiêu diệt và biến mất theo Mục 21.5.
+- **20% còn lại do linh hồn người ủy thác nắm giữ**, là quỹ thưởng hợp nhất có thể được phân bổ thành điểm thưởng cho ký chủ và/hoặc năng lượng thưởng cho hệ thống đồng hành.
+- Đây là một quỹ duy nhất, không phải hai khoản thưởng độc lập. Người ủy thác tự lựa chọn tỷ lệ phân bổ giữa điểm và năng lượng; không tự đặt ra tỷ lệ quy đổi nếu Tổng bộ chưa có quy định được xác nhận.
+- Người ủy thác có thể lựa chọn hoặc thay đổi phương án phân bổ trước khi quyết toán. Việc chi trả chỉ được thực hiện sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác minh kết quả.
+- Một lượt ký chủ thất bại không làm nhiệm vụ kết thúc; nhiệm vụ được đưa trở lại kho để tiếp tục phân phối. Ký chủ thất bại không nhận khoản thưởng từ quỹ 20% cho lượt đó; quỹ chưa quyết toán tiếp tục được xử lý theo kết quả cuối cùng của nhiệm vụ.
+- Khi nhiệm vụ được xác nhận hoàn thành, phần quỹ 20% chưa phân bổ được chuyển vào kho năng lượng chung của Tổng bộ; linh hồn người ủy thác tan biến sau khi quyết toán.
+- Nếu nhiệm vụ kết thúc với kết quả thất bại, không chi khoản thưởng từ quỹ 20% cho ký chủ; phần năng lượng chưa sử dụng được nhập vào kho chung theo quyết toán của Tổng bộ.
+- Nếu người ủy thác vi phạm khế ước, việc khấu trừ hoặc thu hồi năng lượng linh hồn được thực hiện theo cấp độ vi phạm tại Mục 21.5; không mặc định toàn bộ 20% bị thu hồi trong mọi trường hợp.
 
 ## 21.2. Trạng thái và quyền quan sát của người ủy thác
 
@@ -1801,44 +1859,69 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 - Việc quan sát diễn ra theo thời gian thực. Người ủy thác không thể tua lại, tua nhanh hoặc xem lại diễn biến đã xảy ra.
 - Người ủy thác có thể chủ động tạm dừng quan sát và tiếp tục quan sát lại khi muốn. Những diễn biến xảy ra trong thời gian tạm dừng không thể xem lại.
 
-## 21.3. Giới hạn hành vi của người ủy thác
+## 21.3. Nghĩa vụ cung cấp thông tin và giới hạn hành vi
 
-- Người ủy thác không có nghĩa vụ trực tiếp hỗ trợ ký chủ và không bắt buộc phải chủ động cung cấp mọi thông tin mình biết.
-- Người ủy thác có thể giữ im lặng, không hợp tác hoặc không cung cấp thông tin; các hành vi này tự thân không bị xem là phá hoại.
-- Việc cung cấp thông tin không đầy đủ hoặc che giấu thông tin trong giai đoạn trước khi ký khế ước cũng không tự động cấu thành phá hoại. Mục tiêu và điều kiện nhiệm vụ có hiệu lực là nội dung cuối cùng đã được xác nhận trong khế ước.
-- Người ủy thác không được sử dụng năng lượng linh hồn hoặc bất kỳ phương thức bất thường nào để tác động đến thế giới nhiệm vụ vì mục đích cá nhân.
-- Không được dùng năng lượng hoặc phương thức bất thường để can thiệp vào con người, sự kiện, vật phẩm, môi trường hay diễn biến của thế giới nhiệm vụ.
-- Hành vi phá hoại được xem xét khi người ủy thác chủ động sử dụng năng lượng linh hồn hoặc phương thức bất thường để can thiệp trái phép vào diễn biến thực tế của thế giới nhiệm vụ.
-- Việc người ủy thác quan sát, tạm dừng quan sát hoặc không cung cấp thông tin không phải hành vi can thiệp.
-- Người ủy thác không thể giao tiếp trực tiếp với ký chủ hoặc nhân vật trong thế giới nhiệm vụ; vì vậy không tồn tại cơ chế trực tiếp nói dối hoặc truyền tin sai cho ký chủ. Quy tắc về che giấu thông tin ở giai đoạn khế ước chỉ áp dụng trong quan hệ với Tổng bộ trước khi nhiệm vụ được tạo.
+- Người ủy thác không có nghĩa vụ trực tiếp hỗ trợ ký chủ và không phải cung cấp mọi thông tin riêng tư hoặc chi tiết không liên quan đến nhiệm vụ.
+- Người ủy thác **có nghĩa vụ khai báo trung thực những thông tin trọng yếu mình biết có liên quan trực tiếp đến nguyện vọng, mục tiêu, điều kiện hoàn thành, nguy cơ, trở ngại hoặc giới hạn có thể ảnh hưởng đáng kể đến nhiệm vụ** trong quá trình tiếp nhận và xác nhận khế ước.
+- Cố ý bỏ sót hoặc che giấu thông tin trọng yếu thuộc **Cấp 1 – Che giấu**. Thông tin không trọng yếu, thông tin riêng tư không ảnh hưởng đáng kể đến nhiệm vụ hoặc điều người ủy thác thực sự không biết không bị xem là che giấu.
+- Cung cấp thông tin sai lệch do nhầm lẫn, không có chủ ý thuộc Cấp 0 – Sai lệch. Nếu cố ý cung cấp thông tin sai để gây bất lợi, phân loại theo hành vi và hậu quả thực tế ở cấp phù hợp.
+- Người ủy thác không được sử dụng năng lượng linh hồn hoặc bất kỳ phương thức bất thường nào để tác động trái phép đến con người, sự kiện, vật phẩm, môi trường hay diễn biến của thế giới nhiệm vụ.
+- Người ủy thác không được chủ động làm tăng độ khó, tạo bất lợi cho ký chủ hoặc can thiệp để nhiệm vụ thất bại hay khiến ký chủ tử vong.
+- Người ủy thác không thể giao tiếp trực tiếp với ký chủ hoặc nhân vật trong thế giới nhiệm vụ. Nghĩa vụ khai báo thông tin được thực hiện trong quá trình làm việc với Tổng bộ trước khi nhiệm vụ được tạo; không tự đặt thêm một kênh liên lạc với ký chủ.
+- Việc quan sát, tạm dừng quan sát hoặc không cung cấp thông tin không trọng yếu không phải hành vi vi phạm.
 
-## 21.4. Giám sát và xác minh hành vi phá hoại
+## 21.4. Giám sát và xác minh vi phạm
 
-- Tổng bộ có cơ chế giám sát năng lượng linh hồn trong thế giới nhiệm vụ.
-- Khi phát hiện dấu hiệu bất thường, Tổng bộ kiểm tra nguồn năng lượng và xác minh hành vi.
-- Chỉ kết luận phá hoại khi có căn cứ xác định người ủy thác chủ động sử dụng năng lượng hoặc phương thức bất thường để can thiệp trái phép.
-- Không kết luận phá hoại chỉ dựa trên việc xuất hiện hiện tượng bất thường nếu chưa xác định được nguồn và hành vi.
-- Người ủy thác không được thông báo về việc đang bị giám sát; việc giám sát không cần thông báo cho ký chủ.
+- Tổng bộ có cơ chế giám sát năng lượng linh hồn và những dấu hiệu can thiệp bất thường trong thế giới nhiệm vụ.
+- Khi phát hiện dấu hiệu vi phạm, Tổng bộ kiểm tra nguồn năng lượng, hành vi, dữ liệu hợp đồng và thông tin người ủy thác đã cung cấp.
+- Việc phân loại phải dựa trên bằng chứng về hành vi, mức độ cố ý và hậu quả thực tế; không kết luận vi phạm chỉ từ một hiện tượng bất thường chưa xác định được nguồn.
+- Cấp độ vi phạm được xác định theo bốn mức tại Mục 21.5. Một hành vi có thể được đánh giá theo hậu quả và mức độ tác động thực tế, không chỉ theo tên gọi mà người ủy thác dùng để mô tả.
+- Việc giám sát không cần thông báo trước cho người ủy thác hoặc ký chủ.
 
-## 21.5. Hủy hợp đồng và chế tài phá hoại
+## 21.5. Phân loại vi phạm và chế tài linh hồn
 
-Nếu Tổng bộ xác minh người ủy thác có hành vi phá hoại:
-- Hợp đồng và nhiệm vụ bị Tổng bộ hủy.
-- Ký chủ nhận **50% điểm thưởng cơ bản của nhiệm vụ**.
-- EXP của ký chủ được tính theo phần công việc thực tế đã hoàn thành.
-- Người ủy thác bị cưỡng chế tiêu diệt; linh hồn biến mất.
-- Phần 20% năng lượng hợp đồng còn lại chưa thanh toán bị Tổng bộ thu hồi.
-- Phần 80% năng lượng đã thanh toán trước đó vẫn thuộc Tổng bộ.
+Vi phạm của người ủy thác được chia thành bốn cấp:
 
-Sau khi hợp đồng được ký và nhiệm vụ hình thành, người ủy thác không thể đơn phương hủy hoặc rút khỏi hợp đồng. Việc Tổng bộ hủy hợp đồng do hành vi phá hoại đã được xác minh là ngoại lệ đã được quy định ở trên.
+| Cấp | Tên gọi | Hành vi điển hình |
+|---|---|---|
+| Cấp 0 | Sai lệch | Cung cấp thông tin không chính xác do nhầm lẫn, không có chủ ý lừa dối hoặc gây hại. |
+| Cấp 1 | Che giấu | Cố ý bỏ sót hoặc che giấu thông tin trọng yếu liên quan trực tiếp đến nhiệm vụ, mục tiêu, điều kiện hoàn thành, nguy cơ hoặc trở ngại. |
+| Cấp 2 | Gây khó dễ | Cố ý làm tăng độ khó, tạo bất lợi đáng kể hoặc cản trở khả năng hoàn thành nhiệm vụ của ký chủ. |
+| Cấp 3 | Phá hoại | Chủ động can thiệp để nhiệm vụ thất bại hoặc khiến ký chủ tử vong. |
 
-## 21.6. Phân bổ phần thưởng từ 20% năng lượng hợp đồng
+**Nguyên tắc chế tài**
+- Cấp 0: cảnh cáo, không áp dụng khấu trừ năng lượng linh hồn.
+- Cấp 1: khấu trừ một phần năng lượng linh hồn còn lại.
+- Cấp 2: khấu trừ lượng năng lượng đáng kể và gây tổn thương linh hồn.
+- Cấp 3: chế tài nghiêm trọng, có thể gây tổn thương linh hồn nặng hoặc phân rã một phần linh hồn.
+- Mức phạt phải tương xứng với hành vi, mức độ cố ý và hậu quả thực tế. Cùng một cấp vi phạm có thể có mức chế tài khác nhau tùy tình tiết.
+- Không có tỷ lệ khấu trừ cố định áp dụng cho mọi trường hợp. Tổng bộ xác định mức chế tài cụ thể dựa trên hồ sơ và bằng chứng.
+- Không cấp độ nào tự động dẫn đến tiêu diệt toàn bộ linh hồn. Việc tiêu diệt linh hồn không phải hình phạt mặc định.
+- Không tự động hủy hợp đồng, thay đổi điểm thưởng hoặc chuyển kết quả nhiệm vụ chỉ vì người ủy thác bị xác định vi phạm; trạng thái nhiệm vụ và quyền lợi ký chủ vẫn được xử lý theo kết quả thực tế cùng các quy tắc nhiệm vụ tương ứng.
+- Sau khi khế ước được ký và nhiệm vụ hình thành, người ủy thác không thể đơn phương hủy hoặc rút khỏi hợp đồng.
 
-- Mọi phần thưởng do người ủy thác tự nguyện trao cho ký chủ đều được lấy từ khoản 20% năng lượng hợp đồng đang do linh hồn người ủy thác nắm giữ; đây không phải nguồn thưởng thứ hai.
-- Người ủy thác có thể lựa chọn thời điểm và mức phân bổ trong giới hạn năng lượng 20% còn lại, kể cả khi nhiệm vụ chưa hoàn thành hoặc một lượt ký chủ đã thất bại.
-- Năng lượng được phân bổ sẽ chuyển đổi thành điểm và cộng trực tiếp vào tài khoản của ký chủ được thưởng.
-- Khoản điểm này là phần thưởng do người ủy thác trao, độc lập với điểm thưởng nhiệm vụ do Tổng bộ quyết định; không làm thay đổi kết quả đánh giá nhiệm vụ.
-- Khi một lượt ký chủ thất bại, người ủy thác vẫn có thể thưởng cho ký chủ đó; nhiệm vụ đồng thời trở lại kho để tiếp tục phân phối nếu chưa có căn cứ hủy nhiệm vụ.
-- Khi nhiệm vụ hoàn thành, phần năng lượng 20% chưa sử dụng được chuyển về Tổng bộ và linh hồn người ủy thác tan biến. Nếu nhiệm vụ bị hủy do phá hoại đã xác minh, phần chưa sử dụng bị thu hồi và linh hồn bị tiêu diệt theo Mục 21.5.
+## 21.6. Quyết toán quỹ thưởng 20%
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.13**
+- Quỹ 20% năng lượng hợp đồng là một nguồn duy nhất để người ủy thác thưởng cho ký chủ và/hoặc hệ thống đồng hành.
+- Người ủy thác được chọn tỷ lệ phân bổ giữa điểm thưởng cho ký chủ và năng lượng cho hệ thống đồng hành; tổng phần phân bổ không vượt quá quỹ 20% còn lại.
+- Người ủy thác có thể thay đổi lựa chọn trước khi Tổng bộ thực hiện quyết toán. Không có tỷ lệ quy đổi cố định giữa điểm và năng lượng nếu chưa được quy định riêng.
+- Việc quyết toán diễn ra sau khi ký chủ rời thế giới nhiệm vụ và Tổng bộ xác minh kết quả; không thanh toán quỹ thưởng trước thời điểm này.
+- Nếu ký chủ hoàn thành nhiệm vụ, khoản thưởng được chi trả theo phương án cuối cùng người ủy thác đã chọn trong giới hạn quỹ còn lại.
+- Nếu ký chủ thất bại trong lượt nhiệm vụ, không chi thưởng từ quỹ 20% cho lượt đó. Nếu nhiệm vụ được phân phối lại, quỹ chưa quyết toán tiếp tục được giữ để xử lý theo kết quả cuối cùng.
+- Nếu nhiệm vụ kết thúc với kết quả thất bại, không có khoản thưởng từ quỹ 20%; phần năng lượng còn lại được nhập vào kho chung của Tổng bộ.
+- Năng lượng thưởng do Tổng bộ cấp cho hệ thống con từ nhiệm vụ phụ hoặc nhiệm vụ tự chọn là khoản riêng, không nhập chung và không được nhầm với quỹ 20% của người ủy thác.
+
+## 21.7. Thông báo kết quả và quyết toán cho ký chủ
+
+Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác minh kết quả, hệ thống phải thông báo rõ ràng cho ký chủ:
+- Cấp nhiệm vụ cuối cùng có hiệu lực.
+- Kết quả thành công hoặc thất bại.
+- Điểm tích lũy được cộng hoặc bị trừ.
+- Tiền thưởng thực tế.
+- Năng lượng thưởng cho hệ thống đồng hành.
+- Vật phẩm và các phần thưởng khác.
+- Các khoản bị khấu trừ, hủy hoặc không được nhận, kèm lý do.
+
+Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
+
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.14**
