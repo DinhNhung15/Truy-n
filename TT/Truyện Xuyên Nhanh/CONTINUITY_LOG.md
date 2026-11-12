@@ -149,9 +149,6 @@
 
 ---
 
-# CONTINUITY_LOG.md
-# NHẬT KÝ CẬP NHẬT CANON
-
 ## 2026-11-11 – SYSTEM_BIBLE.md v1.9
 
 **Tài liệu cập nhật:** `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`  
@@ -457,3 +454,19 @@
 
 ### Phạm vi
 - Đây là đợt sửa metadata và đồng bộ tham chiếu; không thay đổi cấp nhiệm vụ đã chốt, công thức SYS-002, quy tắc năng lượng SYS-007, giá vé SYS-010 hoặc bất kỳ quyết định canon nào khác.
+
+
+## 2026-11-12 – Sửa các đoạn tài liệu lệch theo canon mới nhất
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Nội dung chỉnh sửa
+- Mục 1.2: bỏ cách diễn đạt có thể khiến người đọc hiểu rằng vi phạm của người ủy thác tự dẫn đến hủy nhiệm vụ; thay bằng nguyên tắc xử lý theo Mục 21.5, không tự động hủy nhiệm vụ hoặc thay đổi kết quả/quyền lợi ký chủ.
+- Mục 9.5: thay bảng phân biệt cửa hàng/chợ cũ, không còn phản ánh đầy đủ phương thức đối giá và cơ chế phí đăng bán hiện hành, bằng phần dẫn chiếu thống nhất với Mục 9.2.
+- Mục 13: loại bỏ hai ghi chú đã được chốt ở v1.15 và v1.17; ghi nhận lại các điểm còn mở đã được nhận diện, không tự quyết định thay tác giả.
+- CONTINUITY_LOG: bỏ tiêu đề tài liệu bị lặp giữa nhật ký; giữ nguyên các bản ghi lịch sử và thứ tự thời gian.
+
+### Phạm vi
+- Đây là đợt chỉnh sửa lỗi tài liệu và tham chiếu theo các quyết định canon mới nhất; không thay đổi quy tắc nghiệp vụ đã chốt, không tự quyết định các điểm còn mở.
