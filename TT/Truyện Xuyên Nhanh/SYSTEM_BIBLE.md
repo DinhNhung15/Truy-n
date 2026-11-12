@@ -37,7 +37,7 @@ Tổng bộ có hai nguồn năng lượng quan trọng:
 - Phần 20% còn lại là một quỹ thưởng hợp nhất; người ủy thác được chọn phân bổ quỹ này thành điểm cho ký chủ và/hoặc năng lượng cho hệ thống đồng hành, không coi đây là hai nguồn thưởng độc lập.
 - Người ủy thác có thể lựa chọn và điều chỉnh phương án phân bổ trước thời điểm quyết toán. Việc chi trả chỉ thực hiện sau khi ký chủ rời thế giới nhiệm vụ và Tổng bộ xác minh kết quả.
 - Một lượt ký chủ thất bại không tự làm nhiệm vụ kết thúc; nhiệm vụ trở lại kho để tiếp tục phân phối. Ký chủ thất bại không nhận khoản thưởng tự nguyện từ quỹ 20% cho lượt đó.
-- Khi nhiệm vụ được xác nhận hoàn thành, phần quỹ 20% chưa phân bổ được nhập vào kho chung của Tổng bộ và linh hồn người ủy thác tan biến. Nếu nhiệm vụ bị hủy do vi phạm đã xác minh, áp dụng chế tài tại Mục 21.
+- Khi nhiệm vụ được xác nhận hoàn thành, phần quỹ 20% chưa phân bổ được nhập vào kho chung của Tổng bộ và linh hồn người ủy thác tan biến. Vi phạm của người ủy thác được xử lý theo Mục 21.5. Việc xử lý vi phạm không tự động hủy nhiệm vụ, thay đổi kết quả hoặc quyền lợi của ký chủ.
 
 **Nguồn năng lượng thưởng**
 - Được Tổng bộ cấp cho hệ thống con sau khi hệ thống và ký chủ hoàn thành nhiệm vụ.
@@ -977,13 +977,10 @@ Trao đổi trực tiếp là hình thức các ký chủ gặp nhau và tự th
 - Sau khi trở về thế giới thực, chỉ kỹ năng tương thích với quy luật thế giới gốc mới có thể tiếp tục sử dụng. Năng lực siêu nhiên không tương thích không thể sử dụng tại thế giới thực.
 
 
-| Tiêu chí | Cửa hàng hệ thống | Chợ người chơi |
-|---|---|---|
-| Đơn vị bán | Hệ thống | Người chơi |
-| Vật phẩm | Theo danh mục hệ thống | Vật phẩm từ các thế giới |
-| Kỹ năng | Có | Không giao dịch kỹ năng trực tiếp |
-| Thuốc tạo năng lực | Theo danh mục nếu có | Có thể giao dịch nếu tồn tại |
-| Thanh toán | Điểm | Điểm hoặc tiền thật |
+Việc mua bán tại cửa hàng hệ thống và chợ người chơi được phân biệt theo quy định tại Mục 9.2:
+- Cửa hàng hệ thống: hệ thống là bên bán; danh mục, giá và phương thức thanh toán theo quy định của cửa hàng.
+- Chợ người chơi: ký chủ mua bán với ký chủ khác; đối giá có thể là điểm tích lũy, tiền tệ thế giới hoặc vật phẩm. Phí đăng bán 5% do người bán thanh toán bằng điểm trước khi vật phẩm được đưa lên kệ.
+- Kỹ năng đã sở hữu không được giao dịch; vật phẩm chứa tri thức để học kỹ năng vẫn được xem là vật phẩm nếu đáp ứng điều kiện kiểm định và giao dịch.
 
 ---
 
@@ -1155,13 +1152,17 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 
 # 13. CÁC VẤN ĐỀ CHƯA CHỐT
 
-Những nội dung chưa được tác giả quyết định không được tự ý suy diễn thành canon.
+Những nội dung chưa được tác giả quyết định không được tự ý suy diễn thành canon. Các quyết định đã chốt phải áp dụng theo nội dung mới nhất trong SYSTEM_BIBLE.md và CONTINUITY_LOG.md; không tiếp tục sử dụng các ghi chú chưa chốt đã được quyết định sau đó.
 
-Hiện tại, các nội dung vừa được rà soát và chốt gồm SYS-002, SYS-007, SYS-009, SYS-010 và cơ chế hợp đồng/người ủy thác tại Mục 21. Các chi tiết định lượng hoặc kỹ thuật chưa được quyết định không được tự suy diễn.
+Những nội dung đã được chốt và không còn là vấn đề mở:
+- Người bán phải thanh toán đủ phí đăng bán 5% bằng điểm trước khi vật phẩm được đưa lên kệ; nếu không đủ điểm, hệ thống từ chối đăng bán, không tạo tin chờ, không âm điểm và không ghi nợ (v1.17).
+- Tỷ lệ quy đổi trong quỹ thưởng 20% của người ủy thác là 100 điểm = 1 NL; chỉ áp dụng cho quỹ này (v1.15).
+- Vi phạm của người ủy thác được xử lý theo bốn cấp tại Mục 21.5; không tự động hủy nhiệm vụ, thay đổi kết quả/quyền lợi ký chủ hoặc tiêu diệt toàn bộ linh hồn (v1.14 và các cập nhật sau).
 
-Các điểm còn cần quyết định riêng:
-- Cách xử lý khi người bán không đủ điểm để thanh toán phí đăng bán 5% trước khi đưa vật phẩm lên kệ chưa được xác định.
-- Tỷ lệ quy đổi cụ thể giữa điểm thưởng cho ký chủ và năng lượng thưởng cho hệ thống đồng hành trong quỹ 20% của người ủy thác chưa được xác định.
+### Các điểm còn cần quyết định riêng
+- SYS-007: tiêu chí chọn cấp can thiệp khi tác động nằm giữa hai mức; cách tính khi một lần can thiệp tạo nhiều hiệu ứng độc lập; cách tính khi phạm vi hoặc mức tác động thay đổi trong thời gian hiệu ứng tồn tại.
+- Mục 21.6: điều kiện và thẩm quyền xác định một nhiệm vụ đã kết thúc thất bại, phân biệt với một lượt ký chủ thất bại khiến nhiệm vụ quay lại kho để phân phối tiếp.
+- SYS-010: cách bảo đảm sự phân biệt giữa giá mua vé cho bản thân (1 tỷ điểm) và giá mua để chuyển cho người khác (10 tỷ điểm), trong bối cảnh vé được trao tay không giới hạn số lần và người giữ vé hợp lệ có quyền kích hoạt.
 ---
 
 # 14. NGUYÊN TẮC QUẢN LÝ CANON
