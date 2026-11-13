@@ -396,7 +396,7 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 # 14. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
 
 Việc chốt hồ sơ nhân vật không đồng nghĩa đã chốt cơ chế vận hành. Các nội dung sau vẫn để mở:
-- Cấp bậc, tuổi đời hoặc thâm niên chính thức của từng hệ thống.
+- Tuổi đời hoặc thâm niên chính thức của từng hệ thống.
 - Chức vụ và quyền hạn tại Tổng bộ của các nhân vật phụ.
 - Cơ chế năng lượng riêng và bất kỳ quyền can thiệp bổ sung nào.
 - Giới tính, giọng nói hoặc hình thức giao tiếp cụ thể nếu chưa được xác định ở phần khác.
