@@ -1,3 +1,45 @@
+## 2026-11-13 – Chốt toàn bộ vấn đề còn mở của SYS-007, SYS-010 và thất bại cuối cùng
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md` – v1.19 → v1.20
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-007.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-010.md`
+
+### SYS-007 – Tính phí khi nhiều hệ số thay đổi
+- Chốt cách tính lại toàn bộ chi phí khi một hoặc nhiều hệ số E₀, Kp, Kt, Ks thay đổi đồng thời: E_mới = E₀_mới × Kp_mới × Kt_mới × Ks_mới.
+- Chi phí tăng thêm bằng max(0, E_mới − E_đã_tính); chỉ thu phần vượt mức cao nhất đã tính cho cùng hiệu ứng/giai đoạn. Không cộng cơ học các chênh lệch riêng lẻ, không hoàn năng lượng khi chi phí giảm.
+- Mỗi hiệu ứng độc lập hoặc giai đoạn hiệu ứng có sổ chi phí riêng.
+
+### SYS-007 – Hiệu ứng thay đổi bản chất theo thời gian
+- Khi bản chất tác động thay đổi, chia hiệu ứng thành các giai đoạn liên tiếp và tính riêng từng giai đoạn.
+- Các đặc tính đồng thời của cùng hiệu ứng trong một giai đoạn vẫn áp dụng Ks cao nhất; thay đổi phạm vi/thời lượng nhưng không đổi bản chất không tự tạo giai đoạn mới.
+- Kt căn cứ thời lượng cam kết duy trì giai đoạn; kéo dài làm tăng bậc Kt thì chỉ thu phần chênh vượt mức đã tính; kết thúc sớm không hoàn năng lượng.
+
+### SYS-007 – Ranh giới Kp
+- Nhóm nhỏ 2–10 người có liên hệ thực tế/chức năng: Kp 2.
+- Nhóm thống nhất trên 10 người, chỉ bị tác động trực tiếp với tư cách thành viên nhóm: Kp 5, không phụ thuộc phân bố một hay nhiều thành phố.
+- Kp 5 địa lý áp dụng cho một vùng địa phương nhỏ hơn thành phố; Kp 10 áp dụng khi hiệu ứng vận hành ở quy mô thành phố hoặc trải trên từ hai thành phố trở lên.
+- Không gom các mục tiêu độc lập thành nhóm chỉ vì cùng xuất hiện trong một danh sách/lần kích hoạt; không chia cơ học một nhóm thống nhất để hạ Kp.
+
+### Nhiệm vụ thất bại cuối cùng
+- Bổ sung Mục 6.6 để phân biệt lượt ký chủ thất bại với nhiệm vụ kết thúc thất bại.
+- Chốt các căn cứ: hết thời hạn bắt buộc trong khế ước; mục tiêu bất khả thi khách quan; thế giới nhiệm vụ không còn khả năng tiếp cận; hoặc điều kiện thất bại riêng đã ghi rõ trong khế ước xảy ra.
+- Cục Điều Phối có thẩm quyền quyết định cuối cùng. Trong thời gian xác minh, nhiệm vụ tạm dừng phân phối; nếu không đủ căn cứ thì trả lại kho.
+- Khi thất bại cuối cùng, nhiệm vụ đóng vĩnh viễn; phần quỹ 20% chưa sử dụng trở về kho chung và linh hồn người ủy thác chấm dứt sau quyết toán. Vi phạm của người ủy thác vẫn được xử lý riêng, không tự động quyết định kết quả nhiệm vụ.
+
+### SYS-010 – Phân biệt vé 1 tỷ và 10 tỷ
+- Vé 1 tỷ là vé cá nhân, gắn với người mua ban đầu; người mua có thể kích hoạt mà không trả thêm.
+- Người khác đang giữ vé cá nhân muốn kích hoạt phải trả phần chênh 9 tỷ; có thể trả trước để chuyển vé thành vé vô danh.
+- Vé mua 10 tỷ là vé vô danh, người giữ hợp lệ có thể kích hoạt mà không cần trả thêm.
+- Khoản chênh 9 tỷ chỉ thu một lần cho mỗi vé; sau khi vé thành vé vô danh, chuyển giao nhiều lần không phát sinh thêm phí.
+- Giữ nguyên khả năng trao tay không giới hạn, không cần chỉ định người nhận trước và không yêu cầu chứng minh nguồn gốc nhận vé.
+
+### Trạng thái
+- Ba nhóm vấn đề được ghi nhận trong danh sách vấn đề chưa chốt đã có quyết định và được cập nhật đồng bộ vào tài liệu chuyên biệt cùng SYSTEM_BIBLE.md v1.20.
+- Các quy tắc đã chốt trước đó được giữ nguyên; không thay đổi công thức E₀, Kp, Kt, Ks nền tảng, giá vé hoặc các quy tắc thất bại cá nhân.
+
+---
+
 ## 2026-11-11 – Chốt phân cấp 16 thế giới nhiệm vụ
 
 **Tài liệu cập nhật:**
