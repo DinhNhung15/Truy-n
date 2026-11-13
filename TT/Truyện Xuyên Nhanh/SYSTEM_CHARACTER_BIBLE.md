@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.2  
+**Phiên bản:** 3.3  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -432,6 +432,10 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
   2. **Bộ phận đánh giá chuyên môn:** Đánh giá chất lượng đóng góp theo ba mức ghi nhận đã quy định; đối chiếu dữ liệu và lịch sử hoạt động để đưa ra kết quả đánh giá chuyên môn.
   3. **Khối Tổng bộ:** Có thẩm quyền phê duyệt kết quả thăng cấp theo quy định.
 - Hệ thống không tự đánh giá hoặc tự quyết định thành tích chuyên môn của chính mình. Bộ phận lập hồ sơ, bộ phận đánh giá chuyên môn và cơ quan phê duyệt thăng cấp có vai trò phân biệt; không mặc nhiên gộp các quyền này vào một chủ thể.
+- **Quyền khiếu nại kết quả đánh giá:** Hệ thống có quyền gửi khiếu nại khi có căn cứ cho rằng hồ sơ thành tích bị thiếu hoặc ghi nhận sai, đóng góp bị đánh giá không đúng mức, hoặc có dữ liệu/bằng chứng mới chưa được xem xét.
+- Khiếu nại cần nêu rõ nội dung bị khiếu nại và căn cứ liên quan. Bộ phận đánh giá chuyên môn có trách nhiệm xem xét lại hồ sơ và căn cứ được cung cấp.
+- Nếu xác định có sai sót, kết quả đánh giá được điều chỉnh cho phù hợp; nếu không có căn cứ thay đổi, giữ nguyên kết quả.
+- Việc gửi khiếu nại không tự động làm tăng thành tích, thay đổi kết quả đánh giá hoặc tạo quyền thăng cấp.
 - Muốn thăng một cấp, hệ thống bắt buộc phải đạt ngưỡng của cả thành tích nhiệm vụ và thành tích chuyên môn.
 - Ngưỡng thành tích chuyên môn được định hướng cao hơn và là yếu tố tạo độ khó đáng kể khi thăng cấp.
 - Khoảng cách thành tích cần thiết giữa các cấp tăng dần; cấp càng cao càng khó thăng cấp.
@@ -453,4 +457,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.2**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.3**
