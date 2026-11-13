@@ -46,43 +46,61 @@
 
 ## 4. Cơ chế đoàn tụ và nguyên tắc diễn
 
-1. Lục Trầm trở về kinh thành và nhận ra vợ trước.
-2. Anh quan sát một thời gian ngắn để xác nhận, dựa vào những thói quen rất riêng của cô; không nhận ra chỉ bằng một dấu hiệu chung chung.
-3. Uyển Ninh ban đầu chưa nhận ra chồng.
-4. Hai người xác nhận thân phận thật bằng một ký ức riêng tư chỉ người trong cuộc biết.
-5. Sau khi xác nhận, không kéo dài hiểu lầm giữa hai vợ chồng.
-6. Uyển Ninh đề nghị tiếp tục giả vờ bất hòa trước mặt người ngoài để giữ vỏ bọc thân phận; Lục Trầm đồng ý.
-7. Khi ở riêng, hai người có thể sinh hoạt và trao đổi bình thường; sự đối đầu chỉ là màn diễn trước người ngoài.
-8. Chênh lệch kinh nghiệm được giữ: vợ ở nhiệm vụ 2, chồng ở nhiệm vụ 8. Chồng có kinh nghiệm hơn nhưng không toàn tri, không làm thay nhiệm vụ riêng của vợ và không giải quyết mọi việc bằng quyền lực quân đội.
-9. Không hé lộ manh mối về con trai trước khi cha mẹ đoàn tụ; tuyến tìm con chỉ mở sau mốc này.
+### Giai đoạn 1 – Cả hai chưa biết đối phương là ký chủ
 
-## 5. Hai tuyến nhiệm vụ độc lập
+1. Hai ký chủ xuyên vào thân phận Tống Uyển Ninh và Lục Trầm nhưng ban đầu không biết người kia cũng là ký chủ.
+2. Khi gặp và cãi vã, mỗi người chỉ đang hành động theo ký ức, thói quen và cách cư xử của nguyên chủ để tránh khiến người xung quanh nhận ra sự khác thường. Họ không cố tình diễn cho đối phương xem.
+3. Mỗi người âm thầm tìm cách hoàn thành nhiệm vụ riêng, không trao đổi thông tin và không lập kế hoạch chung.
+4. Trong quá trình hành động, họ nhận thấy đối phương dường như cũng có mục tiêu gần giống mình nên nảy sinh nghi ngờ.
+5. Qua quan sát, cả hai nhận thấy người kia không có ý đồ xấu. Họ không vạch trần, không chất vấn, chỉ âm thầm để ý và ngầm hiểu một số hành động của đối phương.
 
-### 5.1. Tuyến của Uyển Ninh
+### Giai đoạn 2 – Người chồng nhận ra trước, sau đó người vợ nhận ra
 
-Điều tra cái chết của quản sự cũ Trần Bá và xác định chi nhánh vận tải Tống gia đã bị lợi dụng như thế nào để che giấu việc chuyển hướng quân lương.
+1. Ký chủ nam nhận ra Tống Uyển Ninh trước dựa trên những thói quen, phản ứng hoặc dấu hiệu riêng chỉ người quen mới nhận ra; không nhận diện chỉ bằng một biểu hiện chung chung.
+2. Hắn không lập tức vạch trần thân phận. Từ những việc nàng đang làm, hắn đoán nhiệm vụ của nàng có thể là “Cứu gia đình”.
+3. Hắn thuận theo hướng hành động của nàng, âm thầm hỗ trợ và phối hợp trong phạm vi thân phận, quyền hạn của Lục Trầm. Hắn không làm thay phần điều tra của nàng.
+4. Không lâu sau, ký chủ nữ cũng nhận ra Lục Trầm là chồng mình. Hai người xác nhận bằng một ký ức hoặc dấu hiệu riêng tư chỉ người trong cuộc biết.
+5. Sau khi nhận ra nhau, hai người phối hợp có chủ đích để ngăn vụ vu oan Tống gia. Họ có thể trao đổi khi cần, phân chia đầu việc theo thế mạnh và quyền hạn, nhưng không cần công khai thân phận ký chủ hay nội dung khế ước.
+6. Trước mặt người ngoài, họ vẫn giữ cách cư xử bất hòa như nguyên chủ để bảo vệ vỏ bọc; khi ở riêng có thể phối hợp bình thường.
 
-Các điểm cần làm rõ:
-- Hoàn cảnh và nguyên nhân cái chết của Trần Bá.
-- Chi nhánh Tống gia bị sử dụng vào khâu nào.
-- Ai chủ động lợi dụng chi nhánh này.
-- Mức độ biết chuyện và trách nhiệm của từng người.
-- Thu thập và đối chiếu chứng cứ đủ tin cậy để nộp kết quả nhiệm vụ.
+### Giai đoạn 3 – Không có thông báo hoàn thành, chuyển sang điều tra sâu
 
-Uyển Ninh phải tự hoàn thành tuyến điều tra của mình. Lục Trầm có thể cung cấp thông tin liên quan nhưng không được làm thay kết luận của cô.
+1. Sau khi ngăn được vụ vu oan Tống gia, cả hai cho rằng mục tiêu trước mắt đã đạt được và chờ thông báo từ hệ thống.
+2. Chờ mãi không có thông báo hoàn thành. Ban đầu, mỗi người nghĩ có thể khế ước của mình còn thiếu điều kiện nào đó.
+3. Những dấu hiệu bất thường tiếp tục xuất hiện: người liên quan tìm cách thu hồi hoặc tiêu hủy chứng từ, nhân chứng bị gây sức ép, dòng tiền và tuyến vận chuyển chưa được giải thích.
+4. Hai người nhận ra việc ngăn vụ vu oan mới chỉ xử lý phần nổi; nguy cơ đối với Tống gia và Tống Uyển Ninh vẫn chưa chấm dứt.
+5. Họ chủ động điều tra sâu hơn, lần theo chứng từ, sổ sách, dòng tiền, tuyến vận chuyển, nhân chứng và những người thực sự đứng sau.
 
-### 5.2. Tuyến của Lục Trầm
+**Nguyên tắc:** Giai đoạn 1 tuyệt đối không có trao đổi thông tin hay phối hợp có chủ đích. Giai đoạn 2 bắt đầu từ việc người chồng nhận ra vợ trước; người vợ nhận ra sau đó không lâu. Giai đoạn 3 bắt đầu khi cả hai đã ngăn được vụ vu oan nhưng không nhận được thông báo hoàn thành.
 
-Điều tra tình trạng thiếu hụt quân lương và xác định lượng quân lương thực tế đã đến doanh trại.
+## 5. Hai khế ước độc lập và cách phối hợp điều tra
 
-Các điểm cần làm rõ:
-- Số lượng triều đình xuất kho.
-- Số lượng quân doanh thực nhận.
-- Khâu xảy ra thất thoát.
-- Người có quyền thay đổi tuyến vận chuyển.
-- Chứng cứ xác nhận hoặc loại trừ khả năng quân đội tự tham ô.
+### 5.1. Khế ước của ký chủ nữ
 
-Lục Trầm không được tùy tiện dùng binh quyền để ép cung, khám xét hoặc giải quyết vụ việc.
+**Nguyện vọng nguyên chủ:** “Cứu gia đình.”
+
+Trọng tâm là ngăn Tống gia bị vu oan, bảo vệ phụ mẫu và người thân khỏi kết cục trong nguyên tác. Ký chủ nữ có thế mạnh tiếp cận hoạt động của Tống gia, đọc hiểu sổ sách, chứng từ, chi phí và quan hệ giữa các chi nhánh.
+
+### 5.2. Khế ước của ký chủ nam
+
+**Nguyện vọng nguyên chủ:** “Bảo vệ nàng.”
+
+Trọng tâm là bảo vệ Tống Uyển Ninh khỏi cái chết trong nguyên tác. Ký chủ nam có thể tiếp cận báo cáo quân đội, quân lương, lệnh điều vận, tình hình doanh trại và những đầu mối thuộc phạm vi quyền hạn của Lục Trầm.
+
+### 5.3. Hai nhiệm vụ – một vụ án chung
+
+- Hai khế ước độc lập, có mục tiêu và tiến độ riêng; không gộp thành một nhiệm vụ chung.
+- Hai ký chủ cùng điều tra một đường dây và một âm mưu, nhưng kết quả phải được đánh giá riêng theo điều kiện từng khế ước.
+- Không mặc định cứu được Tống gia đồng nghĩa nhiệm vụ của người vợ tự động hoàn thành; cũng không mặc định Tống Uyển Ninh tạm thời an toàn đồng nghĩa nhiệm vụ của người chồng hoàn thành.
+- Giai đoạn đầu, mỗi người tự tìm cách hoàn thành nhiệm vụ và chưa biết người kia là ký chủ.
+- Sau khi người chồng nhận ra vợ, rồi người vợ nhận ra chồng, họ mới phối hợp có chủ đích.
+- Phân chia đầu việc theo nguồn tiếp cận: Uyển Ninh lần theo sổ sách, chứng từ và hoạt động của Tống gia; Lục Trầm kiểm tra quân lương, báo cáo quân đội, tuyến cung ứng và thẩm quyền điều vận. Đây là phân công thuận tiện, không phải hai vụ án tách biệt.
+- Cả hai phải trực tiếp suy luận, xác minh và chịu trách nhiệm với phần nhiệm vụ của mình. Không để một người làm thay toàn bộ nhiệm vụ của người kia.
+
+### 5.4. Nguyên tắc hệ thống
+
+- Hai hệ thống đồng hành chỉ hỗ trợ ký chủ được liên kết theo đúng quyền hạn; không tự điều tra thay hoặc tự tiết lộ kẻ chủ mưu.
+- Điều kiện hoàn thành, điểm, EXP, năng lượng và quyết toán phải tuân theo SYSTEM_BIBLE; hồ sơ thế giới không tự đặt quy tắc mới.
 
 ## 6. Phương án cơ chế thất thoát quân lương
 
@@ -109,6 +127,8 @@ Lục Trầm không được tùy tiện dùng binh quyền để ép cung, khá
 | Thất thoát | 400 thạch | 1.600 thạch |
 
 ## 7. Dòng thời gian dự kiến
+
+**Lưu ý về hai dòng thời gian:** Bảng ngày tháng dưới đây là mốc sự kiện của phương án nguyên tác/diễn biến nền đang lưu. Trong dòng thời gian của hai ký chủ, Lục Trầm trở về kinh thành sớm hơn mốc trở về trong nguyên tác. Ngày cụ thể của lần trở về sớm này chưa chốt; không dùng mốc 12/09 trong bảng dưới đây để khẳng định ký chủ nam vẫn trở về đúng ngày nguyên tác.
 
 | Ngày | Sự kiện |
 |---|---|
@@ -214,24 +234,24 @@ Không để một lời khai hoặc một vật chứng đơn lẻ tự động
 
 ## 11. Khung 16 chương dự kiến
 
-1. Uyển Ninh tiếp nhận thân phận Tống gia, phát hiện cái chết của Trần Bá có điểm bất thường.
-2. Lục Trầm bắt đầu nhiệm vụ quân lương, phát hiện chênh lệch sổ sách.
-3. Uyển Ninh lần theo quan hệ và công việc của Trần Bá tại chi nhánh vận tải.
-4. Lục Trầm kiểm tra sổ xuất và sổ nhận; cả hai đều ghi đủ số lượng.
-5. Lục Trầm về kinh thành, gặp Uyển Ninh và nhận ra cô.
-6. Anh tìm cách xác nhận thân phận; cô vẫn chưa nhận ra anh.
-7. Hai người xác nhận riêng tư và đoàn tụ; thống nhất giả vờ bất hòa.
-8. Màn đối đầu trước mặt người ngoài bắt đầu; một cuộc cãi vã che giấu việc trao đổi chứng cứ.
-9. Hai tuyến điều tra độc lập cùng lần đến một tuyến vận chuyển.
-10. Chứng từ bị sửa; giả thuyết quân doanh tham ô có vẻ mạnh hơn; Lục Trầm chịu sức ép.
-11. Uyển Ninh lần ra kho tư nhân và sổ của Phùng Khải.
-12. Nhân chứng đổi lời khai; Tống gia bị kéo vào; Uyển Ninh bảo vệ kết luận do chính mình kiểm chứng.
-13. Đỗ Quang Viễn gây sức ép ở triều đình; Lục Trầm đứng trước nguy cơ mất quyền chỉ huy.
-14. Hai người đối chiếu chứng cứ, tái dựng số lượng và thẩm quyền thay đổi tuyến.
-15. Đối chất, bóc trần đường dây và vai trò của Đỗ Quang Viễn.
-16. Hai nhiệm vụ được giải quyết độc lập; vợ chồng rời thế giới, mở tuyến tìm con.
+1. Hai ký chủ nhập vào thân phận Tống Uyển Ninh và Lục Trầm. Mỗi người tiếp nhận ký ức, bắt đầu xử lý vấn đề riêng; chưa biết đối phương cũng là ký chủ.
+2. Hai người gặp lại và cãi vã theo đúng thói quen nguyên chủ. Cả hai âm thầm quan sát, nhận thấy đối phương dường như cũng đang hướng đến mục tiêu tương tự nhưng không có ý xấu.
+3. Mỗi người tiếp tục tìm cách hoàn thành nhiệm vụ riêng. Không trao đổi thông tin, không lập kế hoạch chung; những hành động trùng hợp khiến sự nghi ngờ và tin tưởng ngầm tăng lên.
+4. Ký chủ nam nhận ra Uyển Ninh trước qua dấu hiệu riêng tư. Hắn không vạch trần, bắt đầu đoán nhiệm vụ của nàng có thể là “Cứu gia đình”.
+5. Ký chủ nam thuận theo hướng hành động của vợ, âm thầm hỗ trợ việc kiểm tra quân lương và các đầu mối thuộc quyền hạn của Lục Trầm.
+6. Không lâu sau, ký chủ nữ nhận ra chồng. Hai người xác nhận bằng ký ức/dấu hiệu riêng tư, sau đó phối hợp có chủ đích nhưng vẫn giữ vỏ bọc bất hòa trước người ngoài.
+7. Hai người đối chiếu sổ sách Tống gia với sổ xuất kho, sổ nhận quân lương, lệnh điều vận và chứng từ giao nhận.
+8. Phát hiện những sai lệch được sắp đặt để đẩy trách nhiệm sang Tống gia; xác minh người phụ trách và điểm trung chuyển.
+9. Thu thập chứng cứ phản bác cáo buộc, ngăn vụ vu oan trước khi Tống gia bị kết án.
+10. Tống gia thoát nguy cơ trước mắt. Hai ký chủ chờ thông báo hoàn thành nhiệm vụ nhưng không nhận được.
+11. Những dấu hiệu mới xuất hiện: chứng từ bị thu hồi, nhân chứng bị gây sức ép, một số đầu mối tìm cách xóa dấu vết. Hai người quyết định điều tra sâu hơn.
+12. Lần theo sổ sách và chứng từ để xác định các khoản mục, chuyến hàng và người có quyền phê duyệt bất thường.
+13. Lần theo dòng tiền, người trung gian và người hưởng lợi; kiểm tra chéo với các giao dịch và chuyến hàng.
+14. Lần theo tuyến vận chuyển thực tế, điểm trung chuyển, kho nhận hàng và lời khai nhân chứng; kiểm tra các giả thuyết cạnh tranh.
+15. Xác định người điều hành, mục đích của đường dây và mối liên hệ với kẻ chủ mưu; bảo vệ người và chứng cứ trước phản công.
+16. Hoàn thiện chuỗi chứng cứ, vạch trần đường dây; hai khế ước được đánh giá độc lập. Hai ký chủ rời thế giới, hai nguyên chủ gặp lại và có kết cục đã xác lập.
 
-Đây là khung diễn biến, không phải bản thảo chương đã hoàn thành. Có thể thay đổi nhịp và số chương khi viết thực tế, miễn không phá logic chứng cứ và các nguyên tắc đoàn tụ.
+Đây là khung diễn biến, không phải bản thảo chương đã hoàn thành. Có thể thay đổi nhịp và số chương khi viết thực tế, miễn giữ đúng trình tự nhận diện, logic chứng cứ và hai khế ước độc lập.
 
 ## 12. Nhịp quan hệ và chất liệu hài
 
@@ -246,22 +266,24 @@ Không để một lời khai hoặc một vật chứng đơn lẻ tự động
 
 ## 13. Nguyên tắc nhất quán bắt buộc
 
-1. Chồng nhận ra vợ trước; vợ ban đầu chưa nhận ra chồng.
-2. Sau khi xác nhận thân phận, không kéo dài hiểu lầm.
-3. Giả vờ bất hòa chỉ là chiến thuật trước mặt người ngoài.
-4. Uyển Ninh có tuyến điều tra và kết quả riêng.
-5. Lục Trầm có tuyến điều tra và kết quả riêng.
-6. Lục Trầm không dùng binh quyền để giải quyết mọi vấn đề.
-7. Uyển Ninh không thể nhìn một cuốn sổ rồi lập tức phá án.
-8. Không để một nhân chứng hoặc chứng cứ duy nhất giải quyết toàn bộ vụ án.
-9. Không quy tội cho toàn bộ Tống gia.
-10. Đỗ Quang Viễn không được xuất hiện cuối truyện để tự kể toàn bộ âm mưu nếu chưa có chứng cứ cài từ trước.
-11. Không có manh mối về con trai trước mốc đoàn tụ.
-12. Không sửa quy tắc điểm, EXP, năng lượng, nhiệm vụ hoặc hình phạt đã ghi trong SYSTEM_BIBLE.
-13. Hệ thống của con không được can thiệp vô hạn.
-14. Lời văn nhanh, tự nhiên, có hành động và phản ứng; tránh giải thích dài, thoại cứng và lặp cảm xúc.
-
----
+1. Giai đoạn đầu, cả hai ký chủ không biết đối phương cũng là ký chủ.
+2. Những lần cãi vã ban đầu là hành động tự nhiên theo ký ức và thói quen nguyên chủ để tránh bị người xung quanh nghi ngờ; không phải hai người cố tình diễn cho nhau xem.
+3. Giai đoạn 1 không trao đổi thông tin, không xác nhận thân phận và không lập kế hoạch chung.
+4. Ký chủ nam nhận ra vợ trước; hắn đoán nhiệm vụ của nàng có thể là “Cứu gia đình” và âm thầm thuận theo, hỗ trợ.
+5. Ký chủ nữ nhận ra chồng không lâu sau đó; từ đây hai người mới phối hợp có chủ đích.
+6. Trước mặt người ngoài, hai người tiếp tục giữ vỏ bọc vợ chồng bất hòa.
+7. Hai nguyện vọng “Cứu gia đình” và “Bảo vệ nàng” là hai khế ước riêng, được đánh giá độc lập.
+8. Ngăn được vụ vu oan Tống gia chưa đồng nghĩa nhiệm vụ đã hoàn thành; hai người chờ thông báo, không nhận được rồi mới điều tra sâu hơn.
+9. Hai ký chủ trực tiếp điều tra; hệ thống không giải án thay.
+10. Mỗi chứng cứ phải có nguồn gốc, phạm vi chứng minh và cách kiểm chứng.
+11. Không để một nhân chứng hoặc chứng cứ duy nhất giải quyết toàn bộ vụ án.
+12. Phân biệt người thực hiện, trung gian, người điều hành và kẻ chủ mưu.
+13. Không quy tội cho toàn bộ Tống gia chỉ vì một chi nhánh hoặc một cá nhân bị lợi dụng.
+14. Không để Lục Trầm dùng binh quyền giải quyết mọi vấn đề.
+15. Giữ nguyên tính cách Tống Uyển Ninh; không biến nàng thành nhân vật toàn năng.
+16. Không hé lộ manh mối về con trai trước mốc đoàn tụ.
+17. Không sửa quy tắc điểm, EXP, năng lượng, nhiệm vụ hoặc hình phạt đã ghi trong SYSTEM_BIBLE.
+18. Văn phong nhanh, tự nhiên, giàu hành động và phản ứng; tránh giải thích dài, thoại cứng và lặp cảm xúc.
 
 ## 14. Những điểm cần xác nhận khi phát triển tiếp
 
