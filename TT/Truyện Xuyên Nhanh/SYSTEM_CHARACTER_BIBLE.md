@@ -1,8 +1,8 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 2.1  
-**Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ và tuyến phát triển của ba hệ thống cùng mạng lưới nhân vật phụ. Chức năng gốc và năng lực riêng của Lạc Tinh đã chốt; chức năng gốc và năng lực riêng của Kỷ Ngôn, Bạch Miên, cùng cấp bậc và quyền hạn của cả ba vẫn chưa chốt.  
+**Phiên bản:** 2.2  
+**Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ và tuyến phát triển của ba hệ thống cùng mạng lưới nhân vật phụ. Chức năng gốc và năng lực riêng của Lạc Tinh và Kỷ Ngôn đã chốt; chức năng gốc và năng lực riêng của Bạch Miên, cùng cấp bậc và quyền hạn của cả ba vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
 ---
@@ -194,6 +194,41 @@ Giới hạn năng lực:
 - Ban đầu Kỷ Ngôn muốn ký chủ làm việc theo kế hoạch; qua nhiệm vụ, nó nhận ra khả năng kết nối xã hội và ứng biến của ký chủ là lợi thế thực sự.
 - **Tuyến phát triển:** Từ cố kiểm soát mọi tình huống, học cách đánh giá thực tế và điều chỉnh phương án; về sau linh hoạt hơn nhưng không đánh mất sự cẩn trọng, chấp nhận rằng quyết định tốt không nhất thiết phải hoàn hảo.
 
+## 8.5. Chức năng gốc và năng lực riêng đã chốt
+
+**Chức năng gốc: Hệ thống Phân tích và Kiểm soát Rủi ro**
+
+Kỷ Ngôn chuyên phân tích dữ liệu nhiệm vụ và tình hình hiện tại để nhận diện nguy cơ, đánh giá những yếu tố có thể dẫn đến thất bại và hỗ trợ hệ thống con kiểm soát rủi ro trong quá trình thực hiện nhiệm vụ.
+
+Phạm vi công việc:
+- Phân tích dữ liệu nhiệm vụ và tình hình hiện tại.
+- Nhận diện nguy cơ, điểm bất thường và các điều kiện có thể dẫn đến thất bại.
+- Xây dựng, đối chiếu các phương án dự phòng.
+- Theo dõi sự thay đổi giữa kế hoạch và tình hình thực tế, cảnh báo khi giả định ban đầu không còn phù hợp.
+
+Giới hạn thẩm quyền:
+- Chỉ cung cấp kết quả phân tích, cảnh báo và phương án đề xuất.
+- Không có quyền sửa mục tiêu, điều kiện hoặc nội dung nhiệm vụ.
+- Không thể bảo đảm mọi rủi ro đều được phát hiện hoặc mọi phương án đều thành công.
+- Không thay thế quyền lựa chọn và quyết định của ký chủ.
+
+**Năng lực riêng: Mô phỏng Rủi ro**
+
+Kỷ Ngôn có thể dựa trên dữ liệu hiện có và những giả định được xác định để mô phỏng một số kịch bản có thể xảy ra, từ đó chỉ ra hậu quả tiềm tàng và mức độ rủi ro tương ứng của từng lựa chọn.
+
+Giới hạn năng lực:
+- Không phải năng lực tiên tri và không cho biết chắc chắn tương lai.
+- Kết quả chỉ có giá trị tham khảo theo dữ liệu, giả định và điều kiện đầu vào tại thời điểm mô phỏng.
+- Không thể mô phỏng đáng tin cậy những yếu tố hoàn toàn không có dữ liệu hoặc nằm ngoài các giả định được đưa vào.
+- Kịch bản thực tế có thể diễn biến khác với kết quả mô phỏng.
+- Không tự quyết định thay ký chủ hoặc ép ký chủ phải chọn phương án được đánh giá là ít rủi ro nhất.
+
+**Nguyên tắc phối hợp với ký chủ**
+- Kỷ Ngôn phân tích, cảnh báo và chuẩn bị các phương án; ký chủ tự cân nhắc và quyết định hành động.
+- Năng lực hỗ trợ nhận diện rủi ro, không loại bỏ hoàn toàn tính bất định của nhiệm vụ.
+- Sự đối lập giữa Kỷ Ngôn thích kế hoạch và kiểm soát với ký chủ linh hoạt, giỏi ứng biến có thể tạo ra những tình huống phối hợp bất ngờ; không mặc định kế hoạch của Kỷ Ngôn luôn đúng hoặc cách ứng biến của ký chủ luôn hiệu quả.
+
+
 # 9. HỆ THỐNG ĐỒNG HÀNH VỚI CON TRAI – BẠCH MIÊN
 
 **Tên chính thức:** Bạch Miên  
@@ -306,7 +341,7 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 Việc chốt hồ sơ nhân vật không đồng nghĩa đã chốt cơ chế vận hành. Các nội dung sau vẫn để mở:
 - Cấp bậc, tuổi đời hoặc thâm niên chính thức của từng hệ thống.
 - Chức vụ và quyền hạn tại Tổng bộ của các nhân vật phụ.
-- Chức năng gốc, năng lực đặc thù và giới hạn năng lực của Kỷ Ngôn và Bạch Miên.
+- Chức năng gốc, năng lực đặc thù và giới hạn năng lực của Bạch Miên.
 - Cơ chế năng lượng riêng và bất kỳ quyền can thiệp bổ sung nào.
 - Giới tính, giọng nói hoặc hình thức giao tiếp cụ thể nếu chưa được xác định ở phần khác.
 - Các chi tiết quá khứ ngoài những quan hệ và sự kiện đã ghi trong hồ sơ này.
@@ -315,4 +350,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.1**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.2**
