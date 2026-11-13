@@ -601,3 +601,61 @@
 - Đồng bộ tiêu chí E₀ vào SYS-007.md.
 - Loại bỏ tiêu chí chọn cấp E₀ khỏi danh sách vấn đề chưa chốt.
 - Các điểm mở khác của SYS-007, gồm tương tác khi nhiều hệ số thay đổi đồng thời, biến động bản chất/mức tác động theo thời gian và ranh giới Kp, được giữ nguyên; không tự quyết định trong lần cập nhật này.
+
+## 2026-11-13 – Đồng bộ nhật ký các quyết định đã có trong SYSTEM_BIBLE.md v1.21
+
+**Nội dung được bổ sung vào nhật ký để khớp với canon hiện hành:**
+
+### Mục 6.6 – Nhiệm vụ thất bại cuối cùng
+- Nhiệm vụ chỉ kết thúc thất bại cuối cùng khi có một trong các căn cứ: hết thời hạn bắt buộc mà mục tiêu chưa đạt; mục tiêu khách quan trở nên bất khả thi và không có phương án hợp lệ; thế giới nhiệm vụ vĩnh viễn không thể tiếp cận; hoặc điều kiện thất bại cụ thể đã được ghi rõ trong khế ước xảy ra.
+- Cục Điều Phối có thẩm quyền quyết định cuối cùng. Trong thời gian xác minh, nhiệm vụ tạm dừng phân phối; nếu bằng chứng chưa đủ thì trả lại kho.
+- Khi thất bại cuối cùng, nhiệm vụ đóng vĩnh viễn; phần quỹ 20% chưa sử dụng được nhập vào kho chung; không chi thưởng hoàn thành; linh hồn người ủy thác chấm dứt tồn tại sau quyết toán.
+- Vi phạm của người ủy thác được xử lý riêng, không tự động quyết định kết quả nhiệm vụ.
+
+### SYS-010 – Vé Về Nhà
+- Vé mua cho bản thân có giá 1 tỷ điểm, là vé cá nhân gắn với người mua ban đầu, không thể chuyển nhượng; người chiếm giữ trái phép không có quyền kích hoạt.
+- Vé mua để trao cho người khác có giá 10 tỷ điểm, là vé chuyển nhượng; có thể được cho, tặng, bán, trao đổi hoặc bị chiếm đoạt. Người đang nắm giữ vé chuyển nhượng hợp lệ có quyền kích hoạt mà không phải trả thêm phí.
+- Loại vé được xác định ngay tại thời điểm mua; không thể mua vé cá nhân 1 tỷ rồi trả thêm 9 tỷ để đổi thành vé chuyển nhượng.
+
+**Ghi chú đồng bộ:** Các nội dung trên đã có trong SYSTEM_BIBLE.md v1.21 nhưng chưa được ghi đầy đủ trong phần cuối của CONTINUITY_LOG.md. Bản ghi này bổ sung dấu vết quyết định, không tạo quy tắc mới.
+
+## 2026-11-13 – Cập nhật cơ cấu và phân định thẩm quyền Tổng bộ (SYSTEM_BIBLE.md v1.22)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Cục Thu Nguyện
+- Tiếp tục phụ trách tiếp nhận, làm rõ, ký khế ước, tổng hợp nguyện vọng thành nhiệm vụ và đưa nhiệm vụ vào kho.
+- Sau khi nhiệm vụ đã được đưa vào kho, Cục Thu Nguyện không có quyền sửa đổi nội dung nhiệm vụ.
+
+### Khối Chấp Hành
+- Tiếp tục quản lý các hệ thống con và hoạt động thực hiện nhiệm vụ.
+- Không có quyền đình chỉ hệ thống hoặc thực thể; thẩm quyền quyết định đình chỉ thuộc Khối Tổng bộ.
+
+### Cục Điều Phối
+- Quản lý kho, phân loại, phân cấp và điều phối nhiệm vụ; theo dõi, đánh giá và thông báo kết quả hoàn thành/thất bại.
+- Không có quyền hủy nhiệm vụ.
+- Quyền kết luận nhiệm vụ thất bại cuối cùng tiếp tục tuân theo Mục 6.6.
+
+### Cục Hạch Toán
+- Ngoài việc ghi nhận, tính toán và hạch toán điểm, EXP, phần thưởng, hình phạt và giao dịch, Cục Hạch Toán có quyền quyết định hình phạt trong phạm vi chức trách và quy định hiện hành.
+
+### Khối Tổng bộ
+- Là cấp thẩm quyền cao nhất trong cơ cấu nội bộ; xem xét, phê duyệt và ký các quyết định cần cấp có thẩm quyền phê duyệt.
+- Xử lý các vụ việc vi phạm nội bộ; quyết định đình chỉ hệ thống hoặc thực thể theo quy định.
+- Xem xét và quyết định khôi phục cá nhân đã bị đóng băng.
+
+### Khối Chấp Pháp
+- Giám sát từng cá nhân thuộc tất cả các Cục và Khối, không chỉ giám sát trách nhiệm tập thể của đơn vị.
+- Thực thi việc đóng băng cá nhân vi phạm theo quy chế đóng băng đã được chốt.
+- Việc xử lý áp dụng thống nhất cho mọi Cục/Khối; chỉ cá nhân vi phạm bị đóng băng, không đóng băng cả đơn vị hoặc liên đới người không vi phạm.
+- Khối Chấp Pháp không có quyền tự quyết định khôi phục; việc khôi phục thuộc Khối Tổng bộ.
+- Bản cập nhật chỉ ghi nhận phạm vi giám sát và phân định thẩm quyền; không sửa đổi hoặc tự diễn giải điều kiện, trình tự và chế độ chi tiết của quy chế đóng băng nhân sự đã chốt.
+
+### Phạm vi
+- Cập nhật SYSTEM_BIBLE.md từ v1.21 lên **v1.22**.
+- Bổ sung cơ cấu hai Khối mới và các giới hạn thẩm quyền tương ứng.
+- Đồng bộ nguyên tắc giám sát cá nhân trên toàn bộ Cục/Khối; không áp dụng đóng băng tập thể.
+- Không thay đổi quy chế đóng băng chi tiết đã được chốt, không nhập nhằng đóng băng nhân sự với cơ chế đóng băng hệ thống con do cạn năng lượng.
+- Không thay đổi các quy tắc nhiệm vụ, năng lượng, phần thưởng, vé hoặc các cơ chế SYS khác.
