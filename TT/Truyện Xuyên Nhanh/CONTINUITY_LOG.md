@@ -925,3 +925,17 @@
 ### Trạng thái
 - Cập nhật SYSTEM_BIBLE.md từ v1.23 lên **v1.24**, bổ sung Mục 15.9.
 - Không thay đổi bốn cấp độ vi phạm của người ủy thác tại Mục 21.5.
+
+
+## 2026-11-13 – Làm rõ cách ghi nhận thành tích nhiệm vụ và thành tích chuyên môn (SYSTEM_CHARACTER_BIBLE.md v2.8)
+
+- Thành tích nhiệm vụ ghi nhận kết quả; thành tích chuyên môn ghi nhận chất lượng hành động và năng lực của hệ thống.
+- Ký chủ hoàn thành nhiệm vụ là căn cứ ghi nhận thành tích nhiệm vụ cho hệ thống đồng hành, nhưng không tự động đồng nghĩa hệ thống đạt thành tích chuyên môn xuất sắc.
+- Thành tích chuyên môn được xem xét qua chất lượng đóng góp và hành động thực tế trong quá trình đồng hành.
+- Ví dụ theo chức năng: Lạc Tinh tìm được cơ hội hữu ích giúp ký chủ tiết kiệm tài nguyên; Kỷ Ngôn phát hiện rủi ro và đề xuất phương án dự phòng hiệu quả; Bạch Miên phát hiện nguy hiểm và bảo vệ ký chủ đúng lúc.
+- Nếu hệ thống tự ý vượt quyền hoặc vi phạm quy định nhưng ký chủ vẫn hoàn thành nhiệm vụ, thành tích nhiệm vụ vẫn được ghi nhận theo kết quả; hành vi vi phạm được xem xét riêng và ảnh hưởng đến đánh giá thành tích chuyên môn.
+- Tiêu hao nhiều năng lượng tự thân không phải bằng chứng mặc định cho năng lực hoặc thành tích chuyên môn tốt.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.7 lên **v2.8**.
+- Không thay đổi nguyên tắc hai loại thành tích độc lập, điều kiện phải đạt cả hai ngưỡng mới được thăng cấp hoặc các ngưỡng cụ thể còn để mở.
