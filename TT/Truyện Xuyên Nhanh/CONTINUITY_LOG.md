@@ -1050,3 +1050,43 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 ### Trạng thái
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.4 lên **v3.5**.
 - Các nguyên tắc hai loại thành tích độc lập, thành tích chuyên môn ba mức, tích lũy xuyên suốt, không cộng trùng, điều kiện đạt cả hai ngưỡng và thẩm quyền phê duyệt thăng cấp của Khối Tổng bộ tiếp tục được giữ nguyên.
+
+---
+
+## 2026-11-13 – Chốt Ban Thẩm Định Thành Tích Hệ Thống và cơ chế chuyển tiếp thành tích lịch sử
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md` – v1.24 → **v1.25**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md` – v3.5 → **v3.6**
+
+### 1. Tổ chức và phân quyền
+- Tên chính thức: **Ban Thẩm Định Thành Tích Hệ Thống**.
+- Vị trí: đơn vị chuyên môn trực thuộc Khối Tổng bộ, không thành lập thành một Cục ngang cấp.
+- Khối Chấp Hành lập hồ sơ, tập hợp dữ liệu và lịch sử hoạt động.
+- Cục Điều Phối xác nhận cấp độ và kết quả nhiệm vụ.
+- Ban Thẩm Định Thành Tích Hệ Thống đánh giá đóng góp chuyên môn, xác định mức ghi nhận và điểm CM; xử lý khiếu nại lần một.
+- Cục Hạch Toán quản lý sổ điểm, ghi nhận TN/CM, điểm đã sử dụng và điểm còn khả dụng.
+- Khối Tổng bộ phê duyệt thăng cấp và xử lý khiếu nại lần hai.
+- Ban không có quyền tự quyết định thăng cấp, sửa kết quả nhiệm vụ, quản lý sổ điểm thay Cục Hạch Toán hoặc quyết định đình chỉ/đóng băng/khôi phục.
+
+### 2. Quy đổi thành tích lịch sử
+- Thành tích phát sinh trước ngày cơ chế điểm mới có hiệu lực được bảo lưu và đối soát một lần theo mốc dữ liệu chuyển tiếp do Khối Tổng bộ ban hành.
+- TN lịch sử được quy đổi từ các lượt nhiệm vụ ký chủ đã hoàn thành, căn cứ cấp nhiệm vụ tại thời điểm hoàn thành và bảng điểm TN hiện hành. Lượt thất bại không nhận TN; không ghi trùng cho các lượt phân phối lại.
+- CM lịch sử được Ban thẩm định theo năm tiêu chí và bằng chứng thực tế: đóng góp tốt = 1 CM; đóng góp xuất sắc = 3 CM; hoàn thành chức trách thông thường = 0 CM.
+- Không suy ra điểm từ thâm niên, cấp hệ thống, số lượng nhiệm vụ hoặc lời tự khai chưa xác minh.
+- Hồ sơ thiếu dữ liệu được đánh dấu chờ đối soát; hệ thống có quyền bổ sung bằng chứng. Thiếu hồ sơ không mặc định là không có thành tích nhưng cũng không tự động được cộng điểm.
+- Khối Chấp Hành trích xuất hồ sơ; Cục Điều Phối xác nhận dữ liệu nhiệm vụ; Ban thẩm định CM; Cục Hạch Toán ghi sổ; hệ thống được xem và khiếu nại kết quả; Khối Tổng bộ xác nhận hoàn tất chuyển tiếp.
+- Cấp hệ thống hiện tại được bảo lưu trong quá trình đối soát. Quy đổi đủ điểm chỉ tạo điều kiện trình xét, không tự động nâng cấp; không tự động hạ cấp vì thiếu dữ liệu.
+
+### 3. Sổ thành tích kép
+- Mỗi hệ thống có sổ TN và sổ CM riêng, mỗi sổ ghi tổng điểm đã ghi nhận, điểm đã sử dụng và điểm còn khả dụng.
+- Điểm đã sử dụng cho lần thăng cấp được phê duyệt vẫn lưu trong lịch sử nhưng không được sử dụng lại.
+- Điểm vượt ngưỡng được giữ lại làm điểm khả dụng cho lần thăng cấp tiếp theo.
+- Chỉ đánh dấu điểm đã sử dụng sau khi Khối Tổng bộ phê duyệt thăng cấp.
+- TN và CM không bù trừ cho nhau; mọi điều chỉnh phải có căn cứ, lý do và lịch sử truy vết.
+- Cơ chế áp dụng cho cả điểm mới và điểm quy đổi lịch sử.
+
+### Trạng thái
+- SYSTEM_BIBLE.md nâng lên **v1.25**; bổ sung Ban Thẩm Định Thành Tích Hệ Thống trực thuộc Khối Tổng bộ.
+- SYSTEM_CHARACTER_BIBLE.md nâng lên **v3.6**; bổ sung Mục 13.3.7 về chuyển tiếp thành tích lịch sử và Mục 13.3.8 về sổ thành tích kép.
+- Hai nội dung từng để mở tại v3.5 đã được chốt; không thay đổi thang cấp, ngưỡng TN/CM, nguyên tắc hai loại thành tích độc lập hoặc các quy tắc năng lượng SYS-007.
