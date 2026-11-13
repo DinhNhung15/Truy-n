@@ -672,3 +672,25 @@
 - Cơ chế đóng băng nhân sự được phân biệt với cơ chế đóng băng hệ thống con do cạn năng lượng.
 
 **Trạng thái:** Đã xác nhận tổng hợp nguyên tắc; SYSTEM_BIBLE.md v1.22 giữ nguyên, không cần sửa nội dung.
+
+## 2026-11-13 – Hoàn thiện cơ chế quản lý và phân phối kho năng lượng chung (SYSTEM_BIBLE.md v1.23)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-014.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Nội dung được chốt
+- Giữ nguyên nguyên tắc Tổng bộ chỉ có một kho năng lượng chung; các khoản dự trữ hoặc ngân sách được dành trước chỉ là ghi nhận kế toán, không tạo kho độc lập.
+- Phân loại nhu cầu chi tiêu thành bốn nhóm: duy trì, nghiệp vụ, hỗ trợ và phát triển.
+- Không áp dụng tỷ lệ phần trăm ngân sách cố định cho từng Cục, Khối hoặc nhóm chi tiêu.
+- Các Cục/Khối lập nhu cầu theo chức năng; Cục Hạch Toán tiếp nhận, kiểm tra, tổng hợp và theo dõi; Khối Tổng bộ phê duyệt các khoản thuộc diện phải trình cấp có thẩm quyền.
+- Duy trì mức dự trữ tối thiểu tương đương chi phí vận hành thiết yếu dự kiến trong 30 ngày; mức này căn cứ nhu cầu thực tế, không phải tỷ lệ cố định của toàn kho.
+- Khi khẩn cấp, cắt giảm hoặc tạm hoãn chi phát triển và hoạt động chưa thiết yếu trước; ưu tiên duy trì chức năng thiết yếu và nghiệp vụ đang diễn ra.
+- Khối Tổng bộ có thẩm quyền phê duyệt điều chỉnh ưu tiên/điều chuyển trong tình trạng khẩn cấp; các khoản khẩn cấp phải được ghi nhận và Cục Hạch Toán đối soát sau đó.
+
+### Phạm vi và lưu ý đồng bộ
+- Cập nhật SYSTEM_BIBLE.md từ v1.22 lên **v1.23** và tạo tài liệu chuyên biệt SYS-014.md.
+- Không thay đổi nguyên tắc một kho chung, quyền hạn đã phân định giữa các Cục/Khối hoặc các cơ chế năng lượng của hệ thống con trong SYS-007.
+- **SYS-011 không được sửa trong lần này:** SYSTEM_BIBLE.md đã có quy tắc thời gian tại Mục 15.2, theo đó thời gian ở Tổng bộ và thế giới nhiệm vụ trôi qua đồng bộ tỷ lệ 1:1; đây là canon hiện hành. Đề xuất trước đó về việc tạm dừng thời gian ở thế giới thực không phù hợp với quy tắc này và không được đưa vào tài liệu.
+- Đề xuất xây dựng tên gọi, tính cách và năng lực riêng cho ba hệ thống đồng hành được để lại, chưa cập nhật và chưa trở thành canon.
