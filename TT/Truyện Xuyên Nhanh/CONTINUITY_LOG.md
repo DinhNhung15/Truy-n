@@ -954,3 +954,15 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.8 lên **v2.9**.
 - Không thay đổi cơ chế hai loại thành tích độc lập hoặc điều kiện phải đạt cả hai ngưỡng mới được thăng cấp.
 - Chưa đặt điểm số, ngưỡng và công thức quy đổi cho ba mức ghi nhận.
+
+
+## 2026-11-13 – Chốt nguyên tắc tích lũy thành tích chuyên môn qua nhiều nhiệm vụ (SYSTEM_CHARACTER_BIBLE.md v3.0)
+
+- Một nhiệm vụ có thể tạo ra nhiều đóng góp chuyên môn khác nhau; cùng một đóng góp không được ghi nhận hoặc cộng dồn trùng lặp.
+- Giá trị thành tích căn cứ vào chất lượng và mức độ đóng góp thực tế. Đóng góp xuất sắc có giá trị cao hơn đóng góp tốt; không mặc định lấy số lần thực hiện làm thước đo.
+- Thành tích chuyên môn được tích lũy xuyên suốt quá trình hoạt động của hệ thống, không bị xóa hoặc đặt lại chỉ vì hệ thống đổi ký chủ hay chuyển sang thế giới nhiệm vụ khác.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.9 lên **v3.0**.
+- Không thay đổi cơ chế hai loại thành tích độc lập, ba mức ghi nhận thành tích chuyên môn hoặc điều kiện phải đạt cả hai ngưỡng mới được thăng cấp.
+- Chưa đặt điểm số, trọng số hoặc công thức quy đổi.
