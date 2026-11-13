@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.4  
+**Phiên bản:** 3.5  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -439,12 +439,133 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - **Khiếu nại lần hai:** Nếu không đồng ý với kết quả xem xét lại của Bộ phận đánh giá chuyên môn, hệ thống có quyền gửi yêu cầu Khối Tổng bộ kiểm tra lần cuối.
 - Khối Tổng bộ xem xét hồ sơ, nội dung khiếu nại và kết quả đánh giá lại; có thể yêu cầu đánh giá lại hồ sơ hoặc quyết định giữ nguyên kết quả.
 - Kết luận của Khối Tổng bộ là kết quả xử lý cuối cùng trong quy trình khiếu nại này.
+
+### 13.3.1. Điểm ghi nhận thành tích
+
+**A. Thành tích nhiệm vụ (TN)**
+
+Thành tích nhiệm vụ được ghi nhận theo cấp nhiệm vụ đã hoàn thành:
+
+| Cấp nhiệm vụ | Điểm TN |
+|---|---:|
+| F | 1 |
+| E | 2 |
+| D | 4 |
+| C | 8 |
+| B | 16 |
+| A | 32 |
+| S | 64 |
+| SS | 128 |
+
+- Chỉ hệ thống đồng hành với ký chủ hoàn thành nhiệm vụ mới được ghi nhận TN của nhiệm vụ đó.
+- Nếu một lượt ký chủ thất bại, nhiệm vụ trở lại kho phân phối theo quy định hiện hành; hệ thống đồng hành trong lượt thất bại không nhận TN từ lượt đó.
+- Việc không nhận TN không ngăn cản xem xét đóng góp chuyên môn thực tế của hệ thống trong lượt thực hiện thất bại.
+- Cấp nhiệm vụ là căn cứ tính TN; không lấy cấp ký chủ hoặc cấp hệ thống thay thế cấp nhiệm vụ.
+
+**B. Thành tích chuyên môn (CM)**
+
+| Mức ghi nhận | Điểm CM |
+|---|---:|
+| Hoàn thành chức trách | 0 |
+| Đóng góp tốt | 1 |
+| Đóng góp xuất sắc | 3 |
+
+- Điểm CM được ghi nhận theo từng đóng góp độc lập đã được xác minh.
+- Một nhiệm vụ có thể có nhiều đóng góp độc lập và được ghi nhận riêng; cùng một đóng góp hoặc cùng một giá trị tạo ra không được chia nhỏ, ghi nhận hoặc cộng điểm trùng lặp.
+- Điểm CM căn cứ vào chất lượng và giá trị thực tế, không căn cứ vào số lần thao tác, số lần phát ngôn hoặc lượng năng lượng tiêu hao.
+
+### 13.3.2. Tiêu chí đánh giá chuyên môn
+
+Bộ phận đánh giá chuyên môn xem xét đóng góp trên năm phương diện:
+1. **Năng lực chuyên môn:** Mức độ vận dụng đúng và hiệu quả chức năng, năng lực được giao.
+2. **Giá trị đóng góp:** Hiệu quả thực tế đối với việc giải quyết vấn đề, giảm rủi ro hoặc tiết kiệm nguồn lực.
+3. **Khả năng xử lý tình huống:** Khả năng phát hiện, phân tích và ứng phó với tình huống phát sinh hoặc ngoài dự kiến.
+4. **Tính chủ động và trách nhiệm:** Mức độ chủ động trong phạm vi chức trách, khả năng nhận trách nhiệm và xử lý sau sai sót.
+5. **Tuân thủ quy định:** Mức độ tuân thủ chức năng, quyền hạn, quy định Tổng bộ và quy tắc can thiệp.
+
+Việc đánh giá dựa trên hồ sơ, dữ liệu và hoàn cảnh thực tế; không mặc định chia đều trọng số hoặc chỉ căn cứ vào một tiêu chí riêng lẻ.
+
+### 13.3.3. Ngưỡng điểm thăng cấp
+
+Điểm yêu cầu cho từng lần thăng cấp:
+
+| Lần thăng cấp | TN cần tích lũy thêm | CM cần tích lũy thêm |
+|---|---:|---:|
+| F → E | 10 | 12 |
+| E → D | 20 | 24 |
+| D → C | 40 | 48 |
+| C → B | 80 | 96 |
+| B → A | 160 | 192 |
+| A → S | 320 | 384 |
+| S → SS | 640 | 768 |
+
+- Đây là lượng điểm cần đạt thêm trong từng giai đoạn từ cấp hiện tại đến lần thăng cấp kế tiếp; điểm đã tích lũy không bị xóa khi thăng cấp.
+- Hệ thống phải đồng thời đạt đủ cả TN và CM của bậc đang xét. Phần dư của loại thành tích này không được bù cho loại còn thiếu.
+- Ngưỡng CM cao hơn ngưỡng TN ở mọi bậc; lượng điểm cần tích lũy cho mỗi lần thăng cấp tăng dần theo cấp.
+- Đạt đủ điểm chỉ tạo điều kiện trình xét; không tự động làm hệ thống thăng cấp. Việc thăng cấp phải được Khối Tổng bộ phê duyệt.
+- Cấp hệ thống, cấp ký chủ và cấp nhiệm vụ tiếp tục là ba hệ thống phân loại độc lập.
+
+### 13.3.4. Ghi nhận, đánh giá và quản lý hồ sơ
+
+**Chu kỳ ghi nhận và đánh giá**
+- Hồ sơ được cập nhật sau khi kết quả của mỗi lượt ký chủ thực hiện nhiệm vụ được xác nhận. TN chỉ được ghi khi lượt đó hoàn thành nhiệm vụ; CM được xem xét theo đóng góp thực tế, kể cả khi lượt thực hiện thất bại.
+- Thực hiện tổng kiểm tra hồ sơ định kỳ mỗi 30 ngày theo thời gian của Tổng bộ.
+- Việc tổng kiểm tra định kỳ không thay thế việc ghi nhận sau từng lượt nhiệm vụ.
+
+**Phân quyền**
+- **Khối Chấp Hành:** Theo dõi hoạt động, lập hồ sơ, tập hợp dữ liệu, đóng góp và lịch sử hoạt động.
+- **Bộ phận đánh giá chuyên môn:** Đánh giá chất lượng đóng góp theo tiêu chí và thang điểm đã quy định; xem xét tính hợp lệ, giá trị thực tế và bằng chứng.
+- **Khối Tổng bộ:** Phê duyệt kết quả thăng cấp theo thẩm quyền.
+- Bộ phận đánh giá chuyên môn được xác lập theo chức năng trong cơ chế này; tên chính thức và vị trí trực thuộc trong sơ đồ tổ chức Tổng bộ chưa được xác định tại đây.
+
+**Quyền tiếp cận và tính minh bạch**
+- Hệ thống được quyền xem hồ sơ thành tích của chính mình, gồm điểm TN, điểm CM, các đóng góp đã ghi nhận, nội dung bị từ chối và lý do.
+- Mọi điều chỉnh điểm hoặc nội dung hồ sơ phải có căn cứ, lý do và lịch sử thay đổi để truy vết.
+- Hệ thống không được tự đánh giá hoặc tự quyết định thành tích chuyên môn của chính mình.
+- Người có xung đột lợi ích trong vụ việc đánh giá phải rút khỏi việc đánh giá vụ việc đó và không được tham gia quyết định kết quả liên quan.
+
+### 13.3.5. Sai sót, vi phạm và điều chỉnh thành tích
+
+- Việc đánh giá lỗi trong hồ sơ thành tích không thay thế quy trình phân loại vi phạm hệ thống tại SYSTEM_BIBLE.md §15.9. Hai cơ chế có mục đích và phạm vi riêng.
+- Khi có cuộc điều tra vi phạm đang diễn ra, chỉ tạm hoãn xét phần thành tích có liên quan trực tiếp nếu kết quả điều tra có thể làm thay đổi tính hợp lệ của phần đó; không mặc định khóa toàn bộ hồ sơ hoặc các thành tích không liên quan.
+- Nếu phát hiện gian lận hoặc ghi nhận sai sau khi thành tích đã được xác nhận, chỉ điều chỉnh hoặc thu hồi phần điểm được chứng minh là sai; các thành tích hợp lệ, độc lập khác vẫn được bảo toàn.
+- Việc điều chỉnh phải có căn cứ và lưu lại lịch sử, lý do thay đổi.
+- Không tự động xóa toàn bộ thành tích đã tích lũy hoặc tự động hạ cấp hệ thống chỉ vì phát hiện một sai sót; các biện pháp xử lý vi phạm vẫn theo quy định hiện hành của Tổng bộ.
+
+### 13.3.6. Quy trình khiếu nại và thời hạn
+
+**Tiếp nhận**
+- Hệ thống có quyền khiếu nại khi có căn cứ cho rằng hồ sơ bị thiếu hoặc ghi sai, đóng góp bị đánh giá không đúng mức, hoặc có dữ liệu/bằng chứng mới chưa được xem xét.
+- Khiếu nại phải nêu rõ nội dung bị khiếu nại và căn cứ liên quan.
+- Trong 2 ngày làm việc kể từ khi nhận khiếu nại, bộ phận tiếp nhận kiểm tra tính đầy đủ của hồ sơ và thông báo nếu cần bổ sung.
+
+**Khiếu nại lần một**
+- Bộ phận đánh giá chuyên môn xem xét lại hồ sơ trong thời hạn 5 ngày làm việc kể từ khi hồ sơ khiếu nại đầy đủ.
+- Người trực tiếp thực hiện đánh giá ban đầu không được là người duy nhất xem xét khiếu nại lần một.
+- Nếu xác định có sai sót, điều chỉnh kết quả; nếu không có căn cứ thay đổi, giữ nguyên kết quả và thông báo lý do.
+
+**Khiếu nại lần hai**
+- Nếu không đồng ý với kết quả khiếu nại lần một, hệ thống có quyền yêu cầu Khối Tổng bộ kiểm tra lần cuối.
+- Khối Tổng bộ xem xét hồ sơ gốc, nội dung khiếu nại và kết quả xử lý lần một trong thời hạn 10 ngày làm việc kể từ khi nhận đủ hồ sơ.
+- Khối Tổng bộ có thể yêu cầu đánh giá lại hồ sơ hoặc quyết định giữ nguyên kết quả.
+- Kết luận của Khối Tổng bộ là kết quả cuối cùng trong quy trình khiếu nại này.
+
+**Gia hạn**
+- Mỗi cấp xử lý được gia hạn một lần, tối đa 5 ngày làm việc, nếu vụ việc phức tạp hoặc cần xác minh thêm.
+- Việc gia hạn phải thông báo lý do cho hệ thống khiếu nại.
+- Không được kéo dài hoặc bỏ mặc khiếu nại vô thời hạn.
+
+**Nguyên tắc chung**
+- Việc khiếu nại không tự động làm tăng điểm, thay đổi kết quả hoặc tạo quyền thăng cấp.
+- Không được từ chối hoặc làm bất lợi cho khiếu nại chỉ vì cấp bậc, xuất thân hoặc quan hệ của hệ thống.
 - Muốn thăng một cấp, hệ thống bắt buộc phải đạt ngưỡng của cả thành tích nhiệm vụ và thành tích chuyên môn.
 - Ngưỡng thành tích chuyên môn được định hướng cao hơn và là yếu tố tạo độ khó đáng kể khi thăng cấp.
 - Khoảng cách thành tích cần thiết giữa các cấp tăng dần; cấp càng cao càng khó thăng cấp.
 - Thành tích đã tích lũy không bị xóa khi hệ thống thăng cấp.
 - Không thăng cấp do xuất thân, quan hệ, đặc quyền, sự ưu ái hoặc thâm niên; không tự động được thăng cấp chỉ vì ký chủ/nhiệm vụ có cấp cao hơn.
-- Chưa chốt điểm số, ngưỡng cụ thể, công thức tăng độ khó, cách quy đổi/ghi nhận chi tiết và quy trình đánh giá chuyên môn. Thẩm quyền phê duyệt thăng cấp thuộc Khối Tổng bộ; không tự đặt các thông số hoặc quy trình chi tiết khi chưa có quyết định tiếp theo.
+- Chưa chốt tên chính thức và vị trí trực thuộc của Bộ phận đánh giá chuyên môn trong sơ đồ tổ chức Tổng bộ.
+- Chưa chốt cách xử lý hoặc quy đổi hồi tố thành tích phát sinh trước thời điểm cơ chế điểm số này có hiệu lực.
+- Các tiêu chí, điểm số, ngưỡng thăng cấp và thời hạn xử lý khiếu nại đã được quy định tại Mục 13.3.1–13.3.6; không tự ý thay đổi ngoài quy trình cập nhật canon.
 
 # 14. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
 
@@ -460,4 +581,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.4**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.5**
