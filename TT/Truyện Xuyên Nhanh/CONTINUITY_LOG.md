@@ -979,3 +979,17 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 ### Trạng thái
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.0 lên **v3.1**.
 - Không tạo hình phạt mới hoặc cơ chế tự động trừ/xóa thành tích; các vi phạm tiếp tục được xử lý theo quy định hiện hành của Tổng bộ.
+
+
+## 2026-11-13 – Chốt phân quyền đánh giá thành tích chuyên môn và thăng cấp (SYSTEM_CHARACTER_BIBLE.md v3.2)
+
+- **Khối Chấp Hành:** Theo dõi hoạt động của hệ thống, lập hồ sơ và tập hợp dữ liệu, đóng góp, lịch sử hoạt động làm căn cứ đánh giá.
+- **Bộ phận đánh giá chuyên môn:** Đánh giá chất lượng đóng góp theo ba mức ghi nhận đã chốt; đối chiếu dữ liệu và lịch sử hoạt động để đưa ra kết quả đánh giá chuyên môn.
+- **Khối Tổng bộ:** Có thẩm quyền phê duyệt kết quả thăng cấp theo quy định.
+- Hệ thống không tự đánh giá hoặc tự quyết định thành tích chuyên môn của chính mình.
+- Phân biệt vai trò lập hồ sơ, đánh giá chuyên môn và phê duyệt thăng cấp; không mặc nhiên gộp các quyền này vào một chủ thể.
+- Điểm số, ngưỡng, công thức quy đổi và quy trình đánh giá chi tiết vẫn chưa được chốt.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.1 lên **v3.2**.
+- Xác lập thẩm quyền phê duyệt thăng cấp của Khối Tổng bộ; không thay đổi điều kiện phải đạt cả hai loại thành tích mới được thăng cấp.
