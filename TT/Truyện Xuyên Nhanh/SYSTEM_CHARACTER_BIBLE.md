@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 2.8  
+**Phiên bản:** 2.9  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -412,6 +412,11 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - **Thành tích nhiệm vụ ghi nhận kết quả; thành tích chuyên môn ghi nhận chất lượng hành động và năng lực của hệ thống.** Hai loại thành tích có liên hệ chặt chẽ nhưng không đồng nhất.
 - Việc ký chủ hoàn thành nhiệm vụ là căn cứ ghi nhận thành tích nhiệm vụ cho hệ thống đồng hành; điều đó không đồng nghĩa hệ thống tự động đạt thành tích chuyên môn xuất sắc.
 - Thành tích chuyên môn được xem xét qua chất lượng đóng góp và hành động thực tế của hệ thống trong quá trình đồng hành. Ví dụ: Lạc Tinh tìm được cơ hội hữu ích giúp ký chủ tiết kiệm tài nguyên; Kỷ Ngôn phát hiện rủi ro và đề xuất phương án dự phòng hiệu quả; Bạch Miên phát hiện nguy hiểm và bảo vệ ký chủ đúng lúc.
+- Thành tích chuyên môn được phân thành ba mức ghi nhận:
+  1. **Hoàn thành chức trách:** Hệ thống thực hiện đúng công việc được giao và đạt yêu cầu cơ bản. Đây là tiêu chuẩn thực hiện chức năng, không mặc nhiên được tính là thành tích chuyên môn nổi bật.
+  2. **Đóng góp tốt:** Hệ thống có đóng góp thực tế giúp ký chủ giải quyết vấn đề hiệu quả hơn, giảm rủi ro hoặc tiết kiệm tài nguyên; có thể được ghi nhận thành tích chuyên môn.
+  3. **Đóng góp xuất sắc:** Hệ thống xử lý tình huống khó, phát hiện vấn đề quan trọng, đưa ra giải pháp có giá trị vượt trội hoặc tạo đóng góp đáng kể trong hoàn cảnh bất lợi; được ghi nhận ở mức thành tích chuyên môn cao hơn.
+- Việc phân mức căn cứ vào giá trị và chất lượng đóng góp thực tế, không chỉ căn cứ vào việc hệ thống đã thực hiện đúng chức trách hay chưa.
 - Nếu hệ thống tự ý vượt quyền hoặc vi phạm quy định nhưng ký chủ vẫn hoàn thành nhiệm vụ, thành tích nhiệm vụ vẫn được ghi nhận theo kết quả; hành vi vi phạm được xem xét riêng và ảnh hưởng đến đánh giá thành tích chuyên môn.
 - Việc tiêu hao nhiều năng lượng tự thân không phải bằng chứng mặc định cho năng lực hoặc thành tích chuyên môn tốt.
 - Muốn thăng một cấp, hệ thống bắt buộc phải đạt ngưỡng của cả thành tích nhiệm vụ và thành tích chuyên môn.
@@ -435,4 +440,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.8**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.9**
