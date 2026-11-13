@@ -1,3 +1,31 @@
+## 2026-11-13 – Chốt hồ sơ ba hệ thống đồng hành và tuyến đời sống tại Tổng bộ
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md` – v1.0 → v2.0
+
+### Quyết định canon
+- Chốt sắc thái chủ đạo của tuyến ba hệ thống là comedy; hài đến từ khác biệt tính cách, đối thoại và tình huống, không làm nhân vật mất trí thông minh hoặc biến mọi cảnh thành trò đùa.
+- Chốt quan hệ ban đầu giữa ba hệ thống là đồng nghiệp, không mặc định thân thiết.
+- Chốt quá khứ mixed: Lạc Tinh và Kỷ Ngôn đã quen biết, từng làm việc cùng nhau; Bạch Miên là người gia nhập mạng lưới quan hệ này sau, không phải hệ thống mới được tạo ra.
+- Chốt tên, tên thường gọi, mã nhân vật và hình tượng: Lạc Tinh (A Lạc, LT-073, cáo vàng); Kỷ Ngôn (Tiểu Kỷ, KN-128, cú máy bạc xanh); Bạch Miên (Miên Miên, BM-052, thỏ trắng).
+- Chốt tính cách, động cơ, sở thích, thói quen, tiểu sử và tuyến phát triển của ba hệ thống theo SYSTEM_CHARACTER_BIBLE.md v2.0.
+- Chốt mạng lưới nhân vật phụ: Đường Đường, Tạ Dữ, Hạ Sách, Lâm Chấp, Mộc Châu, Tần Sách và Vân Thước; gồm các quan hệ bạn bè, đối thủ, tiền bối cùng vai trò truyện như hồ sơ đã ghi.
+- Chốt ba tuyến phát triển tại Tổng bộ: Lạc Tinh – cuộc chiến thành tích; Kỷ Ngôn – kế hoạch không hoàn hảo; Bạch Miên – học cách bước ra khỏi vùng an toàn.
+- Chốt nguyên tắc comedy và đời sống Tổng bộ: nhân vật phụ có mục tiêu, lịch trình và quan hệ riêng; không phải lúc nào cũng sẵn sàng xuất hiện hoặc giúp đỡ.
+
+### Giới hạn quyết định
+- Không chốt cấp bậc, tuổi đời/thâm niên chính thức, chức vụ hoặc quyền hạn của các nhân vật.
+- Chưa chốt chức năng gốc, năng lực đặc thù, giới hạn năng lực hoặc cơ chế năng lượng riêng của ba hệ thống.
+- Các mã LT-073, KN-128, BM-052 là mã nhân vật trong hồ sơ, không tự động trở thành quy chuẩn mã hóa chung của Tổng bộ.
+- Mọi năng lực và can thiệp về sau vẫn phải tuân thủ SYSTEM_BIBLE.md và các tài liệu SYS hiện hành.
+
+### Trạng thái
+- SYSTEM_CHARACTER_BIBLE.md được cập nhật thành v2.0.
+- Không thay đổi SYSTEM_BIBLE.md hoặc các quy tắc SYS; đây là quyết định hồ sơ nhân vật và tuyến truyện.
+- Nội dung đã chốt là canon cho đến khi có quyết định thay thế rõ ràng.
+
+---
+
 ## 2026-11-13 – Chốt lại quyền chuyển nhượng Vé Về Nhà (SYS-010)
 
 **Tài liệu cập nhật:**
