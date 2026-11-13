@@ -1108,3 +1108,37 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.6 lên **v3.7**.
 - Không thay đổi tính cách, chức năng, năng lực, cấp bậc hoặc quan hệ đã chốt của ba hệ thống.
 - Tuổi đời và thâm niên của ba hệ thống vẫn chưa được chốt.
+
+
+## 2026-11-13 – Chốt tuổi đời, thâm niên và chức vụ nhân vật phụ tại Tổng bộ
+
+### 1. Tuổi đời, thâm niên và hình thái biểu hiện
+- Lạc Tinh: 86 tuổi đời, 19 năm thâm niên Tổng bộ, hình thái biểu hiện tương đương 22–23 tuổi.
+- Kỷ Ngôn: 94 tuổi đời, 23 năm thâm niên Tổng bộ, hình thái biểu hiện tương đương 24–25 tuổi.
+- Bạch Miên: 72 tuổi đời, 31 năm thâm niên Tổng bộ, hình thái biểu hiện tương đương 20–21 tuổi.
+- Tuổi đời tính từ khi hệ thống bắt đầu tồn tại với ý thức cá nhân; thâm niên tính từ khi chính thức làm việc tại Tổng bộ.
+- Bạch Miên trẻ nhất về tuổi đời nhưng có thâm niên lâu nhất; không mâu thuẫn vì thời điểm gia nhập Tổng bộ khác nhau.
+- Tuổi đời, thâm niên và hình thái biểu hiện không quyết định giới tính, cấp bậc, năng lực hoặc quyền hạn.
+
+### 2. Chức vụ và bộ phận công tác của nhân vật phụ
+**Thuộc Khối Chấp Hành:**
+- Đường Đường: Trung tâm Hỗ trợ Hệ thống Con – chuyên viên điều phối hỗ trợ.
+- Tạ Dữ: Trung tâm Khai thác Cơ hội – chuyên viên đánh giá và phân tích cơ hội.
+- Mộc Châu: Trung tâm Đào tạo và Hướng dẫn Hệ thống Con – huấn luyện viên cấp cao.
+- Vân Thước: Trung tâm Giám sát và Bảo hộ – chuyên viên giám sát nguy cơ.
+
+**Thuộc Cục Điều Phối:**
+- Hạ Sách: Trung tâm Phân tích Dữ liệu Nhiệm vụ – chuyên viên phân tích dữ liệu.
+- Lâm Chấp: Trung tâm Nghiên cứu và Phát triển Phương án Nhiệm vụ – chuyên viên nghiên cứu, thử nghiệm phương án.
+- Tần Sách: Trung tâm Kiểm soát Rủi ro Nhiệm vụ – chuyên gia thẩm định rủi ro cấp cao.
+
+### 3. Nguyên tắc tổ chức và giới hạn quyền hạn
+- Các Trung tâm là đơn vị chuyên môn trực thuộc Cục/Khối chủ quản, không phải đơn vị ngang cấp độc lập.
+- Trung tâm trực thuộc Khối Chấp Hành không có quyền phân phối nhiệm vụ hoặc tự phê duyệt cấp phát năng lượng.
+- Trung tâm trực thuộc Cục Điều Phối chỉ phân tích, nghiên cứu, thử nghiệm và đề xuất; không tự quyết định phân phối, sửa nội dung hoặc kết luận kết quả nhiệm vụ.
+- Các chức danh không tự động trao quyền thăng cấp, xử lý vi phạm, can thiệp hoặc phê duyệt ngoài phạm vi được giao.
+
+### Trạng thái
+- SYSTEM_CHARACTER_BIBLE.md nâng từ v3.7 lên **v3.8**.
+- SYSTEM_BIBLE.md nâng từ v1.25 lên **v1.26** để ghi nhận các Trung tâm chuyên môn trực thuộc Khối Chấp Hành và Cục Điều Phối.
+- Không thay đổi các chức năng và thẩm quyền cấp Cục/Khối, cơ chế nhiệm vụ, cấp bậc hệ thống hoặc quy tắc năng lượng SYS-007.
