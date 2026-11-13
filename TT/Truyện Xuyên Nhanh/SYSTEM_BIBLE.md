@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.22  
+**Phiên bản:** 1.23  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -1245,6 +1245,7 @@ Các vấn đề từng được ghi nhận là chưa chốt dưới đây đã 
 - **SYS-007 – Ranh giới Kp:** Kp 5 áp dụng cho phạm vi địa phương hoặc một nhóm thống nhất trên 10 thành viên chỉ bị tác động trực tiếp; Kp 10 áp dụng khi hiệu ứng đạt quy mô thành phố hoặc trải trên từ hai thành phố trở lên. Nhóm được xác định theo liên hệ thực tế/chức năng, không theo danh sách chỉ định.
 - **Mục 6.6 – Thất bại cuối cùng:** Chỉ Cục Điều Phối có thẩm quyền kết luận nhiệm vụ thất bại cuối cùng, dựa trên thời hạn/điều kiện thất bại trong khế ước hoặc căn cứ khách quan chứng minh mục tiêu không thể hoàn thành. Một lượt ký chủ thất bại không làm nhiệm vụ kết thúc.
 - **SYS-010 – Phân biệt quyền chuyển nhượng:** Vé mua cho bản thân giá 1 tỷ điểm là vé cá nhân, chỉ người mua ban đầu được kích hoạt và không thể chuyển nhượng; nếu bị cướp/chiếm đoạt, người chiếm giữ không có quyền kích hoạt. Vé mua để trao cho người khác giá 10 tỷ điểm là vé chuyển nhượng, có thể cho, tặng, bán, trao đổi hoặc bị cướp/chiếm đoạt; người đang nắm giữ vé chuyển nhượng có quyền kích hoạt mà không phải trả thêm bất kỳ khoản phí nào. Không có cơ chế trả thêm 9 tỷ để đổi loại vé.
+- **SYS-014 – Kho năng lượng chung:** Tổng bộ sử dụng một kho năng lượng chung; nhu cầu được chia thành bốn nhóm (duy trì, nghiệp vụ, hỗ trợ, phát triển), lập và thẩm định theo chức năng; dự trữ tối thiểu tương đương 30 ngày vận hành thiết yếu; khi khẩn cấp ưu tiên duy trì và nghiệp vụ, cắt giảm phát triển/không thiết yếu trước. Không áp dụng tỷ lệ ngân sách cứng cho từng đơn vị.
 - **Mục 2 – Cơ cấu và thẩm quyền Tổng bộ:** Cục Thu Nguyện không sửa nhiệm vụ sau khi đã đưa vào kho; Khối Chấp Hành không có quyền đình chỉ hệ thống/thực thể; Cục Điều Phối không có quyền hủy nhiệm vụ nhưng theo dõi, đánh giá và xác định/thông báo kết quả; Cục Hạch Toán có quyền quyết định hình phạt trong phạm vi chức trách; Khối Tổng bộ là cấp thẩm quyền cao nhất về phê duyệt, xử lý vi phạm, đình chỉ và quyết định khôi phục; Khối Chấp Pháp giám sát từng cá nhân ở mọi Cục/Khối và thực thi đóng băng cá nhân vi phạm theo quy chế đã chốt, không đóng băng tập thể hoặc người không vi phạm.
 
 ---
@@ -1945,12 +1946,46 @@ Mục này quy định các nguyên tắc chung về vật phẩm giữ mạng. 
 
 # 19. SYS-014 – KHO NĂNG LƯỢNG CHUNG CỦA TỔNG BỘ
 
+## 19.1. Nguyên tắc quản lý
+
 - Tổng bộ Nguyện Vọng sử dụng một kho năng lượng chung.
 - Năng lượng được tập trung vào kho chung và phân phối từ đó cho các đơn vị trực thuộc.
 - Các đơn vị nhận năng lượng từ kho chung để phục vụ hoạt động và chức năng được giao.
 - Không tổ chức các nguồn năng lượng độc lập, tách rời khỏi kho chung cho từng đơn vị.
+- Khoản năng lượng được dành trước cho dự trữ hoặc một nhiệm vụ ngân sách vẫn thuộc kho chung về mặt quản lý; việc dành trước chỉ là ghi nhận kế toán, không tạo thành một kho năng lượng độc lập.
 
-Phạm vi phân bổ, định mức, thứ tự ưu tiên và quy trình phê duyệt cấp năng lượng chưa được quy định chi tiết.
+## 19.2. Nhóm nhu cầu chi tiêu
+
+Nhu cầu sử dụng năng lượng của Tổng bộ được phân thành bốn nhóm:
+
+| Nhóm | Phạm vi sử dụng | Mức ưu tiên |
+|---|---|---|
+| Duy trì | Vận hành Tổng bộ, cơ sở hạ tầng, hệ thống thiết yếu và các nghĩa vụ duy trì hoạt động | Rất cao |
+| Nghiệp vụ | Tiếp nhận nguyện vọng, tạo và quản lý nhiệm vụ, điều phối, kiểm tra, xác minh và quyết toán | Rất cao |
+| Hỗ trợ | Cấp năng lượng cho hệ thống con, hỗ trợ ký chủ, đào tạo và cung cấp dịch vụ thuộc chức năng Tổng bộ | Cao |
+| Phát triển | Nghiên cứu, nâng cấp, mở rộng năng lực và triển khai dự án mới | Có thể điều chỉnh |
+
+Việc phân nhóm xác định mục đích và thứ tự ưu tiên chung, không mặc định mỗi nhóm có một tỷ lệ phần trăm cố định trong tổng kho năng lượng.
+
+## 19.3. Lập, thẩm định và cấp năng lượng
+
+- Các Cục và Khối lập nhu cầu năng lượng theo chức năng, kế hoạch hoạt động và nhiệm vụ được giao.
+- Cục Hạch Toán tiếp nhận, kiểm tra tính hợp lệ, tổng hợp nhu cầu và theo dõi việc sử dụng năng lượng theo ngân sách được duyệt.
+- Khối Tổng bộ xem xét, phê duyệt những khoản thuộc diện phải trình cấp có thẩm quyền; các khoản còn lại được xử lý theo phạm vi phân cấp và quy trình nội bộ hiện hành.
+- Sau khi được phê duyệt, năng lượng được hạch toán trực tiếp từ kho chung cho đơn vị hoặc hoạt động được cấp.
+- Đơn vị nhận năng lượng phải sử dụng đúng mục đích, phạm vi và mức đã được duyệt; không tự ý chuyển ngân sách hoặc quyền sử dụng năng lượng cho đơn vị khác.
+- Việc cấp năng lượng không làm thay đổi chức năng, quyền hạn hoặc thẩm quyền chuyên môn của đơn vị nhận.
+
+## 19.4. Dự trữ và xử lý tình trạng khẩn cấp
+
+- Tổng bộ duy trì mức dự trữ tối thiểu tương đương chi phí vận hành thiết yếu dự kiến trong 30 ngày.
+- Mức dự trữ được xác định theo nhu cầu vận hành thiết yếu thực tế; không phải tỷ lệ cố định của toàn bộ kho năng lượng.
+- Khi phát sinh thiếu hụt hoặc khủng hoảng năng lượng, các khoản chi phát triển và hoạt động chưa thiết yếu được xem xét cắt giảm hoặc tạm hoãn trước.
+- Năng lượng còn lại được ưu tiên cho các chức năng duy trì thiết yếu và hoạt động nghiệp vụ đang diễn ra, nhằm bảo đảm Tổng bộ không ngừng vận hành và các nhiệm vụ đang được xử lý không bị bỏ mặc.
+- Khối Tổng bộ có thẩm quyền phê duyệt việc điều chỉnh thứ tự ưu tiên hoặc điều chuyển ngân sách trong tình trạng khẩn cấp.
+- Mọi khoản cấp phát hoặc sử dụng khẩn cấp phải được ghi nhận đầy đủ và được Cục Hạch Toán kiểm tra, đối soát sau đó.
+
+Không áp dụng tỷ lệ phân bổ cứng cho từng Cục, Khối hoặc nhóm chi tiêu. Mức cấp phát căn cứ vào nhu cầu, mức độ thiết yếu, kế hoạch được duyệt và tình hình năng lượng thực tế của kho chung.
 
 ---
 
@@ -2083,4 +2118,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.22**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.23**
