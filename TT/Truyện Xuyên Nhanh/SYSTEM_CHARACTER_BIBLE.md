@@ -1,8 +1,8 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 2.0  
-**Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ và tuyến phát triển của ba hệ thống cùng mạng lưới nhân vật phụ. Chức năng gốc, năng lực đặc thù, cấp bậc và quyền hạn vẫn chưa chốt.  
+**Phiên bản:** 2.1  
+**Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ và tuyến phát triển của ba hệ thống cùng mạng lưới nhân vật phụ. Chức năng gốc và năng lực riêng của Lạc Tinh đã chốt; chức năng gốc và năng lực riêng của Kỷ Ngôn, Bạch Miên, cùng cấp bậc và quyền hạn của cả ba vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
 ---
@@ -114,6 +114,48 @@
 - Lạc Tinh đồng hành với người vợ. Tính cách thích hưởng thụ, tiêu dùng và trải nghiệm tạo tương phản với sự thực tế, cẩn thận và thiên về tích lũy của ký chủ.
 - Hai bên có thể tranh luận, mặc cả và đấu trí; cả hai đều biết tính toán lợi ích nhưng ưu tiên khác nhau.
 - **Tuyến phát triển:** Ban đầu muốn ký chủ công nhận mình là hệ thống giỏi; dần nhận ra ký chủ cần một người đáng tin hơn là một hệ thống luôn khoe thành tích; về sau biết nhận trách nhiệm khi mắc lỗi và không còn phụ thuộc vào lời khen để xác định giá trị bản thân.
+
+## 7.5. Chức năng gốc và năng lực riêng đã chốt
+
+**Chức năng gốc: Hệ thống Khai thác Cơ hội**
+
+Lạc Tinh chuyên hỗ trợ các hệ thống con tìm kiếm và đánh giá những cơ hội có thể tận dụng trong quá trình thực hiện nhiệm vụ.
+
+Phạm vi công việc:
+- Thu thập thông tin về các nguồn lực có thể sử dụng trong nhiệm vụ.
+- Phân tích những phương án tiếp cận khác nhau.
+- Đánh giá lợi thế và bất lợi của từng phương án.
+- Đề xuất cách tận dụng nguồn lực sẵn có để giảm chi phí thực hiện.
+
+Giới hạn thẩm quyền:
+- Chỉ cung cấp thông tin, phân tích và phương án đề xuất.
+- Không có quyền sửa mục tiêu, điều kiện hoặc nội dung nhiệm vụ.
+- Không có quyền tự quyết định phần thưởng.
+- Không tự tạo ra cơ hội hoặc nguồn lực không tồn tại.
+
+**Năng lực riêng: Quét Cơ Hội**
+
+Lạc Tinh có thể đánh dấu những cơ hội có khả năng mang lại lợi thế cho ký chủ trong phạm vi thông tin mà nó tiếp cận được.
+
+Ví dụ ứng dụng:
+- Nhận ra một cửa hàng đang cần người làm thêm, phù hợp để ký chủ kiếm tiền.
+- Phát hiện một món đồ cũ có giá trị sử dụng cao nhưng đang bị bán rẻ.
+- Nhận ra một nhân vật có thể trở thành đồng minh nếu được tiếp cận đúng cách.
+- Đề xuất một con đường ít tốn tài nguyên hơn để hoàn thành mục tiêu.
+
+Giới hạn năng lực:
+- Không đọc được suy nghĩ hoặc biết trước lựa chọn của người khác.
+- Không nhìn thấy tương lai.
+- Không thể xác định tuyệt đối ai là người tốt hoặc kẻ phản diện.
+- Thông tin đánh giá có thể thiếu hoặc sai nếu dữ liệu đầu vào không đầy đủ.
+- Không tạo ra cơ hội từ hư không.
+- Việc tiêu hao năng lượng khi quét hoặc phân tích chuyên sâu chưa được quy định thành định mức riêng; nếu một hoạt động thực tế phát sinh hiệu ứng can thiệp tiêu hao năng lượng thì xử lý theo SYS-007 hiện hành, không mặc định mọi lần phân tích đều là một lần can thiệp.
+
+**Nguyên tắc phối hợp với ký chủ**
+- Lạc Tinh tìm kiếm và phân tích phương án; ký chủ tự cân nhắc tính khả thi và quyết định có thực hiện hay không.
+- Năng lực này bổ trợ khả năng tìm kiếm cơ hội, không thay thế quyền lựa chọn và phán đoán của ký chủ.
+- Sự đối lập giữa Lạc Tinh thích trải nghiệm/cơ hội và ký chủ thực tế, cẩn trọng có thể tạo ra tranh luận, mặc cả và tình huống hài hước; không biến một trong hai thành người luôn đúng.
+
 
 # 8. HỆ THỐNG ĐỒNG HÀNH VỚI NGƯỜI CHỒNG – KỶ NGÔN
 
@@ -264,7 +306,7 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 Việc chốt hồ sơ nhân vật không đồng nghĩa đã chốt cơ chế vận hành. Các nội dung sau vẫn để mở:
 - Cấp bậc, tuổi đời hoặc thâm niên chính thức của từng hệ thống.
 - Chức vụ và quyền hạn tại Tổng bộ của các nhân vật phụ.
-- Chức năng gốc, năng lực đặc thù và giới hạn năng lực của Lạc Tinh, Kỷ Ngôn, Bạch Miên.
+- Chức năng gốc, năng lực đặc thù và giới hạn năng lực của Kỷ Ngôn và Bạch Miên.
 - Cơ chế năng lượng riêng và bất kỳ quyền can thiệp bổ sung nào.
 - Giới tính, giọng nói hoặc hình thức giao tiếp cụ thể nếu chưa được xác định ở phần khác.
 - Các chi tiết quá khứ ngoài những quan hệ và sự kiện đã ghi trong hồ sơ này.
@@ -273,4 +315,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.0**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.1**
