@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.21  
+**Phiên bản:** 1.22  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -79,6 +79,7 @@ Quy tắc:
 - Người ước nguyện phải ký khế ước.
 - Sau khi khế ước hoàn tất, số lượng nhiệm vụ tăng thêm 1.
 - Sau khi ký khế ước, 80% năng lượng hợp đồng được chuyển hóa vào kho chung của Tổng bộ; linh hồn người ủy thác vẫn tồn tại và giữ 20% năng lượng còn lại.
+- Sau khi nhiệm vụ đã được ghi nhận và đưa vào kho nhiệm vụ, Cục Thu Nguyện không có quyền sửa đổi nội dung nhiệm vụ. Mục tiêu và điều kiện có hiệu lực được xác định theo khế ước đã ký; mọi xử lý tiếp theo phải tuân theo thẩm quyền và quy trình của đơn vị phụ trách.
 
 ### B. Khối Chấp Hành
 
@@ -90,6 +91,9 @@ Chức năng:
 - Theo dõi quan hệ giữa hệ thống con và ký chủ.
 - Ghi nhận thành tích và năng lượng thưởng.
 - Giám sát việc thực hiện nhiệm vụ.
+
+Giới hạn thẩm quyền:
+- Khối Chấp Hành không có quyền đình chỉ hệ thống hoặc thực thể. Việc đình chỉ thuộc thẩm quyền quyết định của Khối Tổng bộ theo quy định.
 
 Các hệ thống con có quyền:
 - Tự do tìm kiếm ký chủ.
@@ -109,6 +113,11 @@ Chức năng:
 - Theo dõi trạng thái nhiệm vụ.
 - Ghi nhận nhiệm vụ đang chờ, đang thực hiện, hoàn thành hoặc thất bại.
 - Điều phối các hoạt động liên quan đến thế giới nhiệm vụ.
+- Theo dõi, đánh giá kết quả và thông báo nhiệm vụ hoàn thành hoặc thất bại theo quy định.
+
+Giới hạn thẩm quyền:
+- Cục Điều Phối không có quyền hủy nhiệm vụ.
+- Cục Điều Phối có thẩm quyền xác định kết quả hoàn thành/thất bại trong phạm vi quy định; việc kết luận nhiệm vụ thất bại cuối cùng thực hiện theo Mục 6.6.
 
 Nhiệm vụ được phân phối theo cơ chế ngẫu nhiên, có phân cấp độ khó.
 
@@ -119,6 +128,7 @@ Chức năng:
 - Ghi nhận kinh nghiệm và cấp bậc.
 - Tính toán phần thưởng.
 - Tính toán hình phạt.
+- Quyết định hình phạt trong phạm vi nghiệp vụ thuộc chức trách và theo các quy định hiện hành.
 - Ghi nhận năng lượng thưởng cho hệ thống con.
 - Quản lý giao dịch và các khoản thanh toán thuộc hệ thống.
 
@@ -127,6 +137,38 @@ Nguyên tắc:
 - Không tự ý chuyển điểm giữa các ký chủ.
 - Không tồn tại tài khoản điểm chung của gia đình.
 - Điểm, kinh nghiệm, năng lượng và tiền thưởng là các loại tài nguyên riêng biệt.
+
+### E. Khối Tổng bộ
+
+Là cấp quản lý và thẩm quyền cao nhất trong cơ cấu nội bộ Tổng bộ Nguyện Vọng.
+
+Chức năng và thẩm quyền:
+- Xem xét, phê duyệt và ký các quyết định thuộc diện phải trình cấp có thẩm quyền.
+- Xử lý các vụ việc vi phạm trong nội bộ Tổng bộ.
+- Có thẩm quyền quyết định đình chỉ hệ thống hoặc thực thể theo quy định.
+- Xem xét và quyết định việc khôi phục cá nhân đã bị đóng băng theo quy chế hiện hành.
+
+### F. Khối Chấp Pháp
+
+Là đơn vị giám sát việc tuân thủ chức trách, quy trình và giới hạn thẩm quyền của từng cá nhân trong toàn bộ các Cục và Khối trực thuộc Tổng bộ.
+
+Chức năng:
+- Giám sát từng cá nhân thuộc tất cả các Cục và Khối; không chỉ giám sát trách nhiệm tập thể của đơn vị.
+- Phát hiện, ghi nhận và lập hồ sơ dấu hiệu vi phạm theo quy định.
+- Thực thi việc đóng băng cá nhân vi phạm theo quy chế đóng băng đã được ban hành.
+
+Nguyên tắc:
+- Quy chế giám sát và xử lý sai phạm áp dụng thống nhất đối với cá nhân thuộc mọi Cục và Khối.
+- Việc đóng băng chỉ áp dụng với cá nhân vi phạm; không đóng băng toàn bộ Cục/Khối và không liên đới những cá nhân không vi phạm. Những người còn lại tiếp tục công việc bình thường.
+- Khối Chấp Pháp chỉ thực thi việc đóng băng theo quy chế; không có quyền tự quyết định khôi phục.
+- Khối Tổng bộ là cấp có thẩm quyền xem xét và quyết định khôi phục cá nhân bị đóng băng.
+- Các điều kiện, trình tự và chế độ chi tiết của việc đóng băng nhân sự tiếp tục tuân theo quy chế riêng đã được chốt; mục này chỉ xác định phạm vi giám sát và phân định thẩm quyền, không thay thế hoặc sửa đổi quy chế đó.
+
+### Nguyên tắc phân định thẩm quyền chung
+
+- Mỗi Cục/Khối chỉ thực hiện chức năng và sử dụng quyền hạn được giao; không tự mở rộng thẩm quyền sang đơn vị khác.
+- Việc một đơn vị theo dõi, giám sát hoặc đề xuất không đồng nghĩa với việc đơn vị đó có quyền phê duyệt, đình chỉ, hủy nhiệm vụ hoặc khôi phục nếu thẩm quyền tương ứng không được quy định rõ.
+- Các giới hạn thẩm quyền nêu tại Mục 2 được áp dụng đồng đều, không có đơn vị nào được miễn trừ khỏi cơ chế giám sát nội bộ.
 
 ---
 
@@ -1203,6 +1245,7 @@ Các vấn đề từng được ghi nhận là chưa chốt dưới đây đã 
 - **SYS-007 – Ranh giới Kp:** Kp 5 áp dụng cho phạm vi địa phương hoặc một nhóm thống nhất trên 10 thành viên chỉ bị tác động trực tiếp; Kp 10 áp dụng khi hiệu ứng đạt quy mô thành phố hoặc trải trên từ hai thành phố trở lên. Nhóm được xác định theo liên hệ thực tế/chức năng, không theo danh sách chỉ định.
 - **Mục 6.6 – Thất bại cuối cùng:** Chỉ Cục Điều Phối có thẩm quyền kết luận nhiệm vụ thất bại cuối cùng, dựa trên thời hạn/điều kiện thất bại trong khế ước hoặc căn cứ khách quan chứng minh mục tiêu không thể hoàn thành. Một lượt ký chủ thất bại không làm nhiệm vụ kết thúc.
 - **SYS-010 – Phân biệt quyền chuyển nhượng:** Vé mua cho bản thân giá 1 tỷ điểm là vé cá nhân, chỉ người mua ban đầu được kích hoạt và không thể chuyển nhượng; nếu bị cướp/chiếm đoạt, người chiếm giữ không có quyền kích hoạt. Vé mua để trao cho người khác giá 10 tỷ điểm là vé chuyển nhượng, có thể cho, tặng, bán, trao đổi hoặc bị cướp/chiếm đoạt; người đang nắm giữ vé chuyển nhượng có quyền kích hoạt mà không phải trả thêm bất kỳ khoản phí nào. Không có cơ chế trả thêm 9 tỷ để đổi loại vé.
+- **Mục 2 – Cơ cấu và thẩm quyền Tổng bộ:** Cục Thu Nguyện không sửa nhiệm vụ sau khi đã đưa vào kho; Khối Chấp Hành không có quyền đình chỉ hệ thống/thực thể; Cục Điều Phối không có quyền hủy nhiệm vụ nhưng theo dõi, đánh giá và xác định/thông báo kết quả; Cục Hạch Toán có quyền quyết định hình phạt trong phạm vi chức trách; Khối Tổng bộ là cấp thẩm quyền cao nhất về phê duyệt, xử lý vi phạm, đình chỉ và quyết định khôi phục; Khối Chấp Pháp giám sát từng cá nhân ở mọi Cục/Khối và thực thi đóng băng cá nhân vi phạm theo quy chế đã chốt, không đóng băng tập thể hoặc người không vi phạm.
 
 ---
 
@@ -2040,4 +2083,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.21**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.22**
