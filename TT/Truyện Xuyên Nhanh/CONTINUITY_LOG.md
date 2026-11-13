@@ -858,3 +858,42 @@
 ### Trạng thái
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.5 lên **v2.6**.
 - Cơ chế ủy quyền trước không được áp dụng; không phải một quyền mặc định của ký chủ hay hệ thống.
+
+
+## 2026-11-13 – Chốt phạm vi bảo hộ, quy trình xin phép can thiệp và cơ chế thành tích/thăng cấp (SYSTEM_CHARACTER_BIBLE.md v2.7)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Phạm vi bảo hộ của Bạch Miên
+- Bảo hộ trực tiếp ký chủ được phân công đồng hành.
+- Có thể quan sát, nhận biết và cảnh báo nguy cơ liên quan đến an toàn của ký chủ, kể cả khi nguy cơ xuất phát từ người khác.
+- Không mặc nhiên bảo hộ hoặc tiêu hao năng lượng để cứu trợ người thân, đồng đội hay người khác.
+- Có thể can thiệp để bảo vệ người khác nếu đó là biện pháp cần thiết nhằm ngăn nguy cơ trực tiếp gây hại cho ký chủ; mọi can thiệp vẫn phải tuân thủ năng lực, quyền hạn và quy tắc năng lượng.
+
+### Quy trình xin phép can thiệp thông thường
+- Hệ thống giải thích mục đích và hành động dự kiến, ước tính năng lượng cần dùng nếu có thể, rồi chờ sự đồng ý rõ ràng của ký chủ.
+- Im lặng không phải đồng ý; đồng ý một hành động không mặc nhiên cho phép các hành động tiếp theo.
+- Nếu phạm vi can thiệp thay đổi đáng kể, phải xin phép lại.
+- Không áp dụng cơ chế ủy quyền trước.
+
+### Trường hợp ký chủ là trẻ nhỏ
+- Nếu trẻ đủ khả năng hiểu và lựa chọn, hệ thống phải giải thích phù hợp và trực tiếp hỏi ý kiến trẻ.
+- Nếu trẻ chưa đủ khả năng hiểu hoặc biểu đạt sự đồng ý, hệ thống có thể xin sự đồng ý trực tiếp của cha hoặc mẹ nếu người đó có mặt, tỉnh táo và đủ khả năng quyết định.
+- Nếu không có người giám hộ đủ khả năng quyết định, không thực hiện can thiệp thông thường khi chưa có sự đồng ý; ngoại lệ duy nhất là tình huống khẩn cấp đã chốt.
+- Không áp dụng cơ chế cha mẹ/người giám hộ ủy quyền trước.
+
+### Hai loại thành tích và điều kiện thăng cấp
+- **Thành tích nhiệm vụ:** gắn với kết quả nhiệm vụ của ký chủ và hệ thống đồng hành. Ký chủ hoàn thành nhiệm vụ thì hệ thống đồng hành được ghi nhận hoàn thành nhiệm vụ đó.
+- **Thành tích chuyên môn:** ghi nhận năng lực và chất lượng đồng hành của hệ thống, gồm đóng góp thực tế, năng lực chuyên môn, xử lý tình huống, trách nhiệm và tuân thủ.
+- Hai loại thành tích được tích lũy, đánh giá độc lập; không được dùng loại này bù cho loại kia.
+- Hệ thống chỉ đủ điều kiện thăng một cấp khi đồng thời đạt ngưỡng của cả hai loại thành tích.
+- Ngưỡng thành tích chuyên môn được định hướng cao hơn; khoảng cách thành tích cần thiết giữa các cấp tăng dần, khiến cấp càng cao càng khó thăng.
+- Thành tích đã tích lũy không bị xóa khi thăng cấp.
+- Chưa chốt điểm số, ngưỡng cụ thể, công thức tăng độ khó, cách quy đổi/ghi nhận chi tiết, quy trình đánh giá và cơ quan có thẩm quyền quyết định thăng cấp.
+
+### Trạng thái và giới hạn cập nhật
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.6 lên **v2.7**.
+- Không thay đổi thang cấp F–E–D–C–B–A–S–SS hoặc thông số năng lượng, cơ chế sập/đóng băng trong SYS-007.
+- Các con số minh họa trước đó về ngưỡng thành tích không được đưa vào canon.
