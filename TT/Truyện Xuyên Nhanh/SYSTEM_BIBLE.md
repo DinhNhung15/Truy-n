@@ -704,17 +704,25 @@ Nguyên tắc:
 
 ## 7.3. Vé Về Nhà
 
-Giá vé:
-- Mua cho chính mình: **1 tỷ điểm**.
-- Mua để chuyển cho người khác: **10 tỷ điểm**.
+### Giá vé và loại vé
 
-Quy tắc sở hữu và chuyển giao:
-- Khi mua vé, người mua **không cần chỉ định người nhận**.
+- Mua vé để tự sử dụng: **1 tỷ điểm**. Đây là **vé cá nhân**, được đăng ký với tài khoản của người mua ban đầu.
+- Mua vé để chuyển cho người khác: **10 tỷ điểm**. Đây là **vé vô danh**, không gắn quyền kích hoạt riêng với người mua.
+- Khi mua vé, người mua không cần chỉ định trước người nhận. Việc chọn giá mua xác định loại vé, không phụ thuộc người mua có nêu tên người nhận hay không.
+
+### Quy tắc sở hữu và chuyển giao
+
 - Vé là vật phẩm vật lý, được chuyển giao bằng cách trao tận tay giữa các ký chủ. Hệ thống không tự động đưa vé vào túi của người nhận chỉ vì người mua đã thanh toán.
-- Vé có thể được trao tay và chuyển qua nhiều người; không giới hạn số lần chuyển giao.
+- Cả vé cá nhân và vé vô danh đều có thể được trao tay, chuyển qua nhiều người và không giới hạn số lần chuyển giao.
 - Vé không có thời hạn sử dụng, không tự mất hiệu lực chỉ vì đã được giữ lâu.
 - Vé không được thừa kế. Khi người đang nắm giữ vé tử vong, vé mất hiệu lực.
-- Người đang trực tiếp nắm giữ vé hợp lệ có quyền kích hoạt, không phụ thuộc vé ban đầu được mua bởi ai hoặc đã qua tay bao nhiêu người. Việc báo mất hoặc báo bị trộm không tự động khóa vé; hệ thống không yêu cầu người kích hoạt chứng minh nguồn gốc nhận vé.
+- Người đang trực tiếp nắm giữ vé hợp lệ có quyền giữ và chuyển giao vé. Quyền kích hoạt phụ thuộc loại vé và trạng thái thanh toán:
+  - **Vé vô danh 10 tỷ:** Người đang giữ vé hợp lệ có thể kích hoạt mà không phải trả thêm, không phụ thuộc người mua ban đầu.
+  - **Vé cá nhân 1 tỷ:** Người mua ban đầu có thể kích hoạt mà không phải trả thêm. Nếu một người khác muốn kích hoạt, người đó phải thanh toán phần chênh lệch **9 tỷ điểm** trước khi vé được kích hoạt.
+- Người đang giữ vé cá nhân có thể nộp 9 tỷ điểm để chuyển vé thành vé vô danh trước khi kích hoạt. Sau khi phần chênh lệch được thanh toán một lần, vé trở thành vé vô danh và mọi lần chuyển giao sau đó không phát sinh thêm phí.
+- Phần chênh lệch 9 tỷ chỉ thu một lần cho mỗi vé. Nếu vé cá nhân đã được chuyển thành vé vô danh, không thu lại khoản này ở những lần chuyển giao hoặc kích hoạt tiếp theo.
+- Nếu người không phải người mua ban đầu kích hoạt vé cá nhân nhưng không đủ 9 tỷ điểm, hệ thống từ chối kích hoạt; vé không bị tiêu hủy và vẫn có thể được chuyển giao hoặc được người mua ban đầu sử dụng.
+- Việc báo mất hoặc báo bị trộm không tự động khóa vé; hệ thống không yêu cầu người kích hoạt chứng minh nguồn gốc nhận vé. Quy tắc này không loại bỏ nghĩa vụ thanh toán phần chênh lệch của vé cá nhân.
 - Người giữ vé có quyền không kích hoạt. Không có cơ chế cưỡng ép người đang giữ phải sử dụng vé.
 - Vé không tự động đưa người mua trở về cùng người đang giữ vé; quyền kích hoạt thuộc người nắm giữ hợp lệ tại thời điểm sử dụng.
 
@@ -1956,13 +1964,13 @@ Ký chủ có thể lựa chọn một trong hai hình thức:
 - Người ủy thác có thể lựa chọn hoặc thay đổi phương án phân bổ trước khi quyết toán. Việc chi trả chỉ được thực hiện sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác minh kết quả.
 - Một lượt ký chủ thất bại không làm nhiệm vụ kết thúc; nhiệm vụ được đưa trở lại kho để tiếp tục phân phối. Ký chủ thất bại không nhận khoản thưởng từ quỹ 20% cho lượt đó; quỹ chưa quyết toán tiếp tục được xử lý theo kết quả cuối cùng của nhiệm vụ.
 - Khi nhiệm vụ được xác nhận hoàn thành, phần quỹ 20% chưa phân bổ được chuyển vào kho năng lượng chung của Tổng bộ; linh hồn người ủy thác tan biến sau khi quyết toán.
-- Nếu nhiệm vụ kết thúc với kết quả thất bại, không chi khoản thưởng từ quỹ 20% cho ký chủ; phần năng lượng chưa sử dụng được nhập vào kho chung theo quyết toán của Tổng bộ.
+- Nếu nhiệm vụ kết thúc với kết quả thất bại cuối cùng theo Mục 6.6, không chi khoản thưởng từ quỹ 20% cho ký chủ; phần năng lượng chưa sử dụng được nhập vào kho chung theo quyết toán của Tổng bộ. Linh hồn người ủy thác chấm dứt tồn tại sau khi quyết toán.
 - Nếu người ủy thác vi phạm khế ước, việc khấu trừ hoặc thu hồi năng lượng linh hồn được thực hiện theo cấp độ vi phạm tại Mục 21.5; không mặc định toàn bộ 20% bị thu hồi trong mọi trường hợp.
 
 ## 21.2. Trạng thái và quyền quan sát của người ủy thác
 
 - Sau khi ký hợp đồng, linh hồn người ủy thác vẫn tồn tại trong thế giới nhiệm vụ đã được xác định tại thời điểm ký. Phần năng lượng 20% được giữ lại là nguồn để phân bổ thưởng; việc linh hồn tiếp tục tồn tại và quan sát không phụ thuộc vào việc phần năng lượng này còn hay đã được sử dụng hết.
-- Kể cả khi đã phân bổ hết 20% năng lượng, linh hồn vẫn tiếp tục theo dõi nhiệm vụ như bình thường cho đến khi nhiệm vụ thực sự hoàn thành hoặc bị hủy theo quy định. Khi hết năng lượng, người ủy thác không thể phân bổ thêm thưởng, nhưng vẫn giữ quyền quan sát.
+- Kể cả khi đã phân bổ hết 20% năng lượng, linh hồn vẫn tiếp tục theo dõi nhiệm vụ như bình thường cho đến khi nhiệm vụ thực sự hoàn thành, kết thúc thất bại cuối cùng hoặc bị hủy theo quy định. Khi hết năng lượng, người ủy thác không thể phân bổ thêm thưởng, nhưng vẫn giữ quyền quan sát.
 - Người ủy thác có thể theo dõi nhiệm vụ như một khán giả: quan sát hành động, lời nói, tương tác và diễn biến đang xảy ra trong thế giới nhiệm vụ.
 - Người ủy thác không thể nhìn thấy, nghe thấy hoặc giao tiếp trực tiếp với ký chủ; không thể giao tiếp với ký chủ thông qua kênh riêng.
 - Người ủy thác không thể trực tiếp tương tác vật lý với thế giới nhiệm vụ.
@@ -2019,7 +2027,7 @@ Vi phạm của người ủy thác được chia thành bốn cấp:
 - Việc quyết toán diễn ra sau khi ký chủ rời thế giới nhiệm vụ và Tổng bộ xác minh kết quả; không thanh toán quỹ thưởng trước thời điểm này.
 - Nếu ký chủ hoàn thành nhiệm vụ, khoản thưởng được chi trả theo phương án cuối cùng người ủy thác đã chọn trong giới hạn quỹ còn lại.
 - Nếu ký chủ thất bại trong lượt nhiệm vụ, không chi thưởng từ quỹ 20% cho lượt đó. Nếu nhiệm vụ được phân phối lại, quỹ chưa quyết toán tiếp tục được giữ để xử lý theo kết quả cuối cùng.
-- Nếu nhiệm vụ kết thúc với kết quả thất bại, không có khoản thưởng từ quỹ 20%; phần năng lượng còn lại được nhập vào kho chung của Tổng bộ.
+- Nếu nhiệm vụ kết thúc với kết quả thất bại cuối cùng theo Mục 6.6, không có khoản thưởng từ quỹ 20%; phần năng lượng còn lại được nhập vào kho chung của Tổng bộ. Linh hồn người ủy thác chấm dứt tồn tại sau khi quyết toán.
 - Năng lượng thưởng do Tổng bộ cấp cho hệ thống con từ nhiệm vụ phụ hoặc nhiệm vụ tự chọn là khoản riêng, không nhập chung và không được nhầm với quỹ 20% của người ủy thác.
 
 ## 21.7. Thông báo kết quả và quyết toán cho ký chủ
