@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.5  
+**Phiên bản:** 3.6  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -429,14 +429,14 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - Việc tiêu hao nhiều năng lượng tự thân không phải bằng chứng mặc định cho năng lực hoặc thành tích chuyên môn tốt.
 - **Phân quyền đánh giá và thăng cấp:**
   1. **Khối Chấp Hành:** Theo dõi hoạt động của hệ thống và lập hồ sơ thành tích, tập hợp dữ liệu, đóng góp và lịch sử hoạt động làm căn cứ đánh giá.
-  2. **Bộ phận đánh giá chuyên môn:** Đánh giá chất lượng đóng góp theo ba mức ghi nhận đã quy định; đối chiếu dữ liệu và lịch sử hoạt động để đưa ra kết quả đánh giá chuyên môn.
+  2. **Ban Thẩm Định Thành Tích Hệ Thống:** Đánh giá chất lượng đóng góp theo ba mức ghi nhận đã quy định; đối chiếu dữ liệu và lịch sử hoạt động để đưa ra kết quả đánh giá chuyên môn.
   3. **Khối Tổng bộ:** Có thẩm quyền phê duyệt kết quả thăng cấp theo quy định.
 - Hệ thống không tự đánh giá hoặc tự quyết định thành tích chuyên môn của chính mình. Bộ phận lập hồ sơ, bộ phận đánh giá chuyên môn và cơ quan phê duyệt thăng cấp có vai trò phân biệt; không mặc nhiên gộp các quyền này vào một chủ thể.
 - **Quyền khiếu nại kết quả đánh giá:** Hệ thống có quyền gửi khiếu nại khi có căn cứ cho rằng hồ sơ thành tích bị thiếu hoặc ghi nhận sai, đóng góp bị đánh giá không đúng mức, hoặc có dữ liệu/bằng chứng mới chưa được xem xét.
-- Khiếu nại cần nêu rõ nội dung bị khiếu nại và căn cứ liên quan. Bộ phận đánh giá chuyên môn có trách nhiệm xem xét lại hồ sơ và căn cứ được cung cấp.
+- Khiếu nại cần nêu rõ nội dung bị khiếu nại và căn cứ liên quan. Ban Thẩm Định Thành Tích Hệ Thống có trách nhiệm xem xét lại hồ sơ và căn cứ được cung cấp.
 - Nếu xác định có sai sót, kết quả đánh giá được điều chỉnh cho phù hợp; nếu không có căn cứ thay đổi, giữ nguyên kết quả.
 - Việc gửi khiếu nại không tự động làm tăng thành tích, thay đổi kết quả đánh giá hoặc tạo quyền thăng cấp.
-- **Khiếu nại lần hai:** Nếu không đồng ý với kết quả xem xét lại của Bộ phận đánh giá chuyên môn, hệ thống có quyền gửi yêu cầu Khối Tổng bộ kiểm tra lần cuối.
+- **Khiếu nại lần hai:** Nếu không đồng ý với kết quả xem xét lại của Ban Thẩm Định Thành Tích Hệ Thống, hệ thống có quyền gửi yêu cầu Khối Tổng bộ kiểm tra lần cuối.
 - Khối Tổng bộ xem xét hồ sơ, nội dung khiếu nại và kết quả đánh giá lại; có thể yêu cầu đánh giá lại hồ sơ hoặc quyết định giữ nguyên kết quả.
 - Kết luận của Khối Tổng bộ là kết quả xử lý cuối cùng trong quy trình khiếu nại này.
 
@@ -476,7 +476,7 @@ Thành tích nhiệm vụ được ghi nhận theo cấp nhiệm vụ đã hoàn
 
 ### 13.3.2. Tiêu chí đánh giá chuyên môn
 
-Bộ phận đánh giá chuyên môn xem xét đóng góp trên năm phương diện:
+Ban Thẩm Định Thành Tích Hệ Thống xem xét đóng góp trên năm phương diện:
 1. **Năng lực chuyên môn:** Mức độ vận dụng đúng và hiệu quả chức năng, năng lực được giao.
 2. **Giá trị đóng góp:** Hiệu quả thực tế đối với việc giải quyết vấn đề, giảm rủi ro hoặc tiết kiệm nguồn lực.
 3. **Khả năng xử lý tình huống:** Khả năng phát hiện, phân tích và ứng phó với tình huống phát sinh hoặc ngoài dự kiến.
@@ -514,9 +514,9 @@ Việc đánh giá dựa trên hồ sơ, dữ liệu và hoàn cảnh thực t�
 
 **Phân quyền**
 - **Khối Chấp Hành:** Theo dõi hoạt động, lập hồ sơ, tập hợp dữ liệu, đóng góp và lịch sử hoạt động.
-- **Bộ phận đánh giá chuyên môn:** Đánh giá chất lượng đóng góp theo tiêu chí và thang điểm đã quy định; xem xét tính hợp lệ, giá trị thực tế và bằng chứng.
+- **Ban Thẩm Định Thành Tích Hệ Thống:** Đánh giá chất lượng đóng góp theo tiêu chí và thang điểm đã quy định; xem xét tính hợp lệ, giá trị thực tế và bằng chứng.
 - **Khối Tổng bộ:** Phê duyệt kết quả thăng cấp theo thẩm quyền.
-- Bộ phận đánh giá chuyên môn được xác lập theo chức năng trong cơ chế này; tên chính thức và vị trí trực thuộc trong sơ đồ tổ chức Tổng bộ chưa được xác định tại đây.
+- Ban Thẩm Định Thành Tích Hệ Thống là đơn vị chuyên môn trực thuộc Khối Tổng bộ.
 
 **Quyền tiếp cận và tính minh bạch**
 - Hệ thống được quyền xem hồ sơ thành tích của chính mình, gồm điểm TN, điểm CM, các đóng góp đã ghi nhận, nội dung bị từ chối và lý do.
@@ -532,6 +532,55 @@ Việc đánh giá dựa trên hồ sơ, dữ liệu và hoàn cảnh thực t�
 - Việc điều chỉnh phải có căn cứ và lưu lại lịch sử, lý do thay đổi.
 - Không tự động xóa toàn bộ thành tích đã tích lũy hoặc tự động hạ cấp hệ thống chỉ vì phát hiện một sai sót; các biện pháp xử lý vi phạm vẫn theo quy định hiện hành của Tổng bộ.
 
+
+### 13.3.7. Chuyển tiếp và quy đổi thành tích lịch sử
+
+Áp dụng đối với thành tích phát sinh trước ngày cơ chế điểm số tại Mục 13.3.1–13.3.6 chính thức có hiệu lực.
+
+**Nguyên tắc chuyển tiếp**
+- Thành tích hợp lệ đã phát sinh trước thời điểm áp dụng cơ chế mới được bảo lưu và đối soát; không mặc định xóa thành tích cũ hoặc đặt điểm của hệ thống về 0.
+- Việc quy đổi lịch sử được thực hiện một lần theo mốc dữ liệu chuyển tiếp do Khối Tổng bộ ban hành.
+- Chỉ quy đổi thành tích có hồ sơ, dữ liệu hoặc bằng chứng đủ căn cứ; không suy ra điểm từ thâm niên, cấp hệ thống, số lượng nhiệm vụ hoặc lời tự khai chưa được xác minh.
+- Không tự động nâng cấp hoặc hạ cấp hệ thống chỉ vì kết quả quy đổi.
+
+**Quy đổi thành tích nhiệm vụ lịch sử**
+- Rà soát các lượt nhiệm vụ mà hệ thống đã đồng hành và ký chủ hoàn thành trước ngày áp dụng cơ chế mới.
+- Cấp nhiệm vụ được xác định theo hồ sơ nhiệm vụ tại thời điểm hoàn thành; điểm TN quy đổi theo bảng tại Mục 13.3.1.
+- Lượt ký chủ thất bại không được quy đổi TN cho hệ thống đồng hành trong lượt đó, kể cả khi nhiệm vụ được phân phối lại và hoàn thành ở lượt sau.
+- Một kết quả nhiệm vụ chỉ được ghi nhận cho hệ thống đồng hành đủ điều kiện theo quy tắc hiện hành; không ghi nhận trùng cho nhiều lượt hoặc nhiều hệ thống.
+
+**Quy đổi thành tích chuyên môn lịch sử**
+- Ban Thẩm Định Thành Tích Hệ Thống rà soát đóng góp thực tế trong hồ sơ và nhật ký hoạt động trước ngày áp dụng cơ chế mới.
+- Đóng góp tốt được quy đổi 1 CM; đóng góp xuất sắc được quy đổi 3 CM; hoàn thành chức trách thông thường được ghi nhận ở mức 0 CM.
+- Mỗi đóng góp độc lập chỉ được quy đổi một lần. Không chia nhỏ cùng một đóng góp hoặc cùng một giá trị tạo ra để cộng điểm nhiều lần.
+- Việc phân loại phải dựa trên năm tiêu chí tại Mục 13.3.2 và bằng chứng, hoàn cảnh thực tế; không mặc định hệ thống hoạt động lâu năm có nhiều CM hơn hệ thống mới.
+- Nếu hồ sơ chưa đầy đủ, phần thành tích liên quan được đánh dấu chờ đối soát. Hệ thống có quyền cung cấp dữ liệu hoặc bằng chứng bổ sung; thiếu hồ sơ không tự động được kết luận là không có thành tích, nhưng cũng không đủ căn cứ để tự động cộng điểm.
+
+**Quy trình đối soát**
+1. Khối Chấp Hành trích xuất hồ sơ, nhật ký và dữ liệu lịch sử đến hết ngày liền trước ngày áp dụng cơ chế mới.
+2. Cục Điều Phối xác nhận cấp độ và kết quả các nhiệm vụ lịch sử khi cần.
+3. Ban Thẩm Định Thành Tích Hệ Thống đánh giá và quy đổi CM lịch sử.
+4. Cục Hạch Toán ghi nhận điểm TN, CM, điểm đã sử dụng và điểm còn khả dụng vào hồ sơ thành tích.
+5. Hệ thống được thông báo kết quả, có quyền xem hồ sơ và khiếu nại theo Mục 13.3.6.
+6. Khối Tổng bộ xác nhận hoàn tất việc chuyển tiếp theo thẩm quyền.
+
+**Bảo lưu cấp bậc**
+- Cấp hệ thống đang có tại thời điểm chuyển đổi được giữ nguyên trong suốt quá trình đối soát.
+- Thiếu dữ liệu lịch sử hoặc chưa hoàn tất quy đổi không phải căn cứ tự động hạ cấp.
+- Điểm quy đổi đủ ngưỡng chỉ tạo điều kiện trình xét; không tự động nâng cấp. Việc thăng cấp vẫn phải tuân thủ điều kiện và quy trình phê duyệt tại Mục 13.3.3 và 13.3.4.
+
+### 13.3.8. Sổ thành tích kép và nguyên tắc sử dụng điểm
+
+- Mỗi hệ thống có hai sổ điểm độc lập: sổ TN và sổ CM. Mỗi sổ theo dõi riêng tổng điểm đã ghi nhận, điểm đã sử dụng để xét thăng cấp và điểm còn khả dụng.
+- **Tổng điểm đã ghi nhận** là toàn bộ điểm hợp lệ hệ thống tích lũy trong suốt quá trình hoạt động, bao gồm điểm được quy đổi từ thành tích lịch sử.
+- **Điểm đã sử dụng** là phần điểm được phân bổ cho một lần thăng cấp đã được Khối Tổng bộ phê duyệt. Điểm này vẫn được lưu trong lịch sử thành tích nhưng không còn khả dụng cho lần xét tiếp theo.
+- **Điểm còn khả dụng** bằng tổng điểm đã ghi nhận trừ điểm đã sử dụng. TN và CM được tính riêng, không bù trừ cho nhau.
+- Khi hệ thống đủ điều kiện xét thăng cấp, số điểm tương ứng với ngưỡng TN và CM của cấp đang xét được đánh dấu đã sử dụng sau khi Khối Tổng bộ phê duyệt thăng cấp.
+- Điểm vượt ngưỡng của mỗi loại thành tích được giữ lại làm điểm khả dụng cho lần thăng cấp tiếp theo; không bị xóa hoặc tính lại từ đầu.
+- Nếu chưa được phê duyệt thăng cấp, điểm chưa bị đánh dấu đã sử dụng.
+- Điểm đã sử dụng không được tính lại cho bất kỳ lần thăng cấp nào khác. Mọi thao tác phân bổ, điều chỉnh hoặc thu hồi điểm phải có căn cứ, lý do và lịch sử truy vết.
+- Quy tắc này áp dụng thống nhất cho điểm phát sinh theo cơ chế mới và điểm được quy đổi từ thành tích lịch sử.
+
 ### 13.3.6. Quy trình khiếu nại và thời hạn
 
 **Tiếp nhận**
@@ -540,7 +589,7 @@ Việc đánh giá dựa trên hồ sơ, dữ liệu và hoàn cảnh thực t�
 - Trong 2 ngày làm việc kể từ khi nhận khiếu nại, bộ phận tiếp nhận kiểm tra tính đầy đủ của hồ sơ và thông báo nếu cần bổ sung.
 
 **Khiếu nại lần một**
-- Bộ phận đánh giá chuyên môn xem xét lại hồ sơ trong thời hạn 5 ngày làm việc kể từ khi hồ sơ khiếu nại đầy đủ.
+- Ban Thẩm Định Thành Tích Hệ Thống xem xét lại hồ sơ trong thời hạn 5 ngày làm việc kể từ khi hồ sơ khiếu nại đầy đủ.
 - Người trực tiếp thực hiện đánh giá ban đầu không được là người duy nhất xem xét khiếu nại lần một.
 - Nếu xác định có sai sót, điều chỉnh kết quả; nếu không có căn cứ thay đổi, giữ nguyên kết quả và thông báo lý do.
 
@@ -563,9 +612,10 @@ Việc đánh giá dựa trên hồ sơ, dữ liệu và hoàn cảnh thực t�
 - Khoảng cách thành tích cần thiết giữa các cấp tăng dần; cấp càng cao càng khó thăng cấp.
 - Thành tích đã tích lũy không bị xóa khi hệ thống thăng cấp.
 - Không thăng cấp do xuất thân, quan hệ, đặc quyền, sự ưu ái hoặc thâm niên; không tự động được thăng cấp chỉ vì ký chủ/nhiệm vụ có cấp cao hơn.
-- Chưa chốt tên chính thức và vị trí trực thuộc của Bộ phận đánh giá chuyên môn trong sơ đồ tổ chức Tổng bộ.
-- Chưa chốt cách xử lý hoặc quy đổi hồi tố thành tích phát sinh trước thời điểm cơ chế điểm số này có hiệu lực.
-- Các tiêu chí, điểm số, ngưỡng thăng cấp và thời hạn xử lý khiếu nại đã được quy định tại Mục 13.3.1–13.3.6; không tự ý thay đổi ngoài quy trình cập nhật canon.
+- Tên chính thức của đơn vị đánh giá chuyên môn là **Ban Thẩm Định Thành Tích Hệ Thống**, trực thuộc Khối Tổng bộ.
+- Thành tích phát sinh trước ngày cơ chế điểm mới có hiệu lực được đối soát và quy đổi một lần theo Mục 13.3.7; không mặc định xóa thành tích cũ hoặc đặt lại điểm về 0.
+- Cơ chế sổ thành tích kép, phân biệt điểm đã ghi nhận và điểm đã sử dụng để xét thăng cấp, được quy định tại Mục 13.3.8.
+- Các tiêu chí, điểm số, ngưỡng thăng cấp và thời hạn xử lý khiếu nại đã được quy định tại Mục 13.3.1–13.3.8; không tự ý thay đổi ngoài quy trình cập nhật canon.
 
 # 14. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
 
@@ -581,4 +631,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.5**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.6**
