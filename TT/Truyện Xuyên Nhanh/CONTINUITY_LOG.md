@@ -722,3 +722,23 @@
 - Không thay đổi nguyên tắc một kho chung, quyền hạn đã phân định giữa các Cục/Khối hoặc các cơ chế năng lượng của hệ thống con trong SYS-007.
 - **SYS-011 không được sửa trong lần này:** SYSTEM_BIBLE.md đã có quy tắc thời gian tại Mục 15.2, theo đó thời gian ở Tổng bộ và thế giới nhiệm vụ trôi qua đồng bộ tỷ lệ 1:1; đây là canon hiện hành. Đề xuất trước đó về việc tạm dừng thời gian ở thế giới thực không phù hợp với quy tắc này và không được đưa vào tài liệu.
 - Đề xuất xây dựng tên gọi, tính cách và năng lực riêng cho ba hệ thống đồng hành được để lại, chưa cập nhật và chưa trở thành canon.
+
+## 2026-11-13 – Chốt chức năng gốc và năng lực riêng của Lạc Tinh (SYSTEM_CHARACTER_BIBLE.md v2.1)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Nội dung được chốt
+- Chức năng gốc của Lạc Tinh là **Hệ thống Khai thác Cơ hội**: thu thập thông tin về nguồn lực có thể tận dụng, phân tích các phương án tiếp cận, đánh giá lợi thế/bất lợi và đề xuất cách tận dụng nguồn lực sẵn có để giảm chi phí thực hiện nhiệm vụ.
+- Lạc Tinh chỉ cung cấp thông tin, phân tích và đề xuất; không được sửa mục tiêu/điều kiện/nội dung nhiệm vụ, tự quyết định phần thưởng hoặc tự tạo cơ hội và nguồn lực.
+- Năng lực riêng là **Quét Cơ Hội**: đánh dấu những cơ hội có khả năng mang lại lợi thế cho ký chủ trong phạm vi thông tin mà Lạc Tinh tiếp cận được.
+- Năng lực không đọc suy nghĩ, không biết trước lựa chọn, không nhìn thấy tương lai, không xác định tuyệt đối thiện/ác và không tạo cơ hội từ hư không. Kết quả có thể thiếu hoặc sai nếu dữ liệu đầu vào không đầy đủ.
+- Không đặt định mức năng lượng riêng cho mỗi lần quét/phân tích. Nếu hoạt động thực tế phát sinh hiệu ứng can thiệp tiêu hao năng lượng thì áp dụng SYS-007; không mặc định mọi lần phân tích đều là can thiệp tiêu hao.
+- Ký chủ giữ quyền cân nhắc và quyết định có thực hiện phương án hay không.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.0 lên **v2.1**.
+- Chức năng gốc và năng lực riêng của Lạc Tinh đã chốt.
+- Chức năng gốc, năng lực riêng của Kỷ Ngôn và Bạch Miên; cấp bậc, quyền hạn và cơ chế năng lượng riêng của cả ba vẫn để mở.
+- Không thay đổi các quy tắc vận hành, thẩm quyền hoặc năng lượng đã có trong SYSTEM_BIBLE.md và các tài liệu SYS.
