@@ -1,3 +1,59 @@
+## 2026-11-13 – Tổng hợp canon nền WORLD_001 “Bảy ngày giữ thành”
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_001_BAY_NGAY_GIU_THANH_DAN_Y.md` – bản 0.1 → **bản 0.2**
+
+### Nội dung đã chốt
+
+**Phạm vi và tiền đề**
+- WORLD_001 là thế giới chỉ có người vợ tham gia; người chồng và con trai không cùng xuyên vào thế giới này.
+- Ký chủ nhập vào chính cơ thể Tạ Minh Châu, nữ, 32 tuổi, trước quyết định đầu hàng trong cuộc vây thành đầu tiên.
+- Chỉ có một cuộc vây thành trong dòng thời gian nhiệm vụ; không có vòng lặp hoặc cuộc vây thành thứ hai.
+- Người ủy thác từng là tướng lĩnh có năng lực và được binh lính tôn trọng, nhưng đã phạm sai lầm nghiêm trọng khi tin lời hứa đầu hàng của quân Lương. Không dùng âm mưu bí mật để xóa bỏ trách nhiệm của nàng.
+
+**Nguyện vọng và nhiệm vụ**
+- Tạ Minh Châu muốn sửa chữa quyết định đầu hàng và giữ được Trường Ninh; không đặt mục tiêu báo thù, giết chủ tướng địch, khôi phục danh tiếng hoặc buộc triều đình minh oan.
+- Thời hạn nhiệm vụ là 7 ngày.
+- Các điều kiện theo hướng đã thống nhất: Trường Ninh còn thuộc quyền Đại Ung khi viện binh tới; ký chủ không chủ động đầu hàng/giao thành cho Lương; lực lượng phòng thủ còn đủ khả năng duy trì quyền kiểm soát và bàn giao; hoàn thành trong 7 ngày.
+- Không bắt buộc không có thương vong, tiêu diệt toàn bộ quân Lương, bắt/giết chủ tướng địch hoặc được mọi người tha thứ.
+- Thành công: ký chủ được ở lại thêm 2–3 ngày để xử lý hậu chiến trước mắt rồi rời đi. Thất bại: rời thế giới ngay. Quy tắc này chỉ áp dụng cho WORLD_001.
+
+**Quy mô**
+- Dân thường: 6.000.
+- Quân chính quy phòng thủ: 2.000.
+- Dân binh: 500.
+- Quân Lương vây thành: 6.000.
+- Viện binh Đại Ung: 8.000.
+- Quân chính quy không mặc định đều sẵn sàng chiến đấu; dân binh chủ yếu làm hậu cần, sửa chữa, chữa cháy, cảnh giới và hỗ trợ phòng thủ, không phải quân tinh nhuệ.
+
+**Âm mưu và nhân vật**
+- Có ít nhất hai tuyến rò rỉ thông tin: một người chủ động hợp tác với Lương vì lợi ích/gia đình; một người bị cưỡng ép vì Lương khống chế người thân.
+- Việc phát hiện phải dựa trên chứng cứ; không đánh đồng người chủ động phản bội với người bị ép buộc; phát hiện một người không tự động giải quyết mọi nguy cơ.
+- Lục Kính, Chu Hoài và Tống Nghi sống sót trong WORLD_001. Hồ sơ chi tiết của họ vẫn cần hoàn thiện.
+- Có thể có thương vong ở nhân vật phụ, binh lính và dân chúng; không giết nhân vật chỉ để tạo cú sốc.
+
+**Sắc thái và độ dài**
+- Kết thúc theo hướng chiến thắng có mất mát, bi tráng nhưng thỏa mãn; thành quả thuộc về những người cùng giữ thành, không chỉ nữ chính hoặc viện binh.
+- Không yêu cầu mọi người tha thứ cho Tạ Minh Châu hoặc triều đình lập tức minh oan.
+- Truyện không quá 15 chương; phương án 14 chương mới chỉ là đề xuất, chưa phải canon.
+
+### Nội dung chưa được khóa
+- Bản đồ, kích thước thành, số cổng, địa hình, vị trí công trình và tuyến đường.
+- Cơ cấu chi tiết của 2.000 quân chính quy và 500 dân binh.
+- Bảng hậu cần, lượng lương thực/nước/vũ khí/thuốc/vật tư và biến động theo từng ngày.
+- Mốc giờ bắt đầu/kết thúc 7 ngày; tuyến đường, khoảng cách, trở ngại và liên lạc của viện binh.
+- Tiêu chí kiểm chứng “thành còn thuộc Đại Ung” và “đủ khả năng bàn giao”.
+- Cấp nhiệm vụ D trong WORLD_INDEX cần được đối chiếu SYS-002 trước khi xác nhận là cấp cuối cùng.
+- Hồ sơ nhân vật chi tiết, danh tính hai người rò rỉ, chuỗi chứng cứ, quyền hạn chỉ huy, chiến thuật từng đợt tấn công, bảng thương vong và trình tự hậu chiến.
+- Các tên/vai trò như Tạ Văn Tùng, Hách Liên Sóc và Trần Dã chưa được khóa thành canon; các bố cục địa hình và chiến dịch cụ thể vẫn là đề xuất.
+
+### Trạng thái
+- WORLD_001 được cập nhật theo hướng phân tách rõ canon đã chốt, đề xuất đang giữ và các điểm còn thiếu.
+- Các đề xuất chưa được duyệt không được dùng làm dữ kiện cố định khi viết chương.
+- Không thay đổi SYSTEM_BIBLE, SYSTEM_CHARACTER_BIBLE, SYS docs hoặc WORLD_INDEX trong lần cập nhật này.
+
+---
+
 ## 2026-11-13 – Chốt gói quy tắc còn mở và đồng bộ tài liệu hệ thống
 
 **Tài liệu cập nhật:**
