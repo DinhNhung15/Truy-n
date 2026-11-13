@@ -1,3 +1,49 @@
+## 2026-11-13 – Chốt gói quy tắc còn mở và đồng bộ tài liệu hệ thống
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md` – v1.26 → v1.27
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md` – v3.8 → v3.9
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-002.md` – đồng bộ metadata theo SYSTEM_BIBLE v1.27
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-007.md` – đồng bộ metadata và bổ sung nguyên tắc phân loại/ghi nhận theo SYSTEM_BIBLE v1.27
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-009.md` – đồng bộ metadata theo SYSTEM_BIBLE v1.27
+
+### Quyết định canon đã chốt
+
+**SYS-002 và SYS-009**
+- Giữ nguyên các cơ chế đã có trong SYSTEM_BIBLE; không thiết kế lại hệ thống phân cấp nhiệm vụ, giá S, cửa hàng, chợ, phí đăng bán hoặc nâng cấp kỹ năng.
+- Đồng bộ thông tin phiên bản của hai tài liệu chuyên biệt theo SYSTEM_BIBLE v1.27.
+
+**SYS-007 – Nguyên tắc áp dụng**
+- Phân loại E₀, Kp, Kt, Ks theo hiệu ứng thực tế và bằng chứng; chỉ áp dụng bậc cao hơn khi có căn cứ chứng minh hiệu ứng đáp ứng tiêu chí tương ứng.
+- Khi chưa có căn cứ cho bậc cao hơn nhưng có căn cứ rõ ràng cho bậc thấp hơn, áp dụng bậc thấp hơn được chứng minh; không suy đoán để tăng chi phí.
+- Phân tích, mô phỏng dựa trên dữ liệu, theo dõi, cảnh báo, cung cấp thông tin và đề xuất thuần túy không phát sinh chi phí can thiệp riêng nếu không trực tiếp tạo hiệu ứng. Can thiệp thực tế vẫn chịu công thức SYS-007.
+- Mỗi hiệu ứng độc lập hoặc giai đoạn hiệu ứng có sổ riêng, ghi nhận mục tiêu, E₀, Kp, Kt, Ks, tổng chi phí tính lại, E_đã_tính, ΔE và năng lượng thực tế đã thu. Không bù trừ giữa các hiệu ứng.
+- Không thay đổi các ngưỡng, hệ số, ví dụ và quy tắc tính phí đã chốt trước đó.
+
+**Người ủy thác và quỹ thưởng**
+- Giữ nguyên bốn cấp vi phạm Cấp 0–3 và chế tài hiện hành. Khi kết luận phải có bằng chứng về hành vi, mức độ cố ý và hậu quả; thông tin sai hoặc kết quả xấu tự nó không đủ để kết luận phá hoại.
+- Cấp 3 chỉ áp dụng khi có căn cứ chứng minh hành vi chủ động can thiệp nhằm làm nhiệm vụ thất bại hoặc khiến ký chủ tử vong.
+- Quỹ 20% là nguồn duy nhất cho thưởng tự nguyện của người ủy thác; không có nguồn thưởng thứ ba, không cấp bù từ kho chung và không phân bổ vượt số dư thực tế. Phương án đã quyết toán không được điều chỉnh hồi tố.
+- Giữ nguyên nguyên tắc chế tài tương xứng, không có tỷ lệ khấu trừ cố định và không tự động tiêu diệt toàn bộ linh hồn.
+
+**Hồ sơ ba hệ thống và quy trình Tổng bộ**
+- Quyền hạn cá nhân chỉ phát sinh từ chức năng/vị trí được giao; không có quyền hạn đặc biệt ngoài phạm vi chức vụ nếu chưa được xác nhận.
+- Không có định mức/hạn mức năng lượng riêng do Tổng bộ cấp cho từng cá nhân ngoài cơ chế kho chung; năng lượng cá nhân của hệ thống tiếp tục theo SYS-007.
+- Các Trung tâm và cá nhân áp dụng quy trình chung của Tổng bộ cùng quy trình nghiệp vụ đã phê duyệt; không tự đặt quy trình riêng để thay đổi thẩm quyền/cơ chế.
+- Hoạt động phân tích, mô phỏng, giám sát, cảnh báo và đề xuất thuần túy không phát sinh chi phí can thiệp riêng nếu không trực tiếp tạo hiệu ứng.
+- Các chi tiết quá khứ và đời sống cá nhân chưa ghi trong hồ sơ vẫn có thể phát triển riêng, nhưng không được tự ý làm thay đổi cơ chế Tổng bộ, quyền hạn, năng lực hoặc canon đã chốt.
+
+**Thế giới nhiệm vụ**
+- WORLD_017 – “Bố Và Con Đồng Hành” và WORLD_018 – “Tinh Hải Cơ Giáp” tiếp tục ở trạng thái phát triển riêng. Chỉ ghi nhận tên/chủ đề đã có; chưa chốt bối cảnh chi tiết, quy tắc thế giới, phe phái, nhân vật, xung đột, tuyến nhiệm vụ hoặc kết thúc. Không tự suy diễn các đề xuất trước đó thành canon.
+
+### Trạng thái đồng bộ
+- SYS-010 giữ nguyên vì đã đồng bộ theo SYSTEM_BIBLE v1.21; không mở lại quy tắc vé.
+- Các quy tắc chi tiết của SYS-002, SYS-007, SYS-009 được giữ nguyên, chỉ bổ sung làm rõ các nguyên tắc áp dụng đã được tác giả xác nhận.
+- Không tạo tài liệu SYS-011 mới vì chưa xác định được tệp chuyên biệt tương ứng trong repository; quy tắc thời gian đồng bộ 1:1 tiếp tục nằm trong SYSTEM_BIBLE Mục 15.2.
+- WORLD_017 và WORLD_018 không được viết thêm nội dung thế giới trong lần cập nhật này.
+
+---
+
 ## 2026-11-13 – Chốt hồ sơ ba hệ thống đồng hành và tuyến đời sống tại Tổng bộ
 
 **Tài liệu cập nhật:**
