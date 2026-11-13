@@ -1,8 +1,8 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.6  
-**Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
+**Phiên bản:** 3.7  
+**Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung, phạm vi can thiệp, giới tính (không xác định), cách xưng hô và chất giọng của ba hệ thống. Tuổi đời, thâm niên và các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
 ---
@@ -78,12 +78,36 @@
 
 # 5. QUY TẮC DUY TRÌ TÍNH NHẤT QUÁN
 
-- Không tự đặt tên, tuổi, giới tính, ngoại hình, giọng nói, quá khứ hoặc năng lực cụ thể cho bất kỳ hệ thống nào khi chưa được tác giả xác nhận.
+- Ba hệ thống không xác định giới tính; không gán giới tính sinh học hoặc giới tính nhân hóa cho bất kỳ hệ thống nào.
+- Cách xưng hô và chất giọng của Lạc Tinh, Kỷ Ngôn, Bạch Miên được quy định tại Mục 5.1; khi viết phải giữ nhất quán, không suy diễn giới tính từ chất giọng, cách nói hoặc hình tượng.
+- Không tự đặt tuổi đời, thâm niên, quá khứ hoặc năng lực cụ thể ngoài những nội dung đã được tác giả xác nhận.
 - Không trộn ký ức, cảm xúc hoặc nhân cách của hệ thống này sang hệ thống khác.
 - Hệ thống mới tiếp quản ký chủ là một cá thể độc lập; chỉ nhận dữ liệu nghiệp vụ cần thiết, không nhận ký ức/cảm xúc/đời tư của hệ thống cũ.
 - Hệ thống cũ được khôi phục từ bản sao lưu vẫn là chính cá thể cũ, với mức độ ký ức và cảm xúc phụ thuộc dữ liệu còn lại. Việc khôi phục không biến nó thành hệ thống mới đang tiếp quản.
 - Mọi chi tiết về hệ thống phải tuân thủ các quy tắc vận hành, năng lượng, quyền hạn, sập/đóng băng và khôi phục trong `SYSTEM_BIBLE.md`.
 
+
+## 5.1. Giới tính, cách xưng hô và chất giọng đã chốt
+
+### Giới tính
+- Lạc Tinh, Kỷ Ngôn và Bạch Miên đều không xác định giới tính.
+- Không gán giới tính sinh học hoặc giới tính nhân hóa; không dùng giới tính làm căn cứ suy ra vai trò, tính cách hay cách giao tiếp.
+- Việc không xác định giới tính không làm mất đi cá tính, bản sắc hoặc sự khác biệt trong giọng nói của từng hệ thống.
+
+### Cách xưng hô
+- Trong giao tiếp thông thường với bạn bè và đồng nghiệp, cả ba dùng đại từ tự xưng **“tôi”**; khi gọi người ngang hàng hoặc thân thiết có thể dùng **“cậu”**, **“bạn”**, tên riêng hoặc biệt danh tùy mức độ thân thiết.
+- Với tiền bối hoặc người có chức vụ cao hơn, ưu tiên dùng **tên riêng, chức danh hoặc cách gọi “tiền bối”**; không dùng cách xưng hô dựa trên giới tính như “anh”, “chị”, “chú”, “cô”.
+- Trong giao tiếp công việc, có thể gọi theo chức danh hoặc mã/vị trí khi phù hợp.
+- Không bắt buộc mọi nhân vật phải dùng cùng một cách gọi trong mọi tình huống; mức độ thân thiết và bối cảnh quyết định lựa chọn giữa tên riêng, biệt danh, “cậu” và “bạn”.
+- Không dùng đại từ hoặc danh xưng mang giới tính để gọi ba hệ thống.
+
+### Chất giọng
+- **Lạc Tinh:** Giọng sáng, linh hoạt và giàu biểu cảm; khi hào hứng có thể nói nhanh. Khi nghiêm túc biết hạ nhịp, nói ngắn và rõ.
+- **Kỷ Ngôn:** Giọng rõ ràng, ổn định và điềm tĩnh; nhấn trọng tâm khi phân tích, thường giữ nhịp nói mạch lạc. Khi mất bình tĩnh có thể nói nhanh hơn nhưng vẫn cố giữ sự kiểm soát.
+- **Bạch Miên:** Giọng nhẹ, ấm và vừa phải; khi lo lắng thường nói chậm, hỏi kỹ; khi kiên quyết thì ngắn gọn, dứt khoát.
+- Chất giọng là đặc điểm nhận diện cá nhân, không phải dấu hiệu xác định giới tính.
+
+---
 
 # 6. ĐỊNH HƯỚNG CHUNG ĐÃ CHỐT – SẮC THÁI VÀ QUAN HỆ
 
