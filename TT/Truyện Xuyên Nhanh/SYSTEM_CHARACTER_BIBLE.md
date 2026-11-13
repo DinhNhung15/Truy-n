@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.0  
+**Phiên bản:** 3.1  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -420,6 +420,11 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - Một nhiệm vụ có thể tạo ra nhiều đóng góp chuyên môn khác nhau; tuy nhiên, cùng một đóng góp không được ghi nhận hoặc cộng dồn trùng lặp.
 - Giá trị thành tích được đánh giá theo chất lượng và mức độ đóng góp thực tế. Một đóng góp xuất sắc có giá trị cao hơn đóng góp tốt; không mặc định lấy số lần thực hiện làm thước đo.
 - Thành tích chuyên môn được tích lũy xuyên suốt quá trình hoạt động của hệ thống, không bị xóa hoặc đặt lại chỉ vì hệ thống đổi ký chủ hay chuyển sang thế giới nhiệm vụ khác.
+- Việc hệ thống mắc lỗi được xem xét theo tính chất, nguyên nhân, mức độ hậu quả và cách hệ thống xử lý sau lỗi; không áp dụng một hình phạt thành tích giống nhau cho mọi trường hợp:
+  1. **Lỗi vô ý, hậu quả nhỏ:** Không tự động xóa thành tích đã tích lũy. Khi đánh giá chuyên môn, xem xét chất lượng xử lý và trách nhiệm của hệ thống sau khi phát hiện lỗi.
+  2. **Lỗi nghiêm trọng do hạn chế năng lực hoặc phán đoán sai:** Đóng góp liên quan có thể không được ghi nhận thành tích; mức độ ảnh hưởng đến đánh giá chuyên môn được xem xét theo hậu quả và cách xử lý.
+  3. **Cố ý vi phạm, vượt quyền hoặc phá hoại:** Xử lý theo quy định vi phạm của Tổng bộ. Hành vi vi phạm không được tính là đóng góp chuyên môn tốt, kể cả khi kết quả tình cờ giúp ký chủ hoàn thành nhiệm vụ.
+- Một lỗi nhỏ không làm mất toàn bộ thành tích chuyên môn đã tích lũy; đồng thời, kết quả nhiệm vụ tốt không được dùng để che lấp hoặc hợp thức hóa hành vi sai phạm.
 - Nếu hệ thống tự ý vượt quyền hoặc vi phạm quy định nhưng ký chủ vẫn hoàn thành nhiệm vụ, thành tích nhiệm vụ vẫn được ghi nhận theo kết quả; hành vi vi phạm được xem xét riêng và ảnh hưởng đến đánh giá thành tích chuyên môn.
 - Việc tiêu hao nhiều năng lượng tự thân không phải bằng chứng mặc định cho năng lực hoặc thành tích chuyên môn tốt.
 - Muốn thăng một cấp, hệ thống bắt buộc phải đạt ngưỡng của cả thành tích nhiệm vụ và thành tích chuyên môn.
@@ -443,4 +448,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.0**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.1**
