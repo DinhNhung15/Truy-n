@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.3  
+**Phiên bản:** 3.4  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -436,6 +436,9 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - Khiếu nại cần nêu rõ nội dung bị khiếu nại và căn cứ liên quan. Bộ phận đánh giá chuyên môn có trách nhiệm xem xét lại hồ sơ và căn cứ được cung cấp.
 - Nếu xác định có sai sót, kết quả đánh giá được điều chỉnh cho phù hợp; nếu không có căn cứ thay đổi, giữ nguyên kết quả.
 - Việc gửi khiếu nại không tự động làm tăng thành tích, thay đổi kết quả đánh giá hoặc tạo quyền thăng cấp.
+- **Khiếu nại lần hai:** Nếu không đồng ý với kết quả xem xét lại của Bộ phận đánh giá chuyên môn, hệ thống có quyền gửi yêu cầu Khối Tổng bộ kiểm tra lần cuối.
+- Khối Tổng bộ xem xét hồ sơ, nội dung khiếu nại và kết quả đánh giá lại; có thể yêu cầu đánh giá lại hồ sơ hoặc quyết định giữ nguyên kết quả.
+- Kết luận của Khối Tổng bộ là kết quả xử lý cuối cùng trong quy trình khiếu nại này.
 - Muốn thăng một cấp, hệ thống bắt buộc phải đạt ngưỡng của cả thành tích nhiệm vụ và thành tích chuyên môn.
 - Ngưỡng thành tích chuyên môn được định hướng cao hơn và là yếu tố tạo độ khó đáng kể khi thăng cấp.
 - Khoảng cách thành tích cần thiết giữa các cấp tăng dần; cấp càng cao càng khó thăng cấp.
@@ -457,4 +460,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.3**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.4**
