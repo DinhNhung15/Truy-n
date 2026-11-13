@@ -810,3 +810,38 @@
 - Không thay đổi thang cấp, thông số năng lượng, cơ chế sập/đóng băng hoặc các quy tắc khác trong SYS-007.
 - Không tự đặt tiêu chí/chỉ tiêu hoặc quy trình thăng cấp khi chưa được xác nhận.
 
+
+
+## 2026-11-13 – Chốt nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống (SYSTEM_CHARACTER_BIBLE.md v2.5)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Nguyên tắc hoạt động chung
+- Ba hệ thống được chủ động thực hiện nghiệp vụ chuyên môn thuộc chức năng gốc; có thể theo dõi, phân tích, cảnh báo, hướng dẫn và đề xuất mà không cần ký chủ ra lệnh cho từng thao tác.
+- Phân biệt ba mức: theo dõi/phân tích; cảnh báo/hướng dẫn/đề xuất; can thiệp thực tế tạo hiệu ứng lên cơ thể, vật thể, môi trường hoặc trạng thái trong thế giới nhiệm vụ.
+- Theo dõi, phân tích, cảnh báo và đề xuất không mặc định tiêu hao năng lượng can thiệp. Hiệu ứng can thiệp thực tế được tính theo SYS-007, căn cứ hiệu ứng thực tế chứ không theo số lần giao tiếp hoặc số lệnh.
+- Can thiệp thông thường cần ký chủ đồng ý.
+- Hệ thống được tự ý can thiệp trong tình huống khẩn cấp khi đủ cả ba điều kiện: nguy cơ cận kề; có khả năng gây tử vong, thương tích nghiêm trọng hoặc tổn hại khó khắc phục; không còn đủ thời gian xin phép mà việc chờ đợi có thể làm mất cơ hội ngăn chặn nguy hiểm.
+- Khi can thiệp khẩn cấp, chỉ được dùng biện pháp cần thiết để ngăn nguy hiểm; sau khi tình huống được kiểm soát phải thông báo hành động và năng lượng đã tiêu hao cho ký chủ.
+- Ngoại lệ khẩn cấp chỉ bỏ qua yêu cầu xin phép trước, không mở rộng năng lực hoặc quyền hạn vốn có.
+
+### Phạm vi riêng
+- **Lạc Tinh:** chủ động tìm kiếm, phân tích và đề xuất cơ hội; không tự ý thay đổi thế giới nhiệm vụ để tạo lợi thế cho ký chủ.
+- **Kỷ Ngôn:** chủ động phân tích, mô phỏng và cảnh báo rủi ro; không tự ý thay đổi tình huống để ép kết quả theo phương án an toàn.
+- **Bạch Miên:** được sử dụng năng lượng của chính mình để trực tiếp bảo hộ ký chủ trong giới hạn chức năng, năng lực và quyền hạn được cấp, kể cả can thiệp khẩn cấp.
+
+### Yêu cầu trái quyền hạn và trách nhiệm
+- Khi ký chủ yêu cầu hành động trái chức năng, quyền hạn hoặc quy định Tổng bộ, hệ thống phải từ chối; sự đồng ý của ký chủ không hợp thức hóa hành động bị cấm.
+- Hệ thống có thể giải thích giới hạn và đề xuất phương án thay thế hợp lệ. Từ chối yêu cầu trái quy định không tự thân cấu thành vi phạm.
+- Nếu hệ thống cố ý thực hiện hành động vượt quyền hoặc trái quy định, trách nhiệm được xem xét theo quy chế hiện hành của Tổng bộ; không tự đặt hình thức xử lý mới.
+
+### Phạm vi chưa chốt
+- Các định mức năng lượng riêng ngoài cơ chế chung SYS-007 (nếu có).
+- Thủ tục chi tiết về xin phép, ghi nhận, báo cáo và xử lý vi phạm nếu chưa được quy định tại tài liệu quản trị tương ứng.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.4 lên **v2.5**.
+- Không thay đổi chức năng gốc, năng lực riêng, cấp bậc hoặc cơ chế năng lượng SYS-007.
+- Không trao thêm quyền can thiệp cho Lạc Tinh hoặc Kỷ Ngôn; không biến quyền bảo hộ của Bạch Miên thành quyền bảo vệ vô hạn.
