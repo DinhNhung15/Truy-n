@@ -1016,3 +1016,37 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 ### Trạng thái
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.3 lên **v3.4**.
 - Giữ nguyên các vai trò: Khối Chấp Hành lập hồ sơ; Bộ phận đánh giá chuyên môn đánh giá và xem xét khiếu nại lần đầu; Khối Tổng bộ xử lý khiếu nại lần hai và phê duyệt thăng cấp.
+
+
+## 2026-11-13 – Chốt đề án tổng thể thành tích, đánh giá, khiếu nại và thăng cấp (SYSTEM_CHARACTER_BIBLE.md v3.5)
+
+### Rà soát tương thích canon
+- Đối chiếu với SYSTEM_CHARACTER_BIBLE.md v3.4 và SYSTEM_BIBLE.md v1.24.
+- Không thay đổi thang cấp hệ thống F–SS, cơ chế năng lượng SYS-007, quy tắc nhiệm vụ thất bại cuối cùng hoặc thẩm quyền xử lý vi phạm hiện hành.
+- Làm rõ: hệ thống đồng hành chỉ nhận thành tích nhiệm vụ khi ký chủ trong lượt đồng hành hoàn thành nhiệm vụ; lượt thất bại không có thành tích nhiệm vụ nhưng vẫn có thể được xem xét thành tích chuyên môn.
+- Phân biệt đánh giá lỗi phục vụ thành tích với phân loại vi phạm hệ thống tại SYSTEM_BIBLE.md §15.9.
+
+### Nội dung đã chốt
+1. Điểm thành tích nhiệm vụ theo cấp nhiệm vụ: F=1, E=2, D=4, C=8, B=16, A=32, S=64, SS=128.
+2. Điểm thành tích chuyên môn: Hoàn thành chức trách=0; Đóng góp tốt=1; Đóng góp xuất sắc=3.
+3. Năm tiêu chí đánh giá chuyên môn: năng lực chuyên môn; giá trị đóng góp; khả năng xử lý tình huống; tính chủ động và trách nhiệm; tuân thủ quy định.
+4. Ngưỡng điểm cần tích lũy thêm cho từng lần thăng cấp:
+   - F→E: TN 10, CM 12.
+   - E→D: TN 20, CM 24.
+   - D→C: TN 40, CM 48.
+   - C→B: TN 80, CM 96.
+   - B→A: TN 160, CM 192.
+   - A→S: TN 320, CM 384.
+   - S→SS: TN 640, CM 768.
+5. Ghi nhận sau khi kết quả mỗi lượt ký chủ thực hiện nhiệm vụ được xác nhận; TN chỉ ghi khi lượt hoàn thành, CM có thể ghi nhận cả khi lượt thất bại; tổng kiểm tra hồ sơ mỗi 30 ngày Tổng bộ.
+6. Hệ thống được xem hồ sơ thành tích của chính mình; mọi điều chỉnh phải có căn cứ, lý do và lịch sử thay đổi.
+7. Khiếu nại: kiểm tra tính đầy đủ trong 2 ngày làm việc; lần một 5 ngày làm việc; lần hai tại Khối Tổng bộ 10 ngày làm việc; mỗi cấp được gia hạn một lần tối đa 5 ngày làm việc và phải thông báo lý do.
+8. Người trực tiếp đánh giá ban đầu không phải người duy nhất xem xét khiếu nại lần một; người có xung đột lợi ích phải rút khỏi việc đánh giá vụ việc.
+9. Khi điều tra vi phạm, chỉ tạm hoãn phần thành tích liên quan trực tiếp nếu cần; không khóa toàn bộ hồ sơ mặc định.
+10. Nếu phát hiện gian lận hoặc ghi nhận sai, chỉ điều chỉnh/thu hồi phần sai có bằng chứng; bảo toàn các thành tích hợp lệ khác.
+11. Bộ phận đánh giá chuyên môn được xác lập theo chức năng; tên chính thức và vị trí trực thuộc trong sơ đồ Tổng bộ chưa chốt.
+12. Cách xử lý hoặc quy đổi hồi tố thành tích trước thời điểm cơ chế điểm số có hiệu lực vẫn để mở.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.4 lên **v3.5**.
+- Các nguyên tắc hai loại thành tích độc lập, thành tích chuyên môn ba mức, tích lũy xuyên suốt, không cộng trùng, điều kiện đạt cả hai ngưỡng và thẩm quyền phê duyệt thăng cấp của Khối Tổng bộ tiếp tục được giữ nguyên.
