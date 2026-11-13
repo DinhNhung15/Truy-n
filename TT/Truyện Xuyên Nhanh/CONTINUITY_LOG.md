@@ -1,3 +1,24 @@
+## 2026-11-13 – Chốt lại quyền chuyển nhượng Vé Về Nhà (SYS-010)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_BIBLE.md` – v1.20 → v1.21
+- `TT/Truyện Xuyên Nhanh/SYS/SYS-010.md`
+
+### Quyết định canon
+- Vé mua cho bản thân có giá 1 tỷ điểm, là vé cá nhân gắn cố định với người mua ban đầu. Chỉ người mua ban đầu được kích hoạt; vé không thể cho, tặng, bán, trao đổi, chuyển giao hoặc chuyển quyền sử dụng. Nếu bị cướp/chiếm đoạt, người chiếm giữ không có quyền kích hoạt.
+- Vé mua để trao cho người khác có giá 10 tỷ điểm, là vé chuyển nhượng. Người mua không cần chỉ định trước người nhận.
+- Vé chuyển nhượng được cho, tặng, bán, trao đổi hoặc chuyển giao không giới hạn số lần; việc bị cướp/chiếm đoạt cũng không làm mất quyền kích hoạt của người đang nắm giữ.
+- Người nhận, được cho, tặng, mua lại hoặc cướp/chiếm đoạt vé chuyển nhượng không phải trả thêm phí khi sử dụng. Giá 10 tỷ là toàn bộ chi phí; không có khoản chênh lệch 9 tỷ, phí chuyển nhượng hay phí kích hoạt.
+- Không thể mua vé cá nhân 1 tỷ rồi trả thêm để đổi thành vé chuyển nhượng 10 tỷ. Loại vé được xác định tại thời điểm mua.
+- Quy tắc cũ cho phép trả thêm 9 tỷ để đổi vé cá nhân thành vé vô danh đã bị thay thế hoàn toàn.
+
+### Trạng thái
+- SYS-010 và SYSTEM_BIBLE Mục 7.3 đã được đồng bộ theo quyết định mới.
+- SYSTEM_BIBLE nâng lên v1.21.
+- Đây là quy tắc canon thay thế toàn bộ cơ chế vé cá nhân/ vé vô danh và khoản chênh lệch 9 tỷ của v1.20.
+
+---
+
 ## 2026-11-13 – Chốt toàn bộ vấn đề còn mở của SYS-007, SYS-010 và thất bại cuối cùng
 
 **Tài liệu cập nhật:**
