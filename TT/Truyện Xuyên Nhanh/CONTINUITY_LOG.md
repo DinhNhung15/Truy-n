@@ -845,3 +845,16 @@
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.4 lên **v2.5**.
 - Không thay đổi chức năng gốc, năng lực riêng, cấp bậc hoặc cơ chế năng lượng SYS-007.
 - Không trao thêm quyền can thiệp cho Lạc Tinh hoặc Kỷ Ngôn; không biến quyền bảo hộ của Bạch Miên thành quyền bảo vệ vô hạn.
+
+
+## 2026-11-13 – Không áp dụng cơ chế ủy quyền trước cho can thiệp thông thường (SYSTEM_CHARACTER_BIBLE.md v2.6)
+
+### Nội dung được chốt
+- Không áp dụng cơ chế ký chủ ủy quyền trước để hệ thống tự thực hiện các hành động can thiệp thông thường.
+- Với can thiệp thông thường, hệ thống phải xin ý kiến và nhận được sự đồng ý của ký chủ trước khi thực hiện.
+- Ngoại lệ duy nhất đã chốt là tình huống khẩn cấp đáp ứng đồng thời các điều kiện: nguy cơ cận kề; có khả năng gây tử vong, thương tích nghiêm trọng hoặc tổn hại khó khắc phục; không còn đủ thời gian xin phép mà việc chờ đợi có thể làm mất cơ hội ngăn chặn nguy hiểm.
+- Quyết định này không thay đổi phạm vi chức năng, năng lực, quyền hạn hoặc công thức tính năng lượng theo SYS-007.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.5 lên **v2.6**.
+- Cơ chế ủy quyền trước không được áp dụng; không phải một quyền mặc định của ký chủ hay hệ thống.
