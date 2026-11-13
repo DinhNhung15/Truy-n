@@ -205,49 +205,41 @@ Không mặc định kẻ chủ mưu là Nhị Hoàng tử; không mặc định
 
 ## 8. Diễn biến dòng thời gian của hai ký chủ
 
-### Giai đoạn 1 – Trở về kinh thành, duy trì vỏ bọc
+### Giai đoạn 1 – Cùng che giấu, âm thầm quan sát
 
-**Mục tiêu:** Thiết lập thân phận, quan hệ và tình hình Tống gia trước biến cố.
+- Cả hai ký chủ xuyên vào thân phận nguyên chủ nhưng **không biết đối phương cũng là ký chủ**.
+- Những lần cãi vã, lời nói khó nghe và hành động bất hòa là cách mỗi người tái hiện thói quen, cách cư xử của nguyên chủ dựa trên ký ức tiếp nhận được. Mục đích là tránh để người xung quanh nhận ra sự khác thường.
+- Mỗi người âm thầm tìm cách hoàn thành nhiệm vụ riêng. Ký chủ nữ chú ý đến nguy cơ đối với Tống gia; ký chủ nam tìm cách bảo vệ thê tử.
+- Trong quá trình hành động, cả hai dần nhận thấy đối phương dường như cũng đang hướng đến một mục đích tương tự mình.
+- Ban đầu chỉ là nghi ngờ. Họ quan sát cách đối phương xử lý sự việc, phản ứng trước tình huống bất thường và những lựa chọn có vẻ trùng hợp.
+- Dù chưa biết thân phận thật của nhau, cả hai đều cảm nhận đối phương không có ý đồ xấu. Vì vậy, họ không vạch trần hay chủ động thăm dò quá mức.
+- **Không trao đổi thông tin, không xác nhận thân phận, không lập kế hoạch chung.** Mọi sự hỗ trợ nếu có ở giai đoạn này chỉ xuất phát từ hành động riêng lẻ và sự quan sát.
 
-- Lục Trầm trở về kinh thành sớm hơn nguyên tác.
-- Hai ký chủ xác nhận thân phận theo cơ chế đoàn tụ ở mục 4.
-- Trước mặt người ngoài, họ tiếp tục diễn vai vợ chồng bất hòa.
-- Uyển Ninh tiếp xúc với những vấn đề của Tống gia và phát hiện sổ sách có điểm đáng ngờ.
-- Lục Trầm tìm hiểu tình hình quân lương, báo cáo và tuyến cung ứng từ phía quân đội.
-- Hai người trao đổi thông tin, thống nhất không để Tống gia bị vu oan như nguyên tác.
+**Trạng thái cuối giai đoạn:** Hai người vẫn giữ bí mật, chưa biết đối phương là ký chủ, nhưng đã có nghi ngờ và hình thành sự tin tưởng ngầm rằng người kia không có ý xấu.
 
-### Giai đoạn 2 – Ngăn vụ án quân lương và cứu Tống gia
+### Giai đoạn 2 – Phối hợp mà không nói rõ
 
-**Mục tiêu:** Phá vỡ kế hoạch vu oan trước khi Tống gia bị kết án.
+- Trong quá trình tìm cách giải quyết nguy cơ đối với Tống gia, ký chủ nam dần suy đoán nhiệm vụ của thê tử có thể là **“Cứu gia đình”**.
+- Hắn không hỏi thẳng, không vạch trần suy đoán và cũng không nói ra nhiệm vụ của mình. Thay vào đó, hắn thuận theo hướng hành động của nàng, chủ động tạo điều kiện và phối hợp điều tra.
+- Sự phối hợp ban đầu được thực hiện thông qua thân phận và trách nhiệm của Lục Trầm: hắn xử lý những việc thuộc quân đội, vận chuyển và quân lương; nàng kiểm tra sổ sách, chứng từ và những đầu mối thuộc Tống gia.
+- Hai người không cần nói rõ kế hoạch. Hành động của người này dần bổ trợ cho người kia, nhưng trước mặt người ngoài vẫn duy trì cách cư xử như vợ chồng bất hòa.
+- Không lâu sau, ký chủ nữ cũng nhận ra chồng đang cố ý phối hợp với mình. Nàng hiểu những hành động tưởng như tình cờ của hắn thực chất đều đang giúp nàng tiến gần đến mục tiêu.
+- Từ đó, hai người hình thành cách phối hợp không lời: không công khai trao đổi thân phận, không hỏi về nhiệm vụ, nhưng biết khi nào nên hỗ trợ và khi nào nên để đối phương tự xử lý.
+- Việc phối hợp không đồng nghĩa họ đã xác nhận chắc chắn đối phương là ký chủ. Họ chỉ nhận ra người kia có mục đích tương đồng và đang chủ động giúp mình.
 
-Hai ký chủ kiểm tra từng khâu của quá trình vận chuyển:
-- Đối chiếu số lượng ghi trong sổ với số lượng thực tế.
-- Kiểm tra chứng từ xuất kho, biên nhận giao hàng và báo cáo kiểm kê.
-- Xác minh người phụ trách từng chặng.
-- Kiểm tra chi phí có dấu hiệu kê khống.
-- Đối chiếu thời gian hàng rời kho, đến điểm trung chuyển và giao cho quân đội.
+**Trạng thái cuối giai đoạn:** Hai người đã ngầm hiểu và phối hợp trong việc điều tra, nhưng vẫn không trực tiếp trao đổi về thân phận ký chủ hay nội dung khế ước.
 
-Họ phát hiện có người cố tình tạo sai lệch để đẩy trách nhiệm sang Tống gia. Hai người thu thập chứng cứ phản bác cáo buộc và ngăn vụ án oan hình thành.
+### Giai đoạn 3 – Không có thông báo hoàn thành
 
-Kết quả:
-- Phụ thân Tống Uyển Ninh không bị kết tội.
-- Tống gia không bị bắt và không phải chịu cảnh hành hình.
-- Hai ký chủ có thể tạm nghĩ rằng nhiệm vụ đã hoàn thành.
+- Sau khi ngăn chặn được vụ vu oan Tống gia, hai người đều cho rằng mục tiêu trước mắt đã đạt được.
+- Họ chờ thông báo từ hệ thống về tiến độ hoặc kết quả nhiệm vụ.
+- Tuy nhiên, chờ mãi vẫn không nhận được thông báo hoàn thành.
+- Ban đầu, mỗi người nghĩ có thể nhiệm vụ của mình còn thiếu một điều kiện nào đó. Họ chưa vội kết luận nguyên nhân.
+- Khi quan sát tình hình, họ nhận thấy nguy cơ đối với Tống gia vẫn chưa thực sự biến mất. Một số người liên quan tiếp tục có hành động đáng ngờ; những dấu vết của vụ án cũng chưa được giải thích trọn vẹn.
+- Hai người bắt đầu cảm thấy có điều gì đó không đúng: có thể họ mới ngăn được một kế hoạch, chứ chưa giải quyết được nguyên nhân khiến Tống gia bị nhắm đến.
+- Từ đây, họ chủ động điều tra sâu hơn, lần theo chứng từ, sổ sách, dòng tiền, tuyến vận chuyển, nhân chứng và những người thực sự đứng sau.
 
-### Giai đoạn 3 – Phát hiện âm mưu chưa kết thúc
-
-**Mục tiêu:** Nhận ra kẻ đứng sau vẫn muốn bịt miệng Tống gia.
-
-Sau khi vụ vu oan bị ngăn chặn:
-- Có người tìm cách thu hồi hoặc tiêu hủy chứng từ cũ.
-- Một nhân chứng thay đổi lời khai hoặc biến mất.
-- Một khoản tiền đáng ngờ được chuyển qua nhiều người trung gian.
-- Có người tiếp tục dò hỏi tài liệu mà phụ thân Uyển Ninh đang nắm giữ.
-- Những đầu mối tưởng đã kết thúc lại xuất hiện trong vụ việc khác.
-
-Hai ký chủ hiểu rằng ngăn được vụ vu oan chỉ là giải quyết phần nổi. Họ quyết định tiếp tục điều tra để tìm ra kẻ chủ mưu, bảo vệ Tống gia khỏi nguy cơ bị diệt khẩu và chấm dứt đường dây.
-
----
+**Trạng thái cuối giai đoạn:** Hai người tiếp tục điều tra vì không nhận được thông báo hoàn thành và nhận ra sự việc còn điểm bất thường. Việc điều tra sâu hơn bắt nguồn từ những dấu hiệu họ tự phát hiện, không phải do hệ thống tiết lộ âm mưu.
 
 ## 9. Trục điều tra chính – lần theo từng bằng chứng
 
