@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 2.9  
+**Phiên bản:** 3.0  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -417,6 +417,9 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
   2. **Đóng góp tốt:** Hệ thống có đóng góp thực tế giúp ký chủ giải quyết vấn đề hiệu quả hơn, giảm rủi ro hoặc tiết kiệm tài nguyên; có thể được ghi nhận thành tích chuyên môn.
   3. **Đóng góp xuất sắc:** Hệ thống xử lý tình huống khó, phát hiện vấn đề quan trọng, đưa ra giải pháp có giá trị vượt trội hoặc tạo đóng góp đáng kể trong hoàn cảnh bất lợi; được ghi nhận ở mức thành tích chuyên môn cao hơn.
 - Việc phân mức căn cứ vào giá trị và chất lượng đóng góp thực tế, không chỉ căn cứ vào việc hệ thống đã thực hiện đúng chức trách hay chưa.
+- Một nhiệm vụ có thể tạo ra nhiều đóng góp chuyên môn khác nhau; tuy nhiên, cùng một đóng góp không được ghi nhận hoặc cộng dồn trùng lặp.
+- Giá trị thành tích được đánh giá theo chất lượng và mức độ đóng góp thực tế. Một đóng góp xuất sắc có giá trị cao hơn đóng góp tốt; không mặc định lấy số lần thực hiện làm thước đo.
+- Thành tích chuyên môn được tích lũy xuyên suốt quá trình hoạt động của hệ thống, không bị xóa hoặc đặt lại chỉ vì hệ thống đổi ký chủ hay chuyển sang thế giới nhiệm vụ khác.
 - Nếu hệ thống tự ý vượt quyền hoặc vi phạm quy định nhưng ký chủ vẫn hoàn thành nhiệm vụ, thành tích nhiệm vụ vẫn được ghi nhận theo kết quả; hành vi vi phạm được xem xét riêng và ảnh hưởng đến đánh giá thành tích chuyên môn.
 - Việc tiêu hao nhiều năng lượng tự thân không phải bằng chứng mặc định cho năng lực hoặc thành tích chuyên môn tốt.
 - Muốn thăng một cấp, hệ thống bắt buộc phải đạt ngưỡng của cả thành tích nhiệm vụ và thành tích chuyên môn.
@@ -440,4 +443,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.9**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.0**
