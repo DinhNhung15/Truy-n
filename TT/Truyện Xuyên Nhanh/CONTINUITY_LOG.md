@@ -1005,3 +1005,14 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 ### Trạng thái
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.2 lên **v3.3**.
 - Giữ nguyên phân quyền: Khối Chấp Hành lập hồ sơ; Bộ phận đánh giá chuyên môn xem xét; Khối Tổng bộ phê duyệt thăng cấp.
+
+
+## 2026-11-13 – Chốt cơ chế khiếu nại lần hai về đánh giá thành tích (SYSTEM_CHARACTER_BIBLE.md v3.4)
+
+- Nếu không đồng ý với kết quả xem xét lại của Bộ phận đánh giá chuyên môn, hệ thống có quyền gửi yêu cầu Khối Tổng bộ kiểm tra lần cuối.
+- Khối Tổng bộ xem xét hồ sơ, nội dung khiếu nại và kết quả đánh giá lại; có thể yêu cầu đánh giá lại hồ sơ hoặc giữ nguyên kết quả.
+- Kết luận của Khối Tổng bộ là kết quả xử lý cuối cùng trong quy trình khiếu nại này.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.3 lên **v3.4**.
+- Giữ nguyên các vai trò: Khối Chấp Hành lập hồ sơ; Bộ phận đánh giá chuyên môn đánh giá và xem xét khiếu nại lần đầu; Khối Tổng bộ xử lý khiếu nại lần hai và phê duyệt thăng cấp.
