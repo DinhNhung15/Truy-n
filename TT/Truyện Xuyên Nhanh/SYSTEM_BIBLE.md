@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.25  
+**Phiên bản:** 1.26  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -64,6 +64,8 @@ Là cơ quan quản lý trung tâm, chịu trách nhiệm điều hành và giá
 
 Các bộ phận trực thuộc:
 
+Ngoài các đơn vị cấp Cục/Khối dưới đây, Tổng bộ có thể tổ chức các Trung tâm chuyên môn trực thuộc đơn vị chủ quản để triển khai nghiệp vụ. Các Trung tâm không phải đơn vị ngang cấp với Cục/Khối và chỉ có quyền hạn được phân công.
+
 ### A. Cục Thu Nguyện
 
 Chức năng:
@@ -104,6 +106,12 @@ Các hệ thống con có quyền:
 
 Các hệ thống con có tính cách, phương thức giao tiếp và khả năng riêng. Không bắt buộc tất cả phải có cùng tính cách hoặc cách vận hành.
 
+**Các Trung tâm chuyên môn trực thuộc Khối Chấp Hành:**
+- **Trung tâm Hỗ trợ Hệ thống Con:** Điều phối đầu mối hỗ trợ, hướng dẫn hệ thống con tiếp cận kênh hỗ trợ phù hợp; không tự phân phối nhiệm vụ hoặc phê duyệt cấp phát năng lượng.
+- **Trung tâm Khai thác Cơ hội:** Thu thập, đánh giá thông tin về nguồn lực/cơ hội có thể tận dụng trong nhiệm vụ; chỉ cung cấp phân tích và đề xuất, không tạo cơ hội từ hư không hoặc sửa nhiệm vụ.
+- **Trung tâm Đào tạo và Hướng dẫn Hệ thống Con:** Đào tạo nghiệp vụ, chia sẻ kinh nghiệm và hướng dẫn phát triển năng lực; không quyết định thăng cấp.
+- **Trung tâm Giám sát và Bảo hộ:** Theo dõi dấu hiệu nguy cơ, đánh giá tình huống và đề xuất biện pháp bảo hộ; không thay thế Khối Chấp Pháp trong giám sát vi phạm và không được tự ý can thiệp vượt quyền hạn/quy tắc năng lượng.
+
 ### C. Cục Điều Phối
 
 Chức năng:
@@ -120,6 +128,11 @@ Giới hạn thẩm quyền:
 - Cục Điều Phối có thẩm quyền xác định kết quả hoàn thành/thất bại trong phạm vi quy định; việc kết luận nhiệm vụ thất bại cuối cùng thực hiện theo Mục 6.6.
 
 Nhiệm vụ được phân phối theo cơ chế ngẫu nhiên, có phân cấp độ khó.
+
+**Các Trung tâm chuyên môn trực thuộc Cục Điều Phối:**
+- **Trung tâm Phân tích Dữ liệu Nhiệm vụ:** Phân tích dữ liệu, tổng hợp thông tin và xu hướng phục vụ công tác điều phối; không tự quyết định phân phối hoặc kết luận kết quả nhiệm vụ.
+- **Trung tâm Nghiên cứu và Phát triển Phương án Nhiệm vụ:** Nghiên cứu, thử nghiệm và đánh giá tính khả thi của phương án xử lý; kết quả chỉ là dữ liệu/đề xuất, không có quyền sửa mục tiêu, điều kiện hoặc nội dung nhiệm vụ.
+- **Trung tâm Kiểm soát Rủi ro Nhiệm vụ:** Đánh giá rủi ro, điểm dễ phát sinh thất bại và phương án dự phòng; không thay Cục Điều Phối quyết định trạng thái hoặc kết quả nhiệm vụ.
 
 ### D. Cục Hạch Toán
 
@@ -2155,4 +2168,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.25**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.26**
