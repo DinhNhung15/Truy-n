@@ -1,8 +1,8 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 2.2  
-**Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ và tuyến phát triển của ba hệ thống cùng mạng lưới nhân vật phụ. Chức năng gốc và năng lực riêng của Lạc Tinh và Kỷ Ngôn đã chốt; chức năng gốc và năng lực riêng của Bạch Miên, cùng cấp bậc và quyền hạn của cả ba vẫn chưa chốt.  
+**Phiên bản:** 2.3  
+**Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ, tuyến phát triển, chức năng gốc và năng lực riêng của cả ba hệ thống cùng mạng lưới nhân vật phụ. Cấp bậc, quyền hạn và cơ chế năng lượng riêng của cả ba vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
 ---
@@ -268,6 +268,45 @@ Giới hạn năng lực:
 - Bé có thể khiến Bạch Miên nhận ra rằng bảo vệ không đồng nghĩa với ngăn cản mọi trải nghiệm hoặc quyết định.
 - **Tuyến phát triển:** Ban đầu bảo vệ bằng cách hạn chế rủi ro; dần học cách lắng nghe và tôn trọng lựa chọn của bé; về sau trở thành người đồng hành đáng tin thay vì người quyết định thay ký chủ.
 
+
+## 9.5. Chức năng gốc và năng lực riêng đã chốt
+
+**Chức năng gốc: Hệ thống Giám sát và Bảo hộ**
+
+Bạch Miên chuyên theo dõi tình trạng của ký chủ và các dấu hiệu an toàn trong môi trường xung quanh, nhằm nhận diện nguy cơ và hỗ trợ ký chủ tránh hoặc xử lý tình huống nguy hiểm.
+
+Phạm vi công việc:
+- Theo dõi tình trạng và mức độ an toàn của ký chủ trong phạm vi dữ liệu có thể tiếp cận.
+- Nhận diện các dấu hiệu nguy hiểm từ môi trường xung quanh.
+- Đánh giá mức độ đe dọa và những phương án ứng phó khả thi.
+- Cảnh báo, hướng dẫn ký chủ tránh né hoặc xử lý nguy cơ.
+- Hỗ trợ duy trì an toàn cho ký chủ trong giới hạn năng lực, quyền hạn và năng lượng hiện hành.
+
+Giới hạn thẩm quyền:
+- Chỉ giám sát, đánh giá, cảnh báo và đề xuất phương án trong phạm vi chức năng.
+- Không có quyền sửa mục tiêu, điều kiện hoặc nội dung nhiệm vụ.
+- Không được tự ý giảm độ khó nhiệm vụ chỉ vì ký chủ còn nhỏ.
+- Không bảo đảm phát hiện hoặc ngăn chặn được mọi nguy cơ.
+- Không thay thế quyền lựa chọn của ký chủ; mọi hành động can thiệp trực tiếp phải tuân thủ quy định hiện hành và giới hạn năng lượng.
+
+**Năng lực riêng: Cảm Ứng Nguy Cơ**
+
+Bạch Miên có thể cảm nhận và cảnh báo khi ký chủ tiến gần hoặc sắp rơi vào một tình huống có khả năng gây tổn hại.
+
+Giới hạn năng lực:
+- Không phải năng lực tiên tri và không nhìn thấy trước toàn bộ diễn biến tương lai.
+- Không nhất thiết xác định được chính xác nguy hiểm đến từ đâu, bản chất cụ thể là gì hoặc hậu quả sẽ xảy ra thế nào.
+- Không phát hiện được mọi mối đe dọa; hiệu quả phụ thuộc vào dấu hiệu và dữ liệu mà năng lực có thể tiếp nhận.
+- Cảnh báo không đồng nghĩa nguy hiểm chắc chắn được ngăn chặn.
+- Không quyết định thay ký chủ.
+- Nếu cần trực tiếp can thiệp để bảo vệ ký chủ, Bạch Miên phải tuân thủ quyền hạn và quy tắc tiêu hao năng lượng hiện hành trong SYSTEM_BIBLE.md và SYS-007.
+
+**Nguyên tắc phối hợp với ký chủ**
+- Bạch Miên theo dõi, cảnh báo và hướng dẫn; ký chủ vẫn là người lựa chọn và hành động.
+- Năng lực này giúp ký chủ nhận biết nguy cơ sớm hơn, không tạo ra sự bảo vệ tuyệt đối hoặc vô hạn.
+- Việc bảo vệ phải cân bằng với quyền tự chủ và trải nghiệm của ký chủ; không biến sự cẩn trọng thành lý do ngăn cản mọi lựa chọn của bé.
+
+
 # 10. NHÂN VẬT PHỤ VÀ MẠNG LƯỚI QUAN HỆ TẠI TỔNG BỘ
 
 Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến đời sống Tổng bộ. Chức vụ, cấp bậc, quyền hạn và năng lực nghiệp vụ cụ thể chưa được xác lập.
@@ -341,7 +380,6 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 Việc chốt hồ sơ nhân vật không đồng nghĩa đã chốt cơ chế vận hành. Các nội dung sau vẫn để mở:
 - Cấp bậc, tuổi đời hoặc thâm niên chính thức của từng hệ thống.
 - Chức vụ và quyền hạn tại Tổng bộ của các nhân vật phụ.
-- Chức năng gốc, năng lực đặc thù và giới hạn năng lực của Bạch Miên.
 - Cơ chế năng lượng riêng và bất kỳ quyền can thiệp bổ sung nào.
 - Giới tính, giọng nói hoặc hình thức giao tiếp cụ thể nếu chưa được xác định ở phần khác.
 - Các chi tiết quá khứ ngoài những quan hệ và sự kiện đã ghi trong hồ sơ này.
@@ -350,4 +388,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.2**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.3**
