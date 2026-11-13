@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.19  
+**Phiên bản:** 1.20  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -642,6 +642,45 @@ Vật phẩm giữ mạng có thể:
 
 ---
 
+## 6.6. Xác định nhiệm vụ kết thúc thất bại
+
+Cần phân biệt **thất bại của một lượt ký chủ** với **thất bại cuối cùng của nhiệm vụ**. Một lượt ký chủ thất bại chỉ kết thúc lượt thực hiện; nhiệm vụ trở lại kho để tiếp tục phân phối theo Mục 6.5.
+
+### Điều kiện xác định thất bại cuối cùng
+
+Nhiệm vụ chỉ được xác định kết thúc thất bại khi có ít nhất một căn cứ sau:
+
+1. **Hết thời hạn bắt buộc:** Thời hạn được ghi rõ trong khế ước đã kết thúc mà điều kiện hoàn thành chưa đạt; khế ước không cho phép gia hạn hoặc điều chỉnh thời hạn.
+2. **Mục tiêu trở nên bất khả thi một cách khách quan:** Một sự kiện không thể đảo ngược đã khiến mục tiêu hoặc điều kiện hoàn thành không thể đạt được trong phạm vi khế ước. Ví dụ: người cần được cứu sống đã tử vong trong khi điều kiện bắt buộc là cứu người đó khi còn sống; vật chứng duy nhất phải thu hồi đã bị hủy hoàn toàn và không có phương án thay thế được khế ước cho phép.
+3. **Thế giới nhiệm vụ không còn khả năng tiếp cận:** Thế giới bị hủy diệt, đóng kín hoặc mất khả năng tiếp cận vĩnh viễn, đồng thời không còn con đường hợp lệ nào để thực hiện mục tiêu trong phạm vi khế ước.
+4. **Điều kiện thất bại riêng đã ghi trong khế ước xảy ra:** Chỉ áp dụng nếu điều kiện đó được xác định rõ và người ủy thác đã xác nhận trước khi ký.
+
+### Những trường hợp không tự động làm nhiệm vụ thất bại cuối cùng
+
+- Một ký chủ tử vong, bỏ cuộc, không hoàn thành hoặc bị xử lý hình phạt.
+- Nhiều ký chủ liên tiếp thất bại hoặc nhiệm vụ chưa có tiến triển trong thời gian dài.
+- Hệ thống đồng hành bị sập, mất kết nối hoặc bị đóng băng.
+- Người ủy thác vi phạm khế ước; hành vi vi phạm được xử lý riêng theo Mục 21.5. Chỉ khi hậu quả thực tế đồng thời khiến mục tiêu trở nên bất khả thi theo các điều kiện nêu trên thì mới xem xét kết thúc nhiệm vụ.
+- Nhiệm vụ khó, tốn thời gian hoặc chưa tìm được phương án thực hiện. Khó khăn và thiếu tiến triển không đồng nghĩa với bất khả thi.
+
+### Thẩm quyền và quy trình xác minh
+
+- Hệ thống nghiệp vụ nhiệm vụ có trách nhiệm theo dõi, phát hiện dấu hiệu và lập hồ sơ về khả năng nhiệm vụ đã rơi vào tình trạng thất bại cuối cùng; hệ thống không tự ý đóng nhiệm vụ chỉ dựa trên dự đoán.
+- **Cục Điều Phối là cơ quan có thẩm quyền quyết định cuối cùng** về việc nhiệm vụ đã kết thúc thất bại hay chưa.
+- Khi có căn cứ cần xem xét, nhiệm vụ chuyển sang trạng thái **chờ xác minh kết thúc** và tạm dừng phân phối cho ký chủ mới trong thời gian xác minh.
+- Cục Điều Phối đối chiếu khế ước đã ký, điều kiện hoàn thành, thời hạn (nếu có), dữ liệu thế giới và bằng chứng về khả năng tiếp tục thực hiện.
+- Nếu chưa đủ căn cứ chứng minh nhiệm vụ bất khả thi hoặc điều kiện thất bại đã xảy ra, nhiệm vụ trở lại kho để tiếp tục phân phối; không được kết luận thất bại chỉ vì thiếu thông tin.
+- Nếu đủ căn cứ, Cục Điều Phối ghi nhận quyết định, lý do và thời điểm kết thúc. Nhiệm vụ được đóng vĩnh viễn với kết quả thất bại, không tiếp tục phân phối và không được làm lại.
+
+### Quyết toán khi nhiệm vụ thất bại cuối cùng
+
+- Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; các khoản điểm, EXP và hình phạt được xử lý theo quy tắc thất bại tương ứng.
+- Phần năng lượng còn lại trong quỹ 20% được nhập vào kho năng lượng chung của Tổng bộ.
+- Sau khi quyết toán kết quả thất bại cuối cùng, linh hồn người ủy thác chấm dứt tồn tại; không tiếp tục quan sát một nhiệm vụ đã đóng.
+- Việc nhiệm vụ kết thúc thất bại không tự động áp dụng chế tài vi phạm đối với người ủy thác. Chế tài chỉ được áp dụng nếu hành vi vi phạm được xác minh riêng theo Mục 21.5.
+
+---
+
 # 7. CƠ CHẾ ĐIỂM TÍCH LŨY
 
 ## 7.1. Tài khoản cá nhân
@@ -1150,19 +1189,16 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 
 ---
 
-# 13. CÁC VẤN ĐỀ CHƯA CHỐT
+# 13. CÁC VẤN ĐỀ ĐÃ ĐƯỢC QUYẾT ĐỊNH
 
-Những nội dung chưa được tác giả quyết định không được tự ý suy diễn thành canon. Các quyết định đã chốt phải áp dụng theo nội dung mới nhất trong SYSTEM_BIBLE.md và CONTINUITY_LOG.md; không tiếp tục sử dụng các ghi chú chưa chốt đã được quyết định sau đó.
+Các vấn đề từng được ghi nhận là chưa chốt dưới đây đã được giải quyết và đưa vào canon tại phiên bản 1.20. Những chi tiết khác chưa được quy định ở các mục riêng vẫn không được tự ý suy diễn thành luật.
 
-Những nội dung đã được chốt và không còn là vấn đề mở:
-- Người bán phải thanh toán đủ phí đăng bán 5% bằng điểm trước khi vật phẩm được đưa lên kệ; nếu không đủ điểm, hệ thống từ chối đăng bán, không tạo tin chờ, không âm điểm và không ghi nợ (v1.17).
-- Tỷ lệ quy đổi trong quỹ thưởng 20% của người ủy thác là 100 điểm = 1 NL; chỉ áp dụng cho quỹ này (v1.15).
-- Vi phạm của người ủy thác được xử lý theo bốn cấp tại Mục 21.5; không tự động hủy nhiệm vụ, thay đổi kết quả/quyền lợi ký chủ hoặc tiêu diệt toàn bộ linh hồn (v1.14 và các cập nhật sau).
+- **SYS-007 – Nhiều hệ số thay đổi đồng thời:** Tính lại tổng chi phí theo toàn bộ hệ số mới; chỉ thu phần vượt mức chi phí cao nhất đã tính cho cùng hiệu ứng/giai đoạn. Không cộng cơ học các khoản chênh lệch riêng lẻ và không hoàn năng lượng khi chi phí giảm.
+- **SYS-007 – Hiệu ứng thay đổi theo thời gian:** Khi bản chất tác động thay đổi, chia thành các giai đoạn liên tiếp và tính riêng từng giai đoạn; các đặc tính đồng thời của cùng một hiệu ứng vẫn áp dụng Ks cao nhất.
+- **SYS-007 – Ranh giới Kp:** Kp 5 áp dụng cho phạm vi địa phương hoặc một nhóm thống nhất trên 10 thành viên chỉ bị tác động trực tiếp; Kp 10 áp dụng khi hiệu ứng đạt quy mô thành phố hoặc trải trên từ hai thành phố trở lên. Nhóm được xác định theo liên hệ thực tế/chức năng, không theo danh sách chỉ định.
+- **Mục 6.6 – Thất bại cuối cùng:** Chỉ Cục Điều Phối có thẩm quyền kết luận nhiệm vụ thất bại cuối cùng, dựa trên thời hạn/điều kiện thất bại trong khế ước hoặc căn cứ khách quan chứng minh mục tiêu không thể hoàn thành. Một lượt ký chủ thất bại không làm nhiệm vụ kết thúc.
+- **SYS-010 – Phân biệt giá vé:** Vé mua 1 tỷ điểm gắn với người mua ban đầu; người khác có thể nhận và giữ vé, nhưng phải thanh toán phần chênh 9 tỷ điểm một lần trước khi kích hoạt hoặc chuyển vé thành vé vô danh. Vé mua 10 tỷ điểm là vé vô danh có thể kích hoạt bởi người giữ hợp lệ mà không cần trả thêm.
 
-### Các điểm còn cần quyết định riêng
-- SYS-007: cách xử lý khi nhiều hệ số thay đổi đồng thời; cách phân loại hiệu ứng khi bản chất/mức tác động thay đổi trong thời gian tồn tại; ranh giới Kp giữa khu vực/thành phố và nhóm thống nhất trên 10 thành viên phân bố ở nhiều thành phố.
-- Mục 21.6: điều kiện và thẩm quyền xác định một nhiệm vụ đã kết thúc thất bại, phân biệt với một lượt ký chủ thất bại khiến nhiệm vụ quay lại kho để phân phối tiếp.
-- SYS-010: cách bảo đảm sự phân biệt giữa giá mua vé cho bản thân (1 tỷ điểm) và giá mua để chuyển cho người khác (10 tỷ điểm), trong bối cảnh vé được trao tay không giới hạn số lần và người giữ vé hợp lệ có quyền kích hoạt.
 ---
 
 # 14. NGUYÊN TẮC QUẢN LÝ CANON
@@ -1328,16 +1364,16 @@ E₀ được xác định theo phạm vi trạng thái hoặc cấu trúc mà h
 **Nguyên tắc xác định và thay đổi phạm vi Kp**
 - Kp căn cứ vào phạm vi thực tế bị hiệu ứng tác động, không căn cứ vào số câu lệnh, cách truyền dẫn, vị trí máy chủ hoặc nơi khởi phát hiệu ứng.
 - Nhóm nhỏ gồm 2–10 đối tượng có mối liên hệ thực tế hoặc chức năng với nhau và cùng chịu một hiệu ứng chung. Việc nhiều đối tượng chỉ cùng xuất hiện trong một danh sách, câu lệnh hoặc nhiệm vụ không tự động tạo thành một nhóm.
-- Nhóm trên 10 đối tượng chỉ được chia thành các nhóm nhỏ để tính riêng khi các nhóm đó thực sự độc lập; không được chia cơ học một tập hợp thống nhất chỉ để áp dụng Kp thấp hơn.
-- Nếu một hiệu ứng tác động trên toàn bộ một khu vực, áp dụng Kp khu vực dù chỉ có một số ít người trực tiếp hưởng lợi.
+- Một nhóm thống nhất có trên 10 thành viên, có mối liên hệ thực tế/chức năng rõ ràng và chỉ bị tác động trực tiếp với tư cách thành viên của nhóm (không làm thay đổi môi trường địa lý), được xếp Kp 5, không phụ thuộc việc các thành viên sống ở cùng hay khác thành phố. Không được chia cơ học nhóm thống nhất này thành các nhóm nhỏ để giảm chi phí.
+- Nếu trên 10 đối tượng không tạo thành một nhóm thống nhất, các mục tiêu độc lập được tính riêng theo từng hiệu ứng; không được gom chúng thành một nhóm chỉ vì cùng xuất hiện trong một danh sách hoặc cùng bị tác động trong một lần kích hoạt.
+- **Kp 5 – Một khu vực:** Áp dụng cho một vùng địa phương có ranh giới thực tế nhận diện được, nhỏ hơn quy mô thành phố, như một khu dân cư, khuôn viên, khu công nghiệp hoặc một phần địa bàn tương đương. Nhiều điểm tác động cục bộ trong cùng một vùng địa phương vẫn thuộc Kp 5 nếu hiệu ứng không vận hành ở quy mô thành phố.
+- **Kp 10 – Một thành phố:** Áp dụng khi hiệu ứng vận hành trên quy mô toàn thành phố, phân bố rộng đến mức không còn giới hạn trong một vùng địa phương, tác động đến hạ tầng/quy tắc chung của thành phố, hoặc trải trên địa bàn của từ hai thành phố trở lên. Không yêu cầu phải tác động đến mọi cá nhân hay mọi mét vuông trong địa giới.
+- Ranh giới thành phố căn cứ đơn vị đô thị/hành chính có chức năng tương đương trong thế giới nhiệm vụ; không phụ thuộc tên gọi hoặc cách chia quận/phường của từng thế giới.
+- Nếu một hiệu ứng tác động trên toàn bộ một khu vực, áp dụng Kp khu vực dù chỉ có một số ít người trực tiếp hưởng lợi. Nếu hiệu ứng chỉ nhắm trực tiếp vào một nhóm người xác định, áp dụng quy tắc nhóm thay vì quy mô địa lý, trừ khi hiệu ứng đồng thời tác động lên môi trường hoặc toàn bộ khu vực.
 - Các hiệu ứng độc lập được tính riêng; các bước kỹ thuật cần thiết để tạo ra cùng một hiệu ứng thống nhất không bị tách thành nhiều hiệu ứng.
-- Khi phạm vi của một hiệu ứng mở rộng, chỉ thu phần chi phí tăng thêm, không tính lại toàn bộ chi phí của hiệu ứng. Nếu chỉ Kp thay đổi và các hệ số khác giữ nguyên: ΔE = E₀ × Kt × Ks × (Kp_mới − Kp_cũ).
+- Khi phạm vi của một hiệu ứng mở rộng, tính lại tổng chi phí theo toàn bộ hệ số hiện tại và chỉ thu phần vượt mức chi phí cao nhất đã tính/thu cho hiệu ứng đó. Nếu chỉ Kp thay đổi và các hệ số khác giữ nguyên: ΔE = E₀ × Kt × Ks × (Kp_mới − Kp_cũ).
 - Nếu phạm vi thu hẹp, không tự động hoàn trả năng lượng đã tiêu hao.
 - Nếu phạm vi mở rộng nhiều lần, chỉ tính phần tăng thêm vượt mức chi phí cao nhất đã được tính/thu trước đó; không thu thêm nếu phạm vi mới vẫn nằm trong mức đã thanh toán.
-
-**Các điểm Kp còn mở**
-- Cách phân loại một nhóm thống nhất có trên 10 thành viên nhưng phân bố ở nhiều thành phố, không thể chia thành các nhóm độc lập.
-- Ranh giới giữa “một khu vực”, “một thành phố” và trường hợp hiệu ứng chỉ bao phủ một phần địa giới hành chính hoặc nhiều khu vực rời nhau.
 
 **Hệ số thời gian duy trì Kt**
 
@@ -1381,6 +1417,23 @@ Các mốc được tính theo thời lượng thực tế, không chồng lấn
 - Các hiệu ứng độc lập được tính riêng. Những hệ quả kỹ thuật tất yếu của cùng một hiệu ứng không bị tính phí lặp lại.
 - Nếu nhiều hệ thống cùng tham gia tạo ra một hiệu ứng, chi phí được phân bổ theo mức đóng góp thực tế của từng hệ thống.
 - Chi phí E được trừ trực tiếp từ năng lượng hiện có của hệ thống. Nếu năng lượng hiện có thấp hơn chi phí tính toán, hệ thống vẫn có thể quyết định sử dụng toàn bộ năng lượng còn lại; khi năng lượng về 0, hệ thống sập theo quy tắc tại Mục 15.6.
+
+### Xử lý khi nhiều hệ số thay đổi đồng thời
+
+- Với mỗi hiệu ứng thống nhất hoặc giai đoạn hiệu ứng, hệ thống ghi nhận tổng chi phí cao nhất đã được tính/thu, ký hiệu E_đã_tính.
+- Khi một hoặc nhiều hệ số E₀, Kp, Kt, Ks thay đổi đồng thời, hệ thống tính lại toàn bộ chi phí theo các hệ số hiện tại: E_mới = E₀_mới × Kp_mới × Kt_mới × Ks_mới.
+- Chi phí tăng thêm được tính: ΔE = max(0, E_mới − E_đã_tính). Nếu E_mới thấp hơn hoặc bằng E_đã_tính, không thu thêm và cũng không hoàn lại năng lượng đã tiêu hao.
+- Sau khi thu phần tăng thêm, cập nhật E_đã_tính bằng mức cao hơn giữa E_đã_tính và E_mới. Không cộng riêng từng chênh lệch hệ số vì cách đó có thể tính trùng phần chi phí giao nhau.
+- Mỗi hiệu ứng độc lập hoặc giai đoạn hiệu ứng có sổ theo dõi chi phí riêng. Không dùng khoản đã thu cho hiệu ứng này để bù trừ hiệu ứng khác.
+
+### Phân loại hiệu ứng khi bản chất thay đổi theo thời gian
+
+- Nếu bản chất tác động (đặc biệt là cấp Ks) thay đổi trong khi can thiệp vẫn tiếp diễn, chia quá trình thành các giai đoạn liên tiếp tại thời điểm thay đổi. Mỗi giai đoạn được phân loại và tính chi phí riêng theo E₀, Kp, Kt, Ks thực tế của giai đoạn đó.
+- Kt của mỗi giai đoạn căn cứ thời lượng hệ thống cam kết duy trì giai đoạn đó. Nếu thời lượng dự kiến được kéo dài làm thay đổi bậc Kt, tính lại chi phí toàn giai đoạn và chỉ thu phần vượt mức E_đã_tính. Nếu kết thúc sớm hơn dự kiến, không hoàn lại phần năng lượng đã thu.
+- Khi một giai đoạn có nhiều đặc tính đồng thời thuộc các cấp Ks khác nhau nhưng cùng tạo thành một hiệu ứng thống nhất, vẫn áp dụng Ks cao nhất của giai đoạn đó; không chia nhỏ các đặc tính phụ thuộc để tính nhiều lần.
+- Nếu hiệu ứng chỉ mở rộng/thu hẹp phạm vi hoặc thay đổi thời lượng mà bản chất tác động không đổi, vẫn giữ cùng giai đoạn và áp dụng quy tắc tính phần chi phí tăng thêm; không tự động tạo giai đoạn mới.
+- Nếu một hiệu ứng độc lập mới xuất hiện, hoặc hiệu ứng cũ chấm dứt rồi được kích hoạt lại, tính thành hiệu ứng/giai đoạn riêng.
+
 
 ## 15.5. Trạng thái năng lượng và cảnh báo
 
@@ -1982,4 +2035,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.19**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.20**
