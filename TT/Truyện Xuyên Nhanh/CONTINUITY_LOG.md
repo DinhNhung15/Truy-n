@@ -897,3 +897,31 @@
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.6 lên **v2.7**.
 - Không thay đổi thang cấp F–E–D–C–B–A–S–SS hoặc thông số năng lượng, cơ chế sập/đóng băng trong SYS-007.
 - Các con số minh họa trước đó về ngưỡng thành tích không được đưa vào canon.
+
+
+## 2026-11-13 – Chốt quy trình và ba mức vi phạm của hệ thống (SYSTEM_BIBLE.md v1.24)
+
+### Ba mức độ vi phạm
+- **Vi phạm nhẹ:** Sai sót nghiệp vụ không cố ý, hậu quả hạn chế.
+- **Vi phạm nghiêm trọng:** Cố ý vượt quyền hoặc vi phạm quy định, gây ảnh hưởng đáng kể.
+- **Vi phạm đặc biệt nghiêm trọng:** Cố ý phá hoại hoặc gây nguy hiểm nghiêm trọng cho ký chủ, nhiệm vụ hoặc Tổng bộ.
+- Phân loại dựa trên hành vi, mức độ cố ý và hậu quả thực tế; không kết luận chỉ từ dấu hiệu đơn lẻ.
+- Đây là khung phân loại vi phạm của hệ thống, không thay thế bốn cấp độ vi phạm của người ủy thác tại Mục 21.5.
+
+### Quy trình xử lý
+1. Phát hiện và ghi nhận dấu hiệu vi phạm.
+2. Thu thập nhật ký hoạt động, dữ liệu năng lượng, dữ liệu nhiệm vụ và bằng chứng liên quan.
+3. Xác minh nguyên nhân, mức độ cố ý, phạm vi quyền hạn, khả năng thực tế và hậu quả.
+4. Tạo cơ hội để hệ thống liên quan giải trình.
+5. Đánh giá mức độ vi phạm và chuyển hồ sơ đến cấp có thẩm quyền.
+6. Khối Tổng bộ quyết định biện pháp xử lý thuộc thẩm quyền theo quy chế hiện hành.
+
+### Phân định trách nhiệm
+- Khối Chấp Pháp: giám sát, phát hiện, ghi nhận và thực thi trong phạm vi được giao; không tự quyết định khôi phục cá nhân bị đóng băng.
+- Cục Hạch Toán: cung cấp dữ liệu năng lượng, giao dịch và thông tin thuộc chức trách; không thay thế thẩm quyền kết luận và quyết định xử lý.
+- Khối Tổng bộ: quyết định biện pháp xử lý thuộc thẩm quyền, bao gồm đình chỉ, đóng băng hoặc khôi phục theo quy định hiện hành.
+- Không tự đặt hình thức hoặc mức chế tài mới; không có hình phạt tự động chỉ dựa trên tên mức độ.
+
+### Trạng thái
+- Cập nhật SYSTEM_BIBLE.md từ v1.23 lên **v1.24**, bổ sung Mục 15.9.
+- Không thay đổi bốn cấp độ vi phạm của người ủy thác tại Mục 21.5.
