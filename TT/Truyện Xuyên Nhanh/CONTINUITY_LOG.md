@@ -761,3 +761,24 @@
 - Chức năng gốc và năng lực riêng của Lạc Tinh, Kỷ Ngôn đã chốt.
 - Chức năng gốc, năng lực riêng của Bạch Miên; cấp bậc, quyền hạn và cơ chế năng lượng riêng của cả ba vẫn để mở.
 - Không thay đổi các quy tắc vận hành, thẩm quyền hoặc năng lượng đã có trong SYSTEM_BIBLE.md và các tài liệu SYS.
+
+
+## 2026-11-13 – Chốt chức năng gốc và năng lực riêng của Bạch Miên (SYSTEM_CHARACTER_BIBLE.md v2.3)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Nội dung được chốt
+- Chức năng gốc của Bạch Miên là **Hệ thống Giám sát và Bảo hộ**: theo dõi tình trạng và mức độ an toàn của ký chủ; nhận diện dấu hiệu nguy hiểm trong môi trường; đánh giá mức độ đe dọa và phương án ứng phó; cảnh báo, hướng dẫn ký chủ tránh né hoặc xử lý nguy cơ.
+- Bạch Miên chỉ giám sát, đánh giá, cảnh báo và đề xuất trong phạm vi chức năng; không có quyền sửa mục tiêu, điều kiện hoặc nội dung nhiệm vụ, không tự ý giảm độ khó vì ký chủ còn nhỏ và không bảo đảm phát hiện/ngăn chặn mọi nguy cơ.
+- Năng lực riêng là **Cảm Ứng Nguy Cơ**: cảm nhận và cảnh báo khi ký chủ tiến gần hoặc sắp rơi vào tình huống có khả năng gây tổn hại.
+- Năng lực không phải tiên tri; không nhất thiết xác định chính xác nguồn gốc, bản chất hoặc hậu quả của nguy hiểm; không phát hiện được mọi mối đe dọa. Cảnh báo không bảo đảm nguy hiểm được ngăn chặn.
+- Bạch Miên không quyết định thay ký chủ. Can thiệp trực tiếp để bảo vệ ký chủ phải tuân thủ quyền hạn và quy tắc năng lượng hiện hành, bao gồm SYS-007.
+- Nguyên tắc phối hợp: Bạch Miên theo dõi, cảnh báo và hướng dẫn; ký chủ vẫn giữ quyền lựa chọn và hành động. Năng lực không tạo ra sự bảo vệ tuyệt đối hoặc vô hạn.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.2 lên **v2.3**.
+- Chức năng gốc và năng lực riêng của cả ba hệ thống Lạc Tinh, Kỷ Ngôn và Bạch Miên đã chốt.
+- Cấp bậc, quyền hạn và cơ chế năng lượng riêng của cả ba vẫn để mở.
+- Không thay đổi các quy tắc vận hành, thẩm quyền hoặc năng lượng đã có trong SYSTEM_BIBLE.md và các tài liệu SYS.
