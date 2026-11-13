@@ -782,3 +782,31 @@
 - Chức năng gốc và năng lực riêng của cả ba hệ thống Lạc Tinh, Kỷ Ngôn và Bạch Miên đã chốt.
 - Cấp bậc, quyền hạn và cơ chế năng lượng riêng của cả ba vẫn để mở.
 - Không thay đổi các quy tắc vận hành, thẩm quyền hoặc năng lượng đã có trong SYSTEM_BIBLE.md và các tài liệu SYS.
+
+## 2026-11-13 – Chốt cấp khởi điểm và nguyên tắc thăng cấp của ba hệ thống đồng hành (SYSTEM_CHARACTER_BIBLE.md v2.4)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Cấp khởi điểm
+- Hệ thống đồng hành với con trai (Tiểu Bạch): **cấp A**.
+- Lạc Tinh – hệ thống đồng hành với người vợ: **cấp C**.
+- Kỷ Ngôn – hệ thống đồng hành với người chồng: **cấp C**.
+- Cả ba sử dụng thang cấp F–E–D–C–B–A–S–SS theo SYS-007; không tạo thang cấp riêng.
+
+### Nguyên tắc thăng cấp
+- Tất cả hệ thống chỉ có thể thăng cấp thông qua thành tích cá nhân đạt được từ việc thực hiện nhiệm vụ.
+- Thành tích được xét theo đóng góp và kết quả cá nhân của chính hệ thống; không mặc nhiên nhận thành tích của ký chủ hoặc hệ thống khác.
+- Không thăng cấp do xuất thân, quan hệ, đặc quyền, sự ưu ái, thâm niên hoặc chỉ vì ký chủ/nhiệm vụ có cấp cao hơn.
+- Cấp hệ thống không tự động quyết định chức vụ hoặc quyền hạn hành chính tại Tổng bộ; cấp hệ thống, cấp ký chủ và cấp nhiệm vụ độc lập.
+
+### Những nội dung chưa chốt
+- Tiêu chí đánh giá thành tích cá nhân, ngưỡng cần đạt, quy trình xét duyệt và cơ quan có thẩm quyền quyết định thăng cấp.
+- Quyền hạn cụ thể và cơ chế năng lượng riêng của từng hệ thống.
+
+### Phạm vi
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.3 lên **v2.4**.
+- Không thay đổi thang cấp, thông số năng lượng, cơ chế sập/đóng băng hoặc các quy tắc khác trong SYS-007.
+- Không tự đặt tiêu chí/chỉ tiêu hoặc quy trình thăng cấp khi chưa được xác nhận.
+
