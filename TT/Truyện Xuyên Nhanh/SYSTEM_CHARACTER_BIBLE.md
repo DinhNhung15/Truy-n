@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 2.3  
+**Phiên bản:** 2.4  
 **Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ, tuyến phát triển, chức năng gốc, năng lực riêng và cấp khởi điểm của cả ba hệ thống cùng mạng lưới nhân vật phụ. Quyền hạn và cơ chế năng lượng riêng của cả ba vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
