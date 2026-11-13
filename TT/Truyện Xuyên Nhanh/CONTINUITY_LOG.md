@@ -659,3 +659,16 @@
 - Đồng bộ nguyên tắc giám sát cá nhân trên toàn bộ Cục/Khối; không áp dụng đóng băng tập thể.
 - Không thay đổi quy chế đóng băng chi tiết đã được chốt, không nhập nhằng đóng băng nhân sự với cơ chế đóng băng hệ thống con do cạn năng lượng.
 - Không thay đổi các quy tắc nhiệm vụ, năng lượng, phần thưởng, vé hoặc các cơ chế SYS khác.
+
+## 2026-11-13 – Xác nhận tổng hợp quy chế đóng băng nhân sự
+
+**Phạm vi xác nhận:** Chốt phần tổng hợp nguyên tắc và phân định thẩm quyền đã được ghi tại SYSTEM_BIBLE.md v1.22, không mở lại hoặc thay đổi quy chế chi tiết đã chốt trước đó.
+
+- Khối Chấp Pháp giám sát từng cá nhân thuộc tất cả các Cục và Khối.
+- Việc đóng băng áp dụng đối với cá nhân vi phạm; không đóng băng tập thể và không liên đới người không vi phạm.
+- Khối Chấp Pháp chịu trách nhiệm thực thi việc đóng băng theo quy chế hiện hành.
+- Khối Tổng bộ có thẩm quyền quyết định việc khôi phục cá nhân đã bị đóng băng.
+- Điều kiện, trình tự, thời hạn và chế độ chi tiết tiếp tục thực hiện theo quy chế đóng băng nhân sự đã được chốt trước đó; bản xác nhận này không bổ sung hoặc thay thế các nội dung đó.
+- Cơ chế đóng băng nhân sự được phân biệt với cơ chế đóng băng hệ thống con do cạn năng lượng.
+
+**Trạng thái:** Đã xác nhận tổng hợp nguyên tắc; SYSTEM_BIBLE.md v1.22 giữ nguyên, không cần sửa nội dung.
