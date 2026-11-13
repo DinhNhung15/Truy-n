@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.20  
+**Phiên bản:** 1.21  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -704,27 +704,24 @@ Nguyên tắc:
 
 ## 7.3. Vé Về Nhà
 
-### Giá vé và loại vé
+### Giá vé và mục đích mua
 
-- Mua vé để tự sử dụng: **1 tỷ điểm**. Đây là **vé cá nhân**, được đăng ký với tài khoản của người mua ban đầu.
-- Mua vé để chuyển cho người khác: **10 tỷ điểm**. Đây là **vé vô danh**, không gắn quyền kích hoạt riêng với người mua.
-- Khi mua vé, người mua không cần chỉ định trước người nhận. Việc chọn giá mua xác định loại vé, không phụ thuộc người mua có nêu tên người nhận hay không.
+- **Mua vé cho bản thân: 1 tỷ điểm.** Đây là vé cá nhân, gắn cố định với người mua ban đầu. Vé chỉ có người mua ban đầu quyền kích hoạt; không được chuyển nhượng dưới bất kỳ hình thức nào.
+- **Mua vé để trao cho người khác: 10 tỷ điểm.** Đây là vé chuyển nhượng, không gắn quyền kích hoạt với người mua. Người mua không cần chỉ định trước người nhận.
+- Mục đích mua được xác định tại thời điểm thanh toán và quyết định loại vé. Không thể mua vé cá nhân giá 1 tỷ rồi chuyển đổi thành vé chuyển nhượng bằng cách trả thêm phần chênh lệch.
 
-### Quy tắc sở hữu và chuyển giao
+### Quyền sở hữu, chuyển nhượng và kích hoạt
 
-- Vé là vật phẩm vật lý, được chuyển giao bằng cách trao tận tay giữa các ký chủ. Hệ thống không tự động đưa vé vào túi của người nhận chỉ vì người mua đã thanh toán.
-- Cả vé cá nhân và vé vô danh đều có thể được trao tay, chuyển qua nhiều người và không giới hạn số lần chuyển giao.
-- Vé không có thời hạn sử dụng, không tự mất hiệu lực chỉ vì đã được giữ lâu.
-- Vé không được thừa kế. Khi người đang nắm giữ vé tử vong, vé mất hiệu lực.
-- Người đang trực tiếp nắm giữ vé hợp lệ có quyền giữ và chuyển giao vé. Quyền kích hoạt phụ thuộc loại vé và trạng thái thanh toán:
-  - **Vé vô danh 10 tỷ:** Người đang giữ vé hợp lệ có thể kích hoạt mà không phải trả thêm, không phụ thuộc người mua ban đầu.
-  - **Vé cá nhân 1 tỷ:** Người mua ban đầu có thể kích hoạt mà không phải trả thêm. Nếu một người khác muốn kích hoạt, người đó phải thanh toán phần chênh lệch **9 tỷ điểm** trước khi vé được kích hoạt.
-- Người đang giữ vé cá nhân có thể nộp 9 tỷ điểm để chuyển vé thành vé vô danh trước khi kích hoạt. Sau khi phần chênh lệch được thanh toán một lần, vé trở thành vé vô danh và mọi lần chuyển giao sau đó không phát sinh thêm phí.
-- Phần chênh lệch 9 tỷ chỉ thu một lần cho mỗi vé. Nếu vé cá nhân đã được chuyển thành vé vô danh, không thu lại khoản này ở những lần chuyển giao hoặc kích hoạt tiếp theo.
-- Nếu người không phải người mua ban đầu kích hoạt vé cá nhân nhưng không đủ 9 tỷ điểm, hệ thống từ chối kích hoạt; vé không bị tiêu hủy và vẫn có thể được chuyển giao hoặc được người mua ban đầu sử dụng.
-- Việc báo mất hoặc báo bị trộm không tự động khóa vé; hệ thống không yêu cầu người kích hoạt chứng minh nguồn gốc nhận vé. Quy tắc này không loại bỏ nghĩa vụ thanh toán phần chênh lệch của vé cá nhân.
-- Người giữ vé có quyền không kích hoạt. Không có cơ chế cưỡng ép người đang giữ phải sử dụng vé.
-- Vé không tự động đưa người mua trở về cùng người đang giữ vé; quyền kích hoạt thuộc người nắm giữ hợp lệ tại thời điểm sử dụng.
+- Vé là vật phẩm vật lý. Việc mua vé không tự động đưa vé vào túi của người nhận; vé được trao tận tay hoặc chuyển giao theo cách phù hợp trong thế giới nhiệm vụ.
+- **Vé cá nhân 1 tỷ:** Quyền kích hoạt luôn thuộc người mua ban đầu. Vé không thể cho, tặng, bán, trao đổi, chuyển giao hoặc chuyển quyền sử dụng cho người khác. Nếu vé bị lấy cắp hoặc bị chiếm đoạt, người chiếm giữ không có quyền kích hoạt; quyền kích hoạt vẫn thuộc người mua ban đầu.
+- **Vé chuyển nhượng 10 tỷ:** Có thể chuyển giao không giới hạn số lần và không giới hạn người nhận. Việc chuyển giao bao gồm cho, tặng, bán, trao đổi, tự nguyện đưa vé cho người khác hoặc bị người khác cướp/chiếm đoạt.
+- Người đang nắm giữ vé chuyển nhượng hợp lệ tại thời điểm sử dụng có quyền kích hoạt vé, không phụ thuộc người đó nhận vé bằng cách nào hoặc có phải người được người mua ban đầu dự định trao tặng hay không.
+- Người nhận, được cho, được tặng, mua lại hoặc cướp/chiếm đoạt vé chuyển nhượng **không phải trả thêm bất kỳ khoản phí nào** khi kích hoạt. Giá 10 tỷ đã thanh toán khi mua vé là toàn bộ chi phí của vé.
+- Không có cơ chế truy thu phần chênh lệch, phụ phí chuyển nhượng hoặc phí kích hoạt đối với vé chuyển nhượng.
+- Vé không có thời hạn sử dụng.
+- Vé không được thừa kế. Khi người đang nắm giữ vé chuyển nhượng tử vong, vé mất hiệu lực; vé cá nhân vẫn gắn với người mua ban đầu và không thể được người khác thừa kế hoặc kích hoạt thay.
+- Báo mất hoặc báo bị trộm không tự động khóa vé chuyển nhượng; hệ thống không yêu cầu người kích hoạt chứng minh nguồn gốc nhận vé. Đối với vé cá nhân, việc mất quyền kiểm soát vật phẩm không làm thay đổi người có quyền kích hoạt.
+- Người có quyền kích hoạt được tự quyết định có sử dụng vé hay không; không có cơ chế cưỡng ép sử dụng.
 
 Mua vé không đồng nghĩa với kích hoạt vé.
 
@@ -2043,4 +2040,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.20**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.21**
