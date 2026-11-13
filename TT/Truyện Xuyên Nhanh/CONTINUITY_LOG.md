@@ -939,3 +939,18 @@
 ### Trạng thái
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.7 lên **v2.8**.
 - Không thay đổi nguyên tắc hai loại thành tích độc lập, điều kiện phải đạt cả hai ngưỡng mới được thăng cấp hoặc các ngưỡng cụ thể còn để mở.
+
+
+## 2026-11-13 – Chốt ba mức ghi nhận thành tích chuyên môn (SYSTEM_CHARACTER_BIBLE.md v2.9)
+
+Thành tích chuyên môn được phân thành ba mức:
+1. **Hoàn thành chức trách:** Thực hiện đúng công việc được giao, đạt yêu cầu cơ bản; là tiêu chuẩn chức năng, không mặc nhiên là thành tích chuyên môn nổi bật.
+2. **Đóng góp tốt:** Có đóng góp thực tế giúp ký chủ giải quyết vấn đề hiệu quả hơn, giảm rủi ro hoặc tiết kiệm tài nguyên; có thể được ghi nhận thành tích chuyên môn.
+3. **Đóng góp xuất sắc:** Xử lý tình huống khó, phát hiện vấn đề quan trọng, đưa ra giải pháp có giá trị vượt trội hoặc tạo đóng góp đáng kể trong hoàn cảnh bất lợi; được ghi nhận ở mức thành tích chuyên môn cao hơn.
+
+Việc phân mức dựa trên giá trị và chất lượng đóng góp thực tế, không chỉ dựa vào việc hệ thống hoàn thành chức trách cơ bản.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.8 lên **v2.9**.
+- Không thay đổi cơ chế hai loại thành tích độc lập hoặc điều kiện phải đạt cả hai ngưỡng mới được thăng cấp.
+- Chưa đặt điểm số, ngưỡng và công thức quy đổi cho ba mức ghi nhận.
