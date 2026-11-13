@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 2.6  
+**Phiên bản:** 2.7  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -20,9 +20,16 @@
 - Không tính năng lượng can thiệp chỉ vì hệ thống thực hiện hoạt động theo dõi, phân tích, phát cảnh báo hoặc đưa ra đề xuất. Khi phát sinh hiệu ứng can thiệp thực tế, chi phí được xác định theo SYS-007; không tính theo số lần giao tiếp hay số lệnh.
 - Can thiệp thông thường cần có sự đồng ý của ký chủ. Hệ thống chỉ được tự ý can thiệp trong tình huống khẩn cấp khi đồng thời đáp ứng đủ: (1) nguy cơ cận kề; (2) có khả năng gây tử vong, thương tích nghiêm trọng hoặc tổn hại khó khắc phục; (3) không còn đủ thời gian xin phép mà việc chờ đợi có thể khiến cơ hội ngăn chặn nguy hiểm mất đi.
 - Trong tình huống khẩn cấp, hệ thống chỉ được dùng biện pháp cần thiết để ngăn chặn nguy hiểm, không tùy tiện mở rộng hiệu ứng; sau khi tình huống được kiểm soát phải thông báo cho ký chủ về hành động đã thực hiện và năng lượng tiêu hao.
+- Với can thiệp thông thường, hệ thống phải giải thích mục đích và hành động dự kiến, ước tính năng lượng cần dùng nếu có thể, sau đó chờ ký chủ đồng ý rõ ràng mới được thực hiện.
+- Im lặng không được xem là đồng ý; sự đồng ý cho một hành động không mặc nhiên cho phép các hành động tiếp theo. Nếu phạm vi can thiệp thay đổi đáng kể, hệ thống phải xin phép lại.
+- Khi ký chủ là trẻ nhỏ nhưng đã có khả năng hiểu và lựa chọn, hệ thống phải giải thích phù hợp và trực tiếp hỏi ý kiến trẻ.
+- Khi ký chủ chưa đủ khả năng hiểu hoặc biểu đạt sự đồng ý, hệ thống có thể xin sự đồng ý trực tiếp của cha hoặc mẹ nếu người đó có mặt, tỉnh táo và đủ khả năng quyết định. Không có người giám hộ đủ khả năng thì không thực hiện can thiệp thông thường nếu chưa có sự đồng ý; chỉ áp dụng ngoại lệ khẩn cấp đã quy định.
+- Không áp dụng cơ chế cha mẹ hoặc người giám hộ ủy quyền trước cho hệ thống thực hiện các can thiệp thông thường.
 - Ngoại lệ khẩn cấp chỉ bỏ qua yêu cầu xin phép trước; không tạo thêm năng lực, không mở rộng phạm vi chức năng hoặc quyền hạn vốn có của hệ thống.
 - Không áp dụng cơ chế ký chủ ủy quyền trước cho hệ thống tự thực hiện các hành động can thiệp thông thường. Với can thiệp thông thường, hệ thống phải xin ý kiến và nhận được sự đồng ý của ký chủ trước khi thực hiện; ngoại lệ duy nhất đã chốt là tình huống khẩn cấp đáp ứng đủ điều kiện nêu trên.
 - Phạm vi can thiệp riêng: Lạc Tinh tập trung tìm kiếm, phân tích và đề xuất cơ hội, không tự ý thay đổi thế giới để tạo lợi thế cho ký chủ; Kỷ Ngôn tập trung phân tích, mô phỏng và cảnh báo rủi ro, không tự ý thay đổi tình huống để ép kết quả theo phương án an toàn; Bạch Miên có quyền dùng năng lượng của chính mình để trực tiếp bảo hộ ký chủ trong giới hạn chức năng, năng lực và quyền hạn được cấp, kể cả can thiệp khẩn cấp.
+- Phạm vi bảo hộ trực tiếp của Bạch Miên chỉ áp dụng với ký chủ được phân công đồng hành. Bạch Miên có thể quan sát, nhận biết và cảnh báo nguy cơ liên quan đến an toàn của ký chủ, kể cả khi nguy cơ xuất phát từ người khác; nhưng không mặc nhiên bảo hộ hoặc tiêu hao năng lượng để cứu trợ người thân, đồng đội hay người khác.
+- Bạch Miên có thể cân nhắc can thiệp để bảo vệ người khác nếu đó là biện pháp cần thiết nhằm ngăn nguy cơ trực tiếp gây hại cho ký chủ; mọi hành động vẫn phải nằm trong giới hạn năng lực, quyền hạn và quy tắc năng lượng hiện hành.
 - Khi ký chủ yêu cầu làm trái chức năng, quyền hạn hoặc quy định Tổng bộ, hệ thống phải từ chối; sự đồng ý của ký chủ không hợp thức hóa hành động bị cấm. Hệ thống có thể giải thích giới hạn và đề xuất phương án thay thế hợp lệ. Việc từ chối yêu cầu trái quy định không tự thân cấu thành vi phạm.
 - Nếu hệ thống cố ý thực hiện hành động vượt quyền hoặc trái quy định, trách nhiệm được xem xét theo quy chế hiện hành của Tổng bộ; không tự đặt hình thức xử lý mới trong hồ sơ nhân vật.
 - Các hệ thống không được tự ý sửa mục tiêu, điều kiện hoặc giảm độ khó nhiệm vụ.
@@ -397,11 +404,17 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - Lạc Tinh – hệ thống đồng hành với người vợ: **cấp C**.
 - Kỷ Ngôn – hệ thống đồng hành với người chồng: **cấp C**.
 
-## 13.3. Điều kiện thăng cấp
-- Tất cả hệ thống chỉ có thể thăng cấp thông qua **thành tích cá nhân đạt được từ việc thực hiện nhiệm vụ**.
-- Thành tích được xét theo đóng góp và kết quả cá nhân của chính hệ thống; không mặc nhiên nhận thành tích của ký chủ hoặc hệ thống khác.
-- Không thăng cấp do xuất thân, quan hệ, đặc quyền, sự ưu ái, thâm niên hoặc chỉ vì ký chủ/nhiệm vụ có cấp cao hơn.
-- Tiêu chí đánh giá thành tích, ngưỡng thành tích cần đạt, quy trình xét duyệt và cơ quan có thẩm quyền quyết định thăng cấp chưa được xác định; không tự đặt khi chưa có quyết định tiếp theo.
+## 13.3. Hai loại thành tích và điều kiện thăng cấp
+- Thành tích của hệ thống được chia thành hai loại độc lập:
+  - **Thành tích nhiệm vụ:** gắn với kết quả nhiệm vụ của ký chủ và hệ thống đồng hành. Khi ký chủ hoàn thành nhiệm vụ, hệ thống đồng hành được ghi nhận hoàn thành nhiệm vụ đó.
+  - **Thành tích chuyên môn:** ghi nhận năng lực và chất lượng đồng hành của hệ thống, bao gồm đóng góp thực tế, năng lực chuyên môn, xử lý tình huống, trách nhiệm và tuân thủ quy định.
+- Thành tích nhiệm vụ và thành tích chuyên môn được tích lũy, đánh giá riêng; không được dùng loại này bù cho loại kia.
+- Muốn thăng một cấp, hệ thống bắt buộc phải đạt ngưỡng của cả thành tích nhiệm vụ và thành tích chuyên môn.
+- Ngưỡng thành tích chuyên môn được định hướng cao hơn và là yếu tố tạo độ khó đáng kể khi thăng cấp.
+- Khoảng cách thành tích cần thiết giữa các cấp tăng dần; cấp càng cao càng khó thăng cấp.
+- Thành tích đã tích lũy không bị xóa khi hệ thống thăng cấp.
+- Không thăng cấp do xuất thân, quan hệ, đặc quyền, sự ưu ái hoặc thâm niên; không tự động được thăng cấp chỉ vì ký chủ/nhiệm vụ có cấp cao hơn.
+- Chưa chốt điểm số, ngưỡng cụ thể, công thức tăng độ khó, cách quy đổi/ghi nhận chi tiết, quy trình đánh giá và cơ quan có thẩm quyền quyết định thăng cấp. Không tự đặt các nội dung này khi chưa có quyết định tiếp theo.
 
 # 14. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
 
@@ -417,4 +430,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.6**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.7**
