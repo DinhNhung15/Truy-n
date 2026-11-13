@@ -1,8 +1,8 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.7  
-**Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung, phạm vi can thiệp, giới tính (không xác định), cách xưng hô và chất giọng của ba hệ thống. Tuổi đời, thâm niên và các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
+**Phiên bản:** 3.8  
+**Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung, phạm vi can thiệp, giới tính (không xác định), cách xưng hô và chất giọng của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
 ---
@@ -108,6 +108,21 @@
 - Chất giọng là đặc điểm nhận diện cá nhân, không phải dấu hiệu xác định giới tính.
 
 ---
+
+## 5.2. Tuổi đời, thâm niên và hình thái biểu hiện đã chốt
+
+Tuổi đời được tính từ khi hệ thống bắt đầu tồn tại với ý thức cá nhân; thâm niên được tính từ thời điểm chính thức làm việc tại Tổng bộ. Hai chỉ số độc lập, không dùng làm căn cứ mặc định để xác định cấp bậc, năng lực, quyền hạn hoặc thành tích.
+
+| Hệ thống | Tuổi đời | Thâm niên tại Tổng bộ | Hình thái biểu hiện tương đương |
+|---|---:|---:|---|
+| Lạc Tinh | 86 năm | 19 năm | 22–23 tuổi |
+| Kỷ Ngôn | 94 năm | 23 năm | 24–25 tuổi |
+| Bạch Miên | 72 năm | 31 năm | 20–21 tuổi |
+
+- Lạc Tinh và Kỷ Ngôn lớn tuổi hơn Bạch Miên, đồng thời đã quen biết và từng làm việc cùng nhau trước khi nhận nhiệm vụ đồng hành hiện tại.
+- Bạch Miên có tuổi đời trẻ nhất nhưng thâm niên tại Tổng bộ lâu nhất; điều này phản ánh thời điểm gia nhập Tổng bộ khác nhau, không phải mâu thuẫn dữ liệu.
+- “Hình thái biểu hiện tương đương” chỉ là cách hình dung diện mạo/độ tuổi biểu hiện khi nhân hóa trong lời kể hoặc hình ảnh; không xác lập giới tính. Ba hệ thống vẫn không xác định giới tính.
+- Tuổi đời, thâm niên và hình thái biểu hiện không tự động quyết định độ trưởng thành, địa vị, cấp hệ thống hoặc mức độ giỏi nghiệp vụ.
 
 # 6. ĐỊNH HƯỚNG CHUNG ĐÃ CHỐT – SẮC THÁI VÀ QUAN HỆ
 
@@ -387,6 +402,23 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - Tính cách: Có tính cạnh tranh cao, ban đầu thường đánh giá thấp Bạch Miên.
 - Vai trò truyện: Tạo cơ hội để Bạch Miên thể hiện năng lực và chủ động bày tỏ quan điểm.
 
+## 10.8. Chức vụ và bộ phận công tác đã chốt
+
+Các Trung tâm dưới đây là đơn vị chuyên môn trực thuộc các Cục/Khối được nêu, không phải Cục/Khối độc lập ngang cấp. Chức danh mô tả vị trí nghiệp vụ của nhân vật, không mặc nhiên trao quyền phê duyệt, điều phối nhiệm vụ, sửa nhiệm vụ, quyết định kết quả hoặc xử lý vi phạm ngoài thẩm quyền của đơn vị chủ quản.
+
+### Thuộc Khối Chấp Hành
+- **Đường Đường:** Trung tâm Hỗ trợ Hệ thống Con – chuyên viên điều phối hỗ trợ. Phụ trách kết nối nhu cầu hỗ trợ, phối hợp đầu mối và hướng dẫn hệ thống con tiếp cận các kênh hỗ trợ phù hợp. Không có quyền tự phân phối nhiệm vụ hoặc phê duyệt cấp phát năng lượng.
+- **Tạ Dữ:** Trung tâm Khai thác Cơ hội – chuyên viên đánh giá và phân tích cơ hội. Thu thập, đối chiếu và đánh giá thông tin về nguồn lực/cơ hội có thể tận dụng trong nhiệm vụ; không tạo cơ hội từ hư không, không sửa nội dung nhiệm vụ.
+- **Mộc Châu:** Trung tâm Đào tạo và Hướng dẫn Hệ thống Con – huấn luyện viên cấp cao. Hướng dẫn nghiệp vụ, chia sẻ kinh nghiệm và hỗ trợ hệ thống con phát triển năng lực; không có quyền tự quyết định thăng cấp hoặc thay thế Ban Thẩm Định Thành Tích Hệ Thống.
+- **Vân Thước:** Trung tâm Giám sát và Bảo hộ – chuyên viên giám sát nguy cơ. Theo dõi dấu hiệu nguy cơ, đánh giá tình huống và đề xuất biện pháp bảo hộ trong phạm vi nghiệp vụ; không thay thế Khối Chấp Pháp trong giám sát vi phạm nội bộ và không có quyền tự ý can thiệp vượt quy định năng lượng/quyền hạn.
+
+### Thuộc Cục Điều Phối
+- **Hạ Sách:** Trung tâm Phân tích Dữ liệu Nhiệm vụ – chuyên viên phân tích dữ liệu. Phân tích dữ liệu nhiệm vụ, tổng hợp xu hướng và cung cấp thông tin phục vụ công tác điều phối; không tự quyết định phân phối hoặc kết luận kết quả nhiệm vụ.
+- **Lâm Chấp:** Trung tâm Nghiên cứu và Phát triển Phương án Nhiệm vụ – chuyên viên nghiên cứu, thử nghiệm phương án. Nghiên cứu và kiểm tra tính khả thi của các phương án xử lý nhiệm vụ; kết quả thử nghiệm chỉ là dữ liệu/đề xuất, không có quyền sửa mục tiêu, điều kiện hoặc nội dung nhiệm vụ.
+- **Tần Sách:** Trung tâm Kiểm soát Rủi ro Nhiệm vụ – chuyên gia thẩm định rủi ro cấp cao. Đánh giá rủi ro và điểm dễ phát sinh thất bại, đưa ra cảnh báo và phương án dự phòng; không có quyền thay Cục Điều Phối quyết định trạng thái hoặc kết quả nhiệm vụ.
+
+Các chức vụ trên là vị trí công tác của nhân vật tại thời điểm hồ sơ được chốt; không tự suy ra cấp bậc hệ thống, tuổi đời, thâm niên hoặc quyền hạn cá nhân ngoài mô tả.
+
 # 11. CÁC TUYẾN PHÁT TRIỂN TẠI TỔNG BỘ
 
 ## 11.1. Lạc Tinh – Cuộc chiến thành tích
@@ -644,15 +676,14 @@ Việc đánh giá dựa trên hồ sơ, dữ liệu và hoàn cảnh thực t�
 # 14. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
 
 Việc chốt hồ sơ nhân vật không đồng nghĩa đã chốt cơ chế vận hành. Các nội dung sau vẫn để mở:
-- Tuổi đời hoặc thâm niên chính thức của từng hệ thống.
-- Chức vụ và quyền hạn tại Tổng bộ của các nhân vật phụ.
+- Các quyền hạn cá nhân ngoài phạm vi chức vụ được mô tả tại Mục 10.8.
 - Các định mức năng lượng riêng (nếu có) ngoài cơ chế chung SYS-007; không tự đặt chi phí riêng cho từng thao tác nghiệp vụ.
 - Chi tiết thủ tục xin phép, ghi nhận, báo cáo hoặc xử lý vi phạm nếu chưa được quy định trong SYSTEM_BIBLE.md.
-- Giới tính, giọng nói hoặc hình thức giao tiếp cụ thể nếu chưa được xác định ở phần khác.
+
 - Các chi tiết quá khứ ngoài những quan hệ và sự kiện đã ghi trong hồ sơ này.
 
 Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân thủ SYSTEM_BIBLE.md cùng các tài liệu SYS hiện hành. Không suy diễn từ tính cách hoặc hình tượng thành năng lực.
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.6**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.8**
