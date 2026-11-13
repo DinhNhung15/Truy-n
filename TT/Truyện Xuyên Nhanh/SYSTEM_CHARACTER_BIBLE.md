@@ -2,7 +2,7 @@
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
 **Phiên bản:** 2.3  
-**Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ, tuyến phát triển, chức năng gốc và năng lực riêng của cả ba hệ thống cùng mạng lưới nhân vật phụ. Cấp bậc, quyền hạn và cơ chế năng lượng riêng của cả ba vẫn chưa chốt.  
+**Trạng thái:** Canon đã chốt cho định hướng, tên, hình tượng, tính cách, tiểu sử, quan hệ, tuyến phát triển, chức năng gốc, năng lực riêng và cấp khởi điểm của cả ba hệ thống cùng mạng lưới nhân vật phụ. Quyền hạn và cơ chế năng lượng riêng của cả ba vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
 ---
@@ -375,7 +375,25 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - Nhân vật phụ có đời sống, lịch trình, mục tiêu và quan hệ riêng; không phải lúc nào cũng sẵn sàng xuất hiện hoặc giúp đỡ ba hệ thống chính.
 - Quan hệ đồng nghiệp có thể bao gồm hợp tác, cạnh tranh, bất đồng và tôn trọng; không mặc định tất cả đều thân thiết.
 
-# 13. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
+# 13. CẤP BẬC VÀ NGUYÊN TẮC THĂNG CẤP ĐÃ CHỐT
+
+## 13.1. Thang cấp và nguyên tắc chung
+- Các hệ thống sử dụng thang cấp F – E – D – C – B – A – S – SS theo SYS-007; không tạo thang cấp riêng cho ba hệ thống đồng hành.
+- Cấp hệ thống phản ánh cấp phát triển/vận hành và các thông số năng lượng theo SYS-007; không mặc nhiên quyết định chức vụ hoặc quyền hạn hành chính tại Tổng bộ.
+- Cấp hệ thống, cấp ký chủ và cấp nhiệm vụ là các hệ thống phân cấp độc lập.
+
+## 13.2. Cấp khởi điểm của ba hệ thống đồng hành
+- Hệ thống đồng hành với con trai (Tiểu Bạch): **cấp A**.
+- Lạc Tinh – hệ thống đồng hành với người vợ: **cấp C**.
+- Kỷ Ngôn – hệ thống đồng hành với người chồng: **cấp C**.
+
+## 13.3. Điều kiện thăng cấp
+- Tất cả hệ thống chỉ có thể thăng cấp thông qua **thành tích cá nhân đạt được từ việc thực hiện nhiệm vụ**.
+- Thành tích được xét theo đóng góp và kết quả cá nhân của chính hệ thống; không mặc nhiên nhận thành tích của ký chủ hoặc hệ thống khác.
+- Không thăng cấp do xuất thân, quan hệ, đặc quyền, sự ưu ái, thâm niên hoặc chỉ vì ký chủ/nhiệm vụ có cấp cao hơn.
+- Tiêu chí đánh giá thành tích, ngưỡng thành tích cần đạt, quy trình xét duyệt và cơ quan có thẩm quyền quyết định thăng cấp chưa được xác định; không tự đặt khi chưa có quyết định tiếp theo.
+
+# 14. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
 
 Việc chốt hồ sơ nhân vật không đồng nghĩa đã chốt cơ chế vận hành. Các nội dung sau vẫn để mở:
 - Cấp bậc, tuổi đời hoặc thâm niên chính thức của từng hệ thống.
@@ -388,4 +406,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.3**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.4**
