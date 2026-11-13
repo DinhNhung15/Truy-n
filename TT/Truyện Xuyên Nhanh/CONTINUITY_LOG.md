@@ -742,3 +742,22 @@
 - Chức năng gốc và năng lực riêng của Lạc Tinh đã chốt.
 - Chức năng gốc, năng lực riêng của Kỷ Ngôn và Bạch Miên; cấp bậc, quyền hạn và cơ chế năng lượng riêng của cả ba vẫn để mở.
 - Không thay đổi các quy tắc vận hành, thẩm quyền hoặc năng lượng đã có trong SYSTEM_BIBLE.md và các tài liệu SYS.
+
+## 2026-11-13 – Chốt chức năng gốc và năng lực riêng của Kỷ Ngôn (SYSTEM_CHARACTER_BIBLE.md v2.2)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/SYSTEM_CHARACTER_BIBLE.md`
+- `TT/Truyện Xuyên Nhanh/CONTINUITY_LOG.md`
+
+### Nội dung được chốt
+- Chức năng gốc của Kỷ Ngôn là **Hệ thống Phân tích và Kiểm soát Rủi ro**: phân tích dữ liệu nhiệm vụ và tình hình hiện tại; nhận diện nguy cơ, điểm bất thường và điều kiện có thể dẫn đến thất bại; xây dựng phương án dự phòng; theo dõi thay đổi giữa kế hoạch và thực tế.
+- Kỷ Ngôn chỉ cung cấp phân tích, cảnh báo và phương án đề xuất; không có quyền sửa mục tiêu, điều kiện hoặc nội dung nhiệm vụ, không bảo đảm phát hiện mọi rủi ro và không thay thế quyền quyết định của ký chủ.
+- Năng lực riêng là **Mô phỏng Rủi ro**: sử dụng dữ liệu hiện có và giả định được xác định để mô phỏng các kịch bản có thể xảy ra, chỉ ra hậu quả tiềm tàng và mức độ rủi ro của từng lựa chọn.
+- Năng lực không phải tiên tri, không xác định chắc chắn tương lai; kết quả phụ thuộc dữ liệu và giả định đầu vào, không đáng tin cậy với yếu tố hoàn toàn không có dữ liệu hoặc ngoài giả định. Thực tế có thể khác mô phỏng.
+- Kỷ Ngôn không quyết định thay hoặc ép ký chủ chọn phương án ít rủi ro nhất. Ký chủ giữ quyền lựa chọn và hành động.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.1 lên **v2.2**.
+- Chức năng gốc và năng lực riêng của Lạc Tinh, Kỷ Ngôn đã chốt.
+- Chức năng gốc, năng lực riêng của Bạch Miên; cấp bậc, quyền hạn và cơ chế năng lượng riêng của cả ba vẫn để mở.
+- Không thay đổi các quy tắc vận hành, thẩm quyền hoặc năng lượng đã có trong SYSTEM_BIBLE.md và các tài liệu SYS.
