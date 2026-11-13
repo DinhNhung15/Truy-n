@@ -993,3 +993,15 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 ### Trạng thái
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.1 lên **v3.2**.
 - Xác lập thẩm quyền phê duyệt thăng cấp của Khối Tổng bộ; không thay đổi điều kiện phải đạt cả hai loại thành tích mới được thăng cấp.
+
+
+## 2026-11-13 – Chốt quyền khiếu nại kết quả đánh giá thành tích (SYSTEM_CHARACTER_BIBLE.md v3.3)
+
+- Hệ thống có quyền khiếu nại khi có căn cứ cho rằng hồ sơ thành tích bị thiếu/ghi sai, đóng góp bị đánh giá không đúng mức hoặc có dữ liệu/bằng chứng mới chưa được xem xét.
+- Khiếu nại phải nêu nội dung và căn cứ liên quan; Bộ phận đánh giá chuyên môn xem xét lại hồ sơ.
+- Nếu có sai sót, điều chỉnh kết quả; nếu không có căn cứ thay đổi, giữ nguyên kết quả.
+- Khiếu nại không tự động làm tăng thành tích, thay đổi kết quả hoặc tạo quyền thăng cấp.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.2 lên **v3.3**.
+- Giữ nguyên phân quyền: Khối Chấp Hành lập hồ sơ; Bộ phận đánh giá chuyên môn xem xét; Khối Tổng bộ phê duyệt thăng cấp.
