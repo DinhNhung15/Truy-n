@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.1  
+**Phiên bản:** 3.2  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -427,12 +427,17 @@ Các nhân vật dưới đây là nhân vật phụ đã chốt trong tuyến �
 - Một lỗi nhỏ không làm mất toàn bộ thành tích chuyên môn đã tích lũy; đồng thời, kết quả nhiệm vụ tốt không được dùng để che lấp hoặc hợp thức hóa hành vi sai phạm.
 - Nếu hệ thống tự ý vượt quyền hoặc vi phạm quy định nhưng ký chủ vẫn hoàn thành nhiệm vụ, thành tích nhiệm vụ vẫn được ghi nhận theo kết quả; hành vi vi phạm được xem xét riêng và ảnh hưởng đến đánh giá thành tích chuyên môn.
 - Việc tiêu hao nhiều năng lượng tự thân không phải bằng chứng mặc định cho năng lực hoặc thành tích chuyên môn tốt.
+- **Phân quyền đánh giá và thăng cấp:**
+  1. **Khối Chấp Hành:** Theo dõi hoạt động của hệ thống và lập hồ sơ thành tích, tập hợp dữ liệu, đóng góp và lịch sử hoạt động làm căn cứ đánh giá.
+  2. **Bộ phận đánh giá chuyên môn:** Đánh giá chất lượng đóng góp theo ba mức ghi nhận đã quy định; đối chiếu dữ liệu và lịch sử hoạt động để đưa ra kết quả đánh giá chuyên môn.
+  3. **Khối Tổng bộ:** Có thẩm quyền phê duyệt kết quả thăng cấp theo quy định.
+- Hệ thống không tự đánh giá hoặc tự quyết định thành tích chuyên môn của chính mình. Bộ phận lập hồ sơ, bộ phận đánh giá chuyên môn và cơ quan phê duyệt thăng cấp có vai trò phân biệt; không mặc nhiên gộp các quyền này vào một chủ thể.
 - Muốn thăng một cấp, hệ thống bắt buộc phải đạt ngưỡng của cả thành tích nhiệm vụ và thành tích chuyên môn.
 - Ngưỡng thành tích chuyên môn được định hướng cao hơn và là yếu tố tạo độ khó đáng kể khi thăng cấp.
 - Khoảng cách thành tích cần thiết giữa các cấp tăng dần; cấp càng cao càng khó thăng cấp.
 - Thành tích đã tích lũy không bị xóa khi hệ thống thăng cấp.
 - Không thăng cấp do xuất thân, quan hệ, đặc quyền, sự ưu ái hoặc thâm niên; không tự động được thăng cấp chỉ vì ký chủ/nhiệm vụ có cấp cao hơn.
-- Chưa chốt điểm số, ngưỡng cụ thể, công thức tăng độ khó, cách quy đổi/ghi nhận chi tiết, quy trình đánh giá và cơ quan có thẩm quyền quyết định thăng cấp. Không tự đặt các nội dung này khi chưa có quyết định tiếp theo.
+- Chưa chốt điểm số, ngưỡng cụ thể, công thức tăng độ khó, cách quy đổi/ghi nhận chi tiết và quy trình đánh giá chuyên môn. Thẩm quyền phê duyệt thăng cấp thuộc Khối Tổng bộ; không tự đặt các thông số hoặc quy trình chi tiết khi chưa có quyết định tiếp theo.
 
 # 14. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
 
@@ -448,4 +453,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.1**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.2**
