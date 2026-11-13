@@ -1,8 +1,8 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 3.8  
-**Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung, phạm vi can thiệp, giới tính (không xác định), cách xưng hô và chất giọng của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
+**Phiên bản:** 3.9  
+**Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, giới hạn quyền hạn, phạm vi can thiệp, giới tính (không xác định), cách xưng hô, chất giọng và nguyên tắc năng lượng của ba hệ thống. Không có quyền hạn cá nhân ngoài chức vụ/phạm vi được giao hoặc định mức năng lượng riêng do Tổng bộ cấp ngoài cơ chế chung.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
 ---
@@ -675,15 +675,17 @@ Việc đánh giá dựa trên hồ sơ, dữ liệu và hoàn cảnh thực t�
 
 # 14. GIỚI HẠN CANON – NHỮNG GÌ CHƯA ĐƯỢC CHỐT
 
-Việc chốt hồ sơ nhân vật không đồng nghĩa đã chốt cơ chế vận hành. Các nội dung sau vẫn để mở:
-- Các quyền hạn cá nhân ngoài phạm vi chức vụ được mô tả tại Mục 10.8.
-- Các định mức năng lượng riêng (nếu có) ngoài cơ chế chung SYS-007; không tự đặt chi phí riêng cho từng thao tác nghiệp vụ.
-- Chi tiết thủ tục xin phép, ghi nhận, báo cáo hoặc xử lý vi phạm nếu chưa được quy định trong SYSTEM_BIBLE.md.
+Các nội dung cơ chế thuộc phạm vi hồ sơ ba hệ thống đã được chốt như sau:
+- Mỗi hệ thống chỉ có quyền hạn phát sinh từ chức năng, vị trí và nhiệm vụ được phân công; không có quyền hạn cá nhân đặc biệt ngoài phạm vi đó nếu chưa được tác giả xác nhận.
+- Không có định mức, hạn mức hoặc khoản năng lượng miễn phí riêng do Tổng bộ cấp cho từng cá nhân/hệ thống ngoài cơ chế phân bổ kho chung và quy tắc năng lượng SYS-007. Năng lượng cá nhân hệ thống tự quản lý vẫn tuân theo SYS-007.
+- Các hệ thống và Trung tâm áp dụng quy trình chung của Tổng bộ cùng quy trình nghiệp vụ đã được phê duyệt; không tự đặt quy trình riêng làm thay đổi thẩm quyền hoặc cơ chế chung.
+- Hoạt động phân tích, mô phỏng, giám sát, cảnh báo và đề xuất thuần túy không phát sinh chi phí can thiệp riêng nếu không trực tiếp tạo hiệu ứng; hành động can thiệp thực tế vẫn tính theo SYS-007.
+- Không suy diễn năng lực bí mật, quyền hạn hoặc quá khứ có ảnh hưởng đến cơ chế Tổng bộ từ tính cách, hình tượng hay chức danh.
 
-- Các chi tiết quá khứ ngoài những quan hệ và sự kiện đã ghi trong hồ sơ này.
+Nội dung còn để mở là các chi tiết quá khứ và đời sống cá nhân chưa được ghi trong hồ sơ, với điều kiện không tự ý làm thay đổi cơ chế Tổng bộ, quyền hạn, năng lực hoặc canon đã chốt. Mọi bổ sung có ảnh hưởng đến các phạm vi đó phải được tác giả xác nhận.
 
 Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân thủ SYSTEM_BIBLE.md cùng các tài liệu SYS hiện hành. Không suy diễn từ tính cách hoặc hình tượng thành năng lực.
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.8**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 3.9**
