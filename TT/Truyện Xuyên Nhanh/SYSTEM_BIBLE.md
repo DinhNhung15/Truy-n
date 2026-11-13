@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.23  
+**Phiên bản:** 1.24  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -1525,6 +1525,27 @@ Trong thời gian hệ thống sập:
 - Trong thời gian không có kết nối với hệ thống ký sinh, ký chủ không thể sử dụng những tiện ích thuộc hệ thống đó hoặc nhận hỗ trợ trực tiếp từ nó.
 - Hệ thống đang ở Tổng bộ có thể nhận dữ liệu tiến độ và cảnh báo nguy hiểm. Nếu quyết định hỗ trợ, nó phải trở lại thế giới nhiệm vụ trước khi can thiệp.
 
+## 15.9. Giám sát, xác minh và phân loại vi phạm của hệ thống
+
+### Quy trình giám sát và xác minh
+- Khối Chấp Pháp giám sát hoạt động của các cá nhân thuộc mọi Cục/Khối, phát hiện và ghi nhận dấu hiệu vi phạm; việc phát hiện dấu hiệu chưa đồng nghĩa với kết luận có vi phạm.
+- Khi xác minh, hồ sơ có thể bao gồm nhật ký hoạt động, dữ liệu năng lượng, dữ liệu nhiệm vụ, hành vi thực tế và hậu quả liên quan.
+- Cục Hạch Toán cung cấp dữ liệu năng lượng, giao dịch và các thông tin thuộc phạm vi chức trách khi cần thiết cho việc xác minh.
+- Việc đánh giá phải xem xét nguyên nhân, mức độ cố ý, phạm vi quyền hạn, khả năng thực tế của hệ thống và hậu quả xảy ra. Không mặc định một sai sót nghiệp vụ hoặc kết quả không tốt là hành vi cố ý vi phạm.
+- Hệ thống liên quan phải được tạo cơ hội giải trình trước khi đưa ra kết luận xử lý.
+- Sau khi xác minh, hồ sơ được chuyển đến cấp có thẩm quyền. Khối Tổng bộ quyết định các biện pháp xử lý thuộc thẩm quyền của mình, bao gồm đình chỉ, đóng băng hoặc khôi phục theo các quy định hiện hành.
+- Khối Chấp Pháp thực hiện chức năng giám sát, phát hiện, ghi nhận và thực thi trong phạm vi được giao; không tự quyết định khôi phục cá nhân bị đóng băng. Cục Hạch Toán cung cấp dữ liệu, không thay thế thẩm quyền kết luận và quyết định xử lý của Khối Tổng bộ.
+- Không tự đặt hình thức hoặc mức chế tài mới trong quy trình này. Biện pháp xử lý cụ thể phải căn cứ quy chế hiện hành và thẩm quyền đã được phân định.
+
+### Ba mức độ vi phạm
+1. **Vi phạm nhẹ:** Sai sót nghiệp vụ không cố ý, có hậu quả hạn chế; cần xem xét bối cảnh, dữ liệu sẵn có và khả năng thực tế của hệ thống.
+2. **Vi phạm nghiêm trọng:** Hệ thống cố ý vượt quyền hoặc vi phạm quy định, gây ảnh hưởng đáng kể.
+3. **Vi phạm đặc biệt nghiêm trọng:** Hệ thống cố ý phá hoại hoặc thực hiện hành vi gây nguy hiểm nghiêm trọng cho ký chủ, nhiệm vụ hoặc Tổng bộ.
+
+- Việc phân loại dựa trên hành vi, mức độ cố ý và hậu quả thực tế; không chỉ dựa vào tên gọi hoặc một dấu hiệu đơn lẻ.
+- Ba mức trên là khung phân loại vi phạm của hệ thống, không thay thế các cấp độ vi phạm của người ủy thác tại Mục 21.5.
+- Không có hình phạt tự động chỉ dựa trên tên mức độ; biện pháp xử lý được quyết định theo quy chế hiện hành và thẩm quyền tương ứng.
+
 ## 15.8. Hạ cấp, đóng băng và khôi phục hệ thống
 
 - Mỗi lần hệ thống sập do năng lượng về 0, hệ thống bị hạ một cấp bậc.
@@ -2118,4 +2139,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.23**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.24**
