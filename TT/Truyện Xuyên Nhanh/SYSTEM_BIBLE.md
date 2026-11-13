@@ -1196,13 +1196,13 @@ Các loại tài sản khác áp dụng đúng quy tắc bảo lưu tương ứn
 
 # 13. CÁC VẤN ĐỀ ĐÃ ĐƯỢC QUYẾT ĐỊNH
 
-Các vấn đề từng được ghi nhận là chưa chốt dưới đây đã được giải quyết và đưa vào canon tại phiên bản 1.20. Những chi tiết khác chưa được quy định ở các mục riêng vẫn không được tự ý suy diễn thành luật.
+Các vấn đề từng được ghi nhận là chưa chốt dưới đây đã được giải quyết và đưa vào canon. Quy tắc SYS-010 về vé Về Nhà đã được điều chỉnh lần cuối tại phiên bản 1.21. Những chi tiết khác chưa được quy định ở các mục riêng vẫn không được tự ý suy diễn thành luật.
 
 - **SYS-007 – Nhiều hệ số thay đổi đồng thời:** Tính lại tổng chi phí theo toàn bộ hệ số mới; chỉ thu phần vượt mức chi phí cao nhất đã tính cho cùng hiệu ứng/giai đoạn. Không cộng cơ học các khoản chênh lệch riêng lẻ và không hoàn năng lượng khi chi phí giảm.
 - **SYS-007 – Hiệu ứng thay đổi theo thời gian:** Khi bản chất tác động thay đổi, chia thành các giai đoạn liên tiếp và tính riêng từng giai đoạn; các đặc tính đồng thời của cùng một hiệu ứng vẫn áp dụng Ks cao nhất.
 - **SYS-007 – Ranh giới Kp:** Kp 5 áp dụng cho phạm vi địa phương hoặc một nhóm thống nhất trên 10 thành viên chỉ bị tác động trực tiếp; Kp 10 áp dụng khi hiệu ứng đạt quy mô thành phố hoặc trải trên từ hai thành phố trở lên. Nhóm được xác định theo liên hệ thực tế/chức năng, không theo danh sách chỉ định.
 - **Mục 6.6 – Thất bại cuối cùng:** Chỉ Cục Điều Phối có thẩm quyền kết luận nhiệm vụ thất bại cuối cùng, dựa trên thời hạn/điều kiện thất bại trong khế ước hoặc căn cứ khách quan chứng minh mục tiêu không thể hoàn thành. Một lượt ký chủ thất bại không làm nhiệm vụ kết thúc.
-- **SYS-010 – Phân biệt giá vé:** Vé mua 1 tỷ điểm gắn với người mua ban đầu; người khác có thể nhận và giữ vé, nhưng phải thanh toán phần chênh 9 tỷ điểm một lần trước khi kích hoạt hoặc chuyển vé thành vé vô danh. Vé mua 10 tỷ điểm là vé vô danh có thể kích hoạt bởi người giữ hợp lệ mà không cần trả thêm.
+- **SYS-010 – Phân biệt quyền chuyển nhượng:** Vé mua cho bản thân giá 1 tỷ điểm là vé cá nhân, chỉ người mua ban đầu được kích hoạt và không thể chuyển nhượng; nếu bị cướp/chiếm đoạt, người chiếm giữ không có quyền kích hoạt. Vé mua để trao cho người khác giá 10 tỷ điểm là vé chuyển nhượng, có thể cho, tặng, bán, trao đổi hoặc bị cướp/chiếm đoạt; người đang nắm giữ vé chuyển nhượng có quyền kích hoạt mà không phải trả thêm bất kỳ khoản phí nào. Không có cơ chế trả thêm 9 tỷ để đổi loại vé.
 
 ---
 
