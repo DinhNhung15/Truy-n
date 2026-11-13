@@ -966,3 +966,16 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 - Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v2.9 lên **v3.0**.
 - Không thay đổi cơ chế hai loại thành tích độc lập, ba mức ghi nhận thành tích chuyên môn hoặc điều kiện phải đạt cả hai ngưỡng mới được thăng cấp.
 - Chưa đặt điểm số, trọng số hoặc công thức quy đổi.
+
+
+## 2026-11-13 – Chốt cách đánh giá thành tích chuyên môn khi hệ thống mắc lỗi (SYSTEM_CHARACTER_BIBLE.md v3.1)
+
+- Việc mắc lỗi được xem xét theo tính chất, nguyên nhân, hậu quả và cách hệ thống xử lý sau lỗi.
+- **Lỗi vô ý, hậu quả nhỏ:** Không tự động xóa thành tích đã tích lũy; đánh giá chất lượng xử lý và trách nhiệm sau lỗi.
+- **Lỗi nghiêm trọng do hạn chế năng lực hoặc phán đoán sai:** Đóng góp liên quan có thể không được ghi nhận thành tích; xem xét ảnh hưởng đến đánh giá chuyên môn theo hậu quả và cách xử lý.
+- **Cố ý vi phạm, vượt quyền hoặc phá hoại:** Xử lý theo quy định vi phạm của Tổng bộ; không tính hành vi vi phạm là đóng góp chuyên môn tốt, kể cả khi tình cờ giúp ký chủ hoàn thành nhiệm vụ.
+- Lỗi nhỏ không xóa toàn bộ thành tích tích lũy; kết quả nhiệm vụ tốt không che lấp hoặc hợp thức hóa sai phạm.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.0 lên **v3.1**.
+- Không tạo hình phạt mới hoặc cơ chế tự động trừ/xóa thành tích; các vi phạm tiếp tục được xử lý theo quy định hiện hành của Tổng bộ.
