@@ -1090,3 +1090,21 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 - SYSTEM_BIBLE.md nâng lên **v1.25**; bổ sung Ban Thẩm Định Thành Tích Hệ Thống trực thuộc Khối Tổng bộ.
 - SYSTEM_CHARACTER_BIBLE.md nâng lên **v3.6**; bổ sung Mục 13.3.7 về chuyển tiếp thành tích lịch sử và Mục 13.3.8 về sổ thành tích kép.
 - Hai nội dung từng để mở tại v3.5 đã được chốt; không thay đổi thang cấp, ngưỡng TN/CM, nguyên tắc hai loại thành tích độc lập hoặc các quy tắc năng lượng SYS-007.
+
+
+## 2026-11-13 – Chốt giới tính, cách xưng hô và chất giọng của ba hệ thống (SYSTEM_CHARACTER_BIBLE.md v3.7)
+
+### Nội dung đã chốt
+- Lạc Tinh, Kỷ Ngôn và Bạch Miên đều **không xác định giới tính**; không gán giới tính sinh học hoặc giới tính nhân hóa.
+- Cách xưng hô thông thường: tự xưng “tôi”; với bạn bè/đồng nghiệp có thể gọi “cậu”, “bạn”, tên riêng hoặc biệt danh tùy quan hệ.
+- Với tiền bối hoặc người có chức vụ cao hơn, ưu tiên tên riêng, chức danh hoặc “tiền bối”; không dùng danh xưng dựa trên giới tính.
+- Chất giọng riêng:
+  - Lạc Tinh: sáng, linh hoạt, giàu biểu cảm; hào hứng thì nói nhanh, nghiêm túc thì hạ nhịp và nói rõ.
+  - Kỷ Ngôn: rõ ràng, ổn định, điềm tĩnh; mạch lạc, nhấn trọng tâm khi phân tích.
+  - Bạch Miên: nhẹ, ấm, vừa phải; lo lắng thì nói chậm, kiên quyết thì ngắn gọn và dứt khoát.
+- Chất giọng và cách giao tiếp không được dùng để suy diễn giới tính.
+
+### Trạng thái
+- Cập nhật SYSTEM_CHARACTER_BIBLE.md từ v3.6 lên **v3.7**.
+- Không thay đổi tính cách, chức năng, năng lực, cấp bậc hoặc quan hệ đã chốt của ba hệ thống.
+- Tuổi đời và thâm niên của ba hệ thống vẫn chưa được chốt.
