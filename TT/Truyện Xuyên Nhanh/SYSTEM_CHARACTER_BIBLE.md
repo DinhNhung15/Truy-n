@@ -1,7 +1,7 @@
 # SYSTEM_CHARACTER_BIBLE.md
 # HỒ SƠ NHÂN VẬT – BA HỆ THỐNG ĐỒNG HÀNH
 
-**Phiên bản:** 2.5  
+**Phiên bản:** 2.6  
 **Trạng thái:** Canon đã chốt cho định hướng, hồ sơ nhân vật, chức năng gốc, năng lực riêng, cấp khởi điểm, nguyên tắc quyền hạn chung và phạm vi can thiệp của ba hệ thống. Các chi tiết cơ chế năng lượng riêng ngoài quy tắc chung tại SYS-007 vẫn chưa chốt.  
 **Tài liệu liên quan:** `SYSTEM_BIBLE.md`, `CHARACTER_BIBLE.md`
 
@@ -21,6 +21,7 @@
 - Can thiệp thông thường cần có sự đồng ý của ký chủ. Hệ thống chỉ được tự ý can thiệp trong tình huống khẩn cấp khi đồng thời đáp ứng đủ: (1) nguy cơ cận kề; (2) có khả năng gây tử vong, thương tích nghiêm trọng hoặc tổn hại khó khắc phục; (3) không còn đủ thời gian xin phép mà việc chờ đợi có thể khiến cơ hội ngăn chặn nguy hiểm mất đi.
 - Trong tình huống khẩn cấp, hệ thống chỉ được dùng biện pháp cần thiết để ngăn chặn nguy hiểm, không tùy tiện mở rộng hiệu ứng; sau khi tình huống được kiểm soát phải thông báo cho ký chủ về hành động đã thực hiện và năng lượng tiêu hao.
 - Ngoại lệ khẩn cấp chỉ bỏ qua yêu cầu xin phép trước; không tạo thêm năng lực, không mở rộng phạm vi chức năng hoặc quyền hạn vốn có của hệ thống.
+- Không áp dụng cơ chế ký chủ ủy quyền trước cho hệ thống tự thực hiện các hành động can thiệp thông thường. Với can thiệp thông thường, hệ thống phải xin ý kiến và nhận được sự đồng ý của ký chủ trước khi thực hiện; ngoại lệ duy nhất đã chốt là tình huống khẩn cấp đáp ứng đủ điều kiện nêu trên.
 - Phạm vi can thiệp riêng: Lạc Tinh tập trung tìm kiếm, phân tích và đề xuất cơ hội, không tự ý thay đổi thế giới để tạo lợi thế cho ký chủ; Kỷ Ngôn tập trung phân tích, mô phỏng và cảnh báo rủi ro, không tự ý thay đổi tình huống để ép kết quả theo phương án an toàn; Bạch Miên có quyền dùng năng lượng của chính mình để trực tiếp bảo hộ ký chủ trong giới hạn chức năng, năng lực và quyền hạn được cấp, kể cả can thiệp khẩn cấp.
 - Khi ký chủ yêu cầu làm trái chức năng, quyền hạn hoặc quy định Tổng bộ, hệ thống phải từ chối; sự đồng ý của ký chủ không hợp thức hóa hành động bị cấm. Hệ thống có thể giải thích giới hạn và đề xuất phương án thay thế hợp lệ. Việc từ chối yêu cầu trái quy định không tự thân cấu thành vi phạm.
 - Nếu hệ thống cố ý thực hiện hành động vượt quyền hoặc trái quy định, trách nhiệm được xem xét theo quy chế hiện hành của Tổng bộ; không tự đặt hình thức xử lý mới trong hồ sơ nhân vật.
@@ -416,4 +417,4 @@ Mọi năng lực, quyền hạn và hành vi can thiệp về sau phải tuân 
 
 ---
 
-**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.5**
+**Kết thúc SYSTEM_CHARACTER_BIBLE.md – Phiên bản 2.6**
