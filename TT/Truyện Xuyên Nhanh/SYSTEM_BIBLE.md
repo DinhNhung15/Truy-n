@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.24  
+**Phiên bản:** 1.25  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -147,6 +147,22 @@ Chức năng và thẩm quyền:
 - Xử lý các vụ việc vi phạm trong nội bộ Tổng bộ.
 - Có thẩm quyền quyết định đình chỉ hệ thống hoặc thực thể theo quy định.
 - Xem xét và quyết định việc khôi phục cá nhân đã bị đóng băng theo quy chế hiện hành.
+
+**Đơn vị chuyên môn trực thuộc Khối Tổng bộ: Ban Thẩm Định Thành Tích Hệ Thống**
+
+Chức năng:
+- Thẩm định hồ sơ và bằng chứng về đóng góp chuyên môn của hệ thống con.
+- Đánh giá đóng góp theo các tiêu chí và mức ghi nhận đã được quy định trong SYSTEM_CHARACTER_BIBLE.md.
+- Xác định mức ghi nhận và điểm thành tích chuyên môn (CM) trên cơ sở dữ liệu, hồ sơ và hoàn cảnh thực tế.
+- Yêu cầu Khối Chấp Hành hoặc đơn vị liên quan bổ sung dữ liệu phục vụ thẩm định.
+- Xem xét khiếu nại lần một đối với kết quả đánh giá chuyên môn.
+
+Giới hạn thẩm quyền:
+- Không tự quyết định thăng cấp; việc phê duyệt thăng cấp thuộc Khối Tổng bộ.
+- Không tự ý sửa kết quả hoặc cấp độ nhiệm vụ do Cục Điều Phối xác nhận.
+- Không tự quản lý, phân phối hoặc thay thế chức năng ghi sổ điểm của Cục Hạch Toán.
+- Không quyết định đình chỉ, đóng băng hoặc khôi phục hệ thống/thực thể.
+- Người có xung đột lợi ích phải rút khỏi việc thẩm định vụ việc liên quan.
 
 ### F. Khối Chấp Pháp
 
@@ -2139,4 +2155,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.24**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.25**
