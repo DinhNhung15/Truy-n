@@ -1,7 +1,7 @@
 # SYSTEM_BIBLE.md
 # BÁCH KHOA TOÀN THƯ VỀ HỆ THỐNG
 
-**Phiên bản:** 1.26  
+**Phiên bản:** 1.27  
 **Trạng thái:** Tài liệu nền tảng – các quy tắc SYS-001, SYS-002, SYS-003, SYS-007, SYS-008, SYS-009, SYS-010, SYS-012, SYS-013, SYS-014, SYS-015 và cơ chế hợp đồng/người ủy thác đã được tác giả xác nhận ở phạm vi ghi trong tài liệu; các chi tiết chưa được quyết định không được tự ý suy diễn  
 **Phạm vi:** Cơ cấu Tổng bộ, nguồn gốc nhiệm vụ, hệ thống con, ký chủ, cơ chế nhiệm vụ, nhiệm vụ tự chọn độc lập và nhiệm vụ nhóm, tài nguyên, cửa hàng, chợ giao dịch, vật phẩm giữ mạng, phần thưởng và quy tắc trở về.
 
@@ -198,6 +198,7 @@ Nguyên tắc:
 - Mỗi Cục/Khối chỉ thực hiện chức năng và sử dụng quyền hạn được giao; không tự mở rộng thẩm quyền sang đơn vị khác.
 - Việc một đơn vị theo dõi, giám sát hoặc đề xuất không đồng nghĩa với việc đơn vị đó có quyền phê duyệt, đình chỉ, hủy nhiệm vụ hoặc khôi phục nếu thẩm quyền tương ứng không được quy định rõ.
 - Các giới hạn thẩm quyền nêu tại Mục 2 được áp dụng đồng đều, không có đơn vị nào được miễn trừ khỏi cơ chế giám sát nội bộ.
+- Các Trung tâm và cá nhân áp dụng quy trình chung của Tổng bộ cùng quy trình nghiệp vụ đã được phê duyệt; không tự đặt quy trình riêng để mở rộng thẩm quyền hoặc thay đổi cơ chế chung.
 
 ---
 
@@ -1513,6 +1514,13 @@ Các mốc được tính theo thời lượng thực tế, không chồng lấn
 - Nếu một hiệu ứng độc lập mới xuất hiện, hoặc hiệu ứng cũ chấm dứt rồi được kích hoạt lại, tính thành hiệu ứng/giai đoạn riêng.
 
 
+### Nguyên tắc phân loại và ghi nhận chi phí can thiệp
+
+- E₀, Kp, Kt và Ks được phân loại theo hiệu ứng thực tế, phạm vi tác động, thời lượng cam kết và cơ chế thực sự tạo ra hiệu ứng; không căn cứ riêng vào tên gọi, số câu lệnh hoặc cách triển khai kỹ thuật.
+- Chỉ áp dụng bậc cao hơn khi dữ liệu và bằng chứng cho thấy hiệu ứng thực sự đáp ứng tiêu chí của bậc đó. Nếu chưa có căn cứ cho bậc cao hơn nhưng đã có căn cứ rõ ràng cho một bậc thấp hơn, áp dụng bậc thấp hơn được chứng minh; không suy đoán để tăng chi phí.
+- Hoạt động thuần phân tích, mô phỏng dựa trên dữ liệu, theo dõi, cảnh báo, cung cấp thông tin hoặc đề xuất phương án không trực tiếp tạo thay đổi lên đối tượng/thực tại thì không phát sinh chi phí can thiệp riêng. Khi hoạt động chuyển thành hành động trực tiếp tạo hiệu ứng hoặc thay đổi thực tế, phần can thiệp đó được tính theo công thức SYS-007.
+- Sổ theo dõi của mỗi hiệu ứng độc lập hoặc giai đoạn hiệu ứng cần nhận diện được mục tiêu, hiệu ứng/giai đoạn, E₀, Kp, Kt, Ks, tổng chi phí tính lại, mức E_đã_tính, phần tăng thêm ΔE và lượng năng lượng thực tế đã thu. Mỗi hiệu ứng/giai đoạn có sổ riêng; không bù trừ giữa các hiệu ứng.
+
 ## 15.5. Trạng thái năng lượng và cảnh báo
 
 Các mốc hiển thị trên giao diện là chỉ báo trạng thái tĩnh, không phải thông báo chủ động liên tục:
@@ -2143,6 +2151,8 @@ Vi phạm của người ủy thác được chia thành bốn cấp:
 - Không cấp độ nào tự động dẫn đến tiêu diệt toàn bộ linh hồn. Việc tiêu diệt linh hồn không phải hình phạt mặc định.
 - Không tự động hủy hợp đồng, thay đổi điểm thưởng hoặc chuyển kết quả nhiệm vụ chỉ vì người ủy thác bị xác định vi phạm; trạng thái nhiệm vụ và quyền lợi ký chủ vẫn được xử lý theo kết quả thực tế cùng các quy tắc nhiệm vụ tương ứng.
 - Sau khi khế ước được ký và nhiệm vụ hình thành, người ủy thác không thể đơn phương hủy hoặc rút khỏi hợp đồng.
+- Việc kết luận cấp vi phạm phải dựa trên bằng chứng về hành vi cụ thể, mức độ cố ý và hậu quả thực tế; khi cần phải xác minh cả mối liên hệ giữa hành vi và hậu quả. Một thông tin sai, một lời nói dối chưa được chứng minh là che giấu thông tin trọng yếu, hoặc kết quả nhiệm vụ xấu tự nó không đủ để kết luận người ủy thác phá hoại.
+- Chỉ kết luận Cấp 3 khi có căn cứ chứng minh hành vi chủ động can thiệp nhằm làm nhiệm vụ thất bại hoặc khiến ký chủ tử vong; không suy ra ý đồ phá hoại chỉ từ việc ký chủ gặp nguy hiểm, thất bại hoặc tử vong.
 
 ## 21.6. Quyết toán quỹ thưởng 20%
 
@@ -2154,6 +2164,7 @@ Vi phạm của người ủy thác được chia thành bốn cấp:
 - Nếu ký chủ thất bại trong lượt nhiệm vụ, không chi thưởng từ quỹ 20% cho lượt đó. Nếu nhiệm vụ được phân phối lại, quỹ chưa quyết toán tiếp tục được giữ để xử lý theo kết quả cuối cùng.
 - Nếu nhiệm vụ kết thúc với kết quả thất bại cuối cùng theo Mục 6.6, không có khoản thưởng từ quỹ 20%; phần năng lượng còn lại được nhập vào kho chung của Tổng bộ. Linh hồn người ủy thác chấm dứt tồn tại sau khi quyết toán.
 - Năng lượng thưởng do Tổng bộ cấp cho hệ thống con từ nhiệm vụ phụ hoặc nhiệm vụ tự chọn là khoản riêng, không nhập chung và không được nhầm với quỹ 20% của người ủy thác.
+- Quỹ 20% là nguồn duy nhất cho khoản thưởng tự nguyện của người ủy thác; không hình thành nguồn thưởng thứ ba, không được cấp bù từ kho chung của Tổng bộ và không được phân bổ vượt quá số dư thực tế của quỹ. Sau khi quyết toán và khóa phương án phân bổ, không điều chỉnh hồi tố khoản thưởng đã thanh toán.
 
 ## 21.7. Thông báo kết quả và quyết toán cho ký chủ
 
@@ -2168,4 +2179,4 @@ Sau khi ký chủ rời khỏi thế giới nhiệm vụ và Tổng bộ xác mi
 
 Nếu nhiệm vụ thất bại, Tổng bộ vẫn phải gửi báo cáo quyết toán đầy đủ. Ký chủ không nhận thưởng hoàn thành từ quỹ 20% của người ủy thác; năng lượng thưởng nhiệm vụ phụ đang chờ quyết toán bị hủy theo quy tắc nhiệm vụ bắt buộc. Các khoản điểm, EXP và hình phạt được xử lý theo quy định thất bại tương ứng.
 
-**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.26**
+**Kết thúc SYSTEM_BIBLE.md – Phiên bản 1.27**
