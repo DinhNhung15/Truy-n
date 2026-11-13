@@ -1,3 +1,32 @@
+## 2026-11-13 – Cập nhật diễn biến đoàn tụ và điều tra WORLD_002
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_002.md`
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_002_DAN_Y_02.md`
+
+### Nội dung đã chốt
+
+**Diễn biến nhận diện hai ký chủ**
+- Giai đoạn 1: Hai ký chủ chưa biết đối phương cũng là ký chủ. Những lần cãi vã là hành động tự nhiên theo ký ức và thói quen của nguyên chủ để tránh bị người xung quanh nghi ngờ, không phải cố tình diễn cho nhau xem.
+- Giai đoạn 1: Mỗi người âm thầm thực hiện nhiệm vụ riêng; không trao đổi thông tin, không xác nhận thân phận và không lập kế hoạch chung.
+- Cả hai dần nhận thấy đối phương có mục tiêu tương tự mình, nảy sinh nghi ngờ nhưng qua quan sát đều nhận thấy người kia không có ý xấu; họ ngầm hiểu và tiếp tục hành động riêng.
+- Giai đoạn 2: Ký chủ nam nhận ra vợ trước. Hắn đoán nhiệm vụ của nàng có thể là “Cứu gia đình”, không vạch trần mà âm thầm thuận theo và hỗ trợ trong phạm vi thân phận Lục Trầm.
+- Không lâu sau, ký chủ nữ nhận ra chồng; hai người xác nhận bằng dấu hiệu/ký ức riêng tư và bắt đầu phối hợp có chủ đích. Trước mặt người ngoài vẫn giữ vỏ bọc vợ chồng bất hòa.
+- Giai đoạn 3: Sau khi ngăn vụ vu oan Tống gia, cả hai chờ thông báo hoàn thành nhưng không nhận được. Những dấu hiệu bất thường khiến họ nhận ra vụ việc chưa kết thúc và chủ động điều tra sâu hơn.
+
+**Hai khế ước và điều tra**
+- Hai nguyện vọng “Cứu gia đình” và “Bảo vệ nàng” là hai khế ước độc lập, được đánh giá riêng.
+- Hai ký chủ điều tra cùng một đường dây nhưng tiếp cận từ những nguồn khác nhau: Uyển Ninh có lợi thế về sổ sách, chứng từ và hoạt động Tống gia; Lục Trầm có lợi thế về quân lương, báo cáo quân đội, tuyến cung ứng và thẩm quyền điều vận.
+- Trục điều tra sâu gồm chứng từ/sổ sách, dòng tiền, tuyến vận chuyển, nhân chứng, người điều hành và kẻ chủ mưu.
+- Không để hệ thống giải án thay ký chủ; không xem việc ngăn vụ vu oan ban đầu là mặc nhiên hoàn thành cả hai nhiệm vụ.
+
+### Trạng thái
+- Đây là diễn biến đã được người viết đồng ý để cập nhật vào hồ sơ WORLD_002.
+- Các chi tiết âm mưu, danh tính kẻ chủ mưu và điều kiện khế ước cụ thể vẫn giữ trạng thái chưa chốt nếu chưa có quyết định riêng.
+- Không thay đổi SYSTEM_BIBLE hoặc các quy tắc hệ thống chung.
+ 
+---
+
 ## 2026-11-13 – Tổng hợp canon nền WORLD_001 “Bảy ngày giữ thành”
 
 **Tài liệu cập nhật:**
