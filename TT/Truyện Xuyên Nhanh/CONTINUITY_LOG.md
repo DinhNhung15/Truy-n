@@ -1301,3 +1301,22 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 - WORLD_003_DAN_Y_03.md là hồ sơ nền phiên bản 0.1; phân biệt canon đã xác nhận với đề xuất và nội dung còn thiếu.
 - Mô-típ hai mẹ con về quê nhà lệch nhau một ngày được giữ làm chất liệu bi kịch của cốt truyện gốc, chưa khóa thành mốc thời gian cụ thể.
 - Không thay đổi SYSTEM_BIBLE hoặc quy tắc hệ thống chung.
+
+
+## 2026-11-14 – Chốt trình tự An Nhiên tìm thấy Minh Hạ trong cốt truyện gốc (WORLD_003)
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_003_DAN_Y_03.md` – v0.1 → **v0.2**.
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_INDEX.md` – cập nhật trạng thái hồ sơ WORLD_003.
+
+### Nội dung đã chốt
+- An Nhiên đến căn cứ nơi Minh Hạ từng sinh sống và nghe tin mẹ đã bị công khai trục xuất.
+- Cô lập tức đi tìm mẹ, lần theo hành trình Minh Hạ rời căn cứ.
+- An Nhiên tìm thấy thi thể Minh Hạ trên đường. Trong tay bà vẫn nắm món đồ nhỏ đã giữ lại, định mang về cho con gái.
+- Giữ hướng A của mô-típ lỡ nhau một ngày: Minh Hạ đã chết trước khi An Nhiên tìm được mẹ. Độ lệch một ngày được giữ, nhưng mốc giờ/ngày và vị trí chính xác sẽ được xác lập trong bảng thời gian tổng thể, không tự đặt thêm ở lần cập nhật này.
+- Sau khi tìm thấy mẹ, An Nhiên mới đi hỏi những người từng được Minh Hạ cứu; sự né tránh và biện minh của họ góp phần đẩy cô vào con đường thu thập chứng cứ và trả thù.
+- Cái chết của Minh Hạ vẫn là hậu quả của việc bị căn cứ công khai trục xuất khi bị thương/kiệt sức và bị tang thi tấn công trên đường; không có sát thủ bí mật hay âm mưu đứng sau.
+
+### Trạng thái
+- Trình tự bi kịch gốc đã được làm rõ; không thay đổi nguyện vọng, mục tiêu nhiệm vụ hoặc cơ chế Tổng bộ.
+- Dòng thời gian chi tiết, địa lý và tuyến can thiệp của ký chủ vẫn chưa chốt.
