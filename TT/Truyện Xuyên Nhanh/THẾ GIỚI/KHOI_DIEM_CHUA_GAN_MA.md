@@ -1,6 +1,6 @@
 # KHOI_DIEM_CHUA_GAN_MA.md
 
-> Hồ sơ lưu trữ. Tác giả đã xác nhận CHƯA_GÁN_MÃ chính thức là **Bảy Ngày Giữ Thành**. Nội dung Khởi Điểm được giữ lại để tham khảo, chưa được gán mã thế giới mới và không thuộc canon WORLD_001.
+> Hồ sơ lưu trữ. Tác giả đã xác nhận mã **WORLD_001** chính thức là **Bảy Ngày Giữ Thành**. Nội dung Khởi Điểm được giữ lại để tham khảo, chưa được gán mã thế giới mới và không thuộc canon của WORLD_001.
 
 # KHỞI ĐIỂM – HỒ SƠ CHƯA GÁN MÃ
 # DÀN Ý PHÁT TRIỂN v2.0
