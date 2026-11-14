@@ -1273,3 +1273,31 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 - SYSTEM_CHARACTER_BIBLE.md nâng từ v3.7 lên **v3.8**.
 - SYSTEM_BIBLE.md nâng từ v1.25 lên **v1.26** để ghi nhận các Trung tâm chuyên môn trực thuộc Khối Chấp Hành và Cục Điều Phối.
 - Không thay đổi các chức năng và thẩm quyền cấp Cục/Khối, cơ chế nhiệm vụ, cấp bậc hệ thống hoặc quy tắc năng lượng SYS-007.
+
+---
+
+## 2026-11-14 – Tạo hồ sơ dàn ý WORLD_003 “Người Mẹ Không Được Đón Về”
+
+**Tài liệu cập nhật:**
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_003_DAN_Y_03.md` – tạo mới, bản 0.1.
+- `TT/Truyện Xuyên Nhanh/THẾ GIỚI/WORLD_INDEX.md` – cập nhật tên làm việc, trạng thái và liên kết hồ sơ WORLD_003.
+
+### Nội dung đã tổng hợp
+- Người ủy thác là Nguyễn An Nhiên; nguyện vọng cốt lõi là tìm mẹ Nguyễn Minh Hạ, để mẹ sống và hai mẹ con đoàn tụ, mong muốn cả hai cùng sống sót.
+- Cốt truyện gốc của Minh Hạ: đi công tác xa nhà khi mạt thế bùng phát, thức tỉnh dị năng phòng thủ, cứu giúp người sống sót, gia nhập căn cứ lớn; sau sự kiện trái lệnh cứu nhóm người bên ngoài khiến tuyến phòng thủ suy yếu và căn cứ chịu thiệt hại, bà bị xét xử công khai, không ai trong số người từng được cứu đứng ra bảo vệ, bị trục xuất khi bị thương/kiệt sức và tử vong do tang thi trên đường trở về.
+- Cốt truyện gốc của An Nhiên: thức tỉnh dị năng tấn công, tìm mẹ; sau khi biết mẹ chết, cô thu thập chứng cứ và tấn công căn cứ; đồng đội tin tưởng tiết lộ vị trí/kế hoạch để đổi lấy quyền cư trú, tài nguyên và địa vị; An Nhiên bị phục kích, trước khi chết phá hủy khoảng một nửa căn cứ.
+- Không thêm âm mưu bí mật hoặc sát thủ đứng sau cái chết của Minh Hạ. Tuyến phản bội đồng đội An Nhiên độc lập với sự kiện trục xuất Minh Hạ.
+- Dị năng khởi đầu cấp 0, số càng lớn năng lực càng mạnh; tăng cấp tuần tự từng cấp. Người có dị năng đều có thể hấp thu tinh hạch tang thi.
+- Cấp dị năng/tang thi tách biệt với cấp nhiệm vụ F–SS của Tổng bộ.
+
+### Nội dung chưa chốt
+- Mốc nhập vai ký chủ và toàn bộ dòng thời gian mạt thế.
+- Địa lý, khoảng cách, lộ trình di chuyển và các lần hai mẹ con có thể lỡ nhau.
+- Cấp độ tối đa, đặc điểm từng cấp tang thi/dị năng, quy tắc tinh hạch và ngưỡng đột phá.
+- Cơ cấu căn cứ, hồ sơ đồng đội phản bội và lộ trình can thiệp.
+- Cấp A trong WORLD_INDEX hiện được giữ theo phân bổ danh mục, chưa được chấm/đối chiếu lại theo SYS-002 trong hồ sơ chi tiết.
+
+### Trạng thái
+- WORLD_003_DAN_Y_03.md là hồ sơ nền phiên bản 0.1; phân biệt canon đã xác nhận với đề xuất và nội dung còn thiếu.
+- Mô-típ hai mẹ con về quê nhà lệch nhau một ngày được giữ làm chất liệu bi kịch của cốt truyện gốc, chưa khóa thành mốc thời gian cụ thể.
+- Không thay đổi SYSTEM_BIBLE hoặc quy tắc hệ thống chung.
