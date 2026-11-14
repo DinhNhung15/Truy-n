@@ -1,9 +1,9 @@
 # WORLD_003 – NGƯỜI MẸ KHÔNG ĐƯỢC ĐÓN VỀ
 ## HỒ SƠ CANON, DÀN Ý VÀ CÁC ĐIỂM CẦN HOÀN THIỆN
 
-**Phiên bản:** 0.1 – tổng hợp canon nền từ quá trình xây dựng  
+**Phiên bản:** 0.2 – cập nhật trình tự An Nhiên tìm thấy Minh Hạ trong cốt truyện gốc  
 **Ngày cập nhật:** 2026-11-14  
-**Trạng thái:** Ý tưởng và trục nguyện vọng đã xác lập; mốc thời gian, địa lý, hệ thống tang thi/dị năng và tuyến can thiệp còn cần hoàn thiện. Những nội dung ghi là đề xuất/chưa chốt không được tự ý xem là canon.  
+**Trạng thái:** Canon nền và trình tự bi kịch mẹ-con trong cốt truyện gốc đã được cập nhật; mốc thời gian chi tiết, địa lý, hệ thống tang thi/dị năng và tuyến can thiệp còn cần hoàn thiện. Những nội dung ghi là đề xuất/chưa chốt không được tự ý xem là canon.  
 **Người tham gia dự kiến:** Người vợ, thực hiện độc lập tại WORLD_003.  
 **Người ủy thác:** Nguyễn An Nhiên, nữ, khoảng 19 tuổi.  
 **Nhân vật trung tâm:** Nguyễn Minh Hạ, nữ, khoảng 40 tuổi; Nguyễn An Nhiên, con gái của Minh Hạ.  
@@ -103,11 +103,20 @@ Những người từng được Minh Hạ cứu có mặt nhưng không ai đ�
 - Bà cố gắng tiếp tục hành trình trở về quê nhà để tìm con.
 - Trên đường đi, bà bị tang thi tấn công và tử vong.
 - Cái chết là hậu quả trực tiếp của việc bị trục xuất khi bị thương và suy kiệt; không có sát thủ bí mật hoặc âm mưu ám sát đứng sau.
-- Trong hành lý của bà có một món quà nhỏ định mang về cho con gái.
+- Món đồ nhỏ bà dành cho An Nhiên vẫn nằm trong tay Minh Hạ khi bà chết. Bà đã giữ nó bên mình trên hành trình trở về, định mang về cho con gái.
+
+### 4.4. An Nhiên tìm thấy mẹ
+
+- Trong cốt truyện gốc, An Nhiên đến được căn cứ nơi Minh Hạ từng sinh sống sau khi mẹ đã bị công khai trục xuất.
+- Tại căn cứ, cô nghe tin mẹ đã bị trục xuất và lập tức đi tìm bà.
+- Khi lần theo hành trình Minh Hạ rời căn cứ, An Nhiên tìm thấy mẹ đã chết trên đường.
+- Minh Hạ vẫn nắm món đồ nhỏ đã dành dụm/giữ lại để mang về cho con gái.
+- Đây là khoảnh khắc An Nhiên trực tiếp đối diện với sự thật mẹ đã chết; không phải cô chỉ nghe tin đồn hoặc nhận một lời báo tử gián tiếp.
+- Giữ mô-típ lệch nhau một ngày theo phương án A đã chọn: An Nhiên đến muộn, nhưng vị trí địa lý và mốc giờ/ngày chính xác sẽ được khóa trong bảng thời gian tổng thể, không tự đặt ở phiên bản này.
 
 ## 5. Cái chết của An Nhiên trong cốt truyện gốc
 
-- Sau khi biết tin mẹ bị trục xuất và tử vong, An Nhiên tìm đến những người từng được Minh Hạ cứu để hỏi chuyện.
+- Sau khi tìm thấy thi thể mẹ trên đường, An Nhiên mới đi tìm những người từng được Minh Hạ cứu để hỏi chuyện.
 - Những người này né tránh, không muốn bị liên lụy hoặc cho rằng Minh Hạ phải tự chịu trách nhiệm.
 - An Nhiên không chấp nhận sự vô ơn đó, bắt đầu thu thập chứng cứ và lên kế hoạch tấn công căn cứ.
 - Trước khi phát động tấn công, An Nhiên bị một đồng đội mà cô tin tưởng phản bội.
@@ -217,12 +226,13 @@ Phương án đang ưu tiên:
 
 Không chọn điểm nhập vai sau khi Minh Hạ đã tử vong nếu vẫn giữ mục tiêu nhiệm vụ bắt buộc phải cứu Minh Hạ.
 
-## 2. Mô-típ hai mẹ con lỡ nhau một ngày
+## 2. Mô-típ hai mẹ con lỡ nhau một ngày – đã chốt hướng A
 
-- Trong cốt truyện gốc, hai mẹ con có thể trở về quê nhà lệch nhau một ngày: người đến sau phát hiện người kia đã rời đi hoặc tử vong trước đó.
-- Đây là chất liệu bi kịch quan trọng đã được đề xuất từ đầu.
-- Cần phân biệt rõ kết cục nguyên tác với dòng thời gian ký chủ can thiệp.
-- Trong dòng thời gian ký chủ, mô-típ lỡ nhau có thể được dùng làm trở ngại hoặc bước ngoặt, nhưng không được giữ nguyên thành kết cục nếu nó khiến mục tiêu đoàn tụ và sống sót thất bại.
+- Trong cốt truyện gốc, Minh Hạ đã bị trục xuất và chết trên đường trở về trước khi An Nhiên tìm được mẹ.
+- An Nhiên đến căn cứ, nghe tin mẹ bị trục xuất, sau đó tự mình lần theo dấu vết để tìm mẹ.
+- Cô tìm thấy thi thể Minh Hạ trên đường; trong tay bà vẫn nắm món đồ định mang về cho con gái.
+- Giữ độ lệch một ngày theo phương án A đã chọn. Mốc giờ/ngày cụ thể và vị trí chính xác của từng người sẽ được xác lập trong bảng thời gian, không suy diễn thêm ở hồ sơ hiện tại.
+- Đây là kết cục của cốt truyện gốc, không phải kết cục của dòng thời gian ký chủ can thiệp. Trong dòng thời gian ký chủ, nhiệm vụ vẫn đòi hỏi cứu được Minh Hạ, bảo đảm An Nhiên sống sót và để hai mẹ con đoàn tụ.
 
 ## 3. Tên và biểu hiện dị năng
 
@@ -295,12 +305,13 @@ Không mặc định:
 4. Minh Hạ gia nhập căn cứ lớn, trở thành nhân lực phòng thủ có giá trị.
 5. Trong một đợt tang thi tấn công, Minh Hạ trái lệnh cứu nhóm người bị mắc kẹt bên ngoài; tuyến phòng thủ suy yếu và căn cứ chịu thiệt hại.
 6. Căn cứ tổ chức xét xử công khai. Những người từng được Minh Hạ cứu không ai đứng ra bảo vệ bà.
-7. Minh Hạ bị trục xuất khi bị thương và kiệt sức; trên đường trở về quê nhà, bà bị tang thi tấn công và tử vong.
-8. An Nhiên biết tin mẹ chết, đối chất với những người từng được mẹ cứu nhưng chỉ nhận được né tránh và biện minh.
-9. An Nhiên thu thập chứng cứ, trở nên cực đoan và lên kế hoạch tấn công căn cứ.
-10. Đồng đội An Nhiên bán vị trí và kế hoạch cho căn cứ.
-11. An Nhiên bị phục kích khi dị năng đã tiêu hao phần lớn; trước khi chết, cô phá hủy khoảng một nửa căn cứ.
-12. Hai mẹ con đều tử vong và không thể đoàn tụ. Mô-típ về quê nhà lệch nhau một ngày được giữ làm chi tiết bi kịch cần kiểm tra với dòng thời gian cuối cùng của nguyên tác.
+7. Minh Hạ bị trục xuất khi bị thương và kiệt sức; bà tiếp tục lên đường trở về quê nhà, nhưng bị tang thi tấn công và tử vong trên đường. Trong tay bà vẫn nắm món đồ nhỏ định mang về cho con gái.
+8. An Nhiên đến căn cứ nơi mẹ từng ở, nghe tin Minh Hạ đã bị trục xuất. Cô lập tức đi tìm và cuối cùng tìm thấy thi thể mẹ trên đường.
+9. Sau khi tìm thấy mẹ, An Nhiên mới đi hỏi những người từng được Minh Hạ cứu; họ né tránh, không muốn bị liên lụy hoặc cho rằng Minh Hạ phải tự chịu trách nhiệm.
+10. An Nhiên thu thập chứng cứ, trở nên cực đoan và lên kế hoạch tấn công căn cứ.
+11. Đồng đội An Nhiên bán vị trí và kế hoạch cho căn cứ.
+12. An Nhiên bị phục kích khi dị năng đã tiêu hao phần lớn; trước khi chết, cô phá hủy khoảng một nửa căn cứ.
+13. Hai mẹ con đều tử vong và không thể đoàn tụ. An Nhiên đã tìm thấy mẹ, nhưng chỉ còn có thể gặp mẹ trong hình hài thi thể. Mô-típ lệch nhau một ngày được giữ; mốc giờ/ngày và vị trí chính xác sẽ được khóa trong bảng thời gian.
 
 ---
 
@@ -363,4 +374,4 @@ Không mặc định:
 - Mọi thay đổi canon về sau cần được cập nhật tại hồ sơ này và ghi vào CONTINUITY_LOG.md.
 - Không thay đổi SYSTEM_BIBLE hoặc quy tắc Tổng bộ khi chỉ cập nhật WORLD_003.
 
-**Kết thúc WORLD_003_DAN_Y_03.md – phiên bản 0.1.**
+**Kết thúc WORLD_003_DAN_Y_03.md – phiên bản 0.2.**
