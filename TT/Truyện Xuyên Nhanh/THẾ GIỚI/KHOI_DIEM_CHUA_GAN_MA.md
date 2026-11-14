@@ -1,13 +1,13 @@
 # KHOI_DIEM_CHUA_GAN_MA.md
 
-> Hồ sơ lưu trữ. Tác giả đã xác nhận WORLD_001 chính thức là **Bảy Ngày Giữ Thành**. Nội dung Khởi Điểm được giữ lại để tham khảo, chưa được gán mã thế giới mới và không thuộc canon WORLD_001.
+> Hồ sơ lưu trữ. Tác giả đã xác nhận CHƯA_GÁN_MÃ chính thức là **Bảy Ngày Giữ Thành**. Nội dung Khởi Điểm được giữ lại để tham khảo, chưa được gán mã thế giới mới và không thuộc canon WORLD_001.
 
-# WORLD_001 – KHỞI ĐIỂM
+# KHỞI ĐIỂM – HỒ SƠ CHƯA GÁN MÃ
 # DÀN Ý PHÁT TRIỂN v2.0
 
 **Trạng thái:** Bản nền đã lưu để phát triển tiếp; chưa khóa toàn bộ chi tiết thành canon.  
 **Người tham gia:** Vợ.  
-**Cấp nhiệm vụ theo WORLD_INDEX:** D.  
+**Cấp nhiệm vụ:** Chưa gán.  
 **Liên quan Tổng bộ:** M0 – Không liên quan.  
 **Thể loại dự kiến:** Hiện đại, gia đình, doanh nghiệp gia đình, tình cảm và trưởng thành.  
 **Trục cảm xúc:** Người mẹ muốn con gái có một cuộc đời hạnh phúc, nhưng phải học cách bảo vệ con mà không quyết định thay con.
@@ -16,7 +16,7 @@
 
 ## 1. Vị trí trong hành trình gia đình
 
-- Đây là thế giới nhiệm vụ đầu tiên của người vợ.
+- Đây là hồ sơ ý tưởng Khởi Điểm trước khi được gán mã; hiện chưa xác định vị trí trong hành trình.
 - Chỉ người vợ tham gia thế giới này.
 - Người chồng và con trai có hành trình riêng; không đoàn tụ tại đây.
 - Không cài manh mối nhận diện hoặc dấu vết tìm kiếm con trước thời điểm cha mẹ đoàn tụ.
