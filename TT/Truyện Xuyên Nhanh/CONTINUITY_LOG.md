@@ -1320,3 +1320,18 @@ Việc phân mức dựa trên giá trị và chất lượng đóng góp thực
 ### Trạng thái
 - Trình tự bi kịch gốc đã được làm rõ; không thay đổi nguyện vọng, mục tiêu nhiệm vụ hoặc cơ chế Tổng bộ.
 - Dòng thời gian chi tiết, địa lý và tuyến can thiệp của ký chủ vẫn chưa chốt.
+
+
+## 2026-11-14 – Xác nhận WORLD_001 chính thức và sửa mã hồ sơ
+
+**Quyết định canon mới nhất của tác giả:** WORLD_001 chính thức là **Bảy Ngày Giữ Thành**. Đây là xác nhận trực tiếp, thay thế mọi cách gán WORLD_001 trước đó.
+
+**Tài liệu đã đồng bộ:**
+- `THẾ GIỚI/WORLD_001.md`: thay toàn bộ nội dung Khởi Điểm bằng hồ sơ canon Bảy Ngày Giữ Thành (nguồn trước đó: `WORLD_001_BAY_NGAY_GIU_THANH_DAN_Y.md`).
+- `THẾ GIỚI/WORLD_INDEX.md`: cập nhật tên, người tham gia, trạng thái và liên kết của WORLD_001.
+- `THẾ GIỚI/KHOI_DIEM_CHUA_GAN_MA.md`: lưu trữ nội dung Khởi Điểm; chưa gán mã thế giới mới, không thuộc WORLD_001.
+- Xóa tệp phụ trùng `WORLD_001_BAY_NGAY_GIU_THANH_DAN_Y.md` sau khi chuyển nội dung sang tệp canon chính thức `WORLD_001.md`.
+
+**Lưu ý lịch sử:** Các mục nhật ký trước ngày 2026-11-14 từng ghi đường dẫn phụ `WORLD_001_BAY_NGAY_GIU_THANH_DAN_Y.md`; đó là đường dẫn cũ tại thời điểm ghi, không còn là đường dẫn canon hiện hành. Không sửa/xóa lịch sử quyết định; dùng mục này làm bản hiệu chỉnh mới nhất.
+
+**Nguyên tắc viết:** Không sử dụng chương “Người mẹ trở lại” hoặc các chi tiết An Mộc/Nguyễn Thanh Hà/An Nhiên/Nguyễn Đức Thịnh cho WORLD_001. Chương đó dựa trên hồ sơ bị gán nhầm và không phải canon. Trước khi viết chương mới, phải đọc hồ sơ WORLD_001, SYSTEM_BIBLE, SYSTEM_CHARACTER_BIBLE, CHARACTER_BIBLE và các tài liệu hướng dẫn văn phong/duy trì liên tục hiện hành; không tự lấp những điểm WORLD_001 còn đánh dấu đề xuất hoặc chưa chốt.
