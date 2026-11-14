@@ -18,7 +18,7 @@
 |---|---|---|---|---|---|
 | WORLD_001 | Khởi Điểm | Vợ | D | M0 – Không liên quan | Chờ xây dựng |
 | WORLD_002 | Kinh Thành Dưới Màn Mưa | Vợ + chồng | B | M0 – Không liên quan | Hồ sơ nền đã tổng hợp |
-| WORLD_003 | Người Mẹ Không Được Đón Về (tên làm việc) | Vợ | A* | M0 – Không liên quan | Hồ sơ dàn ý v0.1; còn thiếu mốc thời gian và chi tiết thế giới |
+| WORLD_003 | Người Mẹ Không Được Đón Về (tên làm việc) | Vợ | A* | M0 – Không liên quan | Hồ sơ dàn ý v0.2; đã chốt trình tự An Nhiên tìm thấy Minh Hạ, còn thiếu timeline chi tiết và dữ liệu thế giới |
 | WORLD_004 | Sơn Môn Vấn Đạo | Chồng | A | M0 – Không liên quan | Ý tưởng đã chốt |
 | WORLD_005 | Trạm Cuối Cùng Giữa Các Vì Sao | Vợ + chồng | B | M1 – Gợi ý gián tiếp | Ý tưởng đã chốt |
 | WORLD_006 | Bóng Đêm Thành Cũ | Vợ | B | M0 – Không liên quan | Ý tưởng đã chốt |
