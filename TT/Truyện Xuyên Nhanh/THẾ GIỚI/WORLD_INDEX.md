@@ -16,7 +16,7 @@
 
 | Mã hồ sơ | Tên thế giới | Người tham gia dự kiến | Cấp nhiệm vụ | Liên quan Tổng bộ | Trạng thái hồ sơ |
 |---|---|---|---|---|---|
-| WORLD_001 | Khởi Điểm | Vợ | D | M0 – Không liên quan | Chờ xây dựng |
+| WORLD_001 | Bảy Ngày Giữ Thành | Vợ | D* | M0 – Không liên quan | Canon nền đã chốt; chiến dịch và hồ sơ chi tiết đang hoàn thiện |
 | WORLD_002 | Kinh Thành Dưới Màn Mưa | Vợ + chồng | B | M0 – Không liên quan | Hồ sơ nền đã tổng hợp |
 | WORLD_003 | Người Mẹ Không Được Đón Về (tên làm việc) | Vợ | A* | M0 – Không liên quan | Hồ sơ dàn ý v0.2; đã chốt trình tự An Nhiên tìm thấy Minh Hạ, còn thiếu timeline chi tiết và dữ liệu thế giới |
 | WORLD_004 | Sơn Môn Vấn Đạo | Chồng | A | M0 – Không liên quan | Ý tưởng đã chốt |
@@ -43,12 +43,15 @@ Ghi chú:
 
 ## 3. Tài liệu riêng
 
-- [WORLD_001.md](./WORLD_001.md) – Hồ sơ thế giới nhiệm vụ thứ nhất.
+- [WORLD_001.md](./WORLD_001.md) – Bảy Ngày Giữ Thành, hồ sơ canon chính thức của thế giới nhiệm vụ thứ nhất.
+- [KHOI_DIEM_CHUA_GAN_MA.md](./KHOI_DIEM_CHUA_GAN_MA.md) – Hồ sơ Khởi Điểm được lưu riêng, chưa gán mã thế giới.
 - [WORLD_002.md](./WORLD_002.md) – Kinh Thành Dưới Màn Mưa, thế giới đoàn tụ của vợ chồng.
 - [WORLD_003_DAN_Y_03.md](./WORLD_003_DAN_Y_03.md) – Người Mẹ Không Được Đón Về, hồ sơ dàn ý vị diện mạt thế.
 - [MISSION_CLASSIFICATION.md](./MISSION_CLASSIFICATION.md) – Quy tắc phân cấp nhiệm vụ và mức độ liên quan Tổng bộ cho các thế giới trong danh mục.
 
 * Cấp A của WORLD_003 đang được giữ theo danh mục phân bổ hiện có; chưa được chấm/đối chiếu lại theo SYS-002 trong hồ sơ chi tiết.
+
+* Cấp D của WORLD_001 hiện là phân bổ theo danh mục; cần đối chiếu SYS-002 trước khi xác nhận cấp cuối cùng.
 
 ## 4. Nguyên tắc quản lý
 
