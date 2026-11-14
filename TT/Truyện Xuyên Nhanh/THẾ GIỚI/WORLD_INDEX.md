@@ -18,7 +18,7 @@
 |---|---|---|---|---|---|
 | WORLD_001 | Khởi Điểm | Vợ | D | M0 – Không liên quan | Chờ xây dựng |
 | WORLD_002 | Kinh Thành Dưới Màn Mưa | Vợ + chồng | B | M0 – Không liên quan | Hồ sơ nền đã tổng hợp |
-| WORLD_003 | Thành Phố Sau Ngày Tận Thế | Vợ | A | M0 – Không liên quan | Ý tưởng đã chốt |
+| WORLD_003 | Người Mẹ Không Được Đón Về (tên làm việc) | Vợ | A* | M0 – Không liên quan | Hồ sơ dàn ý v0.1; còn thiếu mốc thời gian và chi tiết thế giới |
 | WORLD_004 | Sơn Môn Vấn Đạo | Chồng | A | M0 – Không liên quan | Ý tưởng đã chốt |
 | WORLD_005 | Trạm Cuối Cùng Giữa Các Vì Sao | Vợ + chồng | B | M1 – Gợi ý gián tiếp | Ý tưởng đã chốt |
 | WORLD_006 | Bóng Đêm Thành Cũ | Vợ | B | M0 – Không liên quan | Ý tưởng đã chốt |
@@ -45,7 +45,10 @@ Ghi chú:
 
 - [WORLD_001.md](./WORLD_001.md) – Hồ sơ thế giới nhiệm vụ thứ nhất.
 - [WORLD_002.md](./WORLD_002.md) – Kinh Thành Dưới Màn Mưa, thế giới đoàn tụ của vợ chồng.
+- [WORLD_003_DAN_Y_03.md](./WORLD_003_DAN_Y_03.md) – Người Mẹ Không Được Đón Về, hồ sơ dàn ý vị diện mạt thế.
 - [MISSION_CLASSIFICATION.md](./MISSION_CLASSIFICATION.md) – Quy tắc phân cấp nhiệm vụ và mức độ liên quan Tổng bộ cho các thế giới trong danh mục.
+
+* Cấp A của WORLD_003 đang được giữ theo danh mục phân bổ hiện có; chưa được chấm/đối chiếu lại theo SYS-002 trong hồ sơ chi tiết.
 
 ## 4. Nguyên tắc quản lý
 
