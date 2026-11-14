@@ -1,10 +1,9 @@
 # WORLD_001 – BẢY NGÀY GIỮ THÀNH
 
-**Tệp canon chính thức:** `WORLD_001.md`. Hồ sơ này thay thế bản Khởi Điểm từng bị gán nhầm mã WORLD_001.
 ## HỒ SƠ CANON VÀ CÁC ĐIỂM CẦN HOÀN THIỆN
 
-**Phiên bản:** 0.2 – cập nhật các quyết định đã chốt  
-**Ngày cập nhật:** 2026-11-13  
+**Phiên bản:** 0.3 – đồng bộ mã hồ sơ chính thức  
+**Ngày cập nhật:** 2026-11-14  
 **Trạng thái:** Canon nền đã chốt; bản đồ, hậu cần, chiến dịch và hồ sơ chi tiết nhân vật vẫn đang phát triển. Những nội dung ghi là đề xuất/chưa chốt không được tự ý xem là canon.  
 **Người tham gia:** Người vợ, thực hiện độc lập tại WORLD_001.  
 **Người ủy thác:** Tạ Minh Châu, nữ, 32 tuổi.  
@@ -287,4 +286,6 @@ Những nét tâm lý và từng tình huống cụ thể cần được duyệt
 
 ---
 
-**Kết thúc hồ sơ WORLD_001 – Bản 0.2.**
+**Lịch sử cập nhật 0.3 (2026-11-14):** Xác nhận WORLD_001 chính thức là Bảy Ngày Giữ Thành; chuyển hồ sơ vào tên tệp canon `WORLD_001.md`. Nội dung Khởi Điểm được lưu riêng, chưa gán mã. Không thay đổi các quyết định nội dung của bản canon 0.2.
+
+**Kết thúc hồ sơ WORLD_001 – Bản 0.3.**
